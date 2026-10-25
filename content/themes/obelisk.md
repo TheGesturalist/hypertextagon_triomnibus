@@ -1,0 +1,14 @@
+---
+title: "obelisk"
+tags:
+  - theme
+---
+
+## Triads
+
+- [[triads/2026-10-04-give-them-nothing-to-watch|Give Them Nothing to Watch]] (2026-10-04)
+
+## Books
+
+- [[books/5867-the-traitor-s-niche|The Traitor's Niche]]
+- [[books/7729-the-sacred-conspiracy-the-internal-papers-of-the-s|The Sacred Conspiracy: The Internal Papers of the Secret Society of Acéphale and Lectures to the College of Sociology]]

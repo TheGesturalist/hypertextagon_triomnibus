@@ -1,0 +1,104 @@
+---
+title: "Bibliography"
+tags:
+  - apparatus
+---
+
+All 96 books resurfaced in Volume 1, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
+
+- [[people/giorgio-agamben|Giorgio Agamben]], [[people/vincenzo-binetti|Vincenzo Binetti]] (translator), [[people/cesare-casarino|Cesare Casarino]] (translator). *[[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]*. 1992 (essay); Eng. 2000. Calibre ID 13685.
+- [[people/giorgio-agamben|Giorgio Agamben]], [[people/adam-kotsko|Adam Kotsko]] (translator). *[[books/306-the-omnibus-homo-sacer-the-sacrament-of-language-a|The Omnibus Homo Sacer ('The Sacrament of Language: An Archaeology of the Oath')]]*. 2008. Calibre ID 306.
+- [[people/james-agee|James Agee]], [[people/walker-evans|Walker Evans]] (contributor). *[[books/889-cotton-tenants-three-families|Cotton Tenants: Three Families]]*. 1936 (written); 2013 (first published). Calibre ID 889.
+- [[people/cesar-aira|César Aira]], [[people/chris-andrews|Chris Andrews]] (translator), [[people/roberto-bolano|Roberto Bolaño]] (contributor). *[[books/8201-an-episode-in-the-life-of-a-landscape-painter|An Episode in the Life of a Landscape Painter]]*. 2000 (Un episodio en la vida del pintor viajero); Eng. 2006. Calibre ID 8201.
+- [[people/miguel-molina-alarcon|Miguel Molina Alarcón]] (editor), [[people/arseny-avraamov|Arseny Avraamov]]. *[[books/10984-baku-symphony-of-sirens-sound-experiments-in-the-s|Baku: Symphony of Sirens. Sound Experiments in the Soviet Avant-Garde]]*. 1922 (event); 2008 (ReR booklet). Calibre ID 10984.
+- [[people/philip-s-alexander|Philip S. Alexander]] (editor), [[people/armin-lange|Armin Lange]] (editor), [[people/renate-j-pillinger|Renate J. Pillinger]] (editor). *[[books/6896-in-the-second-degree-paratextual-literature-in-anc|In the Second Degree: Paratextual Literature in Ancient Near Eastern and Ancient Mediterranean Culture and Its Reflections in Medieval Literature]]*. 2010. Calibre ID 6896.
+- [[people/anonymous|Anonymous]], [[people/michael-j-curley|Michael J. Curley]] (translator). *[[books/4597-physiologus-a-medieval-book-of-nature-lore|Physiologus: A Medieval Book of Nature Lore]]*. c. 2nd c. AD (Greek); trans. 1979. Calibre ID 4597.
+- [[people/joaquim-maria-machado-de-assis|Joaquim Maria Machado de Assis]], [[people/william-l-grossman|William L. Grossman]] (translator). *[[books/1138-the-alienist|The Alienist]]*. 1882. Calibre ID 1138.
+- [[people/roland-barthes|Roland Barthes]], [[people/nathalie-leger|Nathalie Léger]] (editor), [[people/richard-howard|Richard Howard]] (translator). *[[books/182-mourning-diary|Mourning Diary]]*. 1977-79 (written); 2009 (Journal de deuil). Calibre ID 182.
+- [[people/georges-bataille|Georges Bataille]], [[people/marina-galletti|Marina Galletti]] (editor), [[people/alastair-brotchie|Alastair Brotchie]] (editor), [[people/natasha-lehrer|Natasha Lehrer]] (translator), [[people/john-harman|John Harman]] (translator), [[people/meyer-barash|Meyer Barash]] (translator). *[[books/7729-the-sacred-conspiracy-the-internal-papers-of-the-s|The Sacred Conspiracy: The Internal Papers of the Secret Society of Acéphale and Lectures to the College of Sociology]]*. 1936–1939 (papers); 2017/2018 (Atlas Press edition). Calibre ID 7729.
+- [[people/john-stewart-bell|John Stewart Bell]]. *[[books/13286-speakable-and-unspeakable-in-quantum-mechanics-col|Speakable and Unspeakable in Quantum Mechanics: Collected Papers on Quantum Philosophy]]*. 1987 (2nd ed. 2004 with Aspect intro). Calibre ID 13286.
+- [[people/walter-benjamin|Walter Benjamin]], [[people/howard-eiland|Howard Eiland]] (translator), [[people/marcus-boon|Marcus Boon]] (contributor). *[[books/12603-on-hashish|On Hashish]]*. 1972. Calibre ID 12603.
+- [[people/maurice-blanchot|Maurice Blanchot]], [[people/charlotte-mandell|Charlotte Mandell]] (translator). *[[books/3315-the-book-to-come|The Book to Come]]*. 1959. Calibre ID 3315.
+- [[people/roberto-bolano|Roberto Bolaño]], [[people/chris-andrews|Chris Andrews]] (translator). *[[books/14390-the-collected-short-stories-of-roberto-bolano-the|The Collected Short Stories of Roberto Bolaño ('The Insufferable Gaucho')]]*. 2003 (El gaucho insufrible); Eng. 2010. Calibre ID 14390.
+- [[people/jorge-luis-borges|Jorge Luis Borges]], [[people/andrew-hurley|Andrew Hurley]] (translator). *[[books/7517-collected-fictions-the-south|Collected Fictions ('The South')]]*. 1953 (story); added to Ficciones 1956; Hurley trans. 1998. Calibre ID 7517.
+- [[people/katharine-breen|Katharine Breen]]. *[[books/13964-machines-of-the-mind-personification-in-medieval-l|Machines of the Mind: Personification in Medieval Literature]]*. 2021. Calibre ID 13964.
+- [[people/sir-thomas-browne|Sir Thomas Browne]]. *[[books/149-religio-medici-and-urne-buriall|Religio Medici and Urne-Buriall]]*. 1658. Calibre ID 149.
+- [[people/robert-burton|Robert Burton]]. *[[books/8773-the-anatomy-of-melancholy|The Anatomy of Melancholy]]*. 1621. Calibre ID 8773.
+- [[people/heimrad-backer|Heimrad Bäcker]], [[people/patrick-greaney|Patrick Greaney]] (translator), [[people/vincent-kling|Vincent Kling]] (translator), [[people/friedrich-achleitner|Friedrich Achleitner]] (editor). *[[books/9312-transcript|Transcript]]*. 1986. Calibre ID 9312.
+- [[people/italo-calvino|Italo Calvino]], [[people/william-weaver|William Weaver]] (translator). *[[books/7787-if-on-a-winter-s-night-a-traveler|If on a Winter's Night a Traveler]]*. 1979 (Eng. 1981). Calibre ID 7787.
+- [[people/leonora-carrington|Leonora Carrington]], [[people/marina-warner|Marina Warner]] (contributor). *[[books/2343-down-below|Down Below]]*. 1944. Calibre ID 2343.
+- [[people/margaret-cavendish|Margaret Cavendish]]. *[[books/349-observations-upon-experimental-philosophy-extract|Observations upon Experimental Philosophy (extract: 'sky' sections)]]*. 1666 (2nd ed. 1668); file is a 15-page bilingual éditions Clinamen extract. Calibre ID 349.
+- [[people/curt-cloninger|Curt Cloninger]]. *[[books/7214-some-ways-of-making-nothing-apophatic-apparatuses|Some Ways of Making Nothing: Apophatic Apparatuses in Contemporary Art]]*. 2021. Calibre ID 7214.
+- [[people/james-cook|James Cook]], [[people/philip-edwards|Philip Edwards]] (editor), [[people/j-c-beaglehole|J. C. Beaglehole]] (editor). *[[books/4840-the-journals-of-captain-cook|The Journals of Captain Cook]]*. 1768–1779 (written); Penguin selection 1999/2003. Calibre ID 4840.
+- [[people/harry-crews|Harry Crews]]. *[[books/10998-a-childhood-the-biography-of-a-place|A Childhood: The Biography of a Place]]*. 1978. Calibre ID 10998.
+- [[people/nicholas-dames|Nicholas Dames]]. *[[books/11289-the-chapter-a-segmented-history-from-antiquity-to|The Chapter: A Segmented History From Antiquity to the Twenty-First Century]]*. 2023. Calibre ID 11289.
+- [[people/annie-dillard|Annie Dillard]]. *[[books/580-mornings-like-this|Mornings Like This]]*. 1995. Calibre ID 580.
+- [[people/craig-dworkin|Craig Dworkin]]. *[[books/4416-no-medium|No Medium]]*. 2013. Calibre ID 4416.
+- [[people/umberto-eco|Umberto Eco]], [[people/alastair-mcewen|Alastair McEwen]] (translator). *[[books/3929-kant-and-the-platypus-essays-on-language-and-cogni|Kant and the Platypus: Essays on Language and Cognition]]*. 1997. Calibre ID 3929.
+- [[people/desiderius-erasmus|Desiderius Erasmus]], [[people/betty-radice|Betty Radice]] (translator). *[[books/626-praise-of-folly|Praise of Folly]]*. 1511. Calibre ID 626.
+- [[people/alice-w-flaherty|Alice W. Flaherty]]. *[[books/9808-the-midnight-disease-the-drive-to-write-writer-s-b|The Midnight Disease: The Drive to Write, Writer's Block, and the Creative Brain]]*. 2004. Calibre ID 9808.
+- [[people/gustave-flaubert|Gustave Flaubert]]. *[[books/2964-bouvard-and-pecuchet|Bouvard and Pécuchet]]*. 1881. Calibre ID 2964.
+- [[people/christopher-frayling|Christopher Frayling]] (editor). *[[books/4593-vampyres-genesis-and-resurrection-from-count-dracu|Vampyres: Genesis and Resurrection, from Count Dracula to Vampirella]]*. 1978 (rev. 1991; edition 2016). Calibre ID 4593.
+- [[people/brian-friel|Brian Friel]]. *[[books/6182-translations|Translations]]*. 1980. Calibre ID 6182.
+- [[people/arnold-geulincx|Arnold Geulincx]], [[people/samuel-beckett|Samuel Beckett]] (contributor), [[people/martin-wilson|Martin Wilson]] (translator). *[[books/8067-ethics|Ethics]]*. 1665 (Treatise I); 1675 complete; Brill ed. 2006. Calibre ID 8067.
+- [[people/e-h-gombrich|E. H. Gombrich]], [[people/richard-woodfield|Richard Woodfield]] (editor). *[[books/408-the-essential-gombrich-truth-and-the-stereotype|The Essential Gombrich ('Truth and the Stereotype')]]*. 1960 (Art and Illusion ch. 2); anthology 1996. Calibre ID 408.
+- [[people/boris-groys|Boris Groys]] (editor). *[[books/80-russian-cosmism|Russian Cosmism]]*. 2018. Calibre ID 80.
+- [[people/per-hage|Per Hage]], [[people/frank-harary|Frank Harary]]. *[[books/9870-structural-models-in-anthropology|Structural Models in Anthropology]]*. 1983 (Calibre lists 1984; 2007 reissue). Calibre ID 9870.
+- [[people/micheal-o-haodha|Mícheál Ó hAodha]]. *[[books/13399-insubordinate-irish-travellers-in-the-text|'Insubordinate Irish': Travellers in the Text]]*. 2011. Calibre ID 13399.
+- [[people/graham-harman|Graham Harman]]. *[[books/389-prince-of-networks-bruno-latour-and-metaphysics|Prince of Networks: Bruno Latour and Metaphysics]]*. 2009. Calibre ID 389.
+- [[people/suzanne-p-hudson|Suzanne P. Hudson]]. *[[books/13363-agnes-martin-night-sea|Agnes Martin: Night Sea]]*. 2016. Calibre ID 13363.
+- [[people/tim-ingold|Tim Ingold]]. *[[books/10557-lines-a-brief-history|Lines: A Brief History]]*. 2007. Calibre ID 10557.
+- [[people/francois-jullien|François Jullien]], [[people/jody-gladding|Jody Gladding]] (translator). *[[books/6355-the-book-of-beginnings|The Book of Beginnings]]*. 2012 (Entrer dans une pensée); Eng. 2015. Calibre ID 6355.
+- [[people/ismail-kadare|Ismail Kadare]], [[people/jon-rothschild|Jon Rothschild]] (translator), [[people/david-bellos|David Bellos]] (translator). *[[books/14272-the-ghost-rider|The Ghost Rider]]*. 1980. Calibre ID 14272.
+- [[people/ismail-kadare|Ismail Kadare]], [[people/john-hodgson|John Hodgson]] (translator). *[[books/5867-the-traitor-s-niche|The Traitor's Niche]]*. 1978. Calibre ID 5867.
+- [[people/franz-kafka|Franz Kafka]], [[people/max-brod|Max Brod]] (editor), [[people/joseph-kresh|Joseph Kresh]] (translator), [[people/martin-greenberg|Martin Greenberg]] (translator), [[people/hannah-arendt|Hannah Arendt]] (translator). *[[books/3169-diaries-1910-1923|Diaries, 1910-1923]]*. 1910–23 (pub. 1948–49). Calibre ID 3169.
+- [[people/ryszard-kapuscinski|Ryszard Kapuściński]], [[people/klara-glowczewska|Klara Glowczewska]] (translator). *[[books/4197-travels-with-herodotus|Travels With Herodotus]]*. 2004 (Podróże z Herodotem); trans. 2007. Calibre ID 4197.
+- [[people/yoshida-kenko|Yoshida Kenkō]], [[people/g-b-sansom|G. B. Sansom]] (translator). *[[books/2833-essays-in-idleness|Essays in Idleness]]*. c. 1330–32. Calibre ID 2833.
+- [[people/peter-kingsley|Peter Kingsley]]. *[[books/11256-in-the-dark-places-of-wisdom|In the Dark Places of Wisdom]]*. 1999. Calibre ID 11256.
+- [[people/heinrich-von-kleist|Heinrich von Kleist]], [[people/peter-wortsman|Peter Wortsman]] (translator). *[[books/868-selected-prose-of-heinrich-von-kleist-on-the-theat|Selected Prose of Heinrich von Kleist ('On the Theater of Marionettes')]]*. 1810 (essay); Archipelago ed. 2010. Calibre ID 868.
+- [[people/markus-krajewski|Markus Krajewski]], [[people/peter-krapp|Peter Krapp]] (translator). *[[books/8480-paper-machines-about-cards-catalogs-1548-1929|Paper Machines: About Cards & Catalogs, 1548-1929]]*. 2002. Calibre ID 8480.
+- [[people/karl-kraus|Karl Kraus]], [[people/fred-bridgham|Fred Bridgham]] (translator), [[people/edward-timms|Edward Timms]] (translator). *[[books/6351-the-last-days-of-mankind-the-complete-text|The Last Days of Mankind: The Complete Text]]*. 1922. Calibre ID 6351.
+- [[people/rosalind-e-krauss|Rosalind E. Krauss]]. *[[books/729-the-originality-of-the-avant-garde-and-other-moder|The Originality of the Avant-Garde and Other Modernist Myths]]*. 1985 (title essay October 18, 1981). Calibre ID 729.
+- [[people/frank-kuppner|Frank Kuppner]]. *[[books/2912-arioflotga|Arioflotga]]*. 2008. Calibre ID 2912.
+- [[people/stanisaw-lem|Stanisław Lem]], [[people/michael-kandel|Michael Kandel]] (translator). *[[books/7480-a-perfect-vacuum|A Perfect Vacuum]]*. 1971. Calibre ID 7480.
+- [[people/andre-leroi-gourhan|André Leroi-Gourhan]], [[people/anna-bostock-berger|Anna Bostock Berger]] (translator), [[people/randall-white|Randall White]] (contributor). *[[books/1003-gesture-and-speech|Gesture and Speech]]*. 1964–65 (English 1993). Calibre ID 1003.
+- [[people/nikolai-leskov|Nikolai Leskov]], [[people/william-edgerton|William Edgerton]] (translator). *[[books/2800-lady-macbeth-of-mtsensk-selected-stories-of-nikola|Lady Macbeth of Mtsensk: Selected Stories of Nikolai Leskov ('The Steel Flea')]]*. 1881 ('The Steel Flea'); Edgerton trans. 1969; NYRB selection. Calibre ID 2800.
+- [[people/edouard-leve|Édouard Levé]], [[people/jan-steyn|Jan Steyn]] (translator). *[[books/252-works|Works]]*. 2002. Calibre ID 252.
+- [[people/dale-maharidge|Dale Maharidge]], [[people/michael-williamson|Michael Williamson]] (contributor). *[[books/10207-and-their-children-after-them|And Their Children After Them]]*. 1989 (30th-anniversary ed. 2019). Calibre ID 10207.
+- [[people/tom-mccarthy|Tom McCarthy]]. *[[books/4209-remainder|Remainder]]*. 2005 (Metronome Press); Vintage ed. 2007. Calibre ID 4209.
+- [[people/henri-michaux|Henri Michaux]], [[people/richard-sieburth|Richard Sieburth]] (translator). *[[books/5489-a-certain-plume|A Certain Plume]]*. 1930. Calibre ID 5489.
+- [[people/joseph-mitchell|Joseph Mitchell]]. *[[books/4670-up-in-the-old-hotel|Up in the Old Hotel]]*. 1992 (collection; pieces 1938–1964). Calibre ID 4670.
+- [[people/franco-moretti|Franco Moretti]]. *[[books/5420-network-theory-plot-analysis-literary-lab-pamphlet|Network Theory, Plot Analysis (Literary Lab Pamphlet 2)]]*. 2011. Calibre ID 5420.
+- [[people/harryette-mullen|Harryette Mullen]]. *[[books/5096-sleeping-with-the-dictionary|Sleeping with the Dictionary]]*. 2002. Calibre ID 5096.
+- [[people/iris-murdoch|Iris Murdoch]]. *[[books/2455-the-sovereignty-of-good|The Sovereignty of Good]]*. 1970. Calibre ID 2455.
+- [[people/vladimir-nabokov|Vladimir Nabokov]], [[people/gennady-barabtarlo|Gennady Barabtarlo]] (editor). *[[books/2515-insomniac-dreams-experiments-with-time-by-vladimir|Insomniac Dreams: Experiments With Time by Vladimir Nabokov]]*. 1964-65 (cards); 2017 (book). Calibre ID 2515.
+- [[people/andrej-nikolaidis|Andrej Nikolaidis]], [[people/will-firth|Will Firth]] (translator). *[[books/7415-the-coming|The Coming]]*. 2009. Calibre ID 7415.
+- [[people/gananath-obeyesekere|Gananath Obeyesekere]]. *[[books/8381-cannibal-talk-the-man-eating-myth-and-human-sacrif|Cannibal Talk: The Man-Eating Myth and Human Sacrifice in the South Seas]]*. 2005. Calibre ID 8381.
+- [[people/m-b-parkes|M. B. Parkes]]. *[[books/13526-pause-and-effect-an-introduction-to-the-history-of|Pause and Effect: An Introduction to the History of Punctuation in the West]]*. 1992 (UC Press ed. 1993). Calibre ID 13526.
+- [[people/georges-perec|Georges Perec]], [[people/david-bellos|David Bellos]] (translator). *[[books/773-life-a-user-s-manual|Life: A User's Manual]]*. 1978 (trans. 1987; Vintage ebook). Calibre ID 773.
+- [[people/georges-perec|Georges Perec]], [[people/david-bellos|David Bellos]] (translator). *[[books/782-portrait-of-a-man|Portrait of a Man]]*. written 1957–60; French publ. 2012 (Le Condottière); Eng. 2014. Calibre ID 782.
+- [[people/michael-polanyi|Michael Polanyi]], [[people/amartya-sen|Amartya Sen]] (contributor). *[[books/6096-the-tacit-dimension|The Tacit Dimension]]*. 1966. Calibre ID 6096.
+- [[people/alessandro-portelli|Alessandro Portelli]]. *[[books/2627-they-say-in-harlan-county-an-oral-history|They Say in Harlan County: An Oral History]]*. 2011. Calibre ID 2627.
+- [[people/jacques-ranciere|Jacques Rancière]], [[people/steven-corcoran|Steven Corcoran]] (translator). *[[books/8698-mallarme-the-politics-of-the-siren|Mallarmé: The Politics of the Siren]]*. 1996. Calibre ID 8698.
+- [[people/jacques-ranciere|Jacques Rancière]], [[people/kristin-ross|Kristin Ross]] (translator). *[[books/8939-the-ignorant-schoolmaster-five-lessons-in-intellec|The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation]]*. 1987. Calibre ID 8939.
+- [[people/courtney-roby|Courtney Roby]]. *[[books/4232-technical-ekphrasis-in-greek-and-roman-science-and|Technical Ekphrasis in Greek and Roman Science and Literature]]*. 2016. Calibre ID 4232.
+- [[people/raymond-roussel|Raymond Roussel]], [[people/mark-polizzotti|Mark Polizzotti]] (translator). *[[books/772-impressions-of-africa|Impressions of Africa]]*. 1910. Calibre ID 772.
+- [[people/john-ruskin|John Ruskin]]. *[[books/4017-the-lamp-of-memory|The Lamp of Memory]]*. 1849. Calibre ID 4017.
+- [[people/marshall-sahlins|Marshall Sahlins]]. *[[books/8405-islands-of-history|Islands of History]]*. 1985. Calibre ID 8405.
+- [[people/gershom-scholem|Gershom Scholem]], [[people/r-j-zwi-werblowsky|R. J. Zwi Werblowsky]] (translator). *[[books/7651-sabbatai-sevi-the-mystical-messiah-1626-1676|Sabbatai Ṣevi: The Mystical Messiah, 1626-1676]]*. 1957. Calibre ID 7651.
+- [[people/albert-schweitzer|Albert Schweitzer]], [[people/w-montgomery|W. Montgomery]] (translator). *[[books/2643-the-quest-of-the-historical-jesus|The Quest of the Historical Jesus]]*. 1906. Calibre ID 2643.
+- [[people/george-steiner|George Steiner]]. *[[books/2372-after-babel-aspects-of-language-and-translation|After Babel: Aspects of Language and Translation]]*. 1975. Calibre ID 2372.
+- [[people/george-steiner|George Steiner]]. *[[books/3587-lessons-of-the-masters|Lessons of the Masters]]*. 2003. Calibre ID 3587.
+- [[people/jonathan-swift|Jonathan Swift]], [[people/ian-higgins|Ian Higgins]] (contributor). *[[books/7513-gulliver-s-travels|Gulliver's Travels]]*. 1726. Calibre ID 7513.
+- [[people/peter-szendy|Peter Szendy]], [[people/jan-plug|Jan Plug]] (translator). *[[books/2071-of-stigmatology-punctuation-as-experience|Of Stigmatology: Punctuation as Experience]]*. 2013 (À coups de points); Eng. 2018. Calibre ID 2071.
+- [[people/jun-ichiro-tanizaki|Jun'ichirō Tanizaki]], [[people/gregory-starr|Gregory Starr]] (translator). *[[books/1155-in-praise-of-shadows|In Praise of Shadows]]*. 1933. Calibre ID 1155.
+- [[people/donald-s-taylor|Donald S. Taylor]]. *[[books/3327-thomas-chatterton-s-art-experiments-in-imagined-hi|Thomas Chatterton's Art: Experiments in Imagined History]]*. 1978 (Princeton UP; catalogue gives 1979). Calibre ID 3327.
+- [[people/enrique-vila-matas|Enrique Vila-Matas]], [[people/jonathan-dunne|Jonathan Dunne]] (translator). *[[books/864-bartleby-co|Bartleby & Co.]]*. 2000 (Eng. 2004). Calibre ID 864.
+- [[people/graham-wallas|Graham Wallas]]. *[[books/13262-the-art-of-thought|The Art of Thought]]*. 1926. Calibre ID 13262.
+- [[people/simone-weil|Simone Weil]], [[people/gustave-thibon|Gustave Thibon]] (editor), [[people/emma-crawford|Emma Crawford]] (translator), [[people/mario-von-der-ruhr|Mario von der Ruhr]] (translator). *[[books/995-gravity-and-grace|Gravity and Grace]]*. 1947. Calibre ID 995.
+- [[people/heather-andrea-williams|Heather Andrea Williams]]. *[[books/12076-self-taught-african-american-education-in-slavery|Self-Taught: African American Education in Slavery and Freedom]]*. 2005. Calibre ID 12076.
+- [[people/lu-xun|Lu Xun]], [[people/eileen-j-cheng|Eileen J. Cheng]] (editor), [[people/kirk-a-denton|Kirk A. Denton]] (editor). *[[books/4214-jottings-under-lamplight|Jottings Under Lamplight]]*. 1918–1936 (essays); 2017 (this edition). Calibre ID 4214.
+- [[people/carla-yanni|Carla Yanni]]. *[[books/9911-the-architecture-of-madness-insane-asylums-in-the|The Architecture of Madness: Insane Asylums in the United States]]*. 2007. Calibre ID 9911.
+- [[people/araki-yasusada|Araki Yasusada]], [[people/kent-johnson|Kent Johnson]] (contributor), [[people/tosa-motokiyu|Tosa Motokiyu]] (translator), [[people/ojiu-norinaga|Ojiu Norinaga]] (translator), [[people/okura-kyojin|Okura Kyojin]] (translator). *[[books/11327-doubled-flowering-from-the-notebooks-of-araki-yasu|Doubled Flowering: From the Notebooks of Araki Yasusada]]*. 1997. Calibre ID 11327.
+- [[people/arseny-zhilyaev|Arseny Zhilyaev]] (editor). *[[books/14788-avant-garde-museology|Avant-Garde Museology]]*. 2015. Calibre ID 14788.
+- [[people/stefan-zweig|Stefan Zweig]], [[people/anthea-bell|Anthea Bell]] (translator). *[[books/4963-the-invisible-collection|The Invisible Collection]]*. 1925 (Die unsichtbare Sammlung); Pushkin Press ed.. Calibre ID 4963.

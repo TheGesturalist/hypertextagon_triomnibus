@@ -1,0 +1,10 @@
+---
+title: "André Leroi-Gourhan"
+tags:
+  - person
+  - role/author
+---
+
+## As author
+
+- [[books/1003-gesture-and-speech|Gesture and Speech]] — in [[triads/2026-10-21-the-ruled-thread|The Ruled Thread]]

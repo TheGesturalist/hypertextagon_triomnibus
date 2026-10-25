@@ -1,0 +1,176 @@
+---
+title: "People"
+tags:
+  - apparatus
+---
+
+Authors, editors, translators and contributors credited in Volume 1.
+
+- [[people/friedrich-achleitner|Friedrich Achleitner]] — editor
+- [[people/giorgio-agamben|Giorgio Agamben]] — author
+- [[people/james-agee|James Agee]] — author
+- [[people/cesar-aira|César Aira]] — author
+- [[people/miguel-molina-alarcon|Miguel Molina Alarcón]] — editor
+- [[people/philip-s-alexander|Philip S. Alexander]] — editor
+- [[people/chris-andrews|Chris Andrews]] — translator
+- [[people/anonymous|Anonymous]] — author
+- [[people/hannah-arendt|Hannah Arendt]] — translator
+- [[people/joaquim-maria-machado-de-assis|Joaquim Maria Machado de Assis]] — author
+- [[people/arseny-avraamov|Arseny Avraamov]] — author
+- [[people/gennady-barabtarlo|Gennady Barabtarlo]] — editor
+- [[people/meyer-barash|Meyer Barash]] — translator
+- [[people/roland-barthes|Roland Barthes]] — author
+- [[people/georges-bataille|Georges Bataille]] — author
+- [[people/j-c-beaglehole|J. C. Beaglehole]] — editor
+- [[people/samuel-beckett|Samuel Beckett]] — contributor
+- [[people/john-stewart-bell|John Stewart Bell]] — author
+- [[people/anthea-bell|Anthea Bell]] — translator
+- [[people/david-bellos|David Bellos]] — translator
+- [[people/walter-benjamin|Walter Benjamin]] — author
+- [[people/anna-bostock-berger|Anna Bostock Berger]] — translator
+- [[people/vincenzo-binetti|Vincenzo Binetti]] — translator
+- [[people/maurice-blanchot|Maurice Blanchot]] — author
+- [[people/roberto-bolano|Roberto Bolaño]] — author, contributor
+- [[people/marcus-boon|Marcus Boon]] — contributor
+- [[people/jorge-luis-borges|Jorge Luis Borges]] — author
+- [[people/katharine-breen|Katharine Breen]] — author
+- [[people/fred-bridgham|Fred Bridgham]] — translator
+- [[people/max-brod|Max Brod]] — editor
+- [[people/alastair-brotchie|Alastair Brotchie]] — editor
+- [[people/sir-thomas-browne|Sir Thomas Browne]] — author
+- [[people/robert-burton|Robert Burton]] — author
+- [[people/heimrad-backer|Heimrad Bäcker]] — author
+- [[people/italo-calvino|Italo Calvino]] — author
+- [[people/leonora-carrington|Leonora Carrington]] — author
+- [[people/cesare-casarino|Cesare Casarino]] — translator
+- [[people/margaret-cavendish|Margaret Cavendish]] — author
+- [[people/eileen-j-cheng|Eileen J. Cheng]] — editor
+- [[people/curt-cloninger|Curt Cloninger]] — author
+- [[people/james-cook|James Cook]] — author
+- [[people/steven-corcoran|Steven Corcoran]] — translator
+- [[people/emma-crawford|Emma Crawford]] — translator
+- [[people/harry-crews|Harry Crews]] — author
+- [[people/michael-j-curley|Michael J. Curley]] — translator
+- [[people/nicholas-dames|Nicholas Dames]] — author
+- [[people/kirk-a-denton|Kirk A. Denton]] — editor
+- [[people/annie-dillard|Annie Dillard]] — author
+- [[people/jonathan-dunne|Jonathan Dunne]] — translator
+- [[people/craig-dworkin|Craig Dworkin]] — author
+- [[people/umberto-eco|Umberto Eco]] — author
+- [[people/william-edgerton|William Edgerton]] — translator
+- [[people/philip-edwards|Philip Edwards]] — editor
+- [[people/howard-eiland|Howard Eiland]] — translator
+- [[people/desiderius-erasmus|Desiderius Erasmus]] — author
+- [[people/walker-evans|Walker Evans]] — contributor
+- [[people/will-firth|Will Firth]] — translator
+- [[people/alice-w-flaherty|Alice W. Flaherty]] — author
+- [[people/gustave-flaubert|Gustave Flaubert]] — author
+- [[people/christopher-frayling|Christopher Frayling]] — editor
+- [[people/brian-friel|Brian Friel]] — author
+- [[people/marina-galletti|Marina Galletti]] — editor
+- [[people/arnold-geulincx|Arnold Geulincx]] — author
+- [[people/jody-gladding|Jody Gladding]] — translator
+- [[people/klara-glowczewska|Klara Glowczewska]] — translator
+- [[people/e-h-gombrich|E. H. Gombrich]] — author
+- [[people/patrick-greaney|Patrick Greaney]] — translator
+- [[people/martin-greenberg|Martin Greenberg]] — translator
+- [[people/william-l-grossman|William L. Grossman]] — translator
+- [[people/boris-groys|Boris Groys]] — editor
+- [[people/per-hage|Per Hage]] — author
+- [[people/micheal-o-haodha|Mícheál Ó hAodha]] — author
+- [[people/frank-harary|Frank Harary]] — author
+- [[people/graham-harman|Graham Harman]] — author
+- [[people/john-harman|John Harman]] — translator
+- [[people/ian-higgins|Ian Higgins]] — contributor
+- [[people/john-hodgson|John Hodgson]] — translator
+- [[people/richard-howard|Richard Howard]] — translator
+- [[people/suzanne-p-hudson|Suzanne P. Hudson]] — author
+- [[people/andrew-hurley|Andrew Hurley]] — translator
+- [[people/tim-ingold|Tim Ingold]] — author
+- [[people/kent-johnson|Kent Johnson]] — contributor
+- [[people/francois-jullien|François Jullien]] — author
+- [[people/ismail-kadare|Ismail Kadare]] — author
+- [[people/franz-kafka|Franz Kafka]] — author
+- [[people/michael-kandel|Michael Kandel]] — translator
+- [[people/ryszard-kapuscinski|Ryszard Kapuściński]] — author
+- [[people/yoshida-kenko|Yoshida Kenkō]] — author
+- [[people/peter-kingsley|Peter Kingsley]] — author
+- [[people/heinrich-von-kleist|Heinrich von Kleist]] — author
+- [[people/vincent-kling|Vincent Kling]] — translator
+- [[people/adam-kotsko|Adam Kotsko]] — translator
+- [[people/markus-krajewski|Markus Krajewski]] — author
+- [[people/peter-krapp|Peter Krapp]] — translator
+- [[people/karl-kraus|Karl Kraus]] — author
+- [[people/rosalind-e-krauss|Rosalind E. Krauss]] — author
+- [[people/joseph-kresh|Joseph Kresh]] — translator
+- [[people/frank-kuppner|Frank Kuppner]] — author
+- [[people/okura-kyojin|Okura Kyojin]] — translator
+- [[people/armin-lange|Armin Lange]] — editor
+- [[people/natasha-lehrer|Natasha Lehrer]] — translator
+- [[people/stanisaw-lem|Stanisław Lem]] — author
+- [[people/andre-leroi-gourhan|André Leroi-Gourhan]] — author
+- [[people/nikolai-leskov|Nikolai Leskov]] — author
+- [[people/edouard-leve|Édouard Levé]] — author
+- [[people/nathalie-leger|Nathalie Léger]] — editor
+- [[people/dale-maharidge|Dale Maharidge]] — author
+- [[people/charlotte-mandell|Charlotte Mandell]] — translator
+- [[people/tom-mccarthy|Tom McCarthy]] — author
+- [[people/alastair-mcewen|Alastair McEwen]] — translator
+- [[people/henri-michaux|Henri Michaux]] — author
+- [[people/joseph-mitchell|Joseph Mitchell]] — author
+- [[people/w-montgomery|W. Montgomery]] — translator
+- [[people/franco-moretti|Franco Moretti]] — author
+- [[people/tosa-motokiyu|Tosa Motokiyu]] — translator
+- [[people/harryette-mullen|Harryette Mullen]] — author
+- [[people/iris-murdoch|Iris Murdoch]] — author
+- [[people/vladimir-nabokov|Vladimir Nabokov]] — author
+- [[people/andrej-nikolaidis|Andrej Nikolaidis]] — author
+- [[people/ojiu-norinaga|Ojiu Norinaga]] — translator
+- [[people/gananath-obeyesekere|Gananath Obeyesekere]] — author
+- [[people/m-b-parkes|M. B. Parkes]] — author
+- [[people/georges-perec|Georges Perec]] — author
+- [[people/renate-j-pillinger|Renate J. Pillinger]] — editor
+- [[people/jan-plug|Jan Plug]] — translator
+- [[people/michael-polanyi|Michael Polanyi]] — author
+- [[people/mark-polizzotti|Mark Polizzotti]] — translator
+- [[people/alessandro-portelli|Alessandro Portelli]] — author
+- [[people/betty-radice|Betty Radice]] — translator
+- [[people/jacques-ranciere|Jacques Rancière]] — author
+- [[people/courtney-roby|Courtney Roby]] — author
+- [[people/kristin-ross|Kristin Ross]] — translator
+- [[people/jon-rothschild|Jon Rothschild]] — translator
+- [[people/raymond-roussel|Raymond Roussel]] — author
+- [[people/mario-von-der-ruhr|Mario von der Ruhr]] — translator
+- [[people/john-ruskin|John Ruskin]] — author
+- [[people/marshall-sahlins|Marshall Sahlins]] — author
+- [[people/g-b-sansom|G. B. Sansom]] — translator
+- [[people/gershom-scholem|Gershom Scholem]] — author
+- [[people/albert-schweitzer|Albert Schweitzer]] — author
+- [[people/amartya-sen|Amartya Sen]] — contributor
+- [[people/richard-sieburth|Richard Sieburth]] — translator
+- [[people/gregory-starr|Gregory Starr]] — translator
+- [[people/george-steiner|George Steiner]] — author
+- [[people/jan-steyn|Jan Steyn]] — translator
+- [[people/jonathan-swift|Jonathan Swift]] — author
+- [[people/peter-szendy|Peter Szendy]] — author
+- [[people/jun-ichiro-tanizaki|Jun'ichirō Tanizaki]] — author
+- [[people/donald-s-taylor|Donald S. Taylor]] — author
+- [[people/gustave-thibon|Gustave Thibon]] — editor
+- [[people/edward-timms|Edward Timms]] — translator
+- [[people/enrique-vila-matas|Enrique Vila-Matas]] — author
+- [[people/graham-wallas|Graham Wallas]] — author
+- [[people/marina-warner|Marina Warner]] — contributor
+- [[people/william-weaver|William Weaver]] — translator
+- [[people/simone-weil|Simone Weil]] — author
+- [[people/r-j-zwi-werblowsky|R. J. Zwi Werblowsky]] — translator
+- [[people/randall-white|Randall White]] — contributor
+- [[people/heather-andrea-williams|Heather Andrea Williams]] — author
+- [[people/michael-williamson|Michael Williamson]] — contributor
+- [[people/martin-wilson|Martin Wilson]] — translator
+- [[people/richard-woodfield|Richard Woodfield]] — editor
+- [[people/peter-wortsman|Peter Wortsman]] — translator
+- [[people/lu-xun|Lu Xun]] — author
+- [[people/carla-yanni|Carla Yanni]] — author
+- [[people/araki-yasusada|Araki Yasusada]] — author
+- [[people/arseny-zhilyaev|Arseny Zhilyaev]] — editor
+- [[people/stefan-zweig|Stefan Zweig]] — author
