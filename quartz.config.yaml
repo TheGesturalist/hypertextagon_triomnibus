@@ -219,8 +219,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        theGesturalist: https://thegesturalist.com
+        Source: https://github.com/TheGesturalist/hypertextagon_triomnibus
     layout:
       position: footer
       priority: 50
