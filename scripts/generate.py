@@ -42,6 +42,82 @@ def bullets_from_block(text):
     lines = [l.strip() for l in (text or "").split("\n") if l.strip()]
     return lines
 
+RAW_MD = ROOT / "raw" / "md"
+RAW_IMG = ROOT / "raw" / "img"
+EXCERPT_MAX_WORDS = 80   # public edition: longer block quotations are shortened
+EXCERPT_KEEP_WORDS = 60
+
+def shorten_quote(text):
+    words = text.split()
+    if len(words) <= EXCERPT_MAX_WORDS:
+        return text, False
+    cut = " ".join(words[:EXCERPT_KEEP_WORDS])
+    m = re.search(r"^(.*[.?!;:”’])\s", cut + " ")
+    if m and len(m.group(1).split()) >= 25:
+        cut = m.group(1)
+    return cut + " […]", True
+
+def repair_urls(md, rabbit_text):
+    """Restore URLs whose tails were clipped or split in the PDF, using the URLs recorded in Grist."""
+    gurls = re.findall(r"https?://[^\s)\]]+", rabbit_text or "")
+    gurls = [u.rstrip(".,;") for u in gurls]
+    for u in sorted(set(gurls), key=len, reverse=True):
+        if u in md:
+            continue
+        # split form: prefix + whitespace + suffix
+        done = False
+        for k in range(len(u) - 4, 14, -1):
+            pre = u[:k]
+            i = md.find(pre)
+            if i < 0:
+                continue
+            j = i + k
+            m = re.match(r"\S*\s+(\S+)", md[j:])
+            if m and u.endswith(m.group(1).rstrip(".,;")) and len(m.group(1)) > 4:
+                end = j + m.end(1) - (len(m.group(1)) - len(m.group(1).rstrip(".,;")))
+                md = md[:i] + u + md[end:]
+                done = True
+                break
+            m2 = re.match(r"(\S*)", md[j:])
+            frag = pre + m2.group(1)
+            if [g for g in gurls if g.startswith(frag.rstrip(".,;")) and g not in md] == [u] and frag.rstrip(".,;") != u:
+                md = md[:i] + u + md[j + len(m2.group(1).rstrip(".,;")):]
+                done = True
+                break
+        if not done:
+            pass
+    return md
+
+def load_writeup(date, setf, cid_to_path):
+    p = RAW_MD / f"{date}.md"
+    if not p.exists():
+        return None
+    md = p.read_text(encoding="utf-8")
+    md = repair_urls(md, setf.get("Rabbit_Holes"))
+    for old, new in json.load(open(DATA / "url_fixes.json")).get(date, []):
+        md = md.replace(old, new)
+    # private field: Calibre tags in the edition line
+    md = re.sub(r"\s*·\s*tags:[^*\n]*(?=\*)", "", md)
+    out, shortened, linked = [], 0, set()
+    for line in md.split("\n"):
+        m = re.search(r"Calibre ID (\d+)", line)
+        if m and not line.startswith(("|", "-", ">")) and int(m.group(1)) in cid_to_path and int(m.group(1)) not in linked:
+            linked.add(int(m.group(1)))
+            line = line + " → " + link(cid_to_path[int(m.group(1))], "book page")
+        if line.startswith("> ") and not line.startswith("> —"):
+            q, cut = shorten_quote(line[2:])
+            if cut:
+                shortened += 1
+                line = "> " + q + "\n>\n> *(Shortened for the public edition.)*"
+        line = re.sub(r"!\[\]\(([^)]+)\)", lambda m: f"![](images/{m.group(1)})", line)
+        out.append(line)
+    # copy images
+    for img in RAW_IMG.glob(f"{date}-*"):
+        dst = OUT / "triads" / "images" / img.name
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy(img, dst)
+    return "\n".join(out).strip()
+
 def main():
     sets = json.load(open(DATA / "sets.json"))
     books = json.load(open(DATA / "books.json"))
@@ -94,16 +170,21 @@ def main():
         L = ["---", f'title: "{esc(f["Set_Title"])}"', f"date: {date}",
              "tags:", *[f"  - {t}" for t in tags], f"difficulty: {f.get('Difficulty')}", "---", ""]
         L.append(f"*Triad {i+1} of {len(ordered)} · {date} · Difficulty {f.get('Difficulty')} · {', '.join(kinds)}*")
-        L += ["", "## The thread", "", f.get("Thread", "").strip(), "", "## The three books", ""]
+        body = load_writeup(date, f, {int(b["fields"]["Calibre_ID"]): book_path[b["id"]] for b in books_by_set[sid]})
+        if body is None:
+            L += ["", "## The thread", "", f.get("Thread", "").strip()]
+        L += ["", "## The three books", ""]
         for b in books_by_set[sid]:
             bf = b["fields"]
             L.append(f"- {link(book_path[b['id']], bf['Title'])}, {people_links(int(bf['Calibre_ID']), bf['Author'])}; {bf.get('Year','')}. *{bf.get('Role_in_Set','').strip()}*")
-        if f.get("Notebook_Prompts"):
+        if body is not None:
+            L += ["", "---", "", body]
+        if body is None and f.get("Notebook_Prompts"):
             L += ["", "## Notebook", ""] + [f"{n}. " + re.sub(r"^\d+[.)]\s*", "", x) for n, x in enumerate(bullets_from_block(f["Notebook_Prompts"]), 1)]
-        if f.get("Rabbit_Holes"):
+        if body is None and f.get("Rabbit_Holes"):
             L += ["", "## Rabbit holes", "", "*Links as checked on the day of the reading.*", ""]
             L += [f"- {x}" for x in bullets_from_block(f["Rabbit_Holes"])]
-        if f.get("Carry_Quote"):
+        if body is None and f.get("Carry_Quote"):
             L += ["", "## To carry", "", "> " + f["Carry_Quote"].strip()]
         tl = sorted(reflist(f.get("Theme_Links")), key=lambda t: themes.get(t, "").lower())
         if tl:
