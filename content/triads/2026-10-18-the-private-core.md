@@ -145,7 +145,7 @@ PDF (Manchester University Press, via Project MUSE) · Calibre ID 13399 · page 
 
 **Element: excerpt** (p. 88). The private core, seen from outside by settled neighbours:
 
-> Relatively little modern research has been undertaken into the functions of Travellers’ spoken language, known in academic parlance as Shelta but referred to by Travellers as Cant or Gammon. Opinions vary as to the exact functions of Shelta, whether it was primarily a ‘secret’ […]
+> Relatively little modern research has been undertaken into the functions of Travellers’ spoken language, known in academic parlance as Shelta but referred to by Travellers as Cant or Gammon. Opinions vary as to the exact functions of Shelta, whether it was primarily a ‘secret’ language or a trade language, and whether it should be defined as a language or a linguistic register (Binchy, 2002; Ó Baoill, 1994). […]
 >
 > *(Shortened for the public edition.)*
 

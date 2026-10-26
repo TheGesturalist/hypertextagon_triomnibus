@@ -51,7 +51,7 @@ Edwards, opening the Postscript: “Whatever else Cook wrote has not survived. H
 
 **Excerpt: the quarterdeck (Journal of the Second Voyage, Tuesday 23 [November] 1773, Queen Charlotte Sound).** Obeyesekere quotes this same passage from Beaglehole (*Cannibal Talk*, p. 31). The two texts agree word for word.
 
-> The sight of the head and the relation of the circumstances just mentioned struck me with horor and filled my mind with indignation against these Canibals, but when I considered that any resentment I could shew would avail but little and being desire-ous of being an eye wittness to a fact which many people had their doubts about, I concealed […]
+> The sight of the head and the relation of the circumstances just mentioned struck me with horor and filled my mind with indignation against these Canibals, but when I considered that any resentment I could shew would avail but little and being desire-ous of being an eye wittness to a fact which many people had their doubts about, […]
 >
 > *(Shortened for the public edition.)*
 

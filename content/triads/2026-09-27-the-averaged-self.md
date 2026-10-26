@@ -92,7 +92,7 @@ EPUB · Calibre ID 626 · Penguin Classics, trans. Betty Radice, intro. and note
 
 **Excerpt: the personification refuses definition** (pp. 12–13):
 
-> It wouldn’t bode well for the future either to limit and confine one whose divinity extends so far, or to cut her up when the whole world is united in worshipping her. […]
+> It wouldn’t bode well for the future either to limit and confine one whose divinity extends so far, or to cut her up when the whole world is united in worshipping her. And what purpose would it serve for a definition to produce a sketch which would be a mere shadow of myself when I am here before you, for you to look at with your own eyes? […]
 >
 > *(Shortened for the public edition.)*
 

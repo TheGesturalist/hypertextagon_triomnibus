@@ -48,14 +48,18 @@ EXCERPT_MAX_WORDS = 80   # public edition: longer block quotations are shortened
 EXCERPT_KEEP_WORDS = 60
 
 def shorten_quote(text):
+    """Cut a long quotation at the best boundary within the first EXCERPT_KEEP_WORDS words:
+    a full stop / ? / ! (with any closing quote) first, then ; or :, then a comma. Words are never altered."""
     words = text.split()
     if len(words) <= EXCERPT_MAX_WORDS:
         return text, False
-    cut = " ".join(words[:EXCERPT_KEEP_WORDS])
-    m = re.search(r"^(.*[.?!;:”’])\s", cut + " ")
-    if m and len(m.group(1).split()) >= 25:
-        cut = m.group(1)
-    return cut + " […]", True
+    window = " ".join(words[:EXCERPT_KEEP_WORDS + 10])
+    for pat in (r"[.?!][”’\")]*(?=\s)", r"[;:](?=\s)", r",(?=\s)"):
+        ends = [m.end() for m in re.finditer(pat, window + " ")]
+        ends = [e for e in ends if 20 <= len(window[:e].split()) <= EXCERPT_KEEP_WORDS + 10]
+        if ends:
+            return window[:ends[-1]] + " […]", True
+    return " ".join(words[:EXCERPT_KEEP_WORDS]) + " […]", True
 
 def repair_urls(md, rabbit_text):
     """Restore URLs whose tails were clipped or split in the PDF, using the URLs recorded in Grist."""

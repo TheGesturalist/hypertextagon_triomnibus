@@ -127,7 +127,7 @@ EPUB · Calibre ID 2800 · NYRB Classics; “The Steel Flea” trans. William Ed
 
 **Excerpt** (§13). The Emperor has looked at the whole flea under the glass and seen nothing:
 
-> Lefty answered, “You can’t see nothing that way, Your Majesty, because our work is a lot too secret for that size.” The Emperor asked, “Then how do we manage it?” “You have to put just one of its feet in detail under the whole nitroscope, and look one at a time at each foot it walks on.” “Goodness gracious,” […]
+> Lefty answered, “You can’t see nothing that way, Your Majesty, because our work is a lot too secret for that size.” The Emperor asked, “Then how do we manage it?” “You have to put just one of its feet in detail under the whole nitroscope, and look one at a time at each foot it walks on.” “Goodness gracious,” said the Emperor. “That’s powerfully small.” […]
 >
 > *(Shortened for the public edition.)*
 

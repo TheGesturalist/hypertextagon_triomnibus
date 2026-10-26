@@ -40,7 +40,7 @@ The links are exact. Lem’s reviewer and Dworkin both find that the blank turns
 
 *Figure 1: Constellation: what passes between the three books*
 
-> The first sentence of Rien du tout, ou la consequence reads, “The train did not arrive” ; in the next sentence we find “He did not come.” We meet, then, with negations, but of what exactly? From the standpoint of logic these are total negations, since the text affirms absolutely nothing existentially; […]
+> The first sentence of Rien du tout, ou la consequence reads, “The train did not arrive” ; in the next sentence we find “He did not come.” We meet, then, with negations, but of what exactly? From the standpoint of logic these are total negations, since the text affirms absolutely nothing existentially; indeed, it confines itself exclusively to what did not occur. […]
 >
 > *(Shortened for the public edition.)*
 
@@ -100,7 +100,7 @@ Two of the sixteen (Coscat and Marriot) are, by the self-review’s own account,
 
 **Excerpt (ch. 1, “The Logic of Substrate,” opening).**
 
-> Orpheus glances at the cover—its spare, thinly bordered design and elegant Didot typeface obviously meant to evoke a volume from éditions de Minuit—and then flips quickly through, objecting: “Je ne vois que des pages blanches [I see only blank pages].” His companion—an older writer who is respected, not coincidentally, for maintaining decades of principled poetic silence—explains: […]
+> Orpheus glances at the cover—its spare, thinly bordered design and elegant Didot typeface obviously meant to evoke a volume from éditions de Minuit—and then flips quickly through, objecting: “Je ne vois que des pages blanches [I see only blank pages].” His companion—an older writer who is respected, not coincidentally, for maintaining decades of principled poetic silence—explains: “Cela s’appelle Nudisme [It’s titled Nudism ].” […]
 >
 > *(Shortened for the public edition.)*
 

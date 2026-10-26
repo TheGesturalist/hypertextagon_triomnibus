@@ -104,7 +104,7 @@ Trans. Chris Andrews (New Directions, 2006), with a preface by Roberto Bolaño. 
 
 **Excerpt: the first bolt.** The tone throughout: the catastrophe is reported in the language of the treatise.
 
-> The storm broke suddenly with a spectacular lightning bolt that traced a zig-zag arc clear across the sky. It came so close that Rugendas’s upturned face, frozen in an expression of idiotic stupor, was completely bathed in white light. He thought he could feel its sinister heat on his skin, and his pupils contracted to pin-points. […]
+> The storm broke suddenly with a spectacular lightning bolt that traced a zig-zag arc clear across the sky. It came so close that Rugendas’s upturned face, frozen in an expression of idiotic stupor, was completely bathed in white light. He thought he could feel its sinister heat on his skin, and his pupils contracted to pin-points. The thunder crashing down impossibly enveloped him in millions of vibrations. […]
 >
 > *(Shortened for the public edition.)*
 

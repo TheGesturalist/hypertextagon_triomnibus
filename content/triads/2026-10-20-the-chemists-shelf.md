@@ -116,7 +116,7 @@ Part II. Part VI includes a 1931 review of a travelling crematorium exhibition. 
 
 **Excerpt: Malevich, “On the Museum” (p. 270).**
 
-> “Contemporary life has invented crematoria for the dead, but each dead man is more alive than a weakly painted portrait. In burning a corpse we obtain one gram of powder: accordingly, thousands of graveyards could be accommodated on one chemist’s shelf. […]
+> “Contemporary life has invented crematoria for the dead, but each dead man is more alive than a weakly painted portrait. In burning a corpse we obtain one gram of powder: accordingly, thousands of graveyards could be accommodated on one chemist’s shelf. We can make a concession to the conservatives by offering that they burn all past epochs, since they are dead, and set up one pharmacy. […]
 >
 > *(Shortened for the public edition.)*
 

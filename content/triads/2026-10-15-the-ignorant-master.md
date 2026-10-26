@@ -142,7 +142,7 @@ sentence before moving on.
 
 **Excerpt: the pit schools** (ch. 1, “In Secret Places”).
 
-> Enslaved people put the resources they could garner to maximum use. Mandy Jones knew of a young man who learned to read and write in a cave. She also recalled that there were “pit schools” near her Mississippi plantation. Slaves would dig a pit in the ground way out in the woods, covering the spot with bushes and vines. […]
+> Enslaved people put the resources they could garner to maximum use. Mandy Jones knew of a young man who learned to read and write in a cave. She also recalled that there were “pit schools” near her Mississippi plantation. Slaves would dig a pit in the ground way out in the woods, covering the spot with bushes and vines. Runaways sometimes inhabited the pits, but they also housed schools. […]
 >
 > *(Shortened for the public edition.)*
 

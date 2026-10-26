@@ -124,7 +124,7 @@ The first sentence is the inventory; the second comes just after Bedu presses th
 
 **Excerpt: #418, the Roussel tapestry.** Six links of copying, set out like a mechanism.
 
-> A two-by-two-meter tapestry is woven to resemble a photograph of Raymond Roussel taken in 1996. Raymond Roussel died in 1933. The man whose face we see is an architect—he lives in Paris. His is a homonym of the writer’s name. The tapestry and the photograph duplicate a pre-existing image: […]
+> A two-by-two-meter tapestry is woven to resemble a photograph of Raymond Roussel taken in 1996. Raymond Roussel died in 1933. The man whose face we see is an architect—he lives in Paris. His is a homonym of the writer’s name. The tapestry and the photograph duplicate a pre-existing image: a cartoon outlines the tapestry, and the negative comes before the photograph. […]
 >
 > *(Shortened for the public edition.)*
 

@@ -83,7 +83,7 @@ EPUB, Dover edition · Calibre ID 2643 · no print pagination in this file; loca
 
 **Excerpt** (ch. XIX). Schweitzer’s own picture of a messiah who tries to bring the End by force:
 
-> There is silence all around. The Baptist appears, and cries: “ Repent, for the Kingdom of Heaven is at hand.” Soon after that comes Jesus, and in the knowledge that He is the coming Son of Man lays hold of the wheel of the world to set it moving on that last revolution which is to bring all ordinary history […]
+> There is silence all around. The Baptist appears, and cries: “ Repent, for the Kingdom of Heaven is at hand.” Soon after that comes Jesus, and in the knowledge that He is the coming Son of Man lays hold of the wheel of the world to set it moving on that last revolution which is to bring all ordinary history to a close. […]
 >
 > *(Shortened for the public edition.)*
 

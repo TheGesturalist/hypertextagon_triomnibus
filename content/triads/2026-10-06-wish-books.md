@@ -90,7 +90,7 @@ EPUB · Calibre ID 10998 → [[books/10998-a-childhood-the-biography-of-a-place|
 
 **Excerpt** (ch. Four). Why the catalogue had to be corrected:
 
-> I first became fascinated with the Sears catalogue because all the people in its pages were perfect. Nearly everybody I knew had something missing, a finger cut off, a toe split, an ear half-chewed away, an eye clouded with blindness from a glancing fence staple. […]
+> I first became fascinated with the Sears catalogue because all the people in its pages were perfect. Nearly everybody I knew had something missing, a finger cut off, a toe split, an ear half-chewed away, an eye clouded with blindness from a glancing fence staple. And if they didn’t have something missing, they were carrying scars from barbed wire, or knives, or fishhooks. […]
 >
 > *(Shortened for the public edition.)*
 
