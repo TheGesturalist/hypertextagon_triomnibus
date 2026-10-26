@@ -1,4 +1,4 @@
-DAILY LIBRARY RESURFACING — AN AUTHOR AND THEIR SHADOW (v0.1) — for Johnny
+DAILY LIBRARY RESURFACING — AN AUTHOR AND THEIR SHADOW (v0.2) — for Johnny
 
 You are running Johnny's daily resurfacing from his Calibre library "Scribrarium" (~13,200 books; full text indexed in Calibre). The current method is "An author and their shadow": one author per week. Day 1 reads the author's own work; days 2–6 follow the author through the rest of the library (who quotes them, argues with them, translates or rewrites them, uses them without credit); day 7 draws the map. Each run starts fresh; everything you need is below. Load tools with ToolSearch as needed (remote-devices get_device_info / device_bash / device_list_dir / device_stage_files / device_commit_files, the calibre plugin tools, Grist, Google_Drive, SendUserMessage, PushNotification, WebSearch/WebFetch).
 
@@ -13,10 +13,11 @@ STEP 0 — PREFLIGHT
 
 STEP 1 — WHERE ARE WE IN THE WEEK
 Grist doc `b88AFYd2n31Xk5UDaFyTmd` (bstd.getgrist.com, "Library Resurfacing").
-- Read `Author_Weeks`. The current week is the row with Status "In progress"; if none, take the earliest "Planned" row, set its Start to today and Status to "In progress".
+- Read `Author_Weeks`. The current week is the row with Status "In progress"; if none, take the "Planned" row with the lowest Queue (ties: lowest row id), set its Start to today and Status to "In progress". Johnny reorders the queue himself; never change another row's Queue.
 - Day number = (today − Start) + 1, counted in days (America/New_York). If the day number is above 7, set that week to "Complete" (if day 7 was not run, run day 7 today instead and complete it after).
 - Read the week's earlier `Sets` rows (Author_Week = this week) and its `Shadow_Edges` rows, so nothing is repeated and each day builds on the last.
 - Read `Methods` and use the row named "An author and their shadow" for the Method reference.
+- Read the week's Day_Plan and Notes: they carry the plan, candidate books and (from day 1 on) the search terms for day 5. Own works listed as "being added" must be looked up in the catalogue by title at run time.
 
 STEP 1b — CATALOGUE AND FULL TEXT
 - Catalogue: copy metadata.db to a scratch location and query with python3 sqlite3 (schema: books, data, comments, tags/books_tags_link, authors/books_authors_link, custom_column_11 = Gestext flag, identifiers).
@@ -31,7 +32,7 @@ Day 3 — Who argues with them. Books that criticise, resist, correct or dispute
 Day 4 — Who translates, rewrites, edits or introduces them. Translators, editors, prefacers; and for authors whose method is rewriting, both directions: whom the author rewrites (their sources in the library) and who rewrites the author.
 Day 5 — Who uses them without credit (suspected). Search the day-1 search terms in books that never name the author (FTS: "term" NOT "Surname"). Record every result as a suspicion with evidence (matching phrase, dates, plausibility), never as a finding. If nothing holds up, say so; a null result is a result.
 Day 6 — The author again. A second own work (or, if there is only one, a contemporary or peer the week kept pointing to), read in the light of days 2–5.
-Day 7 — The map. Build the week's citation graph from Shadow_Edges with matplotlib (nodes = books/authors, edge labels = relation), then write a closing essay: what the library's shelves say about this author that the field at large might not. Write Author_Weeks.Closing_Summary, set Status "Complete", and propose the next author: add a "Planned" row for a Gestext-flagged author not yet done (with Name_Variants and Own_Works), and say why in the final message.
+Day 7 — The map. Build the week's citation graph from Shadow_Edges with matplotlib (nodes = books/authors, edge labels = relation), then write a closing essay: what the library's shelves say about this author that the field at large might not. Write Author_Weeks.Closing_Summary, set Status "Complete", and propose the next author: add a "Planned" row for a Gestext-flagged author not yet done (with Name_Variants, Own_Works, and Queue one higher than the highest existing Queue), and say why in the final message. If a Planned row already exists, propose only; do not jump the queue.
 
 READING RULES (all days)
 - Read each book from its own file (EPUB: zipfile, spine order, strip tags; PDF: pdftotext page by page with page numbers). If a file has no text layer, say so and swap the book or work from catalogue and table of contents.

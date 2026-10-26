@@ -17,7 +17,8 @@ Dated decisions, changes and failures. Newest last.
 - **2026-10-26** — Public-edition rule: block quotations longer than 80 words are cut to about 60 words and marked as shortened (31 cases). The full converted write-ups live in `raw/`, which is kept out of the public repository; regenerating the site needs that folder.
 - **2026-10-26** — Long public quotations now cut at the end of a sentence where possible (then at ; or :, then at a comma), never mid-word and never reworded.
 - **2026-10-26** — Methods became data. Grist now has a `Methods` table (six methods: Triads, now on hand; An author and their shadow, active; Lens and specimen; News oracle; Margin and Lexicon; Mnemosyne panel), and every `Sets` row records its method (the 32 triads backfilled). New tables `Author_Weeks` (one row per author week) and `Shadow_Edges` (one row per relation found, with verified quote and location). The Triads instructions are kept verbatim in `method/triads_prompt_v1.md`; the draft instructions for the new method in `method/shadow_prompt_v0.1.md`.
-- **2026-10-26** — First author week planned: Kathy Acker (four of her books in the library, three flagged Gestext; the library's full-text index finds "Kathy Acker" in 229 books).
+- **2026-10-26** — First author week planned: Kathy Acker (later deferred, see below) (four of her books in the library, three flagged Gestext; the library's full-text index finds "Kathy Acker" in 229 books).
+- **2026-10-25** — First author changed to Elias Canetti at Johnny's request (Acker deferred). Ten Canetti titles already in the library; *Auto-da-Fé* and *Crowds and Power* being added the same night. `Author_Weeks` gained a Queue column (lowest runs next); instructions revised to v0.2 accordingly.
 
 ## Known issues
 
