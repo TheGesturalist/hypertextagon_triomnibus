@@ -19,6 +19,8 @@ Dated decisions, changes and failures. Newest last.
 - **2026-10-26** — Methods became data. Grist now has a `Methods` table (six methods: Triads, now on hand; An author and their shadow, active; Lens and specimen; News oracle; Margin and Lexicon; Mnemosyne panel), and every `Sets` row records its method (the 32 triads backfilled). New tables `Author_Weeks` (one row per author week) and `Shadow_Edges` (one row per relation found, with verified quote and location). The Triads instructions are kept verbatim in `method/triads_prompt_v1.md`; the draft instructions for the new method in `method/shadow_prompt_v0.1.md`.
 - **2026-10-26** — First author week planned: Kathy Acker (later deferred, see below) (four of her books in the library, three flagged Gestext; the library's full-text index finds "Kathy Acker" in 229 books).
 - **2026-10-25** — First author changed to Elias Canetti at Johnny's request (Acker deferred). Ten Canetti titles already in the library; *Auto-da-Fé* and *Crowds and Power* being added the same night. `Author_Weeks` gained a Queue column (lowest runs next); instructions revised to v0.2 accordingly.
+- **2026-10-25** — Decision: capture every book that mentions the week's author, not only those that reach the map. Cost tested first: the index caps results at 100 per search with no paging, but splitting the search ("Elias Canetti" with and without Kafka: 176 + 54 = 230) recovers the full list in a handful of searches. New Grist table `Mentions` (book, index snippet, query, own work, promoted to edge). Instructions revised to v0.3 (step 1c).
+- **2026-10-25** — The daily scheduled task switched from Triads (v1) to An author and their shadow (v0.3). First run: 2026-10-26, 7:24 ET, Elias Canetti, day 1.
 
 ## Known issues
 
