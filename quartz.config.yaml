@@ -151,7 +151,7 @@ plugins:
     layout:
       position: left
       priority: 50
-  - source: "@quartz-community/graph"
+  - source: "./quartz/plugins/custom/triomnibus-observatory"
     enabled: true
     layout:
       position: right

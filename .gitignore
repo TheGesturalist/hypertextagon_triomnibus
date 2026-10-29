@@ -1,0 +1,8 @@
+raw/
+._*
+.DS_Store
+__pycache__/
+node_modules/
+.quartz/
+.quartz-cache/
+public/

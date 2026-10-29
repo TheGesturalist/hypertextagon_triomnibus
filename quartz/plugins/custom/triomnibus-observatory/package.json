@@ -1,0 +1,33 @@
+{
+  "name": "triomnibus-observatory",
+  "version": "1.0.0",
+  "description": "Typed relational mini-graph and full-screen Graph Observatory modal for The Hypertext Triomnibus (replaces @quartz-community/graph).",
+  "type": "module",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components.js"
+  },
+  "peerDependencies": {
+    "preact": "^10.0.0"
+  },
+  "quartz": {
+    "name": "triomnibus-observatory",
+    "displayName": "Triomnibus Graph Observatory",
+    "description": "Typed local constellation card + full-screen Moretti/Hage-Harary Graph Observatory, Scribrarium Ghost Shelf, and Corpus Oracle.",
+    "version": "1.0.0",
+    "quartzVersion": "5.0.0",
+    "category": "component",
+    "defaultEnabled": true,
+    "components": {
+      "TriomnibusObservatory": {
+        "name": "TriomnibusObservatory",
+        "displayName": "Triomnibus Graph Observatory",
+        "description": "Typed local relational card and full-screen Graph Observatory launcher",
+        "version": "1.0.0",
+        "defaultPosition": "right",
+        "defaultPriority": 10
+      }
+    }
+  }
+}

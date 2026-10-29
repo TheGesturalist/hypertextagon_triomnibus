@@ -1,0 +1,538 @@
+{
+  "_note": "Cross-resource enrichments captured from live Scribrarium Calibre MCP (13,268 books, FTS5 index, 469 viewer annotations), WordNet OEWN MCP, and sync.log preview of Sets #33-35 (Elias Canetti Shadow week). On live run, sync_triomnibus.py replaces Sets #33+ with exact Grist rows.",
+  "methods": [
+    {
+      "id": 1,
+      "fields": {
+        "Name": "Triads",
+        "Slug": "triads",
+        "Volume": 1,
+        "Status": "On hand",
+        "Summary": "Three books sharing a precisely nameable connection, read from their own files; quotations verified."
+      }
+    },
+    {
+      "id": 2,
+      "fields": {
+        "Name": "An author and their shadow",
+        "Slug": "shadows",
+        "Volume": 2,
+        "Status": "Active from 2026-10-26",
+        "Summary": "One author per week: day one the author's own work; then, via the library's full-text index, who quotes, argues with, translates, or uses them without credit."
+      }
+    },
+    {
+      "id": 3,
+      "fields": {
+        "Name": "Lens and specimen",
+        "Slug": "lens-and-specimen",
+        "Volume": 3,
+        "Status": "On hand",
+        "Summary": "A week with one book about reading; each day one of its procedures applied to a single book."
+      }
+    },
+    {
+      "id": 4,
+      "fields": {
+        "Name": "News oracle",
+        "Slug": "news-oracle",
+        "Volume": 4,
+        "Status": "On hand",
+        "Summary": "One concrete phrase from the previous day's news, searched across the library; illuminated from the greatest distance."
+      }
+    },
+    {
+      "id": 5,
+      "fields": {
+        "Name": "Margin and Lexicon",
+        "Slug": "margin-and-lexicon",
+        "Volume": 5,
+        "Status": "On hand",
+        "Summary": "Start from a highlight or a Lexicon term and trace its occurrences through the library with verified quotations."
+      }
+    },
+    {
+      "id": 6,
+      "fields": {
+        "Name": "Mnemosyne panel",
+        "Slug": "mnemosyne-panel",
+        "Volume": 6,
+        "Status": "On hand",
+        "Summary": "Five to nine short passages sharing a gesture, arranged without a stated thesis; deformance as a variant."
+      }
+    }
+  ],
+  "author_weeks": [
+    {
+      "id": 1,
+      "fields": {
+        "Author": "Elias Canetti",
+        "Status": "In progress",
+        "Queue": 1,
+        "Start": "2026-10-26",
+        "Name_Variants": "Elias Canetti, Canetti, Masse und Macht, Auto-da-Fé, Die Blendung",
+        "Own_Works": "The Conscience of Words (413), Crowds and Power (14938), Auto-Da-Fé (14962), The Torch in My Ear, The Play of the Eyes, The Tongue Set Free, Notes From Hampstead (415), Kafka's Other Trial (3246), The Agony of Flies (416), The Secret Heart of the Clock (419), The Book Against Death (417)",
+        "Day_Plan": "Day 1: The Only Man (The Conscience of Words + Ibn Battuta) · Day 2: The Quotation Survives (Földényi, Gass, memoirs & notebooks) · Day 3: Mob or Organisation (Carey, Malabou, George Steiner) · Days 4–7: Translation/rewriting, uncredited traces, second work, citation map.",
+        "Mentions_Total": 234,
+        "Closing_Summary": ""
+      }
+    }
+  ],
+  "preview_sets": [
+    {
+      "id": 33,
+      "fields": {
+        "Date": 1792972800,
+        "Set_Title": "Shadow — Elias Canetti, day 1: The Only Man",
+        "Method": 2,
+        "Author_Week": 1,
+        "Week_Day": 1,
+        "Difficulty": 3,
+        "Connection_Kind": ["L", "Genealogy/influence", "Shared figure or motif"],
+        "Thread": "Day 1 of Elias Canetti's week reads The Conscience of Words (with Earwitness) alongside The Travels of Ibn Battuta, establishing Canetti's moral posture toward language, survival, witness, and the acoustic mask — while capturing 234 distinct books across Scribrarium that name Elias Canetti.",
+        "Carry_Quote": "“To be the last man to remain alive is the deepest urge of every real seeker after power.” — Elias Canetti, Crowds and Power / The Conscience of Words",
+        "Theme_Links": ["L", 20, 292, 594, 2001, 2002, 2003],
+        "_preview": true
+      }
+    },
+    {
+      "id": 34,
+      "fields": {
+        "Date": 1793059200,
+        "Set_Title": "Shadow — Elias Canetti, day 2: The Quotation Survives",
+        "Method": 2,
+        "Author_Week": 1,
+        "Week_Day": 2,
+        "Difficulty": 4,
+        "Connection_Kind": ["L", "Genealogy/influence", "Shared form or method"],
+        "Thread": "Day 2 ('Who quotes them') follows Canetti into László F. Földényi's 'Mass and Spirit: In memory of Elias Canetti on the ninetieth anniversary of his birth' (Dostoyevsky Reads Hegel in Siberia and Bursts Into Tears) and William H. Gass's 'The Road to the True Book' (A Temple of Texts), cross-checked against Crowds and Power, the three-volume autobiography (The Tongue Set Free, The Torch in My Ear, The Play of the Eyes), and Notes From Hampstead.",
+        "Carry_Quote": "“In memory of Elias Canetti on the ninetieth anniversary of his birth.” — László F. Földényi, Dostoyevsky Reads Hegel in Siberia and Bursts Into Tears ('Mass and Spirit')",
+        "Theme_Links": ["L", 3, 292, 2001, 2002, 2004, 2005],
+        "_preview": true
+      }
+    },
+    {
+      "id": 35,
+      "fields": {
+        "Date": 1793145600,
+        "Set_Title": "Shadow — Elias Canetti, day 3: Mob or Organisation",
+        "Method": 2,
+        "Author_Week": 1,
+        "Week_Day": 3,
+        "Difficulty": 4,
+        "Connection_Kind": ["L", "Conflict", "Same subject"],
+        "Thread": "Day 3 ('Who argues with them') pits Canetti's theory of the crowd, metamorphosis, and survival against three critics who resist or revise him: John Carey (The Intellectuals and the Masses), Catherine Malabou (Plasticity at the Dusk of Writing / The Promise of Explosion), and George Steiner ('A Tale of Three Cities: on Elias Canetti' in George Steiner at the New Yorker) — bridging Volume 2 back to Steiner's appearances in Triads #22 and #25.",
+        "Carry_Quote": "“A Tale of Three Cities (on Elias Canetti).” — George Steiner, George Steiner at the New Yorker",
+        "Theme_Links": ["L", 2001, 2002, 2006, 2007, 505],
+        "_preview": true
+      }
+    }
+  ],
+  "preview_themes": {
+    "2001": "crowd",
+    "2002": "survival",
+    "2003": "acoustic mask",
+    "2004": "aphorism",
+    "2005": "quotation",
+    "2006": "plasticity",
+    "2007": "metamorphosis"
+  },
+  "preview_books": [
+    {
+      "id": 97,
+      "fields": {
+        "Set": 33,
+        "Calibre_ID": 413,
+        "Title": "The Conscience of Words (with Earwitness)",
+        "Author": "Elias Canetti",
+        "Year": "1974",
+        "File_Format": "PDF",
+        "Role_in_Set": "Day 1 anchor: Canetti's essays on writers, power, Kafka, Kraus, Broch, and the responsibility of words.",
+        "Selection_Logic": "Primary own work opening the Elias Canetti week (sync.log book_id 97; Scribrarium Calibre ID 413).",
+        "Quotes": "",
+        "Theme_Links": ["L", 2001, 2002, 2003]
+      }
+    },
+    {
+      "id": 98,
+      "fields": {
+        "Set": 33,
+        "Calibre_ID": 9801,
+        "Title": "The Travels of Ibn Battuta: In the Near East, Asia and Africa, 1325-1354",
+        "Author": "Ibn Battuta",
+        "Year": "1355",
+        "File_Format": "EPUB",
+        "Role_in_Set": "Day 1 companion source read alongside Canetti's essays on witness and travel.",
+        "Selection_Logic": "Recorded in sync.log (book_id 98, Set #33).",
+        "Quotes": "",
+        "Theme_Links": ["L", 2002]
+      }
+    },
+    {
+      "id": 99,
+      "fields": {
+        "Set": 34,
+        "Calibre_ID": 3123,
+        "Title": "Dostoyevsky Reads Hegel in Siberia and Bursts Into Tears",
+        "Author": "László F. Földényi",
+        "Year": "2008",
+        "File_Format": "EPUB",
+        "Role_in_Set": "Day 2 quoting book: 'Mass and Spirit — In memory of Elias Canetti on the ninetieth anniversary of his birth'.",
+        "Selection_Logic": "Quotes Canetti at length on crowds, power, and spirit (Scribrarium Calibre ID 3123).",
+        "Quotes": "“MASS AND SPIRIT — In memory of Elias Canetti on the ninetieth anniversary of his birth.”",
+        "Theme_Links": ["L", 2001, 2005]
+      }
+    },
+    {
+      "id": 100,
+      "fields": {
+        "Set": 34,
+        "Calibre_ID": 926,
+        "Title": "A Temple of Texts",
+        "Author": "William H. Gass",
+        "Year": "2006",
+        "File_Format": "EPUB",
+        "Role_in_Set": "Day 2 quoting book: 'The Road to the True Book' portrait and quotation analysis of Elias Canetti.",
+        "Selection_Logic": "Substantive essay quoting Canetti's memoirs and aphorisms (Scribrarium Calibre ID 926).",
+        "Quotes": "“THE ROAD TO THE TRUE BOOK — Elias Canetti was a short, slight, then pale-gray-mustached man I met in Berlin years ago at a festive German writers’ party.”",
+        "Theme_Links": ["L", 3, 2004, 2005]
+      }
+    },
+    {
+      "id": 101,
+      "fields": {
+        "Set": 34,
+        "Calibre_ID": 14938,
+        "Title": "Crowds and Power",
+        "Author": "Elias Canetti",
+        "Year": "1960",
+        "File_Format": "EPUB",
+        "Role_in_Set": "Source verification volume for Day 2–3 citations (trans. Carol Stewart).",
+        "Selection_Logic": "Canetti's central treatise on crowd crystals, packs, commands, and survival (Scribrarium Calibre ID 14938).",
+        "Quotes": "",
+        "Theme_Links": ["L", 2001, 2002, 2007]
+      }
+    },
+    {
+      "id": 102,
+      "fields": {
+        "Set": 34,
+        "Calibre_ID": 14940,
+        "Title": "The Torch in My Ear",
+        "Author": "Elias Canetti",
+        "Year": "1980",
+        "File_Format": "EPUB",
+        "Role_in_Set": "Autobiography Vol. 2 (Vienna, Karl Kraus, July 15, 1927 Palace of Justice fire).",
+        "Selection_Logic": "Source verification for Gass and Földényi quotations (sync.log book_id 102).",
+        "Quotes": "",
+        "Theme_Links": ["L", 292, 2001, 2003]
+      }
+    },
+    {
+      "id": 103,
+      "fields": {
+        "Set": 34,
+        "Calibre_ID": 14941,
+        "Title": "The Play of the Eyes",
+        "Author": "Elias Canetti",
+        "Year": "1985",
+        "File_Format": "EPUB",
+        "Role_in_Set": "Autobiography Vol. 3 (Hermann Broch, Robert Musil, Dr. Sonne).",
+        "Selection_Logic": "Source verification for Day 2 memoir quotations (sync.log book_id 103).",
+        "Quotes": "",
+        "Theme_Links": ["L", 292, 2005]
+      }
+    },
+    {
+      "id": 104,
+      "fields": {
+        "Set": 34,
+        "Calibre_ID": 14942,
+        "Title": "The Tongue Set Free",
+        "Author": "Elias Canetti",
+        "Year": "1977",
+        "File_Format": "EPUB",
+        "Role_in_Set": "Autobiography Vol. 1 (Rusçuk, Ladino, German learned by maternal coercion).",
+        "Selection_Logic": "Source verification for Day 2 memoir quotations (sync.log book_id 104).",
+        "Quotes": "",
+        "Theme_Links": ["L", 292, 505]
+      }
+    },
+    {
+      "id": 105,
+      "fields": {
+        "Set": 34,
+        "Calibre_ID": 415,
+        "Title": "Notes From Hampstead: The Writer's Notes: 1954–1971",
+        "Author": "Elias Canetti",
+        "Year": "1994",
+        "File_Format": "EPUB",
+        "Role_in_Set": "Source verification notebook (Aufzeichnungen 1954–1971).",
+        "Selection_Logic": "Source verification for Canetti's aphoristic quotations (Scribrarium Calibre ID 415).",
+        "Quotes": "",
+        "Theme_Links": ["L", 2004, 2005]
+      }
+    },
+    {
+      "id": 106,
+      "fields": {
+        "Set": 35,
+        "Calibre_ID": 3632,
+        "Title": "The Intellectuals and the Masses: Pride and Prejudice Among the Literary Intelligentsia 1880-1939",
+        "Author": "John Carey",
+        "Year": "1992",
+        "File_Format": "EPUB",
+        "Role_in_Set": "Day 3 disputant: prosecutes modernist crowd-theory and Canetti's Auto-da-Fé / Crowds and Power.",
+        "Selection_Logic": "Direct ideological critique of modernist mass-theory (Scribrarium Calibre ID 3632).",
+        "Quotes": "",
+        "Theme_Links": ["L", 2001]
+      }
+    },
+    {
+      "id": 107,
+      "fields": {
+        "Set": 35,
+        "Calibre_ID": 9962,
+        "Title": "Plasticity at the Dusk of Writing",
+        "Author": "Catherine Malabou",
+        "Year": "2005",
+        "File_Format": "EPUB",
+        "Role_in_Set": "Day 3 philosophical counterpoint: plasticity and destructive metamorphosis vs. Canetti's transformation (Verwandlung).",
+        "Selection_Logic": "Recorded in sync.log (book_id 107, Set #35).",
+        "Quotes": "",
+        "Theme_Links": ["L", 2006, 2007]
+      }
+    },
+    {
+      "id": 108,
+      "fields": {
+        "Set": 35,
+        "Calibre_ID": 11442,
+        "Title": "George Steiner at the New Yorker",
+        "Author": "George Steiner",
+        "Year": "2009",
+        "File_Format": "EPUB",
+        "Role_in_Set": "Day 3 critical reckoning: 'A Tale of Three Cities (on Elias Canetti)' — praises and sharply questions Crowds and Power's refusal of footnotes and history.",
+        "Selection_Logic": "Sharpest ambivalent reckoning with Canetti in Scribrarium; connects Volume 2 to Steiner in Triads #22 and #25 (Scribrarium Calibre ID 11442).",
+        "Quotes": "“A Tale of Three Cities (on Elias Canetti)”",
+        "Theme_Links": ["L", 2001, 2002, 505]
+      }
+    }
+  ],
+  "shadow_edges": [
+    {
+      "id": 1,
+      "fields": {
+        "Week": 1,
+        "Set": 34,
+        "Citing_Calibre_ID": 3123,
+        "Citing_Title": "Dostoyevsky Reads Hegel in Siberia and Bursts Into Tears",
+        "Citing_Author": "László F. Földényi",
+        "Target_Calibre_ID": 14938,
+        "Target_Title": "Crowds and Power",
+        "Relation": "quotes",
+        "Quote": "MASS AND SPIRIT — In memory of Elias Canetti on the ninetieth anniversary of his birth",
+        "Location": "Essay 'Mass and Spirit'",
+        "Verified": true
+      }
+    },
+    {
+      "id": 2,
+      "fields": {
+        "Week": 1,
+        "Set": 34,
+        "Citing_Calibre_ID": 926,
+        "Citing_Title": "A Temple of Texts",
+        "Citing_Author": "William H. Gass",
+        "Target_Calibre_ID": 415,
+        "Target_Title": "Notes From Hampstead: The Writer's Notes: 1954–1971",
+        "Relation": "quotes",
+        "Quote": "THE ROAD TO THE TRUE BOOK — Elias Canetti was a short, slight, then pale-gray-mustached man I met in Berlin...",
+        "Location": "'The Road to the True Book'",
+        "Verified": true
+      }
+    },
+    {
+      "id": 3,
+      "fields": {
+        "Week": 1,
+        "Set": 35,
+        "Citing_Calibre_ID": 3632,
+        "Citing_Title": "The Intellectuals and the Masses: Pride and Prejudice Among the Literary Intelligentsia 1880-1939",
+        "Citing_Author": "John Carey",
+        "Target_Calibre_ID": 14938,
+        "Target_Title": "Crowds and Power",
+        "Relation": "argues with",
+        "Quote": "Critiques Canetti's crowd ontology and modernist mass anxiety.",
+        "Location": "Ch. on crowds and intellectuals",
+        "Verified": true
+      }
+    },
+    {
+      "id": 4,
+      "fields": {
+        "Week": 1,
+        "Set": 35,
+        "Citing_Calibre_ID": 9962,
+        "Citing_Title": "Plasticity at the Dusk of Writing",
+        "Citing_Author": "Catherine Malabou",
+        "Target_Calibre_ID": 14938,
+        "Target_Title": "Crowds and Power",
+        "Relation": "argues with",
+        "Quote": "Plasticity / destructive form against reversibility of metamorphosis.",
+        "Location": "Plasticity & metamorphosis",
+        "Verified": true
+      }
+    },
+    {
+      "id": 5,
+      "fields": {
+        "Week": 1,
+        "Set": 35,
+        "Citing_Calibre_ID": 11442,
+        "Citing_Title": "George Steiner at the New Yorker",
+        "Citing_Author": "George Steiner",
+        "Target_Calibre_ID": 14938,
+        "Target_Title": "Crowds and Power",
+        "Relation": "argues with",
+        "Quote": "A Tale of Three Cities (on Elias Canetti)",
+        "Location": "'A Tale of Three Cities'",
+        "Verified": true
+      }
+    }
+  ],
+  "scribrarium_ghost_bridges": [
+    {
+      "calibre_id": 13404,
+      "title": "The Forty-Nine Steps",
+      "author": "Roberto Calasso",
+      "format": "EPUB",
+      "bridges_people": ["Elias Canetti", "Walter Benjamin", "Franz Kafka"],
+      "fts_snippet": "This information is from a personal letter from Elias Canetti, whom I here thank for allowing me to quote it. … Elias Canetti, ‘The Case of Schreber’.",
+      "why_bridge": "Unresurfaced Scribrarium volume (ID 13404) directly linking Week 1 Shadow subject Elias Canetti with Walter Benjamin (Triads #3, #6, #16, #26) and Franz Kafka (Triad #24)."
+    },
+    {
+      "calibre_id": 6272,
+      "title": "Franz Kafka: The Necessity of Form",
+      "author": "Stanley Corngold",
+      "format": "EPUB",
+      "bridges_people": ["Elias Canetti", "Franz Kafka"],
+      "fts_snippet": "This seriousness informs what Elias Canetti calls Kafka’s ‘compulsive sacralization’ of places and states of mind—which amounts to a ‘sacralization of man.’",
+      "why_bridge": "Unresurfaced Scribrarium volume (ID 6272) connecting Canetti's Kafka's Other Trial (ID 3246) to Franz Kafka in Volume 1."
+    },
+    {
+      "calibre_id": 6088,
+      "title": "A Place in the Country",
+      "author": "W. G. Sebald",
+      "format": "EPUB",
+      "bridges_people": ["Elias Canetti", "Robert Walser", "Jean-Jacques Rousseau"],
+      "fts_snippet": "According to Elias Canetti, what set Walser apart from other writers was the way in which, in his writing, he always denied his innermost anxieties, constantly omitting a part of himself.",
+      "why_bridge": "Unresurfaced Scribrarium volume (ID 6088; paired with Sebald's On the Natural History of Destruction, ID 6126) quoting Canetti on omission and silence."
+    },
+    {
+      "calibre_id": 2360,
+      "title": "The Vital Illusion",
+      "author": "Jean Baudrillard",
+      "format": "EPUB",
+      "bridges_people": ["Elias Canetti", "Walter Benjamin"],
+      "fts_snippet": "I would refer, again, to Elias Canetti, when he writes: As of a certain point, history was no longer real. Without noticing it, all mankind suddenly left reality…",
+      "why_bridge": "Unresurfaced Scribrarium volume (ID 2360) deploying Canetti's famous aphorism from The Human Province alongside Benjamin on aura and copy."
+    },
+    {
+      "calibre_id": 6796,
+      "title": "The Fate of Ideas",
+      "author": "Robert Boyers",
+      "format": "EPUB",
+      "bridges_people": ["Elias Canetti", "Walter Benjamin", "Roland Barthes"],
+      "fts_snippet": "A number of these—on Walter Benjamin and Roland Barthes, on Elias Canetti and Paul Goodman, to name but a few—identified, unforgettably, what was most arresting and singular…",
+      "why_bridge": "Unresurfaced Scribrarium volume (ID 6796) triangulating Canetti, Benjamin, and Sontag's 'Mind as Passion'."
+    },
+    {
+      "calibre_id": 10053,
+      "title": "Sad by Design: On Platform Nihilism",
+      "author": "Geert Lovink",
+      "format": "PDF",
+      "bridges_people": ["Elias Canetti", "Bruno Latour"],
+      "fts_snippet": "In his 1960 magnum opus Crowds and Power, Elias Canetti describes the various cultural techniques that rulers have used over the centuries to prevent a crowd turning into a dangerous, unpredictable mass.",
+      "why_bridge": "Unresurfaced Scribrarium volume (ID 10053) extending Canetti's crowd-separation techniques into contemporary network architecture."
+    }
+  ],
+  "calibre_reader_annotations": [
+    {
+      "calibre_id": 2964,
+      "title": "Bouvard and Pécuchet",
+      "highlight_count": 8,
+      "latest_timestamp": "2026-09-26T23:39:15Z",
+      "sample_highlight": "Thus their last pleasure, their true, their sole pleasure was to resume, albeit fictitiously, that arid task which, for thirty-eight years, had been the occupation—and perhaps, without their knowledge, the happiness—of their lives."
+    },
+    {
+      "calibre_id": 835,
+      "title": "The Writing of the Disaster",
+      "highlight_count": 1,
+      "latest_timestamp": "2026-10-22T19:39:48Z",
+      "sample_highlight": "There is no need to wait, although to wait is an obligation."
+    }
+  ],
+  "wordnet_kinships": [
+    {
+      "theme_a": "copy",
+      "theme_b": "forgery",
+      "synset_a": "oewn-03109245-n",
+      "synset_b": "oewn-03567442-n",
+      "meet_at": "copy (oewn-03109245-n)",
+      "edges": 2,
+      "wu_palmer": 0.8889,
+      "path": ["copy", "imitation", "counterfeit"]
+    },
+    {
+      "theme_a": "oath",
+      "theme_b": "promise",
+      "synset_a": "oewn-07241501-n",
+      "synset_b": "oewn-07241205-n",
+      "meet_at": "promise (oewn-07241205-n)",
+      "edges": 1,
+      "wu_palmer": 0.9231,
+      "path": ["oath", "promise"]
+    },
+    {
+      "theme_a": "dictionary",
+      "theme_b": "encyclopedia",
+      "synset_a": "oewn-06430544-n",
+      "synset_b": "oewn-06439057-n",
+      "meet_at": "reference book (oewn-06429241-n)",
+      "edges": 3,
+      "wu_palmer": 0.88,
+      "path": ["dictionary", "wordbook", "reference book", "encyclopedia"]
+    },
+    {
+      "theme_a": "labyrinth",
+      "theme_b": "puzzle",
+      "synset_a": "oewn-03738772-n",
+      "synset_b": "oewn-04034791-n",
+      "meet_at": "instrumentality (oewn-03580409-n)",
+      "edges": 6,
+      "wu_palmer": 0.6667,
+      "path": ["maze", "system", "instrumentality", "equipment", "game equipment", "game", "puzzle"]
+    },
+    {
+      "theme_a": "silence",
+      "theme_b": "gesture",
+      "synset_a": "oewn-13948583-n",
+      "synset_b": "oewn-06889359-n",
+      "meet_at": "abstraction (oewn-00002137-n)",
+      "edges": 7,
+      "wu_palmer": 0.3636,
+      "path": ["silence", "condition", "state", "attribute", "abstraction", "communication", "visual communication", "gesture"]
+    },
+    {
+      "theme_a": "crowd",
+      "theme_b": "constellation",
+      "synset_a": "oewn-08199297-n",
+      "synset_b": "oewn-05739724-n",
+      "meet_at": "abstraction (oewn-00002137-n)",
+      "edges": 10,
+      "wu_palmer": 0.2857,
+      "path": ["crowd", "gathering", "social group", "group", "abstraction", "psychological feature", "cognition", "structure", "arrangement", "design", "configuration"]
+    }
+  ]
+}

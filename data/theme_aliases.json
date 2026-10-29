@@ -1,0 +1,17 @@
+{
+  "_note": "Canonical merges for near-duplicate theme variants identified across Volume 1 & Volume 2 (process-log.md Known Issue).",
+  "canonical_map": {
+    "Sabbatai Zevi": "Sabbatai Ṣevi",
+    "acephale": "Acéphale",
+    "spectators": "spectator",
+    "machines": "machine",
+    "photographs": "photography",
+    "posthumous editing": "posthumous edition",
+    "pass-word": "password",
+    "male-diction": "malediction",
+    "bene-diction": "benediction",
+    "pavilions as cosmology": "cosmology of pavilions",
+    "time turned into space": "time into space",
+    "Nazi bureaucratic language": "Nazi language"
+  }
+}

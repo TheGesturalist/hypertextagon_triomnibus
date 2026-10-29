@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Graph Observatory — The Hypertext Triomnibus</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./observatory.css" />
+</head>
+<body>
+  <div class="obs-app">
+    <!-- ==================== TOP COMMAND HEADER ==================== -->
+    <header class="obs-topbar">
+      <div class="obs-brand">
+        <a class="back-link" href="../../index.html" id="back-to-site-link" title="Return to The Hypertext Triomnibus">← Triomnibus</a>
+        <h1>Graph Observatory</h1>
+        <span class="obs-sub" id="corpus-subtitle">Scribrarium Vol. 1 &amp; Vol. 2 · Structural Cartography</span>
+      </div>
+
+      <nav class="obs-modes" aria-label="Projection Layout">
+        <button class="mode-btn active" data-layout="force" title="Force-directed relational constellation (apparatus hubs excluded)">1·Constellation</button>
+        <button class="mode-btn" data-layout="strata" title="Tripartite operational wiring: Readings → Books → People &amp; Themes">2·Strata</button>
+        <button class="mode-btn" data-layout="chronicle" title="Chronological Day 1→35 Perec walk with author, theme &amp; Shadow arcs">3·Chronicle</button>
+        <button class="mode-btn" data-layout="ego" title="Concentric Chavruta / Shadow ego rings around selected node">4·Chavruta</button>
+        <button class="mode-btn" data-layout="ledger" title="Sortable Hage &amp; Harary structural metrics matrix">5·Ledger</button>
+      </nav>
+
+      <div class="obs-actions">
+        <button class="btn btn-warn" id="btn-horatio-mode" title="Highlight 2-Core Macro Cutpoints ('Horatios') &amp; Structural Bridges (Triad #32)">◎ Horatios</button>
+        <button class="btn btn-oracle" id="btn-open-oracle" title="Ask structural, thematic, or quotation questions across the corpus">✦ Oracle</button>
+        <button class="btn" id="btn-export-md" title="Export visible or selected subgraph as a Markdown Reading Bench">↓ Bench</button>
+        <button class="btn" id="btn-export-svg" title="Export crisp vector diagram of current projection">↓ SVG</button>
+        <button class="btn" id="btn-theme-toggle" aria-label="Toggle Light/Dark Mode">◐</button>
+      </div>
+    </header>
+
+    <!-- ==================== TELEMETRY & TEMPORAL SCRUBBER BAR ==================== -->
+    <div class="obs-labbar">
+      <div class="telemetry-strip" id="telemetry-strip">
+        <span class="stat-pill">Vertices: <strong id="stat-nodes">0</strong></span>
+        <span class="stat-pill">Edges: <strong id="stat-edges">0</strong></span>
+        <span class="stat-pill">Components: <strong id="stat-comps">1</strong></span>
+        <span class="stat-pill">Giant Comp: <strong id="stat-giant">100%</strong></span>
+        <span class="stat-pill">2-Core Horatios: <strong id="stat-horatios">4</strong></span>
+        <span class="stat-pill" id="stat-ablated-pill" style="display:none">Ablated: <strong id="stat-ablated">0</strong></span>
+      </div>
+
+      <div class="scrubber-wrap">
+        <span>Accretion:</span>
+        <input type="range" id="day-scrubber" min="1" max="35" value="35" aria-label="Resurfacing Day Scrubber" />
+        <strong id="day-scrubber-label">Day 35 / 35 (Oct 28)</strong>
+        <button class="btn" id="btn-play-days" style="padding:2px 7px">▶</button>
+      </div>
+    </div>
+
+    <!-- ==================== 3-PANE WORKSPACE ==================== -->
+    <main class="obs-workspace" id="obs-workspace">
+      <!-- LEFT RAIL: DATA MANIPULATION, EDGE RULES & VISUAL STUDIO -->
+      <aside class="obs-left" aria-label="Graph Manipulation Controls">
+        <section class="panel-sec">
+          <div class="sec-hdr">
+            <span class="sec-title">Search &amp; Spotlight</span>
+            <button class="btn" id="btn-reset-all" style="padding:2px 6px;font-size:10px">Reset All</button>
+          </div>
+          <input type="search" id="search-box" class="search-input" placeholder="Filter title, thinker, quote, Calibre ID…" />
+        </section>
+
+        <section class="panel-sec">
+          <div class="sec-hdr">
+            <span class="sec-title">Entity Layers</span>
+          </div>
+          <div class="layer-list">
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-layer="triad" checked /><span class="swatch diamond" style="background:var(--node-triad)"></span>Vol. 1: Triads</span>
+              <span class="count-badge" id="cnt-triad">32</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-layer="shadow" checked /><span class="swatch diamond" style="background:var(--node-shadow)"></span>Vol. 2: Author &amp; Shadow</span>
+              <span class="count-badge" id="cnt-shadow">4</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-layer="book" checked /><span class="swatch circle" style="background:var(--node-book)"></span>Resurfaced Books</span>
+              <span class="count-badge" id="cnt-book">108</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-layer="person" checked /><span class="swatch" style="background:var(--node-person)"></span>People (Authors/Trans.)</span>
+              <span class="count-badge" id="cnt-person">177</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-layer="theme" checked /><span class="swatch circle" style="background:var(--node-theme)"></span>Themes (Canonical)</span>
+              <span class="count-badge" id="cnt-theme">44</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-layer="ghost_book" checked /><span class="swatch ghost"></span>Scribrarium Ghost Shelf</span>
+              <span class="count-badge" id="cnt-ghost">6</span>
+            </label>
+          </div>
+
+          <div class="slider-row">
+            <div class="slider-row-hdr">
+              <span>Min Readings per Theme</span>
+              <strong id="min-theme-val">≥ 2 readings</strong>
+            </div>
+            <input type="range" id="min-theme-sets" min="1" max="4" value="2" />
+            <div class="hint-note" id="theme-filter-note">Hides 1,054 single-day leaf themes that caused the stock hairball.</div>
+          </div>
+        </section>
+
+        <section class="panel-sec">
+          <div class="sec-hdr">
+            <span class="sec-title">Edge Rules (Triad #32)</span>
+          </div>
+          <div class="layer-list">
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-edge="in_set" checked />Reading Membership</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-edge="credit_author" checked />Authorship</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-edge="credit_translator" checked />Translators &amp; Editors</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-edge="shadow" checked />Shadow Quotes &amp; Disputes</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-edge="has_theme" checked />Theme Links</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-edge="wordnet_kin" checked />WordNet OEWN Kinship</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-edge="ghost_bridge" checked />Scribrarium FTS Bridges</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-edge="shared_theme" />Direct Set↔Set Co-Theme</span>
+            </label>
+            <label class="layer-row">
+              <span class="layer-left"><input type="checkbox" data-edge="sequence" />Chronological Perec Walk</span>
+            </label>
+          </div>
+        </section>
+
+        <section class="panel-sec">
+          <div class="sec-hdr">
+            <span class="sec-title">Visual Encoding &amp; Physics</span>
+          </div>
+          <div class="ctrl-grid">
+            <div>
+              <label class="ctrl-label" for="sel-color-by">Color By</label>
+              <select id="sel-color-by" class="select-ctrl">
+                <option value="type">Entity &amp; Role</option>
+                <option value="method">Method (Vol. 1 vs 2)</option>
+                <option value="difficulty">Difficulty (1–5)</option>
+                <option value="betweenness">Betweenness Heat</option>
+              </select>
+            </div>
+            <div>
+              <label class="ctrl-label" for="sel-size-by">Size By</label>
+              <select id="sel-size-by" class="select-ctrl">
+                <option value="betweenness">Betweenness (C_B)</option>
+                <option value="degree">Degree (k)</option>
+                <option value="quotes">Verified Quotes</option>
+                <option value="uniform">Uniform</option>
+              </select>
+            </div>
+          </div>
+          <div class="slider-row">
+            <div class="slider-row-hdr">
+              <span>Label Density</span>
+              <strong id="label-density-val">Smart Hubs</strong>
+            </div>
+            <input type="range" id="label-density" min="1" max="4" value="2" />
+          </div>
+          <div class="slider-row">
+            <div class="slider-row-hdr">
+              <span>Repulsion Spread</span>
+              <strong id="repulsion-val">1.0×</strong>
+            </div>
+            <input type="range" id="repulsion-slider" min="50" max="200" value="100" />
+          </div>
+        </section>
+      </aside>
+
+      <!-- CENTER STAGE: INTERACTIVE CANVAS + LEDGER + BANNERS -->
+      <section class="obs-stage" id="obs-stage">
+        <div class="ablation-banner" id="ablation-banner">
+          <span id="ablation-summary">Moretti Ablation Active</span>
+          <button class="btn" id="btn-restore-ablation" style="padding:3px 8px">Restore Removed Vertices</button>
+        </div>
+
+        <div class="path-banner" id="path-banner">
+          <div style="display:flex;justify-content:space-between;align-items:center">
+            <strong class="mono" style="font-size:11px;color:var(--tertiary)" id="path-banner-title">Chavruta Dialectical Path</strong>
+            <button class="btn" id="btn-clear-path" style="padding:2px 7px;font-size:10px">Clear Path</button>
+          </div>
+          <div class="path-chain" id="path-banner-chain"></div>
+        </div>
+
+        <canvas id="graph-canvas"></canvas>
+
+        <!-- Mode 5: Structural Metrics Ledger -->
+        <div class="ledger-view" id="ledger-view">
+          <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:10px">
+            <h2>Hage &amp; Harary Structural Metrics Ledger</h2>
+            <span class="mono" style="font-size:11px;color:var(--fg-subtle)">Click column headers to sort · Click any row to inspect</span>
+          </div>
+          <table class="ledger-table" id="ledger-table">
+            <thead>
+              <tr>
+                <th data-sort="title">Vertex</th>
+                <th data-sort="type">Class / Role</th>
+                <th data-sort="sets">Readings</th>
+                <th data-sort="degree">Degree (k)</th>
+                <th data-sort="betweenness">Betweenness (C_B)</th>
+                <th data-sort="clustering">Clustering</th>
+                <th data-sort="horatio">Cutpoint</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody id="ledger-tbody"></tbody>
+          </table>
+        </div>
+
+        <div class="stage-legend">
+          <span>◆ Triad</span>
+          <span style="color:var(--warn)">❖ Author &amp; Shadow</span>
+          <span>● Book (◎ Calibre Highlights)</span>
+          <span>■ Person (▫ Translator)</span>
+          <span style="color:var(--gold)">● Bridge Theme</span>
+          <span style="color:var(--ghost)">◌ Scribrarium Ghost</span>
+        </div>
+
+        <div class="stage-zoom-controls">
+          <button class="btn" id="btn-reheat" title="Re-settle Force Layout">↻ Settle</button>
+          <button class="btn" id="btn-zoom-in" title="Zoom In">+</button>
+          <button class="btn" id="btn-zoom-out" title="Zoom Out">−</button>
+          <button class="btn" id="btn-zoom-fit" title="Fit Constellation to Viewport">⊡ Fit</button>
+        </div>
+      </section>
+
+      <!-- RIGHT PANEL: INSPECTOR, MORETTI/CHAVRUTA LAB & ORACLE Q&A -->
+      <aside class="obs-right" aria-label="Inspector, Structural Lab, and Corpus Oracle">
+        <div class="right-tabs">
+          <button class="rtab-btn active" data-rtab="inspector">Inspector</button>
+          <button class="rtab-btn" data-rtab="lab">Moretti Lab</button>
+          <button class="rtab-btn" data-rtab="oracle">✦ Oracle Q&amp;A</button>
+        </div>
+
+        <!-- TAB 1: NODE & CROSS-RESOURCE INSPECTOR -->
+        <div class="rtab-pane active" id="pane-inspector">
+          <div id="inspector-content"></div>
+        </div>
+
+        <!-- TAB 2: MORETTI ABLATION & CHAVRUTA PATHFINDER LAB -->
+        <div class="rtab-pane" id="pane-lab">
+          <section class="panel-sec">
+            <div class="sec-hdr">
+              <span class="sec-title">1 · Dialectical Pathfinder (Chavruta)</span>
+            </div>
+            <p class="hint-note" style="margin:0 0 8px">Trace the shortest chain of books, translators, themes, Shadow disputes, or WordNet synsets linking any two points in the library.</p>
+            <label class="ctrl-label" for="path-src">From Vertex A</label>
+            <select id="path-src" class="select-ctrl" style="margin-bottom:6px"></select>
+            <label class="ctrl-label" for="path-dst">To Vertex B</label>
+            <select id="path-dst" class="select-ctrl" style="margin-bottom:8px"></select>
+            <div style="display:flex;gap:6px;margin-bottom:8px">
+              <button class="btn btn-primary" id="btn-run-path" style="flex:1">Trace Shortest Path</button>
+            </div>
+            <div class="preset-chips">
+              <button class="preset-btn" data-path-preset="person:robert-burton|person:elias-canetti">Burton → Canetti</button>
+              <button class="preset-btn" data-path-preset="person:georges-perec|person:giorgio-agamben">Perec → Agamben (via Bellos)</button>
+              <button class="preset-btn" data-path-preset="person:gustave-flaubert|person:catherine-malabou">Flaubert → Malabou</button>
+              <button class="preset-btn" data-path-preset="theme:copy|theme:forgery">copy → forgery (WordNet)</button>
+            </div>
+            <div id="path-detail-box"></div>
+          </section>
+
+          <section class="panel-sec">
+            <div class="sec-hdr">
+              <span class="sec-title">2 · Moretti Vertex Ablation (Horatio Test)</span>
+            </div>
+            <p class="hint-note" style="margin:0 0 8px">In Triad #32, Moretti removes Hamlet and Horatio to test network fracture. Ablate bridges below to watch the Triomnibus split into components.</p>
+            <div class="preset-chips">
+              <button class="preset-btn" data-ablate-preset="theme:gesture">Ablate theme ‘gesture’</button>
+              <button class="preset-btn" data-ablate-preset="person:david-bellos">Ablate translator David Bellos</button>
+              <button class="preset-btn" data-ablate-preset="person:george-steiner">Ablate George Steiner (Vol 1↔2)</button>
+              <button class="preset-btn" data-ablate-preset="theme:gesture,theme:memory,person:david-bellos,person:george-steiner">Stress-Test: Remove Top 4 Bridges</button>
+            </div>
+            <div id="ablation-report-box" class="resource-card" style="margin-top:8px"></div>
+          </section>
+
+          <section class="panel-sec">
+            <div class="sec-hdr">
+              <span class="sec-title">3 · External Resource Connectors</span>
+            </div>
+            <div id="external-connectors-box"></div>
+          </section>
+        </div>
+
+        <!-- TAB 3: THE TRIOMNIBUS ORACLE (SMART CORPUS Q&A) -->
+        <div class="rtab-pane" id="pane-oracle">
+          <section class="panel-sec">
+            <div class="sec-hdr">
+              <span class="sec-title">Triomnibus Structural &amp; Textual Oracle</span>
+            </div>
+            <p class="hint-note" style="margin:0 0 8px">Answers questions over all 35 readings, 108 books, 177 people, Shadow disputes, WordNet paths, and Scribrarium Ghost-Shelf bridges—with clickable graph citations.</p>
+            <div style="display:flex;gap:5px">
+              <input type="text" id="oracle-query" class="oracle-input" placeholder="Ask about bridges, quotes, conflicts, thinkers…" />
+              <button class="btn btn-primary" id="btn-ask-oracle">Ask</button>
+            </div>
+
+            <div class="preset-chips" id="oracle-presets">
+              <button class="preset-btn" data-q="Who are the structural cutpoints (Horatios) and top betweenness bridges?">Who are the Horatios / cutpoints?</button>
+              <button class="preset-btn" data-q="Which translators bridge multiple readings across the library?">Which translators bridge readings?</button>
+              <button class="preset-btn" data-q="How does Elias Canetti's Shadow week connect back to Volume 1 Triads?">Canetti Shadow ↔ Vol. 1 bridges</button>
+              <button class="preset-btn" data-q="What unresurfaced books in Scribrarium bridge Canetti, Benjamin, and Kafka?">Unresurfaced Scribrarium Ghost Shelf</button>
+              <button class="preset-btn" data-q="Where is Conflict paired with Shared form or method, and what quotes anchor them?">Conflict + Shared Form readings</button>
+              <button class="preset-btn" data-q="What passes between copying, forgery, certificates, and dictionaries?">Copying, forgery &amp; dictionaries</button>
+              <button class="preset-btn" data-q="How does WordNet connect oblique themes like silence, gesture, crowd, and constellation?">WordNet semantic lineage paths</button>
+            </div>
+
+            <details style="margin-top:6px;font-size:11.5px;color:var(--fg-subtle)">
+              <summary class="mono" style="cursor:pointer;font-size:10.5px">Optional: BYOK Gemini Synthesis &amp; Local Scribrarium API</summary>
+              <div style="padding:8px 0;display:flex;flex-direction:column;gap:6px">
+                <label class="ctrl-label">Gemini API Key (stored only in browser localStorage; synthesizes grounded essay over retrieved subgraph)</label>
+                <input type="password" id="gemini-api-key" class="search-input" placeholder="AIza… (optional; deterministic engine runs offline)" />
+                <div class="mono" style="font-size:10px" id="local-bridge-status">Local Scribrarium Bridge (127.0.0.1:18770): checking…</div>
+              </div>
+            </details>
+
+            <div id="oracle-output"></div>
+          </section>
+        </div>
+      </aside>
+    </main>
+  </div>
+
+  <!-- Offline / file:// zero-CORS fallback payload (auto-generated alongside triomnibus-graph.json) -->
+  <script src="./observatory.js"></script>
+</body>
+</html>

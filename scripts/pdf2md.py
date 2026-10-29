@@ -13,7 +13,18 @@ Usage: python3 pdf2md.py PDF_DIR OUT_MD_DIR OUT_IMG_DIR
 """
 import sys, re, pathlib, collections
 import pymupdf
-from wordfreq import zipf_frequency
+try:
+    from wordfreq import zipf_frequency
+except ImportError:
+    _DICT_PATH = pathlib.Path("/usr/share/dict/words")
+    _DICT_WORDS = (
+        {w.strip().lower() for w in _DICT_PATH.read_text(encoding="utf-8", errors="ignore").splitlines()}
+        if _DICT_PATH.exists()
+        else set()
+    )
+
+    def zipf_frequency(word: str, _lang: str = "en") -> float:
+        return 3.0 if word.lower() in _DICT_WORDS else 0.0
 
 BODY_X = 72
 QUOTE_X = 90
