@@ -4,7 +4,7 @@ tags:
   - apparatus
 ---
 
-All 96 books resurfaced in Volume 1, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
+All 111 distinct books resurfaced across 36 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
 
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/vincenzo-binetti|Vincenzo Binetti]] (translator), [[people/cesare-casarino|Cesare Casarino]] (translator). *[[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]*. 1992 (essay); Eng. 2000. Calibre ID 13685.
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/adam-kotsko|Adam Kotsko]] (translator). *[[books/306-the-omnibus-homo-sacer-the-sacrament-of-language-a|The Omnibus Homo Sacer ('The Sacrament of Language: An Archaeology of the Oath')]]*. 2008. Calibre ID 306.
@@ -16,6 +16,7 @@ All 96 books resurfaced in Volume 1, alphabetical by first credited name. Calibr
 - [[people/joaquim-maria-machado-de-assis|Joaquim Maria Machado de Assis]], [[people/william-l-grossman|William L. Grossman]] (translator). *[[books/1138-the-alienist|The Alienist]]*. 1882. Calibre ID 1138.
 - [[people/roland-barthes|Roland Barthes]], [[people/nathalie-leger|Nathalie Léger]] (editor), [[people/richard-howard|Richard Howard]] (translator). *[[books/182-mourning-diary|Mourning Diary]]*. 1977-79 (written); 2009 (Journal de deuil). Calibre ID 182.
 - [[people/georges-bataille|Georges Bataille]], [[people/marina-galletti|Marina Galletti]] (editor), [[people/alastair-brotchie|Alastair Brotchie]] (editor), [[people/natasha-lehrer|Natasha Lehrer]] (translator), [[people/john-harman|John Harman]] (translator), [[people/meyer-barash|Meyer Barash]] (translator). *[[books/7729-the-sacred-conspiracy-the-internal-papers-of-the-s|The Sacred Conspiracy: The Internal Papers of the Secret Society of Acéphale and Lectures to the College of Sociology]]*. 1936–1939 (papers); 2017/2018 (Atlas Press edition). Calibre ID 7729.
+- [[people/ibn-battuta|Ibn Battuta]], [[people/samuel-lee|Samuel Lee]] (translator). *[[books/13883-the-travels-of-ibn-battuta-in-the-near-east-asia-a|The Travels of Ibn Battuta: In the Near East, Asia and Africa, 1325-1354]]*. 1829 (Lee translation). Calibre ID 13883.
 - [[people/john-stewart-bell|John Stewart Bell]]. *[[books/13286-speakable-and-unspeakable-in-quantum-mechanics-col|Speakable and Unspeakable in Quantum Mechanics: Collected Papers on Quantum Philosophy]]*. 1987 (2nd ed. 2004 with Aspect intro). Calibre ID 13286.
 - [[people/walter-benjamin|Walter Benjamin]], [[people/howard-eiland|Howard Eiland]] (translator), [[people/marcus-boon|Marcus Boon]] (contributor). *[[books/12603-on-hashish|On Hashish]]*. 1972. Calibre ID 12603.
 - [[people/maurice-blanchot|Maurice Blanchot]], [[people/charlotte-mandell|Charlotte Mandell]] (translator). *[[books/3315-the-book-to-come|The Book to Come]]*. 1959. Calibre ID 3315.
@@ -26,10 +27,19 @@ All 96 books resurfaced in Volume 1, alphabetical by first credited name. Calibr
 - [[people/robert-burton|Robert Burton]]. *[[books/8773-the-anatomy-of-melancholy|The Anatomy of Melancholy]]*. 1621. Calibre ID 8773.
 - [[people/heimrad-backer|Heimrad Bäcker]], [[people/patrick-greaney|Patrick Greaney]] (translator), [[people/vincent-kling|Vincent Kling]] (translator), [[people/friedrich-achleitner|Friedrich Achleitner]] (editor). *[[books/9312-transcript|Transcript]]*. 1986. Calibre ID 9312.
 - [[people/italo-calvino|Italo Calvino]], [[people/william-weaver|William Weaver]] (translator). *[[books/7787-if-on-a-winter-s-night-a-traveler|If on a Winter's Night a Traveler]]*. 1979 (Eng. 1981). Calibre ID 7787.
+- [[people/elias-canetti|Elias Canetti]], [[people/carol-stewart|Carol Stewart]] (translator). *[[books/14938-crowds-and-power|Crowds and Power]]*. 1960 (German); English 1962. Calibre ID 14938.
+- [[people/elias-canetti|Elias Canetti]], [[people/christopher-middleton|Christopher Middleton]] (translator). *[[books/3246-kafka-s-other-trial-the-letters-to-felice|Kafka's Other Trial: The Letters to Felice]]*. 1969 (English 1974). Calibre ID 3246.
+- [[people/elias-canetti|Elias Canetti]], [[people/john-hargraves|John Hargraves]] (translator). *[[books/415-notes-from-hampstead-the-writer-s-notes-19541971|Notes From Hampstead: The Writer's Notes: 1954–1971]]*. 1994 (German); English 1998. Calibre ID 415.
+- [[people/elias-canetti|Elias Canetti]], [[people/joachim-neugroschel|Joachim Neugroschel]] (translator). *[[books/413-the-conscience-of-words-with-earwitness|The Conscience of Words (with Earwitness)]]*. 1976 (German); tr. Neugroschel; Picador ed. 1987. Calibre ID 413.
+- [[people/elias-canetti|Elias Canetti]], [[people/ralph-manheim|Ralph Manheim]] (translator). *[[books/418-the-play-of-the-eyes|The Play of the Eyes]]*. 1985 (German); English 1986. Calibre ID 418.
+- [[people/elias-canetti|Elias Canetti]]. *[[books/420-the-tongue-set-free|The Tongue Set Free]]*. 1977 (German); English 1979. Calibre ID 420.
+- [[people/elias-canetti|Elias Canetti]]. *[[books/421-the-torch-in-my-ear|The Torch in My Ear]]*. 1980 (German); English 1982. Calibre ID 421.
+- [[people/john-carey|John Carey]]. *[[books/3632-the-intellectuals-and-the-masses-pride-and-prejudi|The Intellectuals and the Masses: Pride and Prejudice Among the Literary Intelligentsia 1880-1939]]*. 1992. Calibre ID 3632.
 - [[people/leonora-carrington|Leonora Carrington]], [[people/marina-warner|Marina Warner]] (contributor). *[[books/2343-down-below|Down Below]]*. 1944. Calibre ID 2343.
 - [[people/margaret-cavendish|Margaret Cavendish]]. *[[books/349-observations-upon-experimental-philosophy-extract|Observations upon Experimental Philosophy (extract: 'sky' sections)]]*. 1666 (2nd ed. 1668); file is a 15-page bilingual éditions Clinamen extract. Calibre ID 349.
 - [[people/curt-cloninger|Curt Cloninger]]. *[[books/7214-some-ways-of-making-nothing-apophatic-apparatuses|Some Ways of Making Nothing: Apophatic Apparatuses in Contemporary Art]]*. 2021. Calibre ID 7214.
 - [[people/james-cook|James Cook]], [[people/philip-edwards|Philip Edwards]] (editor), [[people/j-c-beaglehole|J. C. Beaglehole]] (editor). *[[books/4840-the-journals-of-captain-cook|The Journals of Captain Cook]]*. 1768–1779 (written); Penguin selection 1999/2003. Calibre ID 4840.
+- [[people/stanley-corngold|Stanley Corngold]]. *[[books/6272-franz-kafka-the-necessity-of-form|Franz Kafka: The Necessity of Form]]*. 1988. Calibre ID 6272.
 - [[people/harry-crews|Harry Crews]]. *[[books/10998-a-childhood-the-biography-of-a-place|A Childhood: The Biography of a Place]]*. 1978. Calibre ID 10998.
 - [[people/nicholas-dames|Nicholas Dames]]. *[[books/11289-the-chapter-a-segmented-history-from-antiquity-to|The Chapter: A Segmented History From Antiquity to the Twenty-First Century]]*. 2023. Calibre ID 11289.
 - [[people/annie-dillard|Annie Dillard]]. *[[books/580-mornings-like-this|Mornings Like This]]*. 1995. Calibre ID 580.
@@ -40,6 +50,8 @@ All 96 books resurfaced in Volume 1, alphabetical by first credited name. Calibr
 - [[people/gustave-flaubert|Gustave Flaubert]]. *[[books/2964-bouvard-and-pecuchet|Bouvard and Pécuchet]]*. 1881. Calibre ID 2964.
 - [[people/christopher-frayling|Christopher Frayling]] (editor). *[[books/4593-vampyres-genesis-and-resurrection-from-count-dracu|Vampyres: Genesis and Resurrection, from Count Dracula to Vampirella]]*. 1978 (rev. 1991; edition 2016). Calibre ID 4593.
 - [[people/brian-friel|Brian Friel]]. *[[books/6182-translations|Translations]]*. 1980. Calibre ID 6182.
+- [[people/laszlo-f-foldenyi|László F. Földényi]], [[people/ottilie-mulzet|Ottilie Mulzet]] (translator). *[[books/3123-dostoyevsky-reads-hegel-in-siberia-and-bursts-into|Dostoyevsky Reads Hegel in Siberia and Bursts Into Tears]]*. Hungarian essays 1990–2015; English 2020 (Yale UP). Calibre ID 3123.
+- [[people/william-h-gass|William H. Gass]]. *[[books/926-a-temple-of-texts|A Temple of Texts]]*. 2006 (essays; 'The Road to the True Book' first in The New Republic, Nov. 1982, revised). Calibre ID 926.
 - [[people/arnold-geulincx|Arnold Geulincx]], [[people/samuel-beckett|Samuel Beckett]] (contributor), [[people/martin-wilson|Martin Wilson]] (translator). *[[books/8067-ethics|Ethics]]*. 1665 (Treatise I); 1675 complete; Brill ed. 2006. Calibre ID 8067.
 - [[people/e-h-gombrich|E. H. Gombrich]], [[people/richard-woodfield|Richard Woodfield]] (editor). *[[books/408-the-essential-gombrich-truth-and-the-stereotype|The Essential Gombrich ('Truth and the Stereotype')]]*. 1960 (Art and Illusion ch. 2); anthology 1996. Calibre ID 408.
 - [[people/boris-groys|Boris Groys]] (editor). *[[books/80-russian-cosmism|Russian Cosmism]]*. 2018. Calibre ID 80.
@@ -57,6 +69,7 @@ All 96 books resurfaced in Volume 1, alphabetical by first credited name. Calibr
 - [[people/peter-kingsley|Peter Kingsley]]. *[[books/11256-in-the-dark-places-of-wisdom|In the Dark Places of Wisdom]]*. 1999. Calibre ID 11256.
 - [[people/heinrich-von-kleist|Heinrich von Kleist]], [[people/peter-wortsman|Peter Wortsman]] (translator). *[[books/868-selected-prose-of-heinrich-von-kleist-on-the-theat|Selected Prose of Heinrich von Kleist ('On the Theater of Marionettes')]]*. 1810 (essay); Archipelago ed. 2010. Calibre ID 868.
 - [[people/markus-krajewski|Markus Krajewski]], [[people/peter-krapp|Peter Krapp]] (translator). *[[books/8480-paper-machines-about-cards-catalogs-1548-1929|Paper Machines: About Cards & Catalogs, 1548-1929]]*. 2002. Calibre ID 8480.
+- [[people/karl-kraus|Karl Kraus]], [[people/jonathan-franzen|Jonathan Franzen]] (translator), [[people/paul-reitter|Paul Reitter]] (contributor), [[people/daniel-kehlmann|Daniel Kehlmann]] (contributor). *[[books/401-the-kraus-project|The Kraus Project]]*. 2013. Calibre ID 401.
 - [[people/karl-kraus|Karl Kraus]], [[people/fred-bridgham|Fred Bridgham]] (translator), [[people/edward-timms|Edward Timms]] (translator). *[[books/6351-the-last-days-of-mankind-the-complete-text|The Last Days of Mankind: The Complete Text]]*. 1922. Calibre ID 6351.
 - [[people/rosalind-e-krauss|Rosalind E. Krauss]]. *[[books/729-the-originality-of-the-avant-garde-and-other-moder|The Originality of the Avant-Garde and Other Modernist Myths]]*. 1985 (title essay October 18, 1981). Calibre ID 729.
 - [[people/frank-kuppner|Frank Kuppner]]. *[[books/2912-arioflotga|Arioflotga]]*. 2008. Calibre ID 2912.
@@ -65,6 +78,7 @@ All 96 books resurfaced in Volume 1, alphabetical by first credited name. Calibr
 - [[people/nikolai-leskov|Nikolai Leskov]], [[people/william-edgerton|William Edgerton]] (translator). *[[books/2800-lady-macbeth-of-mtsensk-selected-stories-of-nikola|Lady Macbeth of Mtsensk: Selected Stories of Nikolai Leskov ('The Steel Flea')]]*. 1881 ('The Steel Flea'); Edgerton trans. 1969; NYRB selection. Calibre ID 2800.
 - [[people/edouard-leve|Édouard Levé]], [[people/jan-steyn|Jan Steyn]] (translator). *[[books/252-works|Works]]*. 2002. Calibre ID 252.
 - [[people/dale-maharidge|Dale Maharidge]], [[people/michael-williamson|Michael Williamson]] (contributor). *[[books/10207-and-their-children-after-them|And Their Children After Them]]*. 1989 (30th-anniversary ed. 2019). Calibre ID 10207.
+- [[people/catherine-malabou|Catherine Malabou]], [[people/tyler-m-williams|Tyler M. Williams]] (editor), [[people/dashiell-wasserman|Dashiell Wasserman]] (translator). *[[books/907-plasticity-the-promise-of-explosion-catalogued-as|Plasticity: The Promise of Explosion (catalogued as 'Plasticity at the Dusk of Writing')]]*. 2022 (ch. 8 delivered Cerisy 2002; French 2004). Calibre ID 907.
 - [[people/tom-mccarthy|Tom McCarthy]]. *[[books/4209-remainder|Remainder]]*. 2005 (Metronome Press); Vintage ed. 2007. Calibre ID 4209.
 - [[people/henri-michaux|Henri Michaux]], [[people/richard-sieburth|Richard Sieburth]] (translator). *[[books/5489-a-certain-plume|A Certain Plume]]*. 1930. Calibre ID 5489.
 - [[people/joseph-mitchell|Joseph Mitchell]]. *[[books/4670-up-in-the-old-hotel|Up in the Old Hotel]]*. 1992 (collection; pieces 1938–1964). Calibre ID 4670.
@@ -88,6 +102,7 @@ All 96 books resurfaced in Volume 1, alphabetical by first credited name. Calibr
 - [[people/gershom-scholem|Gershom Scholem]], [[people/r-j-zwi-werblowsky|R. J. Zwi Werblowsky]] (translator). *[[books/7651-sabbatai-sevi-the-mystical-messiah-1626-1676|Sabbatai Ṣevi: The Mystical Messiah, 1626-1676]]*. 1957. Calibre ID 7651.
 - [[people/albert-schweitzer|Albert Schweitzer]], [[people/w-montgomery|W. Montgomery]] (translator). *[[books/2643-the-quest-of-the-historical-jesus|The Quest of the Historical Jesus]]*. 1906. Calibre ID 2643.
 - [[people/george-steiner|George Steiner]]. *[[books/2372-after-babel-aspects-of-language-and-translation|After Babel: Aspects of Language and Translation]]*. 1975. Calibre ID 2372.
+- [[people/george-steiner|George Steiner]], [[people/robert-boyers|Robert Boyers]] (editor). *[[books/4026-george-steiner-at-the-new-yorker|George Steiner at the New Yorker]]*. 2009 ('A Tale of Three Cities', New Yorker, 22 Nov 1982). Calibre ID 4026.
 - [[people/george-steiner|George Steiner]]. *[[books/3587-lessons-of-the-masters|Lessons of the Masters]]*. 2003. Calibre ID 3587.
 - [[people/jonathan-swift|Jonathan Swift]], [[people/ian-higgins|Ian Higgins]] (contributor). *[[books/7513-gulliver-s-travels|Gulliver's Travels]]*. 1726. Calibre ID 7513.
 - [[people/peter-szendy|Peter Szendy]], [[people/jan-plug|Jan Plug]] (translator). *[[books/2071-of-stigmatology-punctuation-as-experience|Of Stigmatology: Punctuation as Experience]]*. 2013 (À coups de points); Eng. 2018. Calibre ID 2071.

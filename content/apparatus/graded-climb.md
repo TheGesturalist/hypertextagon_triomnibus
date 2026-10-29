@@ -4,7 +4,7 @@ tags:
   - apparatus
 ---
 
-The triads ordered by difficulty, from the most visible connections to the most oblique.
+Readings ordered by difficulty, from the most visible connections to the most oblique.
 
 ## Difficulty 2
 
@@ -29,6 +29,10 @@ The triads ordered by difficulty, from the most visible connections to the most 
 - [[triads/2026-10-22-the-day-after-his-arrival|The Day After His Arrival]] (2026-10-22)
 - [[triads/2026-10-24-remember-your-oath|Remember Your Oath]] (2026-10-24)
 - [[triads/2026-10-25-the-pattern-determines-the-parts|The Pattern Determines the Parts]] (2026-10-25)
+- [[shadows/2026-10-26-shadow-elias-canetti-day-1-the-only-man|Shadow — Elias Canetti, day 1: The Only Man]] (2026-10-26) · *An author and their shadow*
+- [[shadows/2026-10-27-shadow-elias-canetti-day-2-the-quotation-survives|Shadow — Elias Canetti, day 2: The Quotation Survives]] (2026-10-27) · *An author and their shadow*
+- [[shadows/2026-10-28-shadow-elias-canetti-day-3-mob-or-organisation|Shadow — Elias Canetti, day 3: Mob or Organisation]] (2026-10-28) · *An author and their shadow*
+- [[shadows/2026-10-29-shadow-elias-canetti-day-4-the-tribunal-in-transla|Shadow — Elias Canetti, day 4: The Tribunal in Translation]] (2026-10-29) · *An author and their shadow*
 
 ## Difficulty 4
 

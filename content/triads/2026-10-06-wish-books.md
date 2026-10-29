@@ -1,6 +1,7 @@
 ---
 title: "Wish Books"
 date: 2026-10-06
+method: "Triads"
 tags:
   - triad
   - difficulty/3

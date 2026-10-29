@@ -4,7 +4,7 @@ tags:
   - theme
 ---
 
-## Triads
+## Readings
 
 - [[triads/2026-10-05-without-aid-or-supervision|Without Aid or Supervision]] (2026-10-05)
 - [[triads/2026-10-21-the-ruled-thread|The Ruled Thread]] (2026-10-21)

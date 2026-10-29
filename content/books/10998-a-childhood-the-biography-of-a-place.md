@@ -31,4 +31,4 @@ Crews, born 1935 into share-farming in Bacon County, Georgia, is the Burroughs c
 
 ## Themes
 
-[[themes/bacon-county|Bacon County]] · [[themes/catalogue|catalogue]] · [[themes/fabrication|fabrication]] · [[themes/memoir|memoir]] · [[themes/photographs|photographs]] · [[themes/scars|scars]] · [[themes/sears-wish-book|Sears Wish Book]] · [[themes/storytelling|storytelling]] · [[themes/tenant-farming|tenant farming]] · [[themes/willalee-bookatee|Willalee Bookatee]]
+[[themes/bacon-county|Bacon County]] · [[themes/catalogue|catalogue]] · [[themes/fabrication|fabrication]] · [[themes/memoir|memoir]] · [[themes/photography|photography]] · [[themes/scars|scars]] · [[themes/sears-wish-book|Sears Wish Book]] · [[themes/storytelling|storytelling]] · [[themes/tenant-farming|tenant farming]] · [[themes/willalee-bookatee|Willalee Bookatee]]

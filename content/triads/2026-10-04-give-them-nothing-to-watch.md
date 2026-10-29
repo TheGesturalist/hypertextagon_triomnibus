@@ -1,6 +1,7 @@
 ---
 title: "Give Them Nothing to Watch"
 date: 2026-10-04
+method: "Triads"
 tags:
   - triad
   - difficulty/4
@@ -217,7 +218,7 @@ PDF · Calibre ID 7729 · ed. Marina Galletti and Alastair Brotchie; trans. Nata
 
 ## Themes
 
-[[themes/acephale|acephale]] · [[themes/ali-pasha-tepelena|Ali Pasha Tepelena]] · [[themes/caput|caput]] · [[themes/caw-caw|Caw-caw]] · [[themes/crowd|crowd]] · [[themes/forgetting|forgetting]] · [[themes/gesture|gesture]] · [[themes/gesture-of-kneeling|gesture of kneeling]] · [[themes/headlessness|headlessness]] · [[themes/labyrinth|labyrinth]] · [[themes/literature-vs-spectacle|literature vs. spectacle]] · [[themes/louis-xvi|Louis XVI]] · [[themes/lu-xun-s-slide|Lu Xun's slide]] · [[themes/oath-of-silence|oath of silence]] · [[themes/obelisk|obelisk]] · [[themes/ottoman-empire|Ottoman Empire]] · [[themes/place-de-la-concorde|Place de la Concorde]] · [[themes/provenance|provenance]] · [[themes/relic|relic]] · [[themes/sacrifice|sacrifice]] · [[themes/secret-society|secret society]] · [[themes/severed-head|severed head]] · [[themes/sovereignty|sovereignty]] · [[themes/spectacle|spectacle]] · [[themes/spectators|spectators]]
+[[themes/acephale|Acéphale]] · [[themes/ali-pasha-tepelena|Ali Pasha Tepelena]] · [[themes/caput|caput]] · [[themes/caw-caw|Caw-caw]] · [[themes/crowd|crowd]] · [[themes/forgetting|forgetting]] · [[themes/gesture|gesture]] · [[themes/gesture-of-kneeling|gesture of kneeling]] · [[themes/headlessness|headlessness]] · [[themes/labyrinth|labyrinth]] · [[themes/literature-vs-spectacle|literature vs. spectacle]] · [[themes/louis-xvi|Louis XVI]] · [[themes/lu-xun-s-slide|Lu Xun's slide]] · [[themes/oath-of-silence|oath of silence]] · [[themes/obelisk|obelisk]] · [[themes/ottoman-empire|Ottoman Empire]] · [[themes/place-de-la-concorde|Place de la Concorde]] · [[themes/provenance|provenance]] · [[themes/relic|relic]] · [[themes/sacrifice|sacrifice]] · [[themes/secret-society|secret society]] · [[themes/severed-head|severed head]] · [[themes/sovereignty|sovereignty]] · [[themes/spectacle|spectacle]] · [[themes/spectator|spectator]]
 
 ---
 

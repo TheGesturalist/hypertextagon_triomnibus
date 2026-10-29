@@ -1,6 +1,7 @@
 ---
 title: "Point, Pause, Chapter"
 date: 2026-09-28
+method: "Triads"
 tags:
   - triad
   - difficulty/2

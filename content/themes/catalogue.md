@@ -4,7 +4,7 @@ tags:
   - theme
 ---
 
-## Triads
+## Readings
 
 - [[triads/2026-09-26-certificates-without-originals|Certificates Without Originals]] (2026-09-26)
 - [[triads/2026-10-06-wish-books|Wish Books]] (2026-10-06)
@@ -12,6 +12,6 @@ tags:
 
 ## Books
 
-- [[books/4963-the-invisible-collection|The Invisible Collection]]
 - [[books/252-works|Works]]
+- [[books/4963-the-invisible-collection|The Invisible Collection]]
 - [[books/10998-a-childhood-the-biography-of-a-place|A Childhood: The Biography of a Place]]

@@ -1,6 +1,7 @@
 ---
 title: "The Ruled Thread"
 date: 2026-10-21
+method: "Triads"
 tags:
   - triad
   - difficulty/3
@@ -70,7 +71,7 @@ The link is a genealogy (Leroi-Gourhan →Ingold, explicitly) plus a shared figu
 
 - *Linearization*: the process by which graphism is aligned in one direction and subordinated to the sounds of speech; brought to its limit by the alphabet.
 
-- *Exteriorization*: the movement of a bodily function (gripping, remembering, programming) out into tools, writing and machines; the Jacquard loom is his example of a program held outside the hands.
+- *Exteriorization*: the movement of a bodily function (gripping, remembering, program-ming) out into tools, writing and machines; the Jacquard loom is his example of a program held outside the hands.
 
 ## 2. Lines: A Brief History — Tim Ingold (2007)
 
@@ -170,7 +171,7 @@ His answer, a few lines later: “Fully linearized, the line is no longer the tr
 
 - **John Ruskin, *The Elements of Drawing*** (Project Gutenberg): the source of “draw every line but a straight one,” which Ingold quotes on p. 161. https://www.gutenberg.org/ebooks/30325
 
-- **Rosalind Krauss, “Grids” (1979)**, the “anti-developmental” grid Hudson leans on; excerpted and discussed by Thomas Brett. https://brettworks.com/2017/11/20/theory-as-poetry-rosalind-krausss-grids-1979/
+- **Rosalind Krauss, “Grids” (1979)**, the “anti-developmental” grid Hudson leans on; ex-cerpted and discussed by Thomas Brett. https://brettworks.com/2017/11/20/theory-as-poetry-rosalind-krausss-grids-1979/
 
 - **Monoskop on *Gesture and Speech***: editions in French, Spanish, Italian and English, with publication history. https://monoskop.org/log/?p=5540
 

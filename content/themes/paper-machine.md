@@ -4,7 +4,7 @@ tags:
   - theme
 ---
 
-## Triads
+## Readings
 
 - [[triads/2026-10-10-the-dated-slip|The Dated Slip]] (2026-10-10)
 

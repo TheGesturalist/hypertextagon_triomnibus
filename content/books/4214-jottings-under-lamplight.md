@@ -30,4 +30,4 @@ Found by searching the catalogue for 'decapitat' and 'spectator'. Directly contr
 
 ## Themes
 
-[[themes/ah-q|Ah Q]] · [[themes/decapitation|decapitation]] · [[themes/gesture|gesture]] · [[themes/kneeling|kneeling]] · [[themes/literature-as-cure|literature as cure]] · [[themes/may-fourth|May Fourth]] · [[themes/nora|Nora]] · [[themes/onlookers|onlookers]] · [[themes/photography|photography]] · [[themes/sendai-slide|Sendai slide]] · [[themes/spectators|spectators]] · [[themes/spirit-vs-body|spirit vs. body]] · [[themes/unreliable-autobiography|unreliable autobiography]]
+[[themes/ah-q|Ah Q]] · [[themes/decapitation|decapitation]] · [[themes/gesture|gesture]] · [[themes/kneeling|kneeling]] · [[themes/literature-as-cure|literature as cure]] · [[themes/may-fourth|May Fourth]] · [[themes/nora|Nora]] · [[themes/onlookers|onlookers]] · [[themes/photography|photography]] · [[themes/sendai-slide|Sendai slide]] · [[themes/spectator|spectator]] · [[themes/spirit-vs-body|spirit vs. body]] · [[themes/unreliable-autobiography|unreliable autobiography]]

@@ -1,6 +1,7 @@
 ---
 title: "The Day After His Arrival"
 date: 2026-10-22
+method: "Triads"
 tags:
   - triad
   - difficulty/3

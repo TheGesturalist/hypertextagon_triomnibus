@@ -1,6 +1,7 @@
 ---
 title: "The Flea Under Glass"
 date: 2026-09-29
+method: "Triads"
 tags:
   - triad
   - difficulty/4

@@ -1,6 +1,7 @@
 ---
 title: "A Crowd Still to Come"
 date: 2026-10-13
+method: "Triads"
 tags:
   - triad
   - difficulty/4

@@ -1,6 +1,7 @@
 ---
 title: "Wrote Nothing Today"
 date: 2026-10-08
+method: "Triads"
 tags:
   - triad
   - difficulty/3

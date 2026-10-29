@@ -1,6 +1,7 @@
 ---
 title: "Only the Incipit"
 date: 2026-09-30
+method: "Triads"
 tags:
   - triad
   - difficulty/3
@@ -192,7 +193,7 @@ The first two incipits describe their own openings (“the opening of the chapte
 
 - Tze-Ki Hon, “Chinese Philosophy of Change (Yijing)”, *Stanford Encyclopedia of Philosophy*: https://plato.stanford.edu/entries/chinese-change/
 
-- Edward W. Said, *Beginnings: Intention and Method* (1975), Internet Archive (borrow-able): https://archive.org/details/beginningsintent0000said
+- Edward W. Said, *Beginnings: Intention and Method* (1975), Internet Archive (borrowable): https://archive.org/details/beginningsintent0000said
 
 - Hesiod, *Theogony*, trans. H. G. Evelyn-White, Theoi Classical Texts Library: https://theoi.com/Text/HesiodTheogony.html (the same translation is Project Gutenberg #348: https://www.gutenberg.org/ebooks/348)
 

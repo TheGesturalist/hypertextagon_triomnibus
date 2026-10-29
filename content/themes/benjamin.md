@@ -4,7 +4,7 @@ tags:
   - theme
 ---
 
-## Triads
+## Readings
 
 - [[triads/2026-09-26-certificates-without-originals|Certificates Without Originals]] (2026-09-26)
 - [[triads/2026-10-19-except-in-sequence-repetition-omission|Except in Sequence, Repetition, Omission]] (2026-10-19)

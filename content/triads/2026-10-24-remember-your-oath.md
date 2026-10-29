@@ -1,6 +1,7 @@
 ---
 title: "Remember Your Oath"
 date: 2026-10-24
+method: "Triads"
 tags:
   - triad
   - difficulty/3
@@ -80,7 +81,7 @@ PDF · Calibre ID 306 (in *The Omnibus Homo Sacer*, Stanford UP 2017; trans. Ada
 
 **Selection logic.** Agamben is the hinge. Without him the other two books are a folk motif and its descendants. With him they become two dramatizations of one structure: an oath is a word that binds the speaker’s life, and its curse is the form that binding takes when the word fails. He also explains why a curse can do what Kostandin’s mother’s curse does. It is the oath’s own force turned against the broken word.
 
-**Overview.** Starting from Paolo Prodi’s history of the oath as the “sacrament of power,” Agamben turns down the usual account, in which a magico-religious stage comes first and the oath borrows its force from the gods. He puts the oath first. It is the anthropogenic event in which speech commits the speaker to the truth of his word. Religion and law come later, as attempts to “technicalize” that commitment by dividing it into oath and perjury, blessing and curse, true formula and false. The book moves through Greek *horkos*, Roman *fides* and *sacra-mentum*, blasphemy, and Benveniste and Usener on divine names. It ends with philosophy as the practice that keeps speech exposed to truth instead of codifying it.
+**Overview.** Starting from Paolo Prodi’s history of the oath as the “sacrament of power,” Agamben turns down the usual account, in which a magico-religious stage comes first and the oath borrows its force from the gods. He puts the oath first. It is the anthropogenic event in which speech commits the speaker to the truth of his word. Religion and law come later, as attempts to “technicalize” that commitment by dividing it into oath and perjury, blessing and curse, true formula and false. The book moves through Greek *horkos*, Roman *fides* and *sacramentum*, blasphemy, and Benveniste and Usener on divine names. It ends with philosophy as the practice that keeps speech exposed to truth instead of codifying it.
 
 **Excerpt (p. 328 / PDF 337).** Agamben strips the gods out of the curse and finds a relation between words and things:
 
@@ -130,7 +131,7 @@ EPUB · Calibre ID 4593. Section labels follow the book’s own: Part One “A L
 
 **Selection logic.** Frayling supplies both the genealogy (Bürger’s “Lenore” passing into *Dracula* through the line “the dead travel fast”) and the primary texts in which the oath is the vampire’s first tool. Read next to Kadare, Polidori’s Aubrey is Kostandin inverted: a living man bound by a promise to a dead one, whose keeping of it costs his sister her life.
 
-**Overview.** A long literary-historical essay, “Lord Byron to Count Dracula,” followed by an anthology in six sections. The anthology runs from Enlightenment reports (Tournefort, Calmet), through Polidori’s *The Vampyre*, Byron’s “Fragment of a Story,” Dumas at the theatre, *Varney*, Raupach’s “Wake Not the Dead,” Hoffmann, A. K. Tolstoy’s “The Family of the Vourdalak,” Stoker’s working and research papers, “Dracula’s Guest” and *Dracula*, to modernist vampires and Angela Carter. The 2016 preface dates the literary vampire to June 1816 at the Villa Dio-dati.
+**Overview.** A long literary-historical essay, “Lord Byron to Count Dracula,” followed by an anthology in six sections. The anthology runs from Enlightenment reports (Tournefort, Calmet), through Polidori’s *The Vampyre*, Byron’s “Fragment of a Story,” Dumas at the theatre, *Var-ney*, Raupach’s “Wake Not the Dead,” Hoffmann, A. K. Tolstoy’s “The Family of the Vourdalak,” Stoker’s working and research papers, “Dracula’s Guest” and *Dracula*, to modernist vampires and Angela Carter. The 2016 preface dates the literary vampire to June 1816 at the Villa Dio-dati.
 
 **Quotes**
 

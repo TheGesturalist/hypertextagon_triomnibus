@@ -29,4 +29,4 @@ Does what Kraus's Preface claims, without a Grumbler: Nazi documents isolated on
 
 ## Themes
 
-[[themes/being-emigrated|being emigrated]] · [[themes/concrete-poetry|concrete poetry]] · [[themes/documentary-poetry|documentary poetry]] · [[themes/holocaust|Holocaust]] · [[themes/ineffability|ineffability]] · [[themes/lists|lists]] · [[themes/nazi-bureaucratic-language|Nazi bureaucratic language]] · [[themes/permutation|permutation]] · [[themes/quotation|quotation]] · [[themes/vienna-group|Vienna Group]]
+[[themes/being-emigrated|being emigrated]] · [[themes/concrete-poetry|concrete poetry]] · [[themes/documentary-poetry|documentary poetry]] · [[themes/holocaust|Holocaust]] · [[themes/ineffability|ineffability]] · [[themes/lists|lists]] · [[themes/nazi-language|Nazi language]] · [[themes/permutation|permutation]] · [[themes/quotation|quotation]] · [[themes/vienna-group|Vienna Group]]

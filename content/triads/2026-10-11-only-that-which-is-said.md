@@ -1,6 +1,7 @@
 ---
 title: "Only That Which Is Said"
 date: 2026-10-11
+method: "Triads"
 tags:
   - triad
   - difficulty/3
@@ -102,7 +103,7 @@ Framing: this is Kapuściński’s “watching how they say it” turned into an
 
 4. Don’t fake dialect spelling, because it “others” the speaker (PDF 19 / p. 10).
 
-5. Archive the originals for verification (University of Kentucky’s Nunn Center; Circolo Gianni Bosio, Rome) (PDF 19 / p. 10).
+5. Archive the originals for verification (University of Kentucky’s Nunn Center; Circolo Gi-anni Bosio, Rome) (PDF 19 / p. 10).
 
 6. Use your ignorance: “the most important things I had to offer were my ignorance and my desire to learn.” (PDF 16 / p. 7)
 

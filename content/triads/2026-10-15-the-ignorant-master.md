@@ -1,6 +1,7 @@
 ---
 title: "The Ignorant Master"
 date: 2026-10-15
+method: "Triads"
 tags:
   - triad
   - difficulty/4

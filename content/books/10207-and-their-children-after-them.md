@@ -31,4 +31,4 @@ Revisits Agee's three families in the mid-1980s under his pseudonyms and records
 
 ## Themes
 
-[[themes/famous-men-s-reception|Famous Men's reception]] · [[themes/journalism-ethics|journalism ethics]] · [[themes/king-cotton|King Cotton]] · [[themes/mechanization|mechanization]] · [[themes/photographs|photographs]] · [[themes/pseudonyms|pseudonyms]] · [[themes/pulitzer|Pulitzer]] · [[themes/revisit|revisit]] · [[themes/subjects-reading-their-portrayal|subjects reading their portrayal]]
+[[themes/famous-men-s-reception|Famous Men's reception]] · [[themes/journalism-ethics|journalism ethics]] · [[themes/king-cotton|King Cotton]] · [[themes/mechanization|mechanization]] · [[themes/photography|photography]] · [[themes/pseudonyms|pseudonyms]] · [[themes/pulitzer|Pulitzer]] · [[themes/revisit|revisit]] · [[themes/subjects-reading-their-portrayal|subjects reading their portrayal]]

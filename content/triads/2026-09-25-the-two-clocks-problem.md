@@ -1,6 +1,7 @@
 ---
 title: "The Two Clocks Problem"
 date: 2026-09-25
+method: "Triads"
 tags:
   - triad
   - difficulty/4
@@ -125,7 +126,7 @@ EPUB · Calibre ID 389 · re.press, Melbourne (Anamnesis series; open access). P
 
 - “Latour is probably the first thinker in history to invent a local option for occasional cause—one not passing through God (as in al-Ash’ari, Malebranche, and even Whitehead) or the human mind (as when Hume and Kant turn human habit or categories into the seat of all relations).” (ch. 4, “Pandora’s Hope,” p. 81)
 
-- “More occasionalist than Bergsonian, Latour’s actors have no choice but to occupy punc-tiform cinematic frames.” (ch. 5, “Contributions,” p. 105)
+- “More occasionalist than Bergsonian, Latour’s actors have no choice but to occupy punctiform cinematic frames.” (ch. 5, “Contributions,” p. 105)
 
 - “they allow a single pampered entity to break the ban on relations that is cruelly enforced on all others.” (ch. 5, p. 113)
 

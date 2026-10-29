@@ -1,6 +1,7 @@
 ---
 title: "Cento, Copy, Dictionary"
 date: 2026-09-24
+method: "Triads"
 tags:
   - triad
   - difficulty/3

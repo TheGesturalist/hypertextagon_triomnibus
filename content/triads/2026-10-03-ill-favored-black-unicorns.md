@@ -1,6 +1,7 @@
 ---
 title: "Ill-Favored Black Unicorns"
 date: 2026-10-03
+method: "Triads"
 tags:
   - triad
   - difficulty/3

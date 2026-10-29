@@ -1,6 +1,7 @@
 ---
 title: "The Person Who Waits"
 date: 2026-10-23
+method: "Triads"
 tags:
   - triad
   - difficulty/4
@@ -136,7 +137,7 @@ Most entries are illness, travel, walking, or the edge of sleep. None is a cave.
 
 ## 3. On Hashish — Walter Benjamin (written 1927–34; first collected 1972)
 
-PDF · Calibre ID 12603 · ed. and trans. Howard Eiland (Belknap/Harvard, 2006), intro. Marcus Boon. Scan with an OCR layer; italic passages in the protocols have some fused words. Locations are printed pages with PDF pages. → [[books/12603-on-hashish|book page]]
+PDF · Calibre ID 12603 · ed. and trans. Howard Eiland (Belknap/Harvard, 2006), intro. Mar-cus Boon. Scan with an OCR layer; italic passages in the protocols have some fused words. Locations are printed pages with PDF pages. → [[books/12603-on-hashish|book page]]
 
 **Selection logic.** The counter-voice. Benjamin keeps the posture (lying down, waiting, someone recording) and the word *illumination*, and argues that its source is profane. He also leaves the best evidence for the observation problem: a protocol with a hole in it.
 
@@ -173,7 +174,7 @@ The protocol goes on to read the prohibition as a sign of how deep the intoxicat
 
 - “LYING DOWN, with eyes closed most of the time, completely calm.” (Wissing’s protocol, March 7, 1931, p. 65)
 
-- “But the true, creative overcoming of religious illumination certainly does not lie in narcotics. It resides in a profane illumination, a materialistic, anthropological inspiration” (from “Surrealism,” p. 132)
+- “But the true, creative overcoming of religious illumination certainly does not lie in nar-cotics. It resides in a profane illumination, a materialistic, anthropological inspiration” (from “Surrealism,” p. 132)
 
 - “Just as waiting seems to be the proper state of the impassive thinker, doubt appears to be that of the flaneur.” (from *The Arcades Project*, M2,4, p. 139)
 

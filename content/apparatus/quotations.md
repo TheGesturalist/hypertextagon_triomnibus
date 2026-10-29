@@ -106,6 +106,13 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “A similar project to leave the supposed skull of Louis XVI at the same spot was likewise never carried out.” (Chronology, 1936, p. 113)
 - “Bataille suggested an annual celebration of the guillotining of Louis XVI at the Place de la Concorde. This was never put into practice” (Introduction, p. 83)
 
+### [[books/13883-the-travels-of-ibn-battuta-in-the-near-east-asia-a|The Travels of Ibn Battuta: In the Near East, Asia and Africa, 1325-1354]]
+
+- “which is at the distance of ten days” (ch. XVI)
+- “only one of his legs was brought to the place intended” (ch. XVI)
+- “When I entered Dehli it was almost a desert.” (ch. XVI)
+- “the greatest city in the world had the fewest inhabitants.” (ch. XVI)
+
 ### [[books/13286-speakable-and-unspeakable-in-quantum-mechanics-col|Speakable and Unspeakable in Quantum Mechanics: Collected Papers on Quantum Philosophy]]
 
 - “I want to boil an egg. ... Yet the coincidence of these two unrelated causal happenings is meaningful, because, I, the great chef, imposed a structure on my kitchen.” (paper 24, 'La nouvelle cuisine', §1, quoting Casimir)
@@ -195,6 +202,57 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “if you need little to set the imagination going, I require even less: the promise of reading is enough.” (ch. 11)
 - “Just a moment, I've almost finished If on a winter's night a traveler by Italo Calvino.” (ch. 12)
 
+### [[books/14938-crowds-and-power|Crowds and Power]]
+
+- “It is not for a European of the 20th century to regard himself as above savagery. His despots may use more effective means, but their ends often differ in nothing from those of these African Kings.” (Rulers and Paranoiacs: African Kings)
+- “I am here deliberately opposing all the usual concepts of tribe, sib, clan” (The Pack)
+- “I use the same word ‘pack’ for the three other basic formations I have mentioned.” (The Pack)
+- “We must have the courage to stand against it and break its tyranny.” (The Command)
+
+### [[books/3246-kafka-s-other-trial-the-letters-to-felice|Kafka's Other Trial: The Letters to Felice]]
+
+- “With the word Gerichtshof (“tribunal”), he had entered the sphere of the novel.” (p. 68)
+- “There is no external tribunal that he acknowledges; he is his own tribunal, but very much so, and that tribunal will always be in session.” (p. 70)
+- “As I was sitting down, I looked at her closely for the first time, by the time I was seated I already had an unshakable verdict.” (p. 5)
+- n. 50: “does not appear in the German Tagebiicher or in the English Diaries. The source is the manuscript of the diaries as cited by Klaus Wagenbach” (p. 121)
+
+### [[books/415-notes-from-hampstead-the-writer-s-notes-19541971|Notes From Hampstead: The Writer's Notes: 1954–1971]]
+
+- “I have often considered it the most important book I know.” (1960, after the note on Pavese)
+
+### [[books/413-the-conscience-of-words-with-earwitness|The Conscience of Words (with Earwitness)]]
+
+- “The situation of survival is the central situation of power.” (p. 16)
+- “For the true goal of the real power-wielder is as grotesque as it is incredible: he wants to be the only one.” (p. 22)
+- “But the crucial moment is the moment of the sultan’s onlyness” (p. 24)
+- “rarely has he come up with such an utter misinterpretation.” (p. 25, on Freud)
+- “Whole constellations dissolved” (p. 26)
+- “flags, music, marching units, which operate as crowd-crystals” (p. 68)
+- “I have called the Dichter the keeper of metamorphoses” (p. 163)
+
+### [[books/418-the-play-of-the-eyes|The Play of the Eyes]]
+
+- “which had long been on my shelf but which I had never touched.” (Büchner in the Desert)
+- “My novel that I’d been so proud of crumbled into dust and ashes.” (ibid.)
+
+### [[books/420-the-tongue-set-free|The Tongue Set Free]]
+
+- “The threat with the knife worked, the child quite literally held his tongue for ten years.” (My Earliest Memory)
+
+### [[books/421-the-torch-in-my-ear|The Torch in My Ear]]
+
+- “I bow to memory, every person’s memory.” (ch. Escape)
+- “I had barely set out on the road to the true book: each individual human being, bound in himself.” (The Letters in the Tree)
+- “even transplant hearts that manage to beat along for another year” (Escape)
+
+### [[books/3632-the-intellectuals-and-the-masses-pride-and-prejudi|The Intellectuals and the Masses: Pride and Prejudice Among the Literary Intelligentsia 1880-1939]]
+
+- “Elias Canetti, generally cited as the most profound modern commentator on the mass, stands at the end of the ‘scientific’ tradition stretching from Le Bon to Freud, and inherits its fantasies and confusions.” (ch. 1)
+- “It is presumably this dual awareness that accounts for the ambivalence that runs through Canetti’s Masse und Macht, and disturbs its intellectual coherence.” (ch. 1)
+- “In these respects Canetti’s crowd is virtually identical with Le Bon’s. Yet Canetti also envisages the crowd as the salvation of mankind.” (ch. 1)
+- “So in Canetti’s logic the crowd is both a subhuman monster and a community offering human fellowship and resistance to tyranny.” (ch. 1)
+- “Intellectuals believe in giving the public what intellectuals want; that, generally speaking, is what they mean by education.” (ch. 1)
+
 ### [[books/2343-down-below|Down Below]]
 
 - "Exactly three years ago, I was interned in Dr. Morales’s sanatorium in Santander, Spain, Dr. Pardo, of Madrid, and the British Consul having pronounced me incurably insane." (23 Aug 1943) | "(By looking at the map, you will see the respective positions of Villa Pilar, Radiografia, Covadonga, Amachu, and Abajo (Down Below); that will enable you to get your bearings.)" (24 Aug 1943) | "The pavilion with this name was for me the Earth, the Real World, Paradise, Eden, Jerusalem." (26 Aug 1943) | "I realized that I had to find my place in the circle, and sat at 45 degrees to the left of the door" (27 Aug 1943) | "that Covadonga and Amachu and Down Below were not Egypt, China, and Jerusalem, but pavilions for the insane and that I should get out as quickly as possible." (27 Aug 1943) | Excerpt: “Is Down Below nice?” “Delightful. Everyone is happy there.” “Take me with you.” “I can’t.” “Why not?” “Because you’re not well enough to go there.” (25 Aug 1943)
@@ -226,6 +284,12 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - 'I have often been asked, after relateing all the circumstance, if I had actualy seen them eat human flesh my self' (23 [Nov] 1773)
 - 'Whatever else Cook wrote has not survived. His log breaks off at a moment of considerable importance' (Edwards, Postscript)
 - 'He brought them iron, and they used it to kill him.' (Edwards, Postscript)
+
+### [[books/6272-franz-kafka-the-necessity-of-form|Franz Kafka: The Necessity of Form]]
+
+- “what Elias Canetti calls Kafka’s “compulsive sacralization” of places and states of mind—which amounts to a “sacralization of man. Every place, every moment, every aspect, every step of the way is serious and important and unique.”” (Introduction, n. 8)
+- “an unshakeable judgment [unerschütterliches Urteil]” (ch. 2, citing DI 269)
+- “There is something deeply exciting about this stubborn attempt of someone who was helpless, to exclude himself from power in any form” (ch. 6, n. 22)
 
 ### [[books/10998-a-childhood-the-biography-of-a-place|A Childhood: The Biography of a Place]]
 
@@ -318,6 +382,24 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "But remember that words are signals, counters. They are not immortal. And it can happen – to use an image you’ll understand – it can happen that a civilisation can be imprisoned in a linguistic contour which no longer matches the landscape of … fact." (Hugh, Act Two, Scene One)
 - "it is not the literal past, the ‘facts’ of history, that shape us, but images of the past embodied in language." (Hugh, Act Three)
 - "I will provide you with the available words and the available grammar. But will that help you to interpret between privacies?" (Hugh, Act Three)
+
+### [[books/3123-dostoyevsky-reads-hegel-in-siberia-and-bursts-into|Dostoyevsky Reads Hegel in Siberia and Bursts Into Tears]]
+
+- “Elias Canetti’s book is strictly speaking not a novel, although there is something very novel-like in its texture.” (A Capacity for Amazement)
+- “His citation apparatus, for example, is, to put it mildly, unusual.” (ibid.)
+- “Canetti never employs the first-person singular, and yet his book is deeply personal.” (ibid.)
+- “I have often thought that this is the most important book I know.” (ibid., n. 1)
+- “For my own part, I would not compare his work with that of Hannah Arendt, but with Kafka’s.” (ibid.)
+- “Under Canetti’s gaze, the crowd becomes an organism, a beast that crouches under the phenomena of world history. The result is a sort of mystical primitivism.” (Rothstein, quoted ibid., n. 9)
+
+### [[books/926-a-temple-of-texts|A Temple of Texts]]
+
+- “Then the word I—that moist reedlike letter that makes the winds sing, that wonderful word for me—takes ten typical bows in our specimen paragraph” (The Road to the True Book)
+- “Well … to remember is to give limbs to a new lie.” (ibid.)
+- “Canetti’s tact with time and knowledge is one of the artistic triumphs of these memoirs.” (ibid.)
+- “A deceased Nobel laureate, Elias Canetti has now achieved such fame as to be unknown all over the world.” (ibid.)
+- “Moreover, after at first naming the character Kant, he called him Kien, meaning ‘kindling,’ so what was possible for that person but ignition?” (Influence)
+- “and in the shooting and its subsequent panic, ninety people were killed and many more injured.” (Influence)
 
 ### [[books/8067-ethics|Ethics]]
 
@@ -416,6 +498,8 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - 'Yesterday incapable of writing even one word. Today no better. Who will save me?' (8 April 1914)
 - 'The strange, mysterious, perhaps dangerous, perhaps saving comfort that there is in writing: it is a leap out of murderers’ row; it is a seeing of what is really taking place.' (27 Jan 1922)
 - 'I SHOULD write the whole night through, so many things occur to me, but all of it rough.' (Travel diary, Jan–Feb 1911)
+- “As I was taking my seat I looked at her closely for the first time, by the time I was seated I already had an unshakeable opinion.” (20 Aug 1912)
+- “You sat as a judge over me in the Askanischer Hof - it was awful for you, for me, for everyone - but it only seemed so; in reality all the time I was sitting in your place and sit there to this day.” (1914)
 
 ### [[books/4197-travels-with-herodotus|Travels With Herodotus]]
 
@@ -464,6 +548,12 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "What surprises is not only the difference in understanding between this time and that time—ah, so that’s how I took this at that time—but also the potential path that was not developed the first time the author noticed it, but looks promising when accessed again." (ch. 4)
 - "Storing states of knowledge and (via their contacts with the interface) helping to catalyze future thoughts, index cards know more than their author." (ch. 4, On the Gradual Manufacturing of Thoughts in Storage)
 - "Three days after his death, one of his students begins a careful autopsy of his index cards." (Notes, ch. 4, n. 5)
+
+### [[books/401-the-kraus-project|The Kraus Project]]
+
+- “Elias Canetti, for example, argued that Kraus was too authoritarian a figure to encourage intellectual independence in other people, and that his style overwhelmed readers more than it stimulated their critical faculties.” (n. 14)
+- Canetti (413, pp. 35–36): “The heart of the matter was that he had appropriated all judging and did not permit anyone whose model he was to do any judging of his own.”
+- Canetti (421): “It was like a court of law. He brought the charges and he passed judgment. There was no defense attorney”
 
 ### [[books/6351-the-last-days-of-mankind-the-complete-text|The Last Days of Mankind: The Complete Text]]
 
@@ -537,6 +627,14 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “My goodness, I could turn around and write a book on him.” (Part III, ‘Gudger’)
 - “And now we were returning to the scene of the crime, so to speak, coconspirators in the eyes of some, not just to inquire of the deed but to repeat it.” (Preface)
 - “Word slowly drifted back to Alabama that some of their own had made up the cast of characters in a famous book.” (Part III, ‘Gudger’)
+
+### [[books/907-plasticity-the-promise-of-explosion-catalogued-as|Plasticity: The Promise of Explosion (catalogued as 'Plasticity at the Dusk of Writing')]]
+
+- “Readers of Canetti have never, to my knowledge, insisted on this disparity; instead they see in the concept of the mass a sort of formless swarming that the English call a ‘mob’, a conglomerate without organisation.” (p. 117)
+- “It seems to me, on the contrary, that nothing is more organised than the mass that Canetti describes” (p. 117)
+- “I am aware, here, that I am making Canetti’s book talk and perhaps making it say more than it would on its own.” (p. 118)
+- “Democracy is the mass’s tact.” (p. 118)
+- “The goal is the most intense darkness where the most people are gathered.” (p. 115, as quoted; Stewart: ‘This goal is the blackest spot where most people are gathered.’)
 
 ### [[books/4209-remainder|Remainder]]
 
@@ -733,6 +831,15 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "Obviously, we speak to communicate. But also to conceal, to leave unspoken." (Ch. 1)
 - "In the beginning the word was largely a pass-word, granting admission to a nucleus of like speakers." (Ch. 3)
 - "Streaming outward it thins, losing energy and pressure as it reaches an alien speaker." (Ch. 3)
+
+### [[books/4026-george-steiner-at-the-new-yorker|George Steiner at the New Yorker]]
+
+- “He has rounded fiercely, and not altogether fairly, on those who—particularly in England, to which he came as a refugee—failed to keep his books in print”
+- “It would be 1960 before “Crowds and Power,” a torso of a work, fragmentary in its brilliance, appeared.”
+- “Nonetheless, it would be difficult to find anything in Canetti’s subsequent writings to match the powers of Opus I.”
+- “But there are no footnotes in this edition, and the translation is often ingeniously unhelpful.”
+- “With the current fading of psychoanalytic presumptions, it may well be these “refusers” of Freud who will prove lasting.”
+- “His exacting presence honors literature.”
 
 ### [[books/3587-lessons-of-the-masters|Lessons of the Masters]]
 

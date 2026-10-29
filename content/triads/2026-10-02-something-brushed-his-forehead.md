@@ -1,6 +1,7 @@
 ---
 title: "Something Brushed His Forehead"
 date: 2026-10-02
+method: "Triads"
 tags:
   - triad
   - difficulty/3
@@ -112,7 +113,7 @@ Trans. Chris Andrews (New Directions, 2006), with a preface by Roberto Bolaño. 
 
 **Quotes.**
 
-- “the secret aim of this long voyage, which consumed his youth, was Argentina: the mysterious emptiness to be found on the endless plains at a point equidistant from the horizons.” (≈4%)
+- “the secret aim of this long voyage, which consumed his youth, was Argentina: the mysterious emptiness to be found on the endless plains at a point equidistant from the hori-zons.” (≈4%)
 
 - “What mattered to Rugendas, however, was not at the end of the line but at its impossible midpoint.” (≈26%)
 

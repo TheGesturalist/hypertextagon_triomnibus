@@ -32,4 +32,4 @@ Turns a folk motif and its descendants into two dramatizations of one structure:
 
 ## Themes
 
-[[themes/anathema|anathema]] · [[themes/ara|ara]] · [[themes/bene-diction|bene-diction]] · [[themes/curse|curse]] · [[themes/epiorkos|epiorkos]] · [[themes/fides|fides]] · [[themes/horkos|horkos]] · [[themes/male-diction|male-diction]] · [[themes/oath|oath]] · [[themes/perjury|perjury]] · [[themes/sacrament-of-power|sacrament of power]] · [[themes/sacratio|sacratio]] · [[themes/technicalization|technicalization]]
+[[themes/anathema|anathema]] · [[themes/ara|ara]] · [[themes/benediction|benediction]] · [[themes/curse|curse]] · [[themes/epiorkos|epiorkos]] · [[themes/fides|fides]] · [[themes/horkos|horkos]] · [[themes/malediction|malediction]] · [[themes/oath|oath]] · [[themes/perjury|perjury]] · [[themes/sacrament-of-power|sacrament of power]] · [[themes/sacratio|sacratio]] · [[themes/technicalization|technicalization]]

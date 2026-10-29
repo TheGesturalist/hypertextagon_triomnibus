@@ -1,6 +1,7 @@
 ---
 title: "The Unrepeatable Gesture"
 date: 2026-10-01
+method: "Triads"
 tags:
   - triad
   - difficulty/3

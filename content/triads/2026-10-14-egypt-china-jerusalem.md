@@ -1,6 +1,7 @@
 ---
 title: "Egypt, China, Jerusalem"
 date: 2026-10-14
+method: "Triads"
 tags:
   - triad
   - difficulty/4
@@ -46,7 +47,7 @@ PDF · Calibre ID 9911 · University of Minnesota Press, series “Architecture,
 
 - “The Kirkbride plan, also known as the linear plan, was a type of congregate plan, made up of short but connected pavilions, arrayed in a shallow V.” (ch. 2, p. 51)
 
-- “These wards would be used to categorize patients by severity of disease, with the noisiest patients farthest away from the center.” (ch. 2, p. 60)
+- “These wards would be used to categorize patients by severity of disease, with the noisi-est patients farthest away from the center.” (ch. 2, p. 60)
 
 - “But the classification system was also a management device—a transfer to a nicer ward was a reward for a well-behaved patient. Relocation to a lower ward was a punishment.” (ch. 2, p. 64)
 
@@ -122,7 +123,7 @@ EPUB · Calibre ID 2343 · New York Review Books, 2017, introduction by Marina W
 
 - “Exactly three years ago, I was interned in Dr. Morales’s sanatorium in Santander, Spain, Dr. Pardo, of Madrid, and the British Consul having pronounced me incurably insane.” (Monday, 23 August 1943)
 
-- “(By looking at the map, you will see the respective positions of Villa Pilar, Radiografia, Covadonga, Amachu, and Abajo (Down Below); that will enable you to get your bearings.)” (Tuesday, 24 August 1943)
+- “(By looking at the map, you will see the respective positions of Villa Pilar, Radiografia, Covadonga, Amachu, and Abajo (Down Below); that will enable you to get your bear-ings.)” (Tuesday, 24 August 1943)
 
 - “The pavilion with this name was for me the Earth, the Real World, Paradise, Eden, Jerusalem.” (Thursday, 26 August 1943)
 

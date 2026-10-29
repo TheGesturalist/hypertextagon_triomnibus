@@ -1,6 +1,7 @@
 ---
 title: "Except in Sequence, Repetition, Omission"
 date: 2026-10-19
+method: "Triads"
 tags:
   - triad
   - difficulty/4
@@ -215,7 +216,7 @@ The median source date is 1933. The poems that read as jokes tend to lean on rec
 
 - “Heimrad Bäcker, Documentary Poetry”, a review on Johanna Drucker’s Substack of the newer Bäcker volume *Documentary Poetry* (Winter Editions, 2024). The next book to look for. https://johannadrucker.substack.com/p/heimrad-backer-documentary-poetry
 
-Keep searching for: Kraus, *Dritte Walpurgisnacht* (1933); Helmut Heißenbüttel, “Deutschland 1944” (the collage Bäcker called “groundbreaking”, per Greaney); Victor Klemperer, *LTI*; and Max Picard, whose *The World of Silence* supplies three of Dillard’s poems.
+Keep searching for: Kraus, *Dritte Walpurgisnacht* (1933); Helmut Heißenbüttel, “Deutsch-land 1944” (the collage Bäcker called “groundbreaking”, per Greaney); Victor Klemperer, *LTI*; and Max Picard, whose *The World of Silence* supplies three of Dillard’s poems.
 
 ## Also in your library
 

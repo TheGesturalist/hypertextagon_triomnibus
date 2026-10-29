@@ -1,6 +1,7 @@
 ---
 title: "The Probe and the Kestrel"
 date: 2026-10-09
+method: "Triads"
 tags:
   - triad
   - difficulty/3
@@ -25,7 +26,7 @@ difficulty: 3
 
 Three books, one word, and one common enemy. Simone Weil’s notebooks (*Gravity and Grace*, ch. 26, “Attention and Will”) set attention against the will and confine the will to “a few movements of a few muscles.” Iris Murdoch takes the word over openly (“I have used the word ‘attention’, which I borrow from Simone Weil”) and builds a moral philosophy on it, against what she calls the existentialist picture: “the empty choosing will” and “movement rather than vision.” Michael Polanyi, in Yale lectures given the same decade, arrives at attention from the other side, from chemistry, perception and skill, and his introduction ends by calling “the existentialist claim of choosing our beliefs from zero” absurd. All three demote the will. They part company over where the self goes when attention works.
 
-That is the edge worth your time. Weil and Murdoch want attention to empty the self (decreation; “unselfing”; the kestrel that leaves “nothing now but kestrel”). Polanyi makes attention run *through* the self: we attend *from* our body, our tools and our theories *to* the world, and “Our body is the ultimate instrument of all our external knowledge.” Murdoch prefers sight to touch on principle; she quotes Hampshire’s “Touching, handling and the manipulation of things are misrepresented if we follow the analogy of vision” in order to reject it. Polanyi’s model case is the blind man’s stick, and he argues that seeing itself is assembled from bodily efforts we cannot feel. Oddly, Weil and Polanyi agree on the mechanics: Weil says tightening the muscles about virtue is stupid, and Polanyi says a pianist who attends to his fingers paralyzes himself. **Connection kinds:** Genealogy/influence (Weil →Murdoch), Agreement (Weil ↔Polanyi on indirection), Conflict (Murdoch ↔Polanyi on vision vs. touch), Shared figure (attention vs. will). **Difficulty: 3.**
+That is the edge worth your time. Weil and Murdoch want attention to empty the self (decreation; “unselfing”; the kestrel that leaves “nothing now but kestrel”). Polanyi makes attention run *through* the self: we attend *from* our body, our tools and our theories *to* the world, and “Our body is the ultimate instrument of all our external knowledge.” Murdoch prefers sight to touch on principle; she quotes Hampshire’s “Touching, handling and the manipulation of things are misrepresented if we follow the analogy of vision” in order to reject it. Polanyi’s model case is the blind man’s stick, and he argues that seeing itself is assembled from bodily efforts we cannot feel. Oddly, Weil and Polanyi agree on the mechanics: Weil says tightening the muscles about virtue is stupid, and Polanyi says a pianist who attends to his fingers para-lyzes himself. **Connection kinds:** Genealogy/influence (Weil →Murdoch), Agreement (Weil ↔Polanyi on indirection), Conflict (Murdoch ↔Polanyi on vision vs. touch), Shared figure (attention vs. will). **Difficulty: 3.**
 
 A note on the count: Polanyi uses more sight words than touch words, mostly because his examples are faces and perception. His argument still runs through the hand. Murdoch’s ratio (60 to 3) is the starkest result in the chart, and it is deliberate.
 

@@ -4,7 +4,7 @@ tags:
   - apparatus
 ---
 
-Authors, editors, translators and contributors credited in Volume 1.
+Authors, editors, translators and contributors credited across the Triomnibus.
 
 - [[people/friedrich-achleitner|Friedrich Achleitner]] — editor
 - [[people/giorgio-agamben|Giorgio Agamben]] — author
@@ -21,6 +21,7 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/meyer-barash|Meyer Barash]] — translator
 - [[people/roland-barthes|Roland Barthes]] — author
 - [[people/georges-bataille|Georges Bataille]] — author
+- [[people/ibn-battuta|Ibn Battuta]] — author
 - [[people/j-c-beaglehole|J. C. Beaglehole]] — editor
 - [[people/samuel-beckett|Samuel Beckett]] — contributor
 - [[people/john-stewart-bell|John Stewart Bell]] — author
@@ -33,6 +34,7 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/roberto-bolano|Roberto Bolaño]] — author, contributor
 - [[people/marcus-boon|Marcus Boon]] — contributor
 - [[people/jorge-luis-borges|Jorge Luis Borges]] — author
+- [[people/robert-boyers|Robert Boyers]] — editor
 - [[people/katharine-breen|Katharine Breen]] — author
 - [[people/fred-bridgham|Fred Bridgham]] — translator
 - [[people/max-brod|Max Brod]] — editor
@@ -41,6 +43,8 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/robert-burton|Robert Burton]] — author
 - [[people/heimrad-backer|Heimrad Bäcker]] — author
 - [[people/italo-calvino|Italo Calvino]] — author
+- [[people/elias-canetti|Elias Canetti]] — author
+- [[people/john-carey|John Carey]] — author
 - [[people/leonora-carrington|Leonora Carrington]] — author
 - [[people/cesare-casarino|Cesare Casarino]] — translator
 - [[people/margaret-cavendish|Margaret Cavendish]] — author
@@ -48,6 +52,7 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/curt-cloninger|Curt Cloninger]] — author
 - [[people/james-cook|James Cook]] — author
 - [[people/steven-corcoran|Steven Corcoran]] — translator
+- [[people/stanley-corngold|Stanley Corngold]] — author
 - [[people/emma-crawford|Emma Crawford]] — translator
 - [[people/harry-crews|Harry Crews]] — author
 - [[people/michael-j-curley|Michael J. Curley]] — translator
@@ -65,9 +70,12 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/will-firth|Will Firth]] — translator
 - [[people/alice-w-flaherty|Alice W. Flaherty]] — author
 - [[people/gustave-flaubert|Gustave Flaubert]] — author
+- [[people/jonathan-franzen|Jonathan Franzen]] — translator
 - [[people/christopher-frayling|Christopher Frayling]] — editor
 - [[people/brian-friel|Brian Friel]] — author
+- [[people/laszlo-f-foldenyi|László F. Földényi]] — author
 - [[people/marina-galletti|Marina Galletti]] — editor
+- [[people/william-h-gass|William H. Gass]] — author
 - [[people/arnold-geulincx|Arnold Geulincx]] — author
 - [[people/jody-gladding|Jody Gladding]] — translator
 - [[people/klara-glowczewska|Klara Glowczewska]] — translator
@@ -79,6 +87,7 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/per-hage|Per Hage]] — author
 - [[people/micheal-o-haodha|Mícheál Ó hAodha]] — author
 - [[people/frank-harary|Frank Harary]] — author
+- [[people/john-hargraves|John Hargraves]] — translator
 - [[people/graham-harman|Graham Harman]] — author
 - [[people/john-harman|John Harman]] — translator
 - [[people/ian-higgins|Ian Higgins]] — contributor
@@ -93,6 +102,7 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/franz-kafka|Franz Kafka]] — author
 - [[people/michael-kandel|Michael Kandel]] — translator
 - [[people/ryszard-kapuscinski|Ryszard Kapuściński]] — author
+- [[people/daniel-kehlmann|Daniel Kehlmann]] — contributor
 - [[people/yoshida-kenko|Yoshida Kenkō]] — author
 - [[people/peter-kingsley|Peter Kingsley]] — author
 - [[people/heinrich-von-kleist|Heinrich von Kleist]] — author
@@ -106,6 +116,7 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/frank-kuppner|Frank Kuppner]] — author
 - [[people/okura-kyojin|Okura Kyojin]] — translator
 - [[people/armin-lange|Armin Lange]] — editor
+- [[people/samuel-lee|Samuel Lee]] — translator
 - [[people/natasha-lehrer|Natasha Lehrer]] — translator
 - [[people/stanisaw-lem|Stanisław Lem]] — author
 - [[people/andre-leroi-gourhan|André Leroi-Gourhan]] — author
@@ -113,17 +124,22 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/edouard-leve|Édouard Levé]] — author
 - [[people/nathalie-leger|Nathalie Léger]] — editor
 - [[people/dale-maharidge|Dale Maharidge]] — author
+- [[people/catherine-malabou|Catherine Malabou]] — author
 - [[people/charlotte-mandell|Charlotte Mandell]] — translator
+- [[people/ralph-manheim|Ralph Manheim]] — translator
 - [[people/tom-mccarthy|Tom McCarthy]] — author
 - [[people/alastair-mcewen|Alastair McEwen]] — translator
 - [[people/henri-michaux|Henri Michaux]] — author
+- [[people/christopher-middleton|Christopher Middleton]] — translator
 - [[people/joseph-mitchell|Joseph Mitchell]] — author
 - [[people/w-montgomery|W. Montgomery]] — translator
 - [[people/franco-moretti|Franco Moretti]] — author
 - [[people/tosa-motokiyu|Tosa Motokiyu]] — translator
 - [[people/harryette-mullen|Harryette Mullen]] — author
+- [[people/ottilie-mulzet|Ottilie Mulzet]] — translator
 - [[people/iris-murdoch|Iris Murdoch]] — author
 - [[people/vladimir-nabokov|Vladimir Nabokov]] — author
+- [[people/joachim-neugroschel|Joachim Neugroschel]] — translator
 - [[people/andrej-nikolaidis|Andrej Nikolaidis]] — author
 - [[people/ojiu-norinaga|Ojiu Norinaga]] — translator
 - [[people/gananath-obeyesekere|Gananath Obeyesekere]] — author
@@ -136,6 +152,7 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/alessandro-portelli|Alessandro Portelli]] — author
 - [[people/betty-radice|Betty Radice]] — translator
 - [[people/jacques-ranciere|Jacques Rancière]] — author
+- [[people/paul-reitter|Paul Reitter]] — contributor
 - [[people/courtney-roby|Courtney Roby]] — author
 - [[people/kristin-ross|Kristin Ross]] — translator
 - [[people/jon-rothschild|Jon Rothschild]] — translator
@@ -150,6 +167,7 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/richard-sieburth|Richard Sieburth]] — translator
 - [[people/gregory-starr|Gregory Starr]] — translator
 - [[people/george-steiner|George Steiner]] — author
+- [[people/carol-stewart|Carol Stewart]] — translator
 - [[people/jan-steyn|Jan Steyn]] — translator
 - [[people/jonathan-swift|Jonathan Swift]] — author
 - [[people/peter-szendy|Peter Szendy]] — author
@@ -160,11 +178,13 @@ Authors, editors, translators and contributors credited in Volume 1.
 - [[people/enrique-vila-matas|Enrique Vila-Matas]] — author
 - [[people/graham-wallas|Graham Wallas]] — author
 - [[people/marina-warner|Marina Warner]] — contributor
+- [[people/dashiell-wasserman|Dashiell Wasserman]] — translator
 - [[people/william-weaver|William Weaver]] — translator
 - [[people/simone-weil|Simone Weil]] — author
 - [[people/r-j-zwi-werblowsky|R. J. Zwi Werblowsky]] — translator
 - [[people/randall-white|Randall White]] — contributor
 - [[people/heather-andrea-williams|Heather Andrea Williams]] — author
+- [[people/tyler-m-williams|Tyler M. Williams]] — editor
 - [[people/michael-williamson|Michael Williamson]] — contributor
 - [[people/martin-wilson|Martin Wilson]] — translator
 - [[people/richard-woodfield|Richard Woodfield]] — editor

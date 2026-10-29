@@ -1,6 +1,7 @@
 ---
 title: "Nothing, Reviewed"
 date: 2026-10-17
+method: "Triads"
 tags:
   - triad
   - difficulty/4
@@ -140,7 +141,7 @@ One finding from the plot: the line between parody and practice runs through 197
 
 ## Some Ways of Making Nothing: Apophatic Apparatuses in Contemporary Art — Curt Cloninger (2021)
 
-*PDF · Calibre ID 7214 · Page numbers are printed pages. The book is dedicated to two musicians as “master makers of unforeseen naughts.”* → [[books/7214-some-ways-of-making-nothing-apophatic-apparatuses|book page]]
+*PDF · Calibre ID 7214 · Page numbers are printed pages. The book is dedicated to two musi-cians as “master makers of unforeseen naughts.”* → [[books/7214-some-ways-of-making-nothing-apophatic-apparatuses|book page]]
 
 **Selection logic.** Cloninger turns Lem’s joke and Dworkin’s catalogue into a theory, and he disagrees with both. Against Lem, there is no “permanent nothing,” only temporary braking. Against Dworkin’s materialism, a nothing can be made. It is not a blank but an apparatus that “resists (however fleetingly) the inevitable move toward becoming.” He also brings in two of your standing reference points, negative theology and quantum measurement, the second by way of Barad and the delayed-choice quantum eraser.
 
@@ -176,7 +177,7 @@ One finding from the plot: the line between parody and practice runs through 197
 
 - *Bereft*: “Fludd’s diagrammatic apparatus makes a kind of bereft nothing (it makes the human-semiotic meaning “nothing”) while simultaneously making a host of proliferating material somethings.” (p. 226)
 
-- *Fecund*: in Arakawa and Gins, “the viewer’s ability to make meaning is purposely sabotaged and confounded.” (p. 227) “They approach nothing because we can make nothing (definite) of them.” (p. 269)
+- *Fecund*: in Arakawa and Gins, “the viewer’s ability to make meaning is purposely sabo-taged and confounded.” (p. 227) “They approach nothing because we can make nothing (definite) of them.” (p. 269)
 
 - *Deferred*: “Stop Motion Studies enacts a kind of perpetual deferment which makes its own kind of apophatic nothing.” (p. 271)
 
@@ -224,7 +225,7 @@ book, not Marriot’s, the candidate for an apophatic apparatus, because it affi
 
 **Your sense:** The paradigmatic figure of productive absence: the ontological gesture by which something withdraws so that something else may be. The absent father-God who makes creation possible by not-being-there.
 
-**Received:** In Lurianic Kabbalah, the primordial act by which the Ein Sof (the Infinite) contracts or withdraws itself from a central point in order to create a vacated space (chalal panuy) within which finite creation can come into being.
+**Received:** In Lurianic Kabbalah, the primordial act by which the Ein Sof (the Infinite) con-tracts or withdraws itself from a central point in order to create a vacated space (chalal panuy) within which finite creation can come into being.
 
 **Etymology.** Hebrew root *ts-m-ts*, in the intensive Pi’el stem (sustained self-limitation). The cosmological sense is a sixteenth-century Lurianic coinage with no biblical antecedent.
 

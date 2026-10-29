@@ -4,7 +4,7 @@ tags:
   - theme
 ---
 
-## Triads
+## Readings
 
 - [[triads/2026-09-25-the-two-clocks-problem|The Two Clocks Problem]] (2026-09-25)
 - [[triads/2026-09-28-point-pause-chapter|Point, Pause, Chapter]] (2026-09-28)
@@ -15,8 +15,8 @@ tags:
 
 ## Books
 
-- [[books/11289-the-chapter-a-segmented-history-from-antiquity-to|The Chapter: A Segmented History From Antiquity to the Twenty-First Century]]
-- [[books/4209-remainder|Remainder]]
-- [[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]
-- [[books/4214-jottings-under-lamplight|Jottings Under Lamplight]]
 - [[books/1003-gesture-and-speech|Gesture and Speech]]
+- [[books/4209-remainder|Remainder]]
+- [[books/4214-jottings-under-lamplight|Jottings Under Lamplight]]
+- [[books/11289-the-chapter-a-segmented-history-from-antiquity-to|The Chapter: A Segmented History From Antiquity to the Twenty-First Century]]
+- [[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]

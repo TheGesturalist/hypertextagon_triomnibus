@@ -29,4 +29,4 @@ Technical ekphrasis at Heronian density for machines that exist only in prose an
 
 ## Themes
 
-[[themes/audience-and-mechanism|audience and mechanism]] · [[themes/automata|automata]] · [[themes/flood|Flood]] · [[themes/language-as-generator|language as generator]] · [[themes/loom|loom]] · [[themes/machines|machines]] · [[themes/painting-machine|painting machine]] · [[themes/procede|procédé]] · [[themes/shipwreck|shipwreck]] · [[themes/spectacle|spectacle]]
+[[themes/audience-and-mechanism|audience and mechanism]] · [[themes/automata|automata]] · [[themes/flood|Flood]] · [[themes/language-as-generator|language as generator]] · [[themes/loom|loom]] · [[themes/machine|machine]] · [[themes/painting-machine|painting machine]] · [[themes/procede|procédé]] · [[themes/shipwreck|shipwreck]] · [[themes/spectacle|spectacle]]

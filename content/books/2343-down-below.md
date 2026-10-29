@@ -25,4 +25,4 @@ The patient's view Yanni says is scarce; Carrington maps Dr. Morales's pavilions
 
 ## Themes
 
-[[themes/amachu|Amachu]] · [[themes/cardiazol|Cardiazol]] · [[themes/covadonga|Covadonga]] · [[themes/demystification|demystification]] · [[themes/down-below-abajo|Down Below/Abajo]] · [[themes/dr-morales|Dr. Morales]] · [[themes/pavilions-as-cosmology|pavilions as cosmology]] · [[themes/santander|Santander]] · [[themes/sun-room|Sun Room]] · [[themes/surrealism|surrealism]]
+[[themes/amachu|Amachu]] · [[themes/cardiazol|Cardiazol]] · [[themes/cosmology-of-pavilions|cosmology of pavilions]] · [[themes/covadonga|Covadonga]] · [[themes/demystification|demystification]] · [[themes/down-below-abajo|Down Below/Abajo]] · [[themes/dr-morales|Dr. Morales]] · [[themes/santander|Santander]] · [[themes/sun-room|Sun Room]] · [[themes/surrealism|surrealism]]

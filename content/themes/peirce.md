@@ -4,7 +4,7 @@ tags:
   - theme
 ---
 
-## Triads
+## Readings
 
 - [[triads/2026-10-03-ill-favored-black-unicorns|Ill-Favored Black Unicorns]] (2026-10-03)
 - [[triads/2026-10-25-the-pattern-determines-the-parts|The Pattern Determines the Parts]] (2026-10-25)

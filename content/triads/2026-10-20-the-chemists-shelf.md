@@ -1,6 +1,7 @@
 ---
 title: "The Chemist’s Shelf"
 date: 2026-10-20
+method: "Triads"
 tags:
   - triad
   - difficulty/4
@@ -100,7 +101,7 @@ Browne’s “voyce of God” becomes, in one step, the curator’s decision.
 
 4. “And the state must become the museum of its population.” (Groys, Introduction)
 
-5. “with resurrection being relegated to third place” (Svyatogor, “The Doctrine of the Fathers and Anarchism-Biocosmism”). The Biocosmists keep Fedorov’s immortality for the living and push his duty to the dead down the list. The demotion begins inside the movement.
+5. “with resurrection being relegated to third place” (Svyatogor, “The Doctrine of the Fa-thers and Anarchism-Biocosmism”). The Biocosmists keep Fedorov’s immortality for the living and push his duty to the dead down the list. The demotion begins inside the movement.
 
 **A misreading worth attempting: “Immortality Day” as the anthology’s Malevich.** Bogdanov’s story (the volume’s bibliography gives it as “Immortal Fride,” 1912, and also notes a 1914 printing as “Immortality Day”) is set a thousand years after the chemist Fride’s immortality formula. Death has been abolished so thoroughly that it is hard to obtain: “Contemporary medicine was capable of reviving corpses and restoring individual body parts.” Fride turns down radium, which would be instant, and chooses the archaic pyre: ““To burn at the stake! At the very least, it will be beautiful.”” The last line: “Tongues of fire twisted around his body, hissing: “Everything repeats itself!”” Read against Zhilyaev’s volume, the story looks like Malevich arrived at several years early. Once the dead can always be returned, burning is the only act left that cannot be repeated. The misreading lies in making Bogdanov an incinerator: his story is about the boredom of the immortal, not the clutter of the museum. Still, the anthology of resurrection ends on a cremation, and that placement is the editor’s.
 
@@ -212,7 +213,7 @@ famous Nations of the dead” (V).
 
 - **Anagnōsis**: reading, especially reading aloud; an older Greek sense is “recognition, knowing again.”
 
-- **Eklogē**: selection, the act of picking out or the thing picked, and so the title of anthologies of excerpts.
+- **Eklogē**: selection, the act of picking out or the thing picked, and so the title of antholo-gies of excerpts.
 
 - **Hypomnēmatismos**: the making of a written record, and the record made: memorandum, day-book, note-taking, commentary.
 

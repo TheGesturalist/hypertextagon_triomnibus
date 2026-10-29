@@ -1,6 +1,7 @@
 ---
 title: "The Private Core"
 date: 2026-10-18
+method: "Triads"
 tags:
   - triad
   - difficulty/3
@@ -205,7 +206,7 @@ This is a map made by the people the Ordnance Survey maps, and it is written for
 
 - Logainm, the Placenames Database of Ireland: its sources page names the OS Parish Name Books and John O’Donovan, the real Irish scholar behind Owen’s job. Look up Burnfoot, and any townland you like. https://www.logainm.ie/en/about/sources
 
-- Fiachra Mac Góráin, “Language politics in the *Aeneid* and Friel’s *Translations*,” *Proceedings of the Virgil Society* 30 (2020), on why Hugh’s play ends in Virgil. https://discovery-pp.ucl.ac.uk/10120100/1/Mac%20G%C3%B3r%C3%A1in%2C%20Fiachra.%20PVS%2030%20%282020%29%20The%20politics%20of%20language%20in%20the%20Aeneid%20and%20Friel%27s%20Translations.pdf
+- Fiachra Mac Góráin, “Language politics in the *Aeneid* and Friel’s *Translations*,” *Proceed-ings of the Virgil Society* 30 (2020), on why Hugh’s play ends in Virgil. https://discovery-pp.ucl.ac.uk/10120100/1/Mac%20G%C3%B3r%C3%A1in%2C%20Fiachra.%20PVS%2030%20%282020%29%20The%20politics%20of%20language%20in%20the%20Aeneid%20and%20Friel%27s%20Translations.pdf
 
 - MoLI exhibition, *Don’t anticipate the ending: Creative encounters with the Brian Friel Papers*, on Friel’s use of *After Babel*, with NLI manuscripts. https://exhibitions.moli.ie/brian-friel/m/has-language-failed-these-people
 
@@ -249,7 +250,7 @@ No verified occurrence of the word in today’s three books.
 
 ## Themes
 
-[[themes/aeneid|Aeneid]] · [[themes/anglicisation|Anglicisation]] · [[themes/anti-language|anti-language]] · [[themes/backslang|backslang]] · [[themes/cant|Cant]] · [[themes/carthage|Carthage]] · [[themes/field-day|Field Day]] · [[themes/friel|Friel]] · [[themes/gammon|Gammon]] · [[themes/gypsiology|Gypsiology]] · [[themes/gypsy-lore-society|Gypsy Lore Society]] · [[themes/hedge-school|hedge-school]] · [[themes/hermeneutic-motion|hermeneutic motion]] · [[themes/hermeticism|hermeticism]] · [[themes/interpreter-as-censor|interpreter as censor]] · [[themes/irish-folklore-commission|Irish Folklore Commission]] · [[themes/irish-language-shift|Irish language shift]] · [[themes/kuno-meyer|Kuno Meyer]] · [[themes/leland|Leland]] · [[themes/linguistic-exogamy|linguistic exogamy]] · [[themes/macalister|Macalister]] · [[themes/name-book|Name-Book]] · [[themes/naming|naming]] · [[themes/onomastics|onomastics]] · [[themes/ordnance-survey|Ordnance Survey]] · [[themes/pass-word|pass-word]] · [[themes/place-names|place names]] · [[themes/privacy-of-language|privacy of language]] · [[themes/private-core|private core]] · [[themes/sampson|Sampson]] · [[themes/secret-languages|secret languages]] · [[themes/shelta|Shelta]] · [[themes/steiner|Steiner]] · [[themes/tinker-questionnaire|Tinker Questionnaire]] · [[themes/translation|translation]] · [[themes/travellers|Travellers]] · [[themes/o-baoill|Ó Baoill]]
+[[themes/aeneid|Aeneid]] · [[themes/anglicisation|Anglicisation]] · [[themes/anti-language|anti-language]] · [[themes/backslang|backslang]] · [[themes/cant|Cant]] · [[themes/carthage|Carthage]] · [[themes/field-day|Field Day]] · [[themes/friel|Friel]] · [[themes/gammon|Gammon]] · [[themes/gypsiology|Gypsiology]] · [[themes/gypsy-lore-society|Gypsy Lore Society]] · [[themes/hedge-school|hedge-school]] · [[themes/hermeneutic-motion|hermeneutic motion]] · [[themes/hermeticism|hermeticism]] · [[themes/interpreter-as-censor|interpreter as censor]] · [[themes/irish-folklore-commission|Irish Folklore Commission]] · [[themes/irish-language-shift|Irish language shift]] · [[themes/kuno-meyer|Kuno Meyer]] · [[themes/leland|Leland]] · [[themes/linguistic-exogamy|linguistic exogamy]] · [[themes/macalister|Macalister]] · [[themes/name-book|Name-Book]] · [[themes/naming|naming]] · [[themes/onomastics|onomastics]] · [[themes/ordnance-survey|Ordnance Survey]] · [[themes/password|password]] · [[themes/place-names|place names]] · [[themes/privacy-of-language|privacy of language]] · [[themes/private-core|private core]] · [[themes/sampson|Sampson]] · [[themes/secret-languages|secret languages]] · [[themes/shelta|Shelta]] · [[themes/steiner|Steiner]] · [[themes/tinker-questionnaire|Tinker Questionnaire]] · [[themes/translation|translation]] · [[themes/travellers|Travellers]] · [[themes/o-baoill|Ó Baoill]]
 
 ---
 

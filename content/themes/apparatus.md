@@ -4,7 +4,7 @@ tags:
   - theme
 ---
 
-## Triads
+## Readings
 
 - [[triads/2026-10-12-rewarded-for-the-relics|Rewarded for the Relics]] (2026-10-12)
 - [[triads/2026-10-17-nothing-reviewed|Nothing, Reviewed]] (2026-10-17)

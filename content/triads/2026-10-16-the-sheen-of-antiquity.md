@@ -1,6 +1,7 @@
 ---
 title: "The Sheen of Antiquity"
 date: 2026-10-16
+method: "Triads"
 tags:
   - triad
   - difficulty/3

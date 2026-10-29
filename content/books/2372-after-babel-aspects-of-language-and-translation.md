@@ -30,4 +30,4 @@ Friel drew on it while writing Translations; its thesis that speech matured thro
 
 ## Themes
 
-[[themes/borrowing-concordance|borrowing concordance]] · [[themes/concealment|concealment]] · [[themes/hermeneutic-motion|hermeneutic motion]] · [[themes/hermeticism|hermeticism]] · [[themes/linguistic-exogamy|linguistic exogamy]] · [[themes/pass-word|pass-word]] · [[themes/privacy-of-language|privacy of language]]
+[[themes/borrowing-concordance|borrowing concordance]] · [[themes/concealment|concealment]] · [[themes/hermeneutic-motion|hermeneutic motion]] · [[themes/hermeticism|hermeticism]] · [[themes/linguistic-exogamy|linguistic exogamy]] · [[themes/password|password]] · [[themes/privacy-of-language|privacy of language]]

@@ -1,6 +1,7 @@
 ---
 title: "Rewarded for the Relics"
 date: 2026-10-12
+method: "Triads"
 tags:
   - triad
   - difficulty/4
@@ -60,7 +61,7 @@ Lange then asks what this volume exists to ask: “Is Galen correct?” (p. 5). 
 
 4. An inscription from Priene (early 2nd c. BCE) on a border dispute with Samos, calling historians ψευδεπιγράφους.
 
-5. Dionysius of Halicarnassus (late 1st c. BCE), using the word for speeches wrongly ascribed to Demosthenes and Dinarchus.
+5. Dionysius of Halicarnassus (late 1st c. BCE), using the word for speeches wrongly as-cribed to Demosthenes and Dinarchus.
 
 **Quotes.**
 
@@ -96,7 +97,7 @@ PDF · Calibre ID 3327 · printed page (PDF page in brackets) → [[books/3327-t
 
 **Derived list: how Chatterton authenticated Rowley, and for whom (ch. II).**
 
-- *Three methods* (p. 49): “inventing its special language, imagining the ancient physical city, and writing the Rowleyan documents.” The language runs to about 1,800 words, nearly all traceable to sources Chatterton took as authentic. Taylor’s verdict on it: “The language, then, was as authentic as Chatterton’s detailed, though unsophisticated researches could make it.”
+- *Three methods* (p. 49): “inventing its special language, imagining the ancient physical city, and writing the Rowleyan documents.” The language runs to about 1,800 words, nearly all traceable to sources Chatterton took as authentic. Taylor’s verdict on it: “The language, then, was as authentic as Chatterton’s detailed, though unsophisticated re-searches could make it.”
 
 - *Format as evidence* (p. 63): in “The Rolle of Seyncte Bartlemeweis Priorie” Chatterton plays the annotating antiquary to Rowley’s text, and “the physical manuscript … has been ruled before composition so that the notes will clearly dominate the text.” The page was laid out for its apparatus before a word was written.
 

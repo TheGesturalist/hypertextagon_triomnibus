@@ -2,19 +2,29 @@
 title: "The Hypertext Triomnibus"
 ---
 
-*Scribrarium, Volume 1: Triads.*
+*Scribrarium — Daily Resurfacings from a Thirteen-Thousand-Volume Library.*
 
-32 days, 96 books, three at a time, resurfaced from one private library of about thirteen thousand volumes and read for what passes between them. Each triad links to its books, each book to its people and themes, so the volume can be read in order or sideways.
+36 days and 111 distinct books resurfaced from one private library and read from their own files for what passes between them. Volume 1 (*Triads*) reads three books at a time across shared forms, motifs, genealogies, and conflicts; Volume 2 (*An Author and Their Shadow*) tracks a single writer per week across the library's full-text index.
 
 ## Ways in
 
+- **Interactive Constellation:** [Open the Graph Observatory](/static/observatory/index.html) (Moretti ablation lab, *Chavruta* pathfinder, Scribrarium ghost shelf, & corpus Q&A).
 - In order: start with [[triads/2026-09-24-cento-copy-dictionary|Cento, Copy, Dictionary]].
 - By difficulty: [[apparatus/graded-climb|The Graded Climb]].
 - By person: [[apparatus/people|People]].
 - The apparatus: [[apparatus/bibliography|Bibliography]] · [[apparatus/quotations|Index of Quotations]].
 - How this was made: [[method/index|Method]].
 
-## The triads
+## Volume 2: An Author and Their Shadow
+
+- **Week 1:** [[shadows/weeks/elias-canetti|Shadow — Elias Canetti]] (*In progress* · 343 library mentions)
+
+1. 2026-10-26 — [[shadows/2026-10-26-shadow-elias-canetti-day-1-the-only-man|Shadow — Elias Canetti, day 1: The Only Man]]
+2. 2026-10-27 — [[shadows/2026-10-27-shadow-elias-canetti-day-2-the-quotation-survives|Shadow — Elias Canetti, day 2: The Quotation Survives]]
+3. 2026-10-28 — [[shadows/2026-10-28-shadow-elias-canetti-day-3-mob-or-organisation|Shadow — Elias Canetti, day 3: Mob or Organisation]]
+4. 2026-10-29 — [[shadows/2026-10-29-shadow-elias-canetti-day-4-the-tribunal-in-transla|Shadow — Elias Canetti, day 4: The Tribunal in Translation]]
+
+## Volume 1: The Triads
 
 1. 2026-09-24 — [[triads/2026-09-24-cento-copy-dictionary|Cento, Copy, Dictionary]]
 2. 2026-09-25 — [[triads/2026-09-25-the-two-clocks-problem|The Two Clocks Problem]]

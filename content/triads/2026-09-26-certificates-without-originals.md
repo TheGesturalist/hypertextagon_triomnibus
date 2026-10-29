@@ -1,6 +1,7 @@
 ---
 title: "Certificates Without Originals"
 date: 2026-09-26
+method: "Triads"
 tags:
   - triad
   - difficulty/3
@@ -24,7 +25,7 @@ difficulty: 3
 
 Three books about what is left when the apparatus that certifies a work and the work it certifies come apart. In Zweig’s story a blind collector in inflation-era Saxony shows a Berlin dealer twenty-seven portfolios whose prints his wife and daughter have already sold. He turns a blank sheet over and points, “to the millimetre”, to the collectors’ stamps of Nagler, Remy and Esdaile: the provenance outlives the object. Perec’s forger Gaspard Winckler has the reverse problem. His dealers supply certificates of authenticity for everything he makes (“They had them”). What he cannot manage is “to create an authentic masterwork of the past”, and the one mark he cannot copy is Antonello’s *me pinxit*: the object without its provenance. Krauss’s essay is the theory both stories take for granted and then undercut. Museum, historian and artist all work “to find the mark, the warrant, the certification of the original”, and Krauss argues that the original was always propped on the copy: Rodin’s posthumous casts, the vintage print, the grid.
 
-**Connection kinds:** Same subject (authenticity), Shared figure or motif (the certifying mark: stamp, certificate, cartellino, copyright), Conflict. **Difficulty: 3.** Once said, the link is plain. What makes it worth your time is the conflict. Krauss dissolves the original. Zweig’s councillor and Perec’s forger each stake a life on it, and in both stories the fiction produces something real: the old man’s joy, and Winckler’s own face. A detail keeps the triad tight: Zweig’s treasures are etchings and engravings, which are already multiples. That is exactly the medium in which Krauss, quoting Benjamin, says that asking for the authentic print “makes no sense”. And for the gesturalist, Zweig gives a gesture performed without its object (“the intent gesture of a man looking at a fine work”), while Krauss shows Monet’s gestural mark manufactured over days.
+**Connection kinds:** Same subject (authenticity), Shared figure or motif (the certifying mark: stamp, certificate, cartellino, copyright), Conflict. **Difficulty: 3.** Once said, the link is plain. What makes it worth your time is the conflict. Krauss dissolves the original. Zweig’s councillor and Perec’s forger each stake a life on it, and in both stories the fiction produces something real: the old man’s joy, and Winckler’s own face. A detail keeps the triad tight: Zweig’s trea-sures are etchings and engravings, which are already multiples. That is exactly the medium in which Krauss, quoting Benjamin, says that asking for the authentic print “makes no sense”. And for the gesturalist, Zweig gives a gesture performed without its object (“the intent gesture of a man looking at a fine work”), while Krauss shows Monet’s gestural mark manufactured over days.
 
 ## 1. The Invisible Collection — Stefan Zweig (1925, as Die unsichtbare Sammlung)
 

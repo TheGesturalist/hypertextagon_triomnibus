@@ -1,6 +1,7 @@
 ---
 title: "Without Aid or Supervision"
 date: 2026-10-05
+method: "Triads"
 tags:
   - triad
   - difficulty/4
@@ -192,7 +193,7 @@ Set this next to Bedu’s loom. One machine‑woven picture shows a disaster the
 
 - Maria Gerolemou, review of Roby, *Bryn Mawr Classical Review* 2016.12.17: https://bmcr.brynmawr.edu/?p=31491
 
-- Daniel Levin Becker on Levé’s *Works*, *Music & Literature* (2014), which finds “Roussel-lian pointlessness” in #348: https://www.musicandliterature.org/features/2014/8/7/beaux-absents
+- Daniel Levin Becker on Levé’s *Works*, *Music & Literature* (2014), which finds “Roussellian pointlessness” in #348: https://www.musicandliterature.org/features/2014/8/7/beaux-absents
 
 **Also in your library**
 

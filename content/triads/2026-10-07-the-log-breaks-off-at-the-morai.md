@@ -1,6 +1,7 @@
 ---
 title: "The Log Breaks Off at the Morai"
 date: 2026-10-07
+method: "Triads"
 tags:
   - triad
   - difficulty/3

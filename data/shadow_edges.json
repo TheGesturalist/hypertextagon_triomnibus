@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "fields": {
+      "Week": 2,
+      "Set": 33,
+      "Citing_Calibre_ID": 413,
+      "Citing_Title": "The Conscience of Words",
+      "Citing_Author": "Elias Canetti",
+      "Relation": "Quotes",
+      "Quote": "We have it froma good source, the famous Arab traveller Ibn Batuta, who spent seven years at the sultan’s court and knew him very thoroughly. [Canetti’s rendering of the sultan:] ‘Now my heart is tranquil and my wrath appeased.’",
+      "Location": "pp. 24 (‘Power and Survival’)",
+      "Evidence": "Day-1 edge, direction outward: TARGET = Ibn Battuta, The Travels, tr. Samuel Lee (Calibre 13883), ch. XVI. Lee's abridged text has the emptying of Delhi, the bed-ridden man and the blind man ('only one of his legs was brought to the place intended') but gives 'the distance of ten days' (Canetti: forty) and lacks the rooftop scene and the sultan's sentence. Canetti evidently used a fuller translation; the library cannot confirm his key line. ('froma' is the OCR reading.)",
+      "Verified": true
+    }
+  },
+  {
+    "id": 2,
+    "fields": {
+      "Week": 2,
+      "Set": 33,
+      "Citing_Calibre_ID": 413,
+      "Citing_Title": "The Conscience of Words",
+      "Citing_Author": "Elias Canetti",
+      "Relation": "Argues with",
+      "Quote": "rarely has he come up with such an utter misinterpretation.",
+      "Location": "p. 25 (‘Power and Survival’)",
+      "Evidence": "Day-1 edge, direction outward: TARGET = Freud, 'Psychoanalytical Remarks on an Autobiographically Described Case of Paranoia (Dementia paranoides)' (1911), named by Canetti on p. 25; the essay itself is not in the library (only passing Schreber mentions in Freud volumes 4863, 8728, 14006).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 3,
+    "fields": {
+      "Week": 2,
+      "Set": 34,
+      "Citing_Calibre_ID": 3123,
+      "Citing_Title": "Dostoyevsky Reads Hegel in Siberia and Bursts Into Tears",
+      "Citing_Author": "László F. Földényi",
+      "Relation": "Quotes",
+      "Quote": "As Canetti puts it in the book: the European bourgeois of the twentieth century thinks that he stands above the African king, yet “his despots may use more effective means, but their ends often differ in nothing from those of these African Kings.”",
+      "Location": "'A Capacity for Amazement', n. 3 (Stewart p. 411)",
+      "Evidence": "TARGET = Crowds and Power (14938). All six CP quotations in the essay (nn. 2/8, 3, 10, 12, 13, 14) found verbatim in the Stewart EPUB (Survivor: Immortality; Rulers and Paranoiacs: African Kings; The Crowd; Entrails of Power; The Command). Only drift: n. 3's preceding sentence ('It is not for a European of the 20th century to regard himself as above savagery.') paraphrased with 'bourgeois' added; n. 14 '[the command]' for 'it'. Frame claim 'Canetti never employs the first-person singular' contradicted by CP ('I am here deliberately opposing all the usual concepts of tribe, sib, clan', The Pack).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 4,
+    "fields": {
+      "Week": 2,
+      "Set": 34,
+      "Citing_Calibre_ID": 3123,
+      "Citing_Title": "Dostoyevsky Reads Hegel in Siberia and Bursts Into Tears",
+      "Citing_Author": "László F. Földényi",
+      "Relation": "Quotes",
+      "Quote": "I have often thought that this is the most important book I know.",
+      "Location": "'A Capacity for Amazement', n. 1 (Nachträge aus Hampstead, p. 32)",
+      "Evidence": "TARGET = Notes from Hampstead (415), 1960 entry after the note on Pavese: 'I have often considered it the most important book I know.' Same sentence, two English versions: Földényi's translator renders the German afresh rather than using the published English.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 5,
+    "fields": {
+      "Week": 2,
+      "Set": 34,
+      "Citing_Calibre_ID": 926,
+      "Citing_Title": "A Temple of Texts",
+      "Citing_Author": "William H. Gass",
+      "Relation": "Quotes",
+      "Quote": "I bow to memory, every person’s memory. I want to leave memory intact, for it belongs to the man who exists for his freedom.",
+      "Location": "'The Road to the True Book'",
+      "Evidence": "TARGET = The Torch in My Ear (421), ch. 'Escape'. Block verbatim except 'beat alongn' for 'beat along'. Also verbatim: the mother's accusation ('a coward who refused to look life in the face because of mere books...', 'The Pension Charlotte') and 'I had barely set out on the road to the true book: each individual human being, bound in himself.' ('The Letters in the Tree').",
+      "Verified": true
+    }
+  },
+  {
+    "id": 6,
+    "fields": {
+      "Week": 2,
+      "Set": 34,
+      "Citing_Calibre_ID": 926,
+      "Citing_Title": "A Temple of Texts",
+      "Citing_Author": "William H. Gass",
+      "Relation": "Quotes",
+      "Quote": "“The threat with the knife worked,” Canetti writes, “the child quite literally held his tongue for ten years.”",
+      "Location": "'The Road to the True Book'",
+      "Evidence": "TARGET = The Tongue Set Free (420), 'My Earliest Memory': 'The threat with the knife worked, the child quite literally held his tongue for ten years.' Verbatim; Gass splits the sentence with 'Canetti writes'.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 7,
+    "fields": {
+      "Week": 2,
+      "Set": 34,
+      "Citing_Calibre_ID": 926,
+      "Citing_Title": "A Temple of Texts",
+      "Citing_Author": "William H. Gass",
+      "Relation": "Quotes",
+      "Quote": "Then one night, in a state of mind that could not have been more desolate, I found salvation in something unknown, which had long been on my shelf but which I have never touched.",
+      "Location": "'Influence'",
+      "Evidence": "TARGET = The Play of the Eyes (418), 'Büchner in the Desert'. Block verbatim except 'have never touched' for 'had never touched'. Also verbatim: 'I had lost my right to books', 'It was as if I had been struck by lightning', 'My novel that I’d been so proud of crumbled into dust and ashes.'",
+      "Verified": true
+    }
+  },
+  {
+    "id": 8,
+    "fields": {
+      "Week": 2,
+      "Set": 34,
+      "Citing_Calibre_ID": 926,
+      "Citing_Title": "A Temple of Texts",
+      "Citing_Author": "William H. Gass",
+      "Relation": "Quotes",
+      "Quote": "Moreover, after at first naming the character Kant, he called him Kien, meaning “kindling,” so what was possible for that person but ignition?",
+      "Location": "'Influence'; also 'The Road to the True Book' (‘the last common property’; Confucius)",
+      "Evidence": "TARGET = The Conscience of Words (413), 'The First Book: Auto-da-Fé': first name Brand ('Nevertheless, the name Brand began hemming me in as I wrote the novel.' p. 127), then Kant ('I redubbed him Kant', p. 127), then Kien: 'The man was now called Kien (Pinewood)' (p. 134). Gass omits Brand and glosses Kien as 'kindling'. Quotations from 413 verbatim: 'the last common property' (p. 13); '… everything it contains and indeed everything it lacks is important' (p. 94).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 9,
+    "fields": {
+      "Week": 2,
+      "Set": 35,
+      "Citing_Calibre_ID": 3632,
+      "Citing_Title": "The Intellectuals and the Masses",
+      "Citing_Author": "John Carey",
+      "Relation": "Argues with",
+      "Quote": "It is presumably this dual awareness that accounts for the ambivalence that runs through Canetti’s Masse und Macht, and disturbs its intellectual coherence.",
+      "Location": "ch. 1, 'The Revolt of the Masses' (n. 11)",
+      "Evidence": "TARGET = Crowds and Power (14938). Four-step argument: Canetti 'inherits its fantasies and confusions' (Le Bon to Freud); his crowd 'virtually identical with Le Bon’s' yet 'the salvation of mankind'; ambivalence disturbs coherence; 'Canetti’s superiority, as an intellectual, to the mass – to ‘everyone’ gloating over newsprint' (on 'Baiting Crowds'). Opposed implicitly by Malabou (907).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 10,
+    "fields": {
+      "Week": 2,
+      "Set": 35,
+      "Citing_Calibre_ID": 3632,
+      "Citing_Title": "The Intellectuals and the Masses",
+      "Citing_Author": "John Carey",
+      "Relation": "Quotes",
+      "Quote": "‘Today everyone takes part in public executions through the newspapers.’",
+      "Location": "ch. 1, 'The Revolt of the Masses' (n. 11: Stewart, Gollancz 1962)",
+      "Evidence": "TARGET = Crowds and Power (14938) and The Torch in My Ear (421). Verbatim: 'Today everyone takes part...' (Baiting Crowds), 'biological state' (The Eruption), 'first and supreme attribute' (The Open and the Closed Crowd). Drift: 'its animal force' for Stewart 'its own animal force' (The Eruption); 'most despicable' cut from 'One is tempted to say that it is the most despicable and, at the same time, most stable form'; memoir line 'I became part of the crowd. I dissolved into it fully.' vs Neugroschel 'I became a part of the crowd, I fully dissolved in it' ('The Fifteenth of July') — another translation, unattributed.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 11,
+    "fields": {
+      "Week": 2,
+      "Set": 35,
+      "Citing_Calibre_ID": 907,
+      "Citing_Title": "Plasticity: The Promise of Explosion (catalogued as Plasticity at the Dusk of Writing)",
+      "Citing_Author": "Catherine Malabou",
+      "Relation": "Argues with",
+      "Quote": "It seems to me, on the contrary, that nothing is more organised than the mass that Canetti describes",
+      "Location": "ch. 8, 'The Crowd: Figuring the Democracy to Come', p. 117",
+      "Evidence": "TARGET = Crowds and Power (14938) and its readers: against Negri ('Masses and plebs have often been terms used to name an irrational and passive social force', quoted p. 117) and readers who see 'a formless swarming that the English call a ‘mob’'. Also argues past Canetti: 'I am aware, here, that I am making Canetti’s book talk and perhaps making it say more than it would on its own.' (p. 118). Sides with Canetti against Freud (p. 117).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 12,
+    "fields": {
+      "Week": 2,
+      "Set": 35,
+      "Citing_Calibre_ID": 907,
+      "Citing_Title": "Plasticity: The Promise of Explosion (catalogued as Plasticity at the Dusk of Writing)",
+      "Citing_Author": "Catherine Malabou",
+      "Relation": "Quotes",
+      "Quote": "The goal is the most intense darkness where the most people are gathered. (Canetti 1984: 16)",
+      "Location": "ch. 8, pp. 115–118, n. 9 p. 129 (tr. Dashiell Wasserman)",
+      "Evidence": "TARGET = Crowds and Power (14938, Stewart) and Torch (421). Cites Stewart/Neugroschel but quotes via French: 'swarming with people [Soudain tout est noir de monde]' vs 'black with people'; 'most intense darkness' vs 'blackest spot'; 'compact crowd' vs 'dense crowd'; 'a drastic and enigmatic modification of consciousness' vs 'a total alteration of consciousness, was both drastic and enigmatic' ('The Buddhist'); n. 9 'Crowd crystals are the small groups of men' omits Stewart's 'rigid'. 'Secrecy ... lies at the very core of power' and n. 4 (hunter/transformation) verbatim.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 13,
+    "fields": {
+      "Week": 2,
+      "Set": 35,
+      "Citing_Calibre_ID": 4026,
+      "Citing_Title": "George Steiner at the New Yorker",
+      "Citing_Author": "George Steiner",
+      "Relation": "Argues with",
+      "Quote": "Nonetheless, it would be difficult to find anything in Canetti’s subsequent writings to match the powers of Opus I.",
+      "Location": "'A Tale of Three Cities' (New Yorker, 22 Nov 1982; book pp. 260–69)",
+      "Evidence": "TARGET = Canetti's oeuvre and Crowds and Power ('a torso of a work, fragmentary in its brilliance'); ranks him below Kafka ('immediacy of mythical creation') and Broch; conduct: 'rounded fiercely, and not altogether fairly' on English publishers and critics. Agrees with Canetti against Freud ('refusers' with Kraus, Wittgenstein, Heidegger).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 14,
+    "fields": {
+      "Week": 2,
+      "Set": 35,
+      "Citing_Calibre_ID": 4026,
+      "Citing_Title": "George Steiner at the New Yorker",
+      "Citing_Author": "George Steiner",
+      "Relation": "Quotes",
+      "Quote": "I became a part of the crowd, I fully dissolved in it.",
+      "Location": "'A Tale of Three Cities'",
+      "Evidence": "TARGET = The Torch in My Ear (421). Blocks verbatim to Neugroschel: Gilgamesh ('Gilgamesh and Aristophanes'; slip 'unify' for 'unity'; '. . .' cuts 'and despair of all experience'), Samson ('Samson’s Blinding'; slip 'hare' for 'hate'), Wild Hunt ('Karl Kraus and Veza'), fire ('The Fifteenth of July'), Berlin ('An Invitation to Emptiness'). Gives Brand → Kant → Kien with Kien as 'resinous pine-wood' (corrects Gass, edge 8).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 15,
+    "fields": {
+      "Week": 2,
+      "Set": 36,
+      "Citing_Calibre_ID": 3246,
+      "Citing_Title": "Kafka's Other Trial: The Letters to Felice",
+      "Citing_Author": "Elias Canetti",
+      "Relation": "Quotes",
+      "Quote": "As I was sitting down, I looked at her closely for the first time, by the time I was seated I already had an unshakable verdict.",
+      "Location": "p. 5 (n. 3: Diaries I, pp. 268–69); concordance across pp. 5–99, nn. 2–58",
+      "Evidence": "Day-4 edge, direction outward: TARGET = Kafka, Diaries (3169, Kresh/Greenberg), the translation Canetti cites. 143 longer quotations aligned (OCR text): diary quotations are the Kresh/Greenberg text verbatim except (1) 20 Aug 1912 'an unshakeable opinion' retranslated 'an unshakable verdict' (German Urteil, per Corngold 6272); (2) n. 7 keeps 'I atrophied' but glosses the original as 'I thinned down'; (3) 23 July 1914 tribunal entry cut by ellipses (cab, nose, bedbug, father's journey from Malmö); (4) 20 Jan 1915 'catch me up' → 'catch up'; (5) tram/railway vs trolley/railroad (US vs UK printing, probably). Quotations from OCR; '|'/'1' for 'I' corrected.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 16,
+    "fields": {
+      "Week": 2,
+      "Set": 36,
+      "Citing_Calibre_ID": 3246,
+      "Citing_Title": "Kafka's Other Trial: The Letters to Felice",
+      "Citing_Author": "Elias Canetti",
+      "Relation": "Edits/introduces",
+      "Quote": "With F. I knew intimacy only in letters, in a human way not until the last two days. The clarity is still lacking, doubts remain. But it is beautiful, the gaze of her calm eyes, the opening of womanly depth.",
+      "Location": "p. 99; n. 50, p. 121",
+      "Evidence": "TARGET = Kafka, Diaries (3169). Canetti restores a passage cut from Brod's edition, from the manuscript as cited by Wagenbach (1964); n. 50: 'does not appear in the German Tagebiicher [sic, OCR] or in the English Diaries'. Confirmed: in 3169 the July 1916 entry ends 'the second a child, and I was utterly confused.' followed by '13 July.'",
+      "Verified": true
+    }
+  },
+  {
+    "id": 17,
+    "fields": {
+      "Week": 2,
+      "Set": 36,
+      "Citing_Calibre_ID": 6272,
+      "Citing_Title": "Franz Kafka: The Necessity of Form",
+      "Citing_Author": "Stanley Corngold",
+      "Relation": "Translates",
+      "Quote": "This seriousness informs what Elias Canetti calls Kafka’s “compulsive sacralization” of places and states of mind—which amounts to a “sacralization of man. Every place, every moment, every aspect, every step of the way is serious and important and unique.”",
+      "Location": "Introduction, n. 8 (Der andere Prozeß, Hanser 1969, p. 36); also Intro n. 11; ch. 3 n. 1; ch. 6 n. 22 (two); ch. 10 n. 27",
+      "Evidence": "TARGET = Kafka's Other Trial (3246). Six quotations translated afresh from the German; Middleton's 1974 translation never cited (no 'Middleton' or 'Other Trial' in the text). Middleton p. 35: 'The consecration of places ... a consecration of man. Every place, every moment, every trait, every step is serious and important and peculiar to itself.' Corngold adds '[he calls]' (Intro n. 11) where Middleton has no attribution. Also ch. 2: Kresh's 'unshakeable opinion' (DI 269) given as 'an unshakeable judgment [unerschütterliches Urteil]'.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 18,
+    "fields": {
+      "Week": 2,
+      "Set": 36,
+      "Citing_Calibre_ID": 6272,
+      "Citing_Title": "Franz Kafka: The Necessity of Form",
+      "Citing_Author": "Stanley Corngold",
+      "Relation": "Quotes",
+      "Quote": "Each enterprise of his and even his deepest wishes are dictated by a compulsion to outdo: One may go so far as to say that he is a slave of outdoing.",
+      "Location": "ch. 6, n. 22 (Conscience of Words, tr. Neugroschel, Deutsch 1986, p. 70)",
+      "Evidence": "TARGET = The Conscience of Words (413), 'Hitler, According to Speer'. Verbatim except final clause: Corngold 'we could simply point out', 413 'we should simply point out'.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 19,
+    "fields": {
+      "Week": 2,
+      "Set": 36,
+      "Citing_Calibre_ID": 401,
+      "Citing_Title": "The Kraus Project",
+      "Citing_Author": "Karl Kraus, tr. Jonathan Franzen (note by Paul Reitter)",
+      "Relation": "Edits/introduces",
+      "Quote": "Elias Canetti, for example, argued that Kraus was too authoritarian a figure to encourage intellectual independence in other people, and that his style overwhelmed readers more than it stimulated their critical faculties.",
+      "Location": "'Nestroy and Posterity', n. 14 (PR)",
+      "Evidence": "TARGET = Canetti, 'Karl Kraus: The School of Resistance' (413, pp. 35–37): 'he had appropriated all judging and did not permit anyone whose model he was to do any judging of his own'; 'a general shrinkage of the desire to do your own judging'. Paraphrase fair to the charge but omits Canetti's self-indictment ('I had my ‘Jews ’', p. 37) and his refusal to accuse ('I have no right to accuse it').",
+      "Verified": true
+    }
+  },
+  {
+    "id": 20,
+    "fields": {
+      "Week": 2,
+      "Set": 36,
+      "Citing_Calibre_ID": 413,
+      "Citing_Title": "The Conscience of Words",
+      "Citing_Author": "Elias Canetti",
+      "Relation": "Argues with",
+      "Quote": "The heart of the matter was that he had appropriated all judging and did not permit anyone whose model he was to do any judging of his own.",
+      "Location": "'Karl Kraus: The School of Resistance', pp. 35–36",
+      "Evidence": "Day-4 edge, direction outward: TARGET = Karl Kraus (in the library: The Kraus Project 401; The Last Days of Mankind 6351). Same figure in Torch (421, 'Karl Kraus and Veza'): 'It was like a court of law. He brought the charges and he passed judgment. There was no defense attorney'.",
+      "Verified": true
+    }
+  }
+]

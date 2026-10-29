@@ -4,7 +4,7 @@ tags:
   - theme
 ---
 
-## Triads
+## Readings
 
 - [[triads/2026-10-01-the-unrepeatable-gesture|The Unrepeatable Gesture]] (2026-10-01)
 

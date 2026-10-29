@@ -25,4 +25,4 @@ Fiction set in Sabbatai's exile town that can be checked line by line against Sc
 
 ## Themes
 
-[[themes/apocalypse|apocalypse]] · [[themes/book-burning|book burning]] · [[themes/detective-fiction|detective fiction]] · [[themes/donme|Dönme]] · [[themes/failed-end-dates|failed end-dates]] · [[themes/fathers-and-sons|fathers and sons]] · [[themes/fra-dolcino|Fra Dolcino]] · [[themes/kafka|Kafka]] · [[themes/sabbatai-zevi|Sabbatai Zevi]] · [[themes/storytelling|storytelling]] · [[themes/ulcinj|Ulcinj]]
+[[themes/apocalypse|apocalypse]] · [[themes/book-burning|book burning]] · [[themes/detective-fiction|detective fiction]] · [[themes/donme|Dönme]] · [[themes/failed-end-dates|failed end-dates]] · [[themes/fathers-and-sons|fathers and sons]] · [[themes/fra-dolcino|Fra Dolcino]] · [[themes/kafka|Kafka]] · [[themes/sabbatai-sevi|Sabbatai Ṣevi]] · [[themes/storytelling|storytelling]] · [[themes/ulcinj|Ulcinj]]

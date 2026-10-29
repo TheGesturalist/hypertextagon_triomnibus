@@ -1,6 +1,7 @@
 ---
 title: "The Dated Slip"
 date: 2026-10-10
+method: "Triads"
 tags:
   - triad
   - difficulty/4
@@ -182,7 +183,7 @@ EPUB · Calibre ID 182 → [[books/182-mourning-diary|book page]]
 
 ## Themes
 
-[[themes/ada|Ada]] · [[themes/anniversary|anniversary]] · [[themes/ardis|Ardis]] · [[themes/camera-lucida|Camera Lucida]] · [[themes/chronology|chronology]] · [[themes/commonplace-practice|commonplace practice]] · [[themes/cross-reference|cross-reference]] · [[themes/discontinuity|discontinuity]] · [[themes/dream-log|dream log]] · [[themes/dunne|Dunne]] · [[themes/gessner|Gessner]] · [[themes/index-card|index card]] · [[themes/jean-paul|Jean Paul]] · [[themes/jungius|Jungius]] · [[themes/luhmann|Luhmann]] · [[themes/moser|Moser]] · [[themes/mourning|mourning]] · [[themes/notatio|notatio]] · [[themes/paper-machine|paper machine]] · [[themes/posthumous-editing|posthumous editing]] · [[themes/precognitive-dreams|precognitive dreams]] · [[themes/reverse-memory|reverse memory]] · [[themes/second-memory|second memory]] · [[themes/serial-time|serial time]] · [[themes/silting-up|silting up]] · [[themes/slip-box|slip box]] · [[themes/units|units]] · [[themes/zettelkasten|Zettelkasten]]
+[[themes/ada|Ada]] · [[themes/anniversary|anniversary]] · [[themes/ardis|Ardis]] · [[themes/camera-lucida|Camera Lucida]] · [[themes/chronology|chronology]] · [[themes/commonplace-practice|commonplace practice]] · [[themes/cross-reference|cross-reference]] · [[themes/discontinuity|discontinuity]] · [[themes/dream-log|dream log]] · [[themes/dunne|Dunne]] · [[themes/gessner|Gessner]] · [[themes/index-card|index card]] · [[themes/jean-paul|Jean Paul]] · [[themes/jungius|Jungius]] · [[themes/luhmann|Luhmann]] · [[themes/moser|Moser]] · [[themes/mourning|mourning]] · [[themes/notatio|notatio]] · [[themes/paper-machine|paper machine]] · [[themes/posthumous-edition|posthumous edition]] · [[themes/precognitive-dreams|precognitive dreams]] · [[themes/reverse-memory|reverse memory]] · [[themes/second-memory|second memory]] · [[themes/serial-time|serial time]] · [[themes/silting-up|silting up]] · [[themes/slip-box|slip box]] · [[themes/units|units]] · [[themes/zettelkasten|Zettelkasten]]
 
 ---
 

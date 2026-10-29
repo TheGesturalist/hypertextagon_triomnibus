@@ -1,6 +1,7 @@
 ---
 title: "The Pattern Determines the Parts"
 date: 2026-10-25
+method: "Triads"
 tags:
   - triad
   - difficulty/3
@@ -156,7 +157,7 @@ PDF · Calibre ID 9870 · Cambridge Studies in Social Anthropology 46; Calibre l
 
 eye (removal, disconnection, centrality). It also shows, in the Melanesian sand drawings, a culture that practised Euler’s theorem without writing it down: the best parallel in the library for a novel built on an unstated knight’s tour.
 
-**Overview.** The book introduces graphs, signed graphs, digraphs, matrices, duality, networks and groups, and opens each chapter with an anthropological use of the concept that was there before anyone formalised it. Examples include structural balance, kinship terminologies, exchange systems such as the Kula ring, Lévi-Strauss’s Klein-group analyses of myth, and Hymes’s Chinook myths arranged on a cube graph. The epigraph is from Peirce. The foreword, by J. A. Barnes, begins: “Of the making of ‘structures’ there is no end.” (p. ix).
+**Overview.** The book introduces graphs, signed graphs, digraphs, matrices, duality, networks and groups, and opens each chapter with an anthropological use of the concept that was there before anyone formalised it. Examples include structural balance, kinship terminolo-gies, exchange systems such as the Kula ring, Lévi-Strauss’s Klein-group analyses of myth, and Hymes’s Chinook myths arranged on a cube graph. The epigraph is from Peirce. The foreword, by J. A. Barnes, begins: “Of the making of”structures” there is no end.” (p. ix).
 
 **Excerpt** (pp. 10–12). Hage and Harary quote A. Bernard Deacon’s 1934 account of New Hebrides (now Vanuatu) geometrical drawings: “In theory the whole should be done in a single continuous line which ends where it began; the finger should never be lifted from the ground, nor should any part of the line be traversed twice” (p. 10). They then set Euler’s Königsberg solution beside it and conclude:
 
@@ -196,7 +197,7 @@ and characterise the art form by saying “whatever the particular configuration
 
 1. **The W in the X-shaped hole.** Put Perec’s last image (Ch. 99) beside Moretti’s Horatio (p. 7: “a function in the play, but not a motivation”). Bartlebooth’s last piece is the reverse case: an element with total motivation and no possible function, a vertex that can take no edge. Write the page in which a piece exists but has nowhere to go. Is it a node or a remainder?
 
-2. **Write under Deacon’s rule.** Take the sand-drawing constraint (H&H p. 10: one line, ends where it began, nothing traced twice) as a poetics. Draft a short text whose transitions never repeat and which returns to its first sentence. Then look at the chapter-path diagram: Perec revisits the Stairs twelve times. Which of your recurring figures plays the stairwell, the vertex that has to be passed through again and again?
+2. **Write under Deacon’s rule.** Take the sand-drawing constraint (H&H p. 10: one line, ends where it began, nothing traced twice) as a poetics. Draft a short text whose transi-tions never repeat and which returns to its first sentence. Then look at the chapter-path diagram: Perec revisits the Stairs twelve times. Which of your recurring figures plays the stairwell, the vertex that has to be passed through again and again?
 
 3. **What counts as an edge in your own corpus?** Moretti decides that “an interaction, is a speech act” (p. 3) and admits the decision is contestable. Choose an edge rule for your commonplace book or the Lexicon: co-quotation, citation, adjacency on the page, shared lineage. Then run his experiment: remove your most central entry. If one term turns out to be the only link between two clusters, that term is your Horatio. Perec’s Preamble already says the only thing that counts is “the ability to link this piece to other pieces”.
 
@@ -256,9 +257,9 @@ and characterise the art form by saying “whatever the particular configuration
 
 ## Themes
 
-[[themes/bartlebooth|Bartlebooth]] · [[themes/bridge|bridge]] · [[themes/centrality|centrality]] · [[themes/clustering|clustering]] · [[themes/cross-section|cross-section]] · [[themes/cutpoint|cutpoint]] · [[themes/deacon|Deacon]] · [[themes/distant-reading|distant reading]] · [[themes/edge|edge]] · [[themes/euler|Euler]] · [[themes/eulerian-circuit|eulerian circuit]] · [[themes/gestalt|Gestalt]] · [[themes/graph-theory|graph theory]] · [[themes/hage|Hage]] · [[themes/hamiltonian-path|hamiltonian path]] · [[themes/hamlet|Hamlet]] · [[themes/harary|Harary]] · [[themes/horatio|Horatio]] · [[themes/jigsaw-puzzle|jigsaw puzzle]] · [[themes/knight-s-tour|knight's tour]] · [[themes/konigsberg-bridges|Königsberg bridges]] · [[themes/model|model]] · [[themes/moretti|Moretti]] · [[themes/network|network]] · [[themes/new-hebrides|New Hebrides]] · [[themes/oulipo|Oulipo]] · [[themes/peirce|Peirce]] · [[themes/perec|Perec]] · [[themes/power-law|power law]] · [[themes/relation-over-element|relation over element]] · [[themes/removal-experiment|removal experiment]] · [[themes/sand-drawings|sand drawings]] · [[themes/structuralism|structuralism]] · [[themes/structure|structure]] · [[themes/time-turned-into-space|time turned into space]] · [[themes/valene|Valène]] · [[themes/vanuatu|Vanuatu]] · [[themes/vertex|vertex]] · [[themes/weak-tie|weak tie]]
+[[themes/bartlebooth|Bartlebooth]] · [[themes/bridge|bridge]] · [[themes/centrality|centrality]] · [[themes/clustering|clustering]] · [[themes/cross-section|cross-section]] · [[themes/cutpoint|cutpoint]] · [[themes/deacon|Deacon]] · [[themes/distant-reading|distant reading]] · [[themes/edge|edge]] · [[themes/euler|Euler]] · [[themes/eulerian-circuit|eulerian circuit]] · [[themes/gestalt|Gestalt]] · [[themes/graph-theory|graph theory]] · [[themes/hage|Hage]] · [[themes/hamiltonian-path|hamiltonian path]] · [[themes/hamlet|Hamlet]] · [[themes/harary|Harary]] · [[themes/horatio|Horatio]] · [[themes/jigsaw-puzzle|jigsaw puzzle]] · [[themes/knight-s-tour|knight's tour]] · [[themes/konigsberg-bridges|Königsberg bridges]] · [[themes/model|model]] · [[themes/moretti|Moretti]] · [[themes/network|network]] · [[themes/new-hebrides|New Hebrides]] · [[themes/oulipo|Oulipo]] · [[themes/peirce|Peirce]] · [[themes/perec|Perec]] · [[themes/power-law|power law]] · [[themes/relation-over-element|relation over element]] · [[themes/removal-experiment|removal experiment]] · [[themes/sand-drawings|sand drawings]] · [[themes/structuralism|structuralism]] · [[themes/structure|structure]] · [[themes/time-into-space|time into space]] · [[themes/valene|Valène]] · [[themes/vanuatu|Vanuatu]] · [[themes/vertex|vertex]] · [[themes/weak-tie|weak tie]]
 
 ---
 
 Previous: [[triads/2026-10-24-remember-your-oath|Remember Your Oath]]  
-Next: —
+Next: [[shadows/2026-10-26-shadow-elias-canetti-day-1-the-only-man|Shadow — Elias Canetti, day 1: The Only Man]]

@@ -1,6 +1,7 @@
 ---
 title: "The Averaged Self"
 date: 2026-09-27
+method: "Triads"
 tags:
   - triad
   - difficulty/4
@@ -192,7 +193,7 @@ EPUB · Calibre ID 5489 · NYRB Poets, bilingual, trans. Richard Sieburth, prefa
 
 ## Notebook
 
-1. **Folly’s definition problem, applied to you.** Folly refuses definition because a definition would be “a mere shadow of myself when I am here before you” (pp. 12–13). Pick one of your standing abstractions (gesture, labyrinth, utterance) and let it deliver a onepage encomium of itself in the first person. It must refuse to be defined, then, like Folly, lose track of who it is before the end (p. 134). Where does it forget itself?
+1. **Folly’s definition problem, applied to you.** Folly refuses definition because a definition would be “a mere shadow of myself when I am here before you” (pp. 12–13). Pick one of your standing abstractions (gesture, labyrinth, utterance) and let it deliver a one-page encomium of itself in the first person. It must refuse to be defined, then, like Folly, lose track of who it is before the end (p. 134). Where does it forget itself?
 
 2. **Write an “Eache”.** Michaux’s A. was first named “Eache” (Notes), a character named after a quantifier. Write a short prose piece whose protagonist is called Every, Any or Some, and keep Breen’s rule in play: “nominalist personifications do not represent universals as much as they prompt readers to conceptualize them” (p. 24). Which quantifier makes the best Plume?
 
