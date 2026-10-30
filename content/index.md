@@ -4,7 +4,7 @@ title: "The Hypertext Triomnibus"
 
 *Scribrarium — Daily Resurfacings from a Thirteen-Thousand-Volume Library.*
 
-36 days and 111 distinct books resurfaced from one private library and read from their own files for what passes between them. Volume 1 (*Triads*) reads three books at a time across shared forms, motifs, genealogies, and conflicts; Volume 2 (*An Author and Their Shadow*) tracks a single writer per week across the library's full-text index.
+37 days and 114 distinct books resurfaced from one private library and read from their own files for what passes between them. Volume 1 (*Triads*) reads three books at a time across shared forms, motifs, genealogies, and conflicts; Volume 2 (*An Author and Their Shadow*) tracks a single writer per week across the library's full-text index.
 
 ## Ways in
 
@@ -23,6 +23,7 @@ title: "The Hypertext Triomnibus"
 2. 2026-10-27 — [[shadows/2026-10-27-shadow-elias-canetti-day-2-the-quotation-survives|Shadow — Elias Canetti, day 2: The Quotation Survives]]
 3. 2026-10-28 — [[shadows/2026-10-28-shadow-elias-canetti-day-3-mob-or-organisation|Shadow — Elias Canetti, day 3: Mob or Organisation]]
 4. 2026-10-29 — [[shadows/2026-10-29-shadow-elias-canetti-day-4-the-tribunal-in-transla|Shadow — Elias Canetti, day 4: The Tribunal in Translation]]
+5. 2026-10-30 — [[shadows/2026-10-30-shadow-elias-canetti-day-5-the-double-crowd|Shadow — Elias Canetti, day 5: The Double Crowd]]
 
 ## Volume 1: The Triads
 

@@ -410,6 +410,18 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “the clock of my will and the clock of the world” (Ann. 48, p. 242)
 - “wherein you have no power, therein you should not will” (Ann. 3 to Tr. I, ch. I, §2, p. 178)
 
+### [[books/8264-job-the-victim-of-his-people|Job: The Victim of His People]]
+
+- “This continuity suggests a slow evolution towards the modern desacralized monarchy, beginning with a double crowd phenomenon like the one portrayed in the text of Job.” (p. 93)
+- “Veneration is transformed into execration.” (p. 85)
+- “As in the case of Job, the monarchy is characterized by the very intense and double nature of the relationships between a single individual on the one hand and an entire group on the other.” (p. 85)
+- “I am not the first to whom this has occurred.” (p. 86)
+
+### [[books/7959-violence-and-the-sacred|Violence and the Sacred]]
+
+- “The best treatment of the crowd's role in abolishing differences is Elias Canetti's Crowds and Power, trans. Carol Stewart (New York, 1966).” (p. 131 n. 3)
+- “The crowd finally hurled itself on one individual; even though he had no particular qualifications for this role, he served to polarize all the fears, anxieties, and hostilities of the crowd.” (p. 131)
+
 ### [[books/408-the-essential-gombrich-truth-and-the-stereotype|The Essential Gombrich ('Truth and the Stereotype')]]
 
 - “is a skill so deeply hidden in the human soul that we shall hardly guess the secret trick that Nature here employs” (Kant epigraph, p. 88)
@@ -764,6 +776,12 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "the most important things I had to offer were my ignorance and my desire to learn." (PDF 16 / p. 7)
 - "Much of the meaning is in the gaps and in the silences, to be extracted or filled in by the readers’ cooperation and imagination." (PDF 20 / p. 11)
 - Annie Napier: "They say sometimes something favorite of somebody’s, their spirit will attach to it, but, now, I don’t know if that’s true or not." (PDF 35 / p. 26)
+
+### [[books/6002-vampires-a-reasonable-dictionary|Vampires & a Reasonable Dictionary]]
+
+- “How does a country move from “crowds and power” to a self-conscious and skeptical democracy?”
+- “I’ve read the theory. Tonight I saw theory in action.”
+- “How do you move the masses without playing to the mass instincts that are part of the problem?”
 
 ### [[books/8698-mallarme-the-politics-of-the-siren|Mallarmé: The Politics of the Siren]]
 

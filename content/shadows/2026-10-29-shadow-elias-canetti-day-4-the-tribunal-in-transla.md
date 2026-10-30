@@ -301,4 +301,4 @@ Steiner (4026) Argues with; Quotes Canetti’s oeuvre; “A Tale of Three
 ---
 
 Previous: [[shadows/2026-10-28-shadow-elias-canetti-day-3-mob-or-organisation|Shadow — Elias Canetti, day 3: Mob or Organisation]]  
-Next: —
+Next: [[shadows/2026-10-30-shadow-elias-canetti-day-5-the-double-crowd|Shadow — Elias Canetti, day 5: The Double Crowd]]

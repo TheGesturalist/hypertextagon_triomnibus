@@ -1796,5 +1796,51 @@
       "Author_Week": 2,
       "Week_Day": 4
     }
+  },
+  {
+    "id": 37,
+    "fields": {
+      "Date": 1793318400,
+      "Set_Title": "Shadow — Elias Canetti, day 5: The Double Crowd",
+      "Thread": "Day 5 (uncredited use, suspected). Two suspicions, several nulls; no finding of plagiarism. (1) Girard, Job: The Victim of His People (8264, 1985/tr. Freccero 1987) uses 'a double crowd phenomenon' (ch. 15, p. 93) — the title of two chapters of Crowds and Power — without naming Canetti; yet Violence and the Sacred (7959, p. 131 n. 3) calls Crowds and Power 'the best treatment of the crowd's role in abolishing differences'. Girard changes the concept: Canetti's double crowd is two crowds facing each other (space); Girard's is one crowd that venerates and then persecutes one individual (time: 'Veneration is transformed into execration', p. 85). 'Double' is endemic in Girard, so independent arrival is possible; French original not checked. (2) Abbott, Vampires & a Reasonable Dictionary (6002): 'How does a country move from “crowds and power” to a self-conscious and skeptical democracy?' (Belgrade, 24 May 1998) — the title in quotation marks, unnamed: allusion. Nulls: onlyness (de Gennaro, Heidegger), 'moment of survival' (Bernhard, Negarestani), title echoes only in bibliographies (Thrift, Killing the Messiah); 15 coinages absent from 107 thematic titles not naming Canetti. Whole-library FTS timed out after one query: search incomplete.",
+      "Connection_Kind": [
+        "L",
+        "Genealogy/influence",
+        "Conflict",
+        "Shared figure or motif"
+      ],
+      "Difficulty": 3,
+      "Themes": "uncredited use; plagiarism; allusion; coinage; double crowd; scapegoat; sacred kingship; veneration and execration; Girard; Job; Caquot; Violence and the Sacred; Abbott; Radaković; Đinđić; Belgrade 1998; Handke; palimpsest; null result; search method",
+      "Notebook_Prompts": "1. Girard credits Caquot for Job-as-king and credits no one for 'double crowd'. What can be owned: a phrase, a structure, a turn? Which Canetti coinage could be taken without his thought?\n2. Abbott: 'I've read the theory. Tonight I saw theory in action.' Describe a crowd you have seen once in Canetti's terms (discharge, density, direction) and once in Girard's (unanimity, victim). What does each leave out?\n3. Misreading: Girard's lynching as Canetti's double crowd with the second crowd shrunk to one man. Test it on Violence and the Sacred p. 131: where does it break?",
+      "Rabbit_Holes": "https://iep.utm.edu/girard/\nhttps://buecher.de/artikel/ebook/power-crowds-violence-and-desire-in-elias-canetti-and-rene-girard-reflections-on-mimesis-politics-and-history-2-ebook-epub/72786082\nhttps://www.degruyterbrill.com/document/doi/10.1515/9781503622999/html\nhttps://library.oapen.org/bitstream/20.500.12657/25544/1/1004551.pdf\nhttps://www.uibk.ac.at/theol/cover/girard/pdf/bibliography_vol.xxxiv.pdf\nhttps://en.wikipedia.org/wiki/Crowds_and_Power",
+      "Carry_Quote": "“I am not the first to whom this has occurred.” — René Girard, Job: The Victim of His People, ch. 14, ‘Job and the Sacred King’, p. 86 (tr. Yvonne Freccero)",
+      "Status": "New",
+      "Theme_Links": [
+        "L",
+        1191,
+        1192,
+        1193,
+        1194,
+        1195,
+        1196,
+        1197,
+        1198,
+        1199,
+        1200,
+        1201,
+        1202,
+        1203,
+        1204,
+        1205,
+        1206,
+        1207,
+        1208,
+        1209,
+        1210
+      ],
+      "Method": 2,
+      "Author_Week": 2,
+      "Week_Day": 5
+    }
   }
 ]

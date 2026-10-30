@@ -3644,5 +3644,207 @@
       "WN_Gloss": "Not in WordNet. Only the base 'causal' is present (oewn-00324097-s: involving or constituting a cause; causing).",
       "WN_Hypernyms": ""
     }
+  },
+  {
+    "id": 123,
+    "fields": {
+      "Term": "Inflection",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "In grammar, a change in the form of a word (usually an ending) that marks a grammatical category such as tense, case, number or person; more broadly, a bending or modulation (of a line, or of the voice). In Deleuze's The Fold: Leibniz and the Baroque (1988), inflection is the genetic element of the fold: the point at which a curve changes direction, from which series, the objectile and the point of view are derived.",
+      "Etymology": "From Latin inflexio (a bending, modification), from inflectere (to bend in, curve; fig. to change), from in- + flectere (to bend). English early 15c. (also inflexion); vocal sense c. 1600; grammatical sense 1660s.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 1,
+      "Gravity": 0.25,
+      "Lineages": [
+        "L",
+        152,
+        26
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "The grammatical sense (morphological change of a word) and the geometric/Deleuzian sense (change of curvature) share only the image of bending; grammar-based readings miss the Baroque use.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-13825994-n",
+      "WN_Lexname": "noun.relation",
+      "WN_Gloss": "a change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function",
+      "WN_Hypernyms": "grammatical relation"
+    }
+  },
+  {
+    "id": 124,
+    "fields": {
+      "Term": "Fenestrated",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Having windows, or perforated with one or more small openings or pores; used in architecture (fenestration, the arrangement of windows) and in anatomy and medicine (fenestrated capillaries, a fenestrated catheter).",
+      "Etymology": "From Latin fenestra (window, opening for light), perhaps from Etruscan; via fenestrare. Architectural 'fenestration' 1846, anatomical 1870; 'fenestrated' first known use c. 1852 (Merriam-Webster).",
+      "Original_Script": "",
+      "Pronunciation": "/ˈfɛnɪˌstreɪtɪd/",
+      "Language": "",
+      "Category": 0,
+      "Gravity": 0.1,
+      "Lineages": [
+        "L",
+        152,
+        26
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Inverts Leibniz: the monad 'has no windows through which anything could enter or leave' (Monadology §7), which Deleuze reads as the windowless upper floor of the Baroque house above the windowed lower floor.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 125,
+    "fields": {
+      "Term": "monadic",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Of, relating to or consisting of monads: simple, indivisible, self-contained units. Philosophically tied to Leibniz's Monadology (1714), where monads are windowless simple substances that perceive the whole world from their own point of view. In logic, a predicate or relation taking a single argument ('x is red').",
+      "Etymology": "From monad + -ic. Monad: Late Latin monas (gen. monadis), from Greek monas (unit), from monos (alone). English 1610s 'unit'; metaphysical sense 1748, Leibniz apparently taking the word from Giordano Bruno.",
+      "Original_Script": "",
+      "Pronunciation": "/moʊˈnædɪk/",
+      "Language": "",
+      "Category": 1,
+      "Gravity": 0.15,
+      "Lineages": [
+        "L",
+        152,
+        26
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "The logical sense (one-place predicate) and the functional-programming 'monad' are unrelated to Leibnizian metaphysics despite the shared word.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 126,
+    "fields": {
+      "Term": "PROSCENIUM",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "The frame through which an audience views a stage: in the modern theatre, the wall and arch separating stage from auditorium (or the apron in front of the curtain); in Hellenistic Greek theatres, the proskenion, a narrow raised stage for actors. The proscenium plane is effectively the 'fourth wall'.",
+      "Etymology": "From Latin proscaenium, from Greek proskēnion (space in front of the scenery), from pro- (in front) + skēnē (tent, booth, stage; source of 'scene'). English c. 1600 for the ancient stage; figurative 'foreground' 1640s; modern sense 1807.",
+      "Original_Script": "",
+      "Pronunciation": "/proʊˈsiːniəm/",
+      "Language": "",
+      "Category": 0,
+      "Gravity": 0.2,
+      "Lineages": [
+        "L",
+        156
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Ambiguous between the arch/wall that frames and the apron in front of the curtain; the Teatro Farnese (1618) is the earliest surviving true proscenium arch, the Teatro Olimpico (1585) is often wrongly cited.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-04019552-n",
+      "WN_Lexname": "noun.artifact",
+      "WN_Gloss": "the wall that separates the stage from the auditorium in a modern theater",
+      "WN_Hypernyms": "wall"
+    }
+  },
+  {
+    "id": 127,
+    "fields": {
+      "Term": "Lemma",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "In lexicography and morphology, the canonical or citation form chosen to represent a lexeme, and the headword under which a dictionary entry is filed (break for breaks, broke, broken). In mathematics and logic, a subsidiary proposition proved or assumed in order to prove another.",
+      "Etymology": "From Greek lēmma (pl. lēmmata), 'something received or taken; an argument; something taken for granted', from lambanein (to take). English 1560s, in mathematics. Same root as dilemma.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 1,
+      "Gravity": 0.15,
+      "Lineages": [
+        "L",
+        80
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "The lexicographic lemma (headword) and the mathematical lemma (auxiliary proposition) share the root sense of 'something taken' but are distinct technical uses.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-06356061-n",
+      "WN_Lexname": "noun.communication",
+      "WN_Gloss": "the heading that indicates the subject of an annotation or a literary composition or a dictionary entry",
+      "WN_Hypernyms": "heading"
+    }
+  },
+  {
+    "id": 128,
+    "fields": {
+      "Term": "Broodthaers",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Marcel Broodthaers (1924–1976), Belgian poet, filmmaker and visual artist associated with institutional critique. After some twenty years as a poet he turned to art in 1963–64 by setting unsold copies of his book Pense-Bête in plaster; later founded the fictional Musée d'Art Moderne, Département des Aigles (from 1968). His Un coup de dés jamais n'abolira le hasard: Image (1969) keeps Mallarmé's layout but covers every line with black bars, replacing 'poème' with 'image'.",
+      "Etymology": "",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 0,
+      "Gravity": 0.3,
+      "Lineages": [
+        "L",
+        153,
+        154
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 129,
+    "fields": {
+      "Term": "palimpsest",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "A manuscript page, usually parchment, scraped or washed so it could be reused, with traces of the earlier writing still visible beneath the new. Figuratively, any surface or structure in which successive layers remain legible through one another; De Quincey applied it to memory: 'What else than a natural and mighty palimpsest is the human brain?' (Suspiria de Profundis, 1845).",
+      "Etymology": "From Latin palimpsestus, from Greek palimpsēstos (scraped again), from palin (again) + psēn (to rub smooth). English 1660s.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 1,
+      "Gravity": 0.35,
+      "Lineages": [
+        "L",
+        73,
+        123,
+        155
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-06419157-n",
+      "WN_Lexname": "noun.communication",
+      "WN_Gloss": "a manuscript (usually written on papyrus or parchment) on which more than one text has been written with the earlier writing incompletely erased and still visible",
+      "WN_Hypernyms": "manuscript"
+    }
   }
 ]

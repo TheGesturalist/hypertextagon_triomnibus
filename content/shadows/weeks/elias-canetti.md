@@ -15,6 +15,7 @@ Subject page: [[people/elias-canetti|Elias Canetti]].
 - **Day 2** (2026-10-27) — [[shadows/2026-10-27-shadow-elias-canetti-day-2-the-quotation-survives|Shadow — Elias Canetti, day 2: The Quotation Survives]]
 - **Day 3** (2026-10-28) — [[shadows/2026-10-28-shadow-elias-canetti-day-3-mob-or-organisation|Shadow — Elias Canetti, day 3: Mob or Organisation]]
 - **Day 4** (2026-10-29) — [[shadows/2026-10-29-shadow-elias-canetti-day-4-the-tribunal-in-transla|Shadow — Elias Canetti, day 4: The Tribunal in Translation]]
+- **Day 5** (2026-10-30) — [[shadows/2026-10-30-shadow-elias-canetti-day-5-the-double-crowd|Shadow — Elias Canetti, day 5: The Double Crowd]]
 
 ## Citation & argument map (`Shadow_Edges`)
 
@@ -40,3 +41,6 @@ Subject page: [[people/elias-canetti|Elias Canetti]].
 | [[books/6272-franz-kafka-the-necessity-of-form|Franz Kafka: The Necessity of Form]] | Stanley Corngold | **Quotes** | Elias Canetti | ch. 6, n. 22 (Conscience of Words, tr. Neugroschel, Deutsch 1986, p. 70) |
 | [[books/401-the-kraus-project|The Kraus Project]] | Karl Kraus, tr. Jonathan Franzen (note by Paul Reitter) | **Edits/introduces** | Elias Canetti | 'Nestroy and Posterity', n. 14 (PR) |
 | [[books/413-the-conscience-of-words-with-earwitness|The Conscience of Words]] | Elias Canetti | **Argues with** | Elias Canetti | 'Karl Kraus: The School of Resistance', pp. 35–36 |
+| [[books/8264-job-the-victim-of-his-people|Job: The Victim of His People]] | René Girard | **Uses without credit (suspected)** | Elias Canetti | ch. 15, 'The Evolution of Ritual', p. 93 (structure set out ch. 13, p. 85) |
+| [[books/7959-violence-and-the-sacred|Violence and the Sacred]] | René Girard (tr. Patrick Gregory) | **Mentions** | Elias Canetti | p. 131 n. 3; bibliography |
+| [[books/6002-vampires-a-reasonable-dictionary|Vampires & a Reasonable Dictionary]] | Scott Abbott; Žarko Radaković | **Uses without credit (suspected)** | Elias Canetti | A Reasonable Dictionary (Abbott), 'Belgrade, 24 May 1998', pp. 116–17 |

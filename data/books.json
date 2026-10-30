@@ -3970,5 +3970,100 @@
       ],
       "Date": 1793232000
     }
+  },
+  {
+    "id": 113,
+    "fields": {
+      "Set": 37,
+      "Calibre_ID": 8264,
+      "Title": "Job: The Victim of His People",
+      "Author": "René Girard (tr. Yvonne Freccero)",
+      "Year": "1985 (English 1987, Athlone/Stanford)",
+      "File_Format": "PDF",
+      "Role_in_Set": "Day 5 primary: suspected uncredited use of Canetti's coinage 'double crowd' (one occurrence, ch. 15, p. 93), with the concept changed from two crowds in space to one crowd in two phases.",
+      "Selection_Logic": "Strongest day-1 lead: only book in the library besides Canetti's own containing 'double crowd' (FTS \"double crowd\" NOT Canetti: 2 hits, the other a false positive). No 'Canetti' anywhere in the text or index.",
+      "Elements": [
+        "L",
+        "Excerpt",
+        "Quotes",
+        "Diagram",
+        "Misreading",
+        "Other"
+      ],
+      "Quotes": "“This continuity suggests a slow evolution towards the modern desacralized monarchy, beginning with a double crowd phenomenon like the one portrayed in the text of Job.” (p. 93)\n“Veneration is transformed into execration.” (p. 85)\n“As in the case of Job, the monarchy is characterized by the very intense and double nature of the relationships between a single individual on the one hand and an entire group on the other.” (p. 85)\n“I am not the first to whom this has occurred.” (p. 86)",
+      "Themes": "double crowd; scapegoat; sacred kingship; veneration; execration; uncredited use",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1195,
+        1196,
+        1197,
+        1211,
+        1212,
+        1191
+      ],
+      "Date": 1793318400
+    }
+  },
+  {
+    "id": 114,
+    "fields": {
+      "Set": 37,
+      "Calibre_ID": 6002,
+      "Title": "Vampires & a Reasonable Dictionary",
+      "Author": "Scott Abbott; Žarko Radaković",
+      "Year": "2014",
+      "File_Format": "EPUB",
+      "Role_in_Set": "Day 5 primary: Canetti's English title quoted in quotation marks without his name (allusion), 'Belgrade, 24 May 1998', pp. 116–17.",
+      "Selection_Logic": "Day-1 substring pass: contains 'Crowds and Power' but not 'Canetti'; confirmed on the EPUB today.",
+      "Elements": [
+        "L",
+        "Excerpt",
+        "Quotes",
+        "Derived list"
+      ],
+      "Quotes": "“How does a country move from “crowds and power” to a self-conscious and skeptical democracy?”\n“I’ve read the theory. Tonight I saw theory in action.”\n“How do you move the masses without playing to the mass instincts that are part of the problem?”",
+      "Themes": "allusion; Belgrade 1998; Đinđić; Milošević; Handke; crowds; democracy",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1193,
+        1206,
+        1205,
+        1213,
+        1207,
+        145,
+        1158
+      ],
+      "Date": 1793318400
+    }
+  },
+  {
+    "id": 115,
+    "fields": {
+      "Set": 37,
+      "Calibre_ID": 7959,
+      "Title": "Violence and the Sacred",
+      "Author": "René Girard (tr. Patrick Gregory)",
+      "Year": "1972 (English 1977)",
+      "File_Format": "PDF",
+      "Role_in_Set": "Evidence, not a primary book: shows Girard knew Crowds and Power (p. 131 n. 3; bibliography), 13 years before Job.",
+      "Selection_Logic": "Searched all ten Girard titles in the library for 'Canetti' (book_ids): only this one names him.",
+      "Elements": [
+        "L",
+        "Quotes"
+      ],
+      "Quotes": "“The best treatment of the crowd's role in abolishing differences is Elias Canetti's Crowds and Power, trans. Carol Stewart (New York, 1966).” (p. 131 n. 3)\n“The crowd finally hurled itself on one individual; even though he had no particular qualifications for this role, he served to polarize all the fears, anxieties, and hostilities of the crowd.” (p. 131)",
+      "Themes": "crowd; lynching; sparagmos; Canetti citation",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        145,
+        1214,
+        1215,
+        1216
+      ],
+      "Date": 1793318400
+    }
   }
 ]

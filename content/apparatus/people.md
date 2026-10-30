@@ -72,16 +72,19 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/gustave-flaubert|Gustave Flaubert]] — author
 - [[people/jonathan-franzen|Jonathan Franzen]] — translator
 - [[people/christopher-frayling|Christopher Frayling]] — editor
+- [[people/yvonne-freccero|Yvonne Freccero]] — translator
 - [[people/brian-friel|Brian Friel]] — author
 - [[people/laszlo-f-foldenyi|László F. Földényi]] — author
 - [[people/marina-galletti|Marina Galletti]] — editor
 - [[people/william-h-gass|William H. Gass]] — author
 - [[people/arnold-geulincx|Arnold Geulincx]] — author
+- [[people/rene-girard|René Girard]] — author
 - [[people/jody-gladding|Jody Gladding]] — translator
 - [[people/klara-glowczewska|Klara Glowczewska]] — translator
 - [[people/e-h-gombrich|E. H. Gombrich]] — author
 - [[people/patrick-greaney|Patrick Greaney]] — translator
 - [[people/martin-greenberg|Martin Greenberg]] — translator
+- [[people/patrick-gregory|Patrick Gregory]] — translator
 - [[people/william-l-grossman|William L. Grossman]] — translator
 - [[people/boris-groys|Boris Groys]] — editor
 - [[people/per-hage|Per Hage]] — author
@@ -150,6 +153,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/michael-polanyi|Michael Polanyi]] — author
 - [[people/mark-polizzotti|Mark Polizzotti]] — translator
 - [[people/alessandro-portelli|Alessandro Portelli]] — author
+- [[people/scott-abbott-zarko-radakovic|Scott Abbott; Žarko Radaković]] — author
 - [[people/betty-radice|Betty Radice]] — translator
 - [[people/jacques-ranciere|Jacques Rancière]] — author
 - [[people/paul-reitter|Paul Reitter]] — contributor

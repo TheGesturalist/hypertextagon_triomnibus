@@ -298,5 +298,50 @@
       "Evidence": "Day-4 edge, direction outward: TARGET = Karl Kraus (in the library: The Kraus Project 401; The Last Days of Mankind 6351). Same figure in Torch (421, 'Karl Kraus and Veza'): 'It was like a court of law. He brought the charges and he passed judgment. There was no defense attorney'.",
       "Verified": true
     }
+  },
+  {
+    "id": 21,
+    "fields": {
+      "Week": 2,
+      "Set": 37,
+      "Citing_Calibre_ID": 8264,
+      "Citing_Title": "Job: The Victim of His People",
+      "Citing_Author": "René Girard",
+      "Relation": "Uses without credit (suspected)",
+      "Quote": "This continuity suggests a slow evolution towards the modern desacralized monarchy, beginning with a double crowd phenomenon like the one portrayed in the text of Job.",
+      "Location": "ch. 15, 'The Evolution of Ritual', p. 93 (structure set out ch. 13, p. 85)",
+      "Evidence": "SUSPICION, NOT A FINDING. TARGET = Crowds and Power (14938), chapters 'The Double Crowd: Men and Women. The Living and the Dead' and 'The Double Crowd: War'. For: the only book in the library besides Canetti's own with the phrase; Girard knew CP (Violence and the Sacred 7959, p. 131 n. 3, 1972/1977); both treat kingship, crowd and victim. Against: Girard's sense differs (one crowd venerating then persecuting one man — 'Veneration is transformed into execration', p. 85 — vs Canetti's two crowds facing each other); 'double' is endemic in Girard ('monstrous double' 40x in 7959; 'double(s)' 15x in Job); Job never names Canetti (no index entry); French original (La route antique des hommes pervers, 1985) not checked. Girard credits A. Caquot for the Job–king analogy at the same point (ch. 14 n. 1).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 22,
+    "fields": {
+      "Week": 2,
+      "Set": 37,
+      "Citing_Calibre_ID": 7959,
+      "Citing_Title": "Violence and the Sacred",
+      "Citing_Author": "René Girard (tr. Patrick Gregory)",
+      "Relation": "Mentions",
+      "Quote": "The best treatment of the crowd's role in abolishing differences is Elias Canetti's Crowds and Power, trans. Carol Stewart (New York, 1966).",
+      "Location": "p. 131 n. 3; bibliography",
+      "Evidence": "TARGET = Crowds and Power (14938), 'The Discharge': 'This is the moment when all who belong to the crowd get rid of their differences and feel equal.' Note attached to Girard's account of the Dionysiac sparagmos as a re-enacted lynching ('The crowd finally hurled itself on one individual'). Cites the English edition; whether the note is in the 1972 French was not checked. Evidence for edge 21 (Girard's access to CP).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 23,
+    "fields": {
+      "Week": 2,
+      "Set": 37,
+      "Citing_Calibre_ID": 6002,
+      "Citing_Title": "Vampires & a Reasonable Dictionary",
+      "Citing_Author": "Scott Abbott; Žarko Radaković",
+      "Relation": "Uses without credit (suspected)",
+      "Quote": "How does a country move from “crowds and power” to a self-conscious and skeptical democracy?",
+      "Location": "A Reasonable Dictionary (Abbott), 'Belgrade, 24 May 1998', pp. 116–17",
+      "Evidence": "ALLUSION, not borrowing. TARGET = Crowds and Power (title). 'Canetti' absent from the whole EPUB. Followed by 'I’ve read the theory. Tonight I saw theory in action.' The theory as glossed (orator's rhythmic repetitions, leader who 'promises purity', crowd as something to move 'from') is closer to Le Bon than to Canetti.",
+      "Verified": true
+    }
   }
 ]

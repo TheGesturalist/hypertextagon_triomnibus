@@ -4,7 +4,7 @@ tags:
   - apparatus
 ---
 
-All 111 distinct books resurfaced across 36 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
+All 114 distinct books resurfaced across 37 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
 
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/vincenzo-binetti|Vincenzo Binetti]] (translator), [[people/cesare-casarino|Cesare Casarino]] (translator). *[[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]*. 1992 (essay); Eng. 2000. Calibre ID 13685.
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/adam-kotsko|Adam Kotsko]] (translator). *[[books/306-the-omnibus-homo-sacer-the-sacrament-of-language-a|The Omnibus Homo Sacer ('The Sacrament of Language: An Archaeology of the Oath')]]*. 2008. Calibre ID 306.
@@ -53,6 +53,8 @@ All 111 distinct books resurfaced across 36 daily readings, alphabetical by firs
 - [[people/laszlo-f-foldenyi|László F. Földényi]], [[people/ottilie-mulzet|Ottilie Mulzet]] (translator). *[[books/3123-dostoyevsky-reads-hegel-in-siberia-and-bursts-into|Dostoyevsky Reads Hegel in Siberia and Bursts Into Tears]]*. Hungarian essays 1990–2015; English 2020 (Yale UP). Calibre ID 3123.
 - [[people/william-h-gass|William H. Gass]]. *[[books/926-a-temple-of-texts|A Temple of Texts]]*. 2006 (essays; 'The Road to the True Book' first in The New Republic, Nov. 1982, revised). Calibre ID 926.
 - [[people/arnold-geulincx|Arnold Geulincx]], [[people/samuel-beckett|Samuel Beckett]] (contributor), [[people/martin-wilson|Martin Wilson]] (translator). *[[books/8067-ethics|Ethics]]*. 1665 (Treatise I); 1675 complete; Brill ed. 2006. Calibre ID 8067.
+- [[people/rene-girard|René Girard]], [[people/yvonne-freccero|Yvonne Freccero]] (translator). *[[books/8264-job-the-victim-of-his-people|Job: The Victim of His People]]*. 1985 (English 1987, Athlone/Stanford). Calibre ID 8264.
+- [[people/rene-girard|René Girard]], [[people/patrick-gregory|Patrick Gregory]] (translator). *[[books/7959-violence-and-the-sacred|Violence and the Sacred]]*. 1972 (English 1977). Calibre ID 7959.
 - [[people/e-h-gombrich|E. H. Gombrich]], [[people/richard-woodfield|Richard Woodfield]] (editor). *[[books/408-the-essential-gombrich-truth-and-the-stereotype|The Essential Gombrich ('Truth and the Stereotype')]]*. 1960 (Art and Illusion ch. 2); anthology 1996. Calibre ID 408.
 - [[people/boris-groys|Boris Groys]] (editor). *[[books/80-russian-cosmism|Russian Cosmism]]*. 2018. Calibre ID 80.
 - [[people/per-hage|Per Hage]], [[people/frank-harary|Frank Harary]]. *[[books/9870-structural-models-in-anthropology|Structural Models in Anthropology]]*. 1983 (Calibre lists 1984; 2007 reissue). Calibre ID 9870.
@@ -93,6 +95,7 @@ All 111 distinct books resurfaced across 36 daily readings, alphabetical by firs
 - [[people/georges-perec|Georges Perec]], [[people/david-bellos|David Bellos]] (translator). *[[books/782-portrait-of-a-man|Portrait of a Man]]*. written 1957–60; French publ. 2012 (Le Condottière); Eng. 2014. Calibre ID 782.
 - [[people/michael-polanyi|Michael Polanyi]], [[people/amartya-sen|Amartya Sen]] (contributor). *[[books/6096-the-tacit-dimension|The Tacit Dimension]]*. 1966. Calibre ID 6096.
 - [[people/alessandro-portelli|Alessandro Portelli]]. *[[books/2627-they-say-in-harlan-county-an-oral-history|They Say in Harlan County: An Oral History]]*. 2011. Calibre ID 2627.
+- [[people/scott-abbott-zarko-radakovic|Scott Abbott; Žarko Radaković]]. *[[books/6002-vampires-a-reasonable-dictionary|Vampires & a Reasonable Dictionary]]*. 2014. Calibre ID 6002.
 - [[people/jacques-ranciere|Jacques Rancière]], [[people/steven-corcoran|Steven Corcoran]] (translator). *[[books/8698-mallarme-the-politics-of-the-siren|Mallarmé: The Politics of the Siren]]*. 1996. Calibre ID 8698.
 - [[people/jacques-ranciere|Jacques Rancière]], [[people/kristin-ross|Kristin Ross]] (translator). *[[books/8939-the-ignorant-schoolmaster-five-lessons-in-intellec|The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation]]*. 1987. Calibre ID 8939.
 - [[people/courtney-roby|Courtney Roby]]. *[[books/4232-technical-ekphrasis-in-greek-and-roman-science-and|Technical Ekphrasis in Greek and Roman Science and Literature]]*. 2016. Calibre ID 4232.

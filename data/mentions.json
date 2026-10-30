@@ -3061,7 +3061,7 @@
       "Query": "\"Elias Canetti\"",
       "Own_Work": false,
       "Captured_On": 1792972800,
-      "Promoted": false,
+      "Promoted": true,
       "Note": "counts: Canetti 2, Elias Canetti 1 (PDF)"
     }
   },
