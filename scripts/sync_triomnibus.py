@@ -665,7 +665,7 @@ def ensure_raw_gitignored(repo_root: Path, *, dry_run: bool = False) -> bool:
             cwd=str(repo_root),
             text=True,
             capture_output=True,
-            timeout=15,
+            timeout=60,
         )
         tracked_raw = [ln.strip() for ln in proc.stdout.splitlines() if ln.strip()]
         if tracked_raw:
@@ -923,7 +923,7 @@ def verify_staged_paths(repo_root: Path) -> list[str]:
         cwd=str(repo_root),
         text=True,
         capture_output=True,
-        timeout=20,
+        timeout=60,
     )
     if diff_proc.returncode != 0:
         raise RuntimeError(f"git diff --cached failed: {diff_proc.stderr.strip()}")
@@ -933,7 +933,7 @@ def verify_staged_paths(repo_root: Path) -> list[str]:
         cwd=str(repo_root),
         text=True,
         capture_output=True,
-        timeout=20,
+        timeout=60,
     )
     if status_proc.returncode != 0:
         raise RuntimeError(f"git status --porcelain failed: {status_proc.stderr.strip()}")
@@ -954,7 +954,7 @@ def verify_staged_paths(repo_root: Path) -> list[str]:
 
     forbidden = [p for p in sorted(staged_paths) if not _is_allowed_staged_path(p)]
     if forbidden:
-        subprocess.run(["git", "reset"], cwd=str(repo_root), capture_output=True, timeout=15)
+        subprocess.run(["git", "reset"], cwd=str(repo_root), capture_output=True, timeout=60)
         raise PrivacyViolationError(
             f"Git staging guard tripped! Unstaged index due to forbidden paths: {forbidden}"
         )
@@ -971,7 +971,7 @@ def verify_staged_paths(repo_root: Path) -> list[str]:
                 try:
                     assert_no_private_fields(payload, table_name=table_hint)
                 except PrivacyViolationError:
-                    subprocess.run(["git", "reset"], cwd=str(repo_root), capture_output=True, timeout=15)
+                    subprocess.run(["git", "reset"], cwd=str(repo_root), capture_output=True, timeout=60)
                     raise
 
     return sorted(staged_paths)
@@ -993,7 +993,7 @@ def stage_commit_and_push(
     ensure_raw_gitignored(repo_root, dry_run=False)
 
     # Clear any pre-existing staged paths so external working-tree noise never leaks in
-    subprocess.run(["git", "reset"], cwd=str(repo_root), capture_output=True, timeout=15)
+    subprocess.run(["git", "reset"], cwd=str(repo_root), capture_output=True, timeout=60)
 
     paths_to_add: list[str] = []
     data_dir = repo_root / "data"
@@ -1012,7 +1012,7 @@ def stage_commit_and_push(
             cwd=str(repo_root),
             text=True,
             capture_output=True,
-            timeout=30,
+            timeout=60,
         )
         if add_proc.returncode != 0:
             raise RuntimeError(f"git add failed ({add_proc.returncode}): {add_proc.stderr.strip()}")
@@ -1023,7 +1023,7 @@ def stage_commit_and_push(
             cwd=str(repo_root),
             text=True,
             capture_output=True,
-            timeout=15,
+            timeout=60,
         )
         apple_doubles = [
             ln.strip()
@@ -1035,7 +1035,7 @@ def stage_commit_and_push(
                 ["git", "reset", "HEAD", "--", *apple_doubles],
                 cwd=str(repo_root),
                 capture_output=True,
-                timeout=15,
+                timeout=60,
             )
 
     staged = verify_staged_paths(repo_root)
@@ -1075,7 +1075,7 @@ def stage_commit_and_push(
         cwd=str(repo_root),
         text=True,
         capture_output=True,
-        timeout=30,
+        timeout=60,
     )
     if commit_proc.returncode != 0:
         raise RuntimeError(f"git commit failed ({commit_proc.returncode}): {commit_proc.stderr.strip()}")
@@ -1085,7 +1085,7 @@ def stage_commit_and_push(
         cwd=str(repo_root),
         text=True,
         capture_output=True,
-        timeout=10,
+        timeout=30,
     )
     commit_sha = sha_proc.stdout.strip()
 
@@ -1096,7 +1096,7 @@ def stage_commit_and_push(
             cwd=str(repo_root),
             text=True,
             capture_output=True,
-            timeout=120,
+            timeout=180,
         )
         if push_proc.returncode != 0:
             raise RuntimeError(
