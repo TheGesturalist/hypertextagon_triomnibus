@@ -247,7 +247,7 @@
       "Query": "\"Elias Canetti\"",
       "Own_Work": true,
       "Captured_On": 1792972800,
-      "Promoted": false,
+      "Promoted": true,
       "Note": "counts: Canetti 8, Elias Canetti 3 (PDF)"
     }
   },
@@ -317,7 +317,7 @@
       "Query": "\"Elias Canetti\"",
       "Own_Work": true,
       "Captured_On": 1792972800,
-      "Promoted": false,
+      "Promoted": true,
       "Note": "counts: Canetti 5, Elias Canetti 3 (EPUB)"
     }
   },
@@ -1339,7 +1339,7 @@
       "Query": "\"Elias Canetti\"",
       "Own_Work": false,
       "Captured_On": 1792972800,
-      "Promoted": false,
+      "Promoted": true,
       "Note": "counts: Canetti 2521, Elias Canetti 487 (PDF)"
     }
   },
@@ -4755,7 +4755,7 @@
       "Query": "catalogue (added 2026-10-26 after the day-1 capture)",
       "Own_Work": true,
       "Captured_On": 1793059200,
-      "Promoted": false,
+      "Promoted": true,
       "Note": "Own work; added to the catalogue 2026-10-26 15:55 UTC, after the day-1 capture."
     }
   },
@@ -4783,7 +4783,7 @@
       "Query": "catalogue (added 2026-10-26 after the day-1 capture)",
       "Own_Work": true,
       "Captured_On": 1793059200,
-      "Promoted": false,
+      "Promoted": true,
       "Note": "Own work; candidate for day 6."
     }
   },

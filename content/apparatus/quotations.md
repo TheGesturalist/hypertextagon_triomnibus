@@ -202,6 +202,10 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “if you need little to set the imagination going, I require even less: the promise of reading is enough.” (ch. 11)
 - “Just a moment, I've almost finished If on a winter's night a traveler by Italo Calvino.” (ch. 12)
 
+### [[books/14962-auto-da-fe|Auto-Da-Fé]]
+
+- 'The crowd falls upon her, they had been too far off to hit Fischerle, they pay with interest now.' (II.X) | 'He had condemned her to death, hunger and her own greed had executed the sentence on her.' (II.VI) | 'For they were educated men, and education is in itself a cordon sanitaire for the individual against the mass in his own soul.' (III.III) | 'By the way, I read your thesis on Kant and Confucius with real excitement...' (III.V) | 'When the flames reached him at last, he laughed out loud, louder than he had ever laughed in all his life.' (III.VI)
+
 ### [[books/14938-crowds-and-power|Crowds and Power]]
 
 - “It is not for a European of the 20th century to regard himself as above savagery. His despots may use more effective means, but their ends often differ in nothing from those of these African Kings.” (Rulers and Paranoiacs: African Kings)
@@ -234,6 +238,7 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 
 - “which had long been on my shelf but which I had never touched.” (Büchner in the Desert)
 - “My novel that I’d been so proud of crumbled into dust and ashes.” (ibid.)
+- 'I could not forgive myself for burning the books.' | 'hiding the relief, the sense of liberation I felt at the thought of ending Kant’s life.' | 'fire, whose connection with crowds I had recognized July 15, and books, which I lived with day after day.' | 'it was only the sinologist’s psychiatrist brother that he couldn’t stomach.'
 
 ### [[books/420-the-tongue-set-free|The Tongue Set Free]]
 
@@ -629,6 +634,10 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “Villard de Honnecourt, a medieval architect, is not known for his buildings as much as for his writings on those of his contemporaries.” (#316)
 - “A voice describes an unrealized work as if it had been completed: a pile of pipettes in the Sahel desert.” (#325)
 - “The reading ends when no one asks him to continue.” (#533)
+
+### [[books/3312-a-companion-to-the-works-of-elias-canetti|A Companion to the Works of Elias Canetti]]
+
+- 'Auto-da-Fé. Translated by C. V. Wedgwood. New York: Stein and Day, 1946; also as: The Tower of Babel. New York: Knopf, 1947).' (front matter) | 'who translated Die Blendung' (Reiss, p. 83)
 
 ### [[books/10207-and-their-children-after-them|And Their Children After Them]]
 

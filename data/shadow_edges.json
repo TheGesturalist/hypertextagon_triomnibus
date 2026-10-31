@@ -343,5 +343,65 @@
       "Evidence": "ALLUSION, not borrowing. TARGET = Crowds and Power (title). 'Canetti' absent from the whole EPUB. Followed by 'I’ve read the theory. Tonight I saw theory in action.' The theory as glossed (orator's rhythmic repetitions, leader who 'promises purity', crowd as something to move 'from') is closer to Le Bon than to Canetti.",
       "Verified": true
     }
+  },
+  {
+    "id": 24,
+    "fields": {
+      "Week": 2,
+      "Set": 38,
+      "Citing_Calibre_ID": 14938,
+      "Citing_Title": "Crowds and Power",
+      "Citing_Author": "Elias Canetti",
+      "Relation": "Rewrites",
+      "Quote": "This crowd is out for killing and it knows whom it wants to kill. It heads for this goal with unique determination and cannot be cheated of it.",
+      "Location": "'Baiting Crowds' (vs Auto-da-Fé Part Two ch. X 'The Button')",
+      "Evidence": "INTERPRETIVE EDGE. TARGET = Auto-da-Fé (14962). CP never names the novel (only in the 'By Elias Canetti' list). The novel's baiting crowd ('Everyone wanted his share in the robber who had taken the pearl necklace.') is cheated of Fischerle and substitutes the Fishwife: 'The crowd falls upon her, they had been too far off to hit Fischerle, they pay with interest now.' CP's theory keeps the goal and drops the substitute; its only victim-substitution (searching 'substitut-', 'cheated') is sacrificial: 'These animals perish instead of men, a substitution familiar from many religions: we remember Abraham and Isaac.' (Expectation of Command among the Pilgrims at Arafat). The rhythmic Theresianum crowd (II.VIII, 'A powerful rhythm seizes on the crowd.') anticipates 'The Discharge'. Bears on edge 21 (Girard): the novel is nearer the scapegoat than CP. Canetti links fire and crowds to 15 July 1927 (Play of the Eyes 418).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 25,
+    "fields": {
+      "Week": 2,
+      "Set": 38,
+      "Citing_Calibre_ID": 413,
+      "Citing_Title": "The Conscience of Words",
+      "Citing_Author": "Elias Canetti",
+      "Relation": "Edits/introduces",
+      "Quote": "This name contained his end: he was to end ina fire.",
+      "Location": "'The First Book: Auto-da-Fé', pp. 124–34 ('ina' is the OCR reading)",
+      "Evidence": "TARGET = Auto-da-Fé (14962). Naming chain verified: B ('Bookman') → Brand (p. 124) → Kant ('I redubbed him Kant, and he bore that name undisturbed for a long time.', p. 127) → Kien ('The man was now called Kien (Pinewood), something of his combustibility got back into his name.', p. 134, at Broch's urging, 1935). Source of the name: the archivist at the burning Palace of Justice, 'The files are burning! All the files!' (p. 127). Tension: 'Except for the title and the sinologist’s name, nothing was altered.' (p. 133), yet the English novel has Georges praise Peter's 'thesis on Kant and Confucius' (III.V); German text and MS not in the library.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 26,
+    "fields": {
+      "Week": 2,
+      "Set": 38,
+      "Citing_Calibre_ID": 418,
+      "Citing_Title": "The Play of the Eyes",
+      "Citing_Author": "Elias Canetti",
+      "Relation": "Edits/introduces",
+      "Quote": "I could not forgive myself for burning the books.",
+      "Location": "'Büchner in the Desert'; also 'The “Black Statue”'",
+      "Evidence": "TARGET = Auto-da-Fé (14962). Same chapter, verified: 'hiding the relief, the sense of liberation I felt at the thought of ending Kant’s life.'; 'fire, whose connection with crowds I had recognized July 15, and books, which I lived with day after day.' Wotruba: 'it was only the sinologist’s psychiatrist brother that he couldn’t stomach.' Gass (edge 7) quotes this chapter's Büchner night.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 27,
+    "fields": {
+      "Week": 2,
+      "Set": 38,
+      "Citing_Calibre_ID": 3312,
+      "Citing_Title": "A Companion to the Works of Elias Canetti",
+      "Citing_Author": "Dagmar C. G. Lorenz (ed.); Hans Reiss",
+      "Relation": "Mentions",
+      "Quote": "Auto-da-Fé. Translated by C. V. Wedgwood. New York: Stein and Day, 1946; also as: The Tower of Babel. New York: Knopf, 1947).",
+      "Location": "front matter, 'Principal Works by Year of First Publication'; Reiss, 'Canetti’s Attitude to Writers and Writings', p. 83",
+      "Evidence": "TARGET = Auto-da-Fé (14962), whose EPUB names no translator ('English translation copyright © 1947 by Elias Canetti'; LC data 'Originally published: New York: Continuum 1947'). Companion's 'Stein and Day, 1946' is an error: Stein and Day was founded 1962 (Wikipedia); first English edition Jonathan Cape 1946, US as The Tower of Babel, Knopf 1947 (Wikipedia). Reiss p. 83: Canetti 'found warm words for Veronica Wedgwood ... (PA, 121–23), who translated Die Blendung'. Quote whitespace-normalised from PDF line breaks.",
+      "Verified": true
+    }
   }
 ]

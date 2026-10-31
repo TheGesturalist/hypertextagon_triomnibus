@@ -4,7 +4,7 @@ tags:
   - apparatus
 ---
 
-All 114 distinct books resurfaced across 37 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
+All 116 distinct books resurfaced across 38 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
 
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/vincenzo-binetti|Vincenzo Binetti]] (translator), [[people/cesare-casarino|Cesare Casarino]] (translator). *[[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]*. 1992 (essay); Eng. 2000. Calibre ID 13685.
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/adam-kotsko|Adam Kotsko]] (translator). *[[books/306-the-omnibus-homo-sacer-the-sacrament-of-language-a|The Omnibus Homo Sacer ('The Sacrament of Language: An Archaeology of the Oath')]]*. 2008. Calibre ID 306.
@@ -27,6 +27,7 @@ All 114 distinct books resurfaced across 37 daily readings, alphabetical by firs
 - [[people/robert-burton|Robert Burton]]. *[[books/8773-the-anatomy-of-melancholy|The Anatomy of Melancholy]]*. 1621. Calibre ID 8773.
 - [[people/heimrad-backer|Heimrad Bäcker]], [[people/patrick-greaney|Patrick Greaney]] (translator), [[people/vincent-kling|Vincent Kling]] (translator), [[people/friedrich-achleitner|Friedrich Achleitner]] (editor). *[[books/9312-transcript|Transcript]]*. 1986. Calibre ID 9312.
 - [[people/italo-calvino|Italo Calvino]], [[people/william-weaver|William Weaver]] (translator). *[[books/7787-if-on-a-winter-s-night-a-traveler|If on a Winter's Night a Traveler]]*. 1979 (Eng. 1981). Calibre ID 7787.
+- [[people/elias-canetti|Elias Canetti]]. *[[books/14962-auto-da-fe|Auto-Da-Fé]]*. 1935. Calibre ID 14962.
 - [[people/elias-canetti|Elias Canetti]], [[people/carol-stewart|Carol Stewart]] (translator). *[[books/14938-crowds-and-power|Crowds and Power]]*. 1960 (German); English 1962. Calibre ID 14938.
 - [[people/elias-canetti|Elias Canetti]], [[people/christopher-middleton|Christopher Middleton]] (translator). *[[books/3246-kafka-s-other-trial-the-letters-to-felice|Kafka's Other Trial: The Letters to Felice]]*. 1969 (English 1974). Calibre ID 3246.
 - [[people/elias-canetti|Elias Canetti]], [[people/john-hargraves|John Hargraves]] (translator). *[[books/415-notes-from-hampstead-the-writer-s-notes-19541971|Notes From Hampstead: The Writer's Notes: 1954–1971]]*. 1994 (German); English 1998. Calibre ID 415.
@@ -79,6 +80,7 @@ All 114 distinct books resurfaced across 37 daily readings, alphabetical by firs
 - [[people/andre-leroi-gourhan|André Leroi-Gourhan]], [[people/anna-bostock-berger|Anna Bostock Berger]] (translator), [[people/randall-white|Randall White]] (contributor). *[[books/1003-gesture-and-speech|Gesture and Speech]]*. 1964–65 (English 1993). Calibre ID 1003.
 - [[people/nikolai-leskov|Nikolai Leskov]], [[people/william-edgerton|William Edgerton]] (translator). *[[books/2800-lady-macbeth-of-mtsensk-selected-stories-of-nikola|Lady Macbeth of Mtsensk: Selected Stories of Nikolai Leskov ('The Steel Flea')]]*. 1881 ('The Steel Flea'); Edgerton trans. 1969; NYRB selection. Calibre ID 2800.
 - [[people/edouard-leve|Édouard Levé]], [[people/jan-steyn|Jan Steyn]] (translator). *[[books/252-works|Works]]*. 2002. Calibre ID 252.
+- [[people/dagmar-c-g-lorenz|Dagmar C. G. Lorenz]] (editor). *[[books/3312-a-companion-to-the-works-of-elias-canetti|A Companion to the Works of Elias Canetti]]*. 2004. Calibre ID 3312.
 - [[people/dale-maharidge|Dale Maharidge]], [[people/michael-williamson|Michael Williamson]] (contributor). *[[books/10207-and-their-children-after-them|And Their Children After Them]]*. 1989 (30th-anniversary ed. 2019). Calibre ID 10207.
 - [[people/catherine-malabou|Catherine Malabou]], [[people/tyler-m-williams|Tyler M. Williams]] (editor), [[people/dashiell-wasserman|Dashiell Wasserman]] (translator). *[[books/907-plasticity-the-promise-of-explosion-catalogued-as|Plasticity: The Promise of Explosion (catalogued as 'Plasticity at the Dusk of Writing')]]*. 2022 (ch. 8 delivered Cerisy 2002; French 2004). Calibre ID 907.
 - [[people/tom-mccarthy|Tom McCarthy]]. *[[books/4209-remainder|Remainder]]*. 2005 (Metronome Press); Vintage ed. 2007. Calibre ID 4209.

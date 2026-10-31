@@ -3846,5 +3846,117 @@
       "WN_Gloss": "a manuscript (usually written on papyrus or parchment) on which more than one text has been written with the earlier writing incompletely erased and still visible",
       "WN_Hypernyms": "manuscript"
     }
+  },
+  {
+    "id": 130,
+    "fields": {
+      "Term": "mystery cults",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "The secret, initiatory cults of the Greco-Roman world (Greek mystēria), open only to initiates (mystai) and defined by secrecy about their rites; they offered a personal religious experience alongside, not against, the public civic religion. Chief examples: the Eleusinian Mysteries of Demeter and Persephone, the Samothracian, Dionysian/Orphic and Mithraic mysteries, and the cults of Isis and Cybele.",
+      "Etymology": "\"Mystery\" from Greek mystḗria (pl., \"the Mysteries\"), via Latin mysterium; mystḗrion (\"revealed secret\") is of uncertain origin, traditionally linked to mýō (\"to close, shut,\" esp. the eyes); Jaan Puhvel proposes Hittite munnae (\"to conceal\").",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 0,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        158,
+        87
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Whether \"mystery religion\" names a coherent category is debated; the older thesis deriving Christianity from the mysteries has largely been abandoned since A. D. Nock (1952). Knowledge of the rites rests mostly on archaeology and imagery, since initiates kept the secret.",
+      "WN_Status": "Partial",
+      "WN_Synset": "oewn-05957131-n  (head: cult)",
+      "WN_Lexname": "noun.cognition",
+      "WN_Gloss": "a system of religious beliefs and rituals",
+      "WN_Hypernyms": "religion"
+    }
+  },
+  {
+    "id": 132,
+    "fields": {
+      "Term": "domiciliation",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "In Derrida's Archive Fever (Mal d'archive, 1995), the archive's being housed: the Greek arkheion was the house of the archons, and official documents became archives only by being deposited at that address and placed under their guardianship and law. \"It is thus, in this domiciliation, in this house arrest, that archives take place\"; it marks the institutional passage from private to public. Ordinary sense: establishing a fixed residence or legal domicile.",
+      "Etymology": "From domicile + -ation; domicile from Old French domicile (14th c.) and Latin domicilium, perhaps domus (\"house\") + colere (\"to dwell\"). English domicile attested mid-15th c.; the verb \"establish in a fixed residence\" by 1762.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 1,
+      "Gravity": 0.3,
+      "Lineages": [
+        "L",
+        157,
+        5
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Derrida's sense is topological and political (place + law), not merely storage; distinct from the commercial/legal usage (registering an address, e.g. a company's or a bill's domiciliation) and from WordNet's \"temporary living quarters\".",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "Not in this sense. WordNet has only domiciliation as dwelling (oewn-03200169-n: temporary living quarters).",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 133,
+    "fields": {
+      "Term": "consignation",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "In Derrida's Archive Fever (1995), the archontic principle of gathering together: beyond the ordinary sense of assigning residence or entrusting to deposit, consignation gathers signs into a single corpus, coordinated in a system or synchrony as a unified, ideal configuration, and so shelters the archive from dissolution. Ordinary sense: the act of consigning, depositing in trust, or (earlier) sealing with a sign.",
+      "Etymology": "From Medieval Latin consignatio, from consignare (\"to seal, register\"): com- (\"together\") + signare (\"to mark\"), from signum (\"sign\"). English noun recorded from the 1530s for the act of sealing with a sign; later displaced by consignment (1560s). Derrida plays on the con-sign- (\"signs together\") root.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 1,
+      "Gravity": 0.35,
+      "Lineages": [
+        "L",
+        157,
+        5
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Derrida explicitly exceeds the commercial sense (consignment of goods) and the legal sense (deposit of money in trust); the term pairs with domiciliation, consignation being the gathering, domiciliation the housing.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 134,
+    "fields": {
+      "Term": "Clandestine",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Kept secret or done covertly, typically because the action is illicit or would meet opposition: conducted with hidden aims or by hidden methods.",
+      "Etymology": "From Latin clandestinus (\"secret, hidden\"), from clam (\"secretly\"), from the base of celare (\"to hide\"); PIE *kel- (\"to cover, conceal\"); possibly modeled on intestinus. English from the 1560s.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 0,
+      "Gravity": 0.05,
+      "Lineages": null,
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-01710918-s",
+      "WN_Lexname": "adj.all",
+      "WN_Gloss": "conducted with or marked by hidden aims or methods",
+      "WN_Hypernyms": ""
+    }
   }
 ]

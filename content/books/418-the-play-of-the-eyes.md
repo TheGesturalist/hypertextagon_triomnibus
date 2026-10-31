@@ -7,15 +7,10 @@ calibre_id: 418
 
 **[[people/elias-canetti|Elias Canetti]], [[people/ralph-manheim|Ralph Manheim]] (translator)** · 1985 (German); English 1986 · EPUB · Calibre ID 418
 
-Resurfaced in [[shadows/2026-10-27-shadow-elias-canetti-day-2-the-quotation-survives|Shadow — Elias Canetti, day 2: The Quotation Survives]] (2026-10-27).
+## Resurfaced across multiple readings
 
-## Role in the reading
-
-Source check for Gass's 'Influence' (Büchner night).
-
-## Why this book
-
-Gass quotes 'Büchner in the Desert' at length.
+- [[shadows/2026-10-27-shadow-elias-canetti-day-2-the-quotation-survives|Shadow — Elias Canetti, day 2: The Quotation Survives]] (2026-10-27): *Source check for Gass's 'Influence' (Büchner night).*
+- [[shadows/2026-10-31-shadow-elias-canetti-day-6-the-crowd-is-cheated|Shadow — Elias Canetti, day 6: The Crowd Is Cheated]] (2026-10-31): *Secondary: the author's afterword to the novel (not primary; used on day 2 as a source check).*
 
 ## Quotations
 
@@ -23,7 +18,8 @@ Gass quotes 'Büchner in the Desert' at length.
 
 - “which had long been on my shelf but which I had never touched.” (Büchner in the Desert)
 - “My novel that I’d been so proud of crumbled into dust and ashes.” (ibid.)
+- 'I could not forgive myself for burning the books.' | 'hiding the relief, the sense of liberation I felt at the thought of ending Kant’s life.' | 'fire, whose connection with crowds I had recognized July 15, and books, which I lived with day after day.' | 'it was only the sinologist’s psychiatrist brother that he couldn’t stomach.'
 
 ## Themes
 
-[[themes/buchner|Büchner]] · [[themes/delayed-encounter|delayed encounter]] · [[themes/lenz|Lenz]] · [[themes/woyzeck|Woyzeck]]
+[[themes/buchner|Büchner]] · [[themes/crowd|crowd]] · [[themes/delayed-encounter|delayed encounter]] · [[themes/fire|fire]] · [[themes/guilt|guilt]] · [[themes/lenz|Lenz]] · [[themes/survival|survival]] · [[themes/wotruba|Wotruba]] · [[themes/woyzeck|Woyzeck]]

@@ -16,6 +16,7 @@ Subject page: [[people/elias-canetti|Elias Canetti]].
 - **Day 3** (2026-10-28) — [[shadows/2026-10-28-shadow-elias-canetti-day-3-mob-or-organisation|Shadow — Elias Canetti, day 3: Mob or Organisation]]
 - **Day 4** (2026-10-29) — [[shadows/2026-10-29-shadow-elias-canetti-day-4-the-tribunal-in-transla|Shadow — Elias Canetti, day 4: The Tribunal in Translation]]
 - **Day 5** (2026-10-30) — [[shadows/2026-10-30-shadow-elias-canetti-day-5-the-double-crowd|Shadow — Elias Canetti, day 5: The Double Crowd]]
+- **Day 6** (2026-10-31) — [[shadows/2026-10-31-shadow-elias-canetti-day-6-the-crowd-is-cheated|Shadow — Elias Canetti, day 6: The Crowd Is Cheated]]
 
 ## Citation & argument map (`Shadow_Edges`)
 
@@ -44,3 +45,7 @@ Subject page: [[people/elias-canetti|Elias Canetti]].
 | [[books/8264-job-the-victim-of-his-people|Job: The Victim of His People]] | René Girard | **Uses without credit (suspected)** | Elias Canetti | ch. 15, 'The Evolution of Ritual', p. 93 (structure set out ch. 13, p. 85) |
 | [[books/7959-violence-and-the-sacred|Violence and the Sacred]] | René Girard (tr. Patrick Gregory) | **Mentions** | Elias Canetti | p. 131 n. 3; bibliography |
 | [[books/6002-vampires-a-reasonable-dictionary|Vampires & a Reasonable Dictionary]] | Scott Abbott; Žarko Radaković | **Uses without credit (suspected)** | Elias Canetti | A Reasonable Dictionary (Abbott), 'Belgrade, 24 May 1998', pp. 116–17 |
+| [[books/14938-crowds-and-power|Crowds and Power]] | Elias Canetti | **Rewrites** | Elias Canetti | 'Baiting Crowds' (vs Auto-da-Fé Part Two ch. X 'The Button') |
+| [[books/413-the-conscience-of-words-with-earwitness|The Conscience of Words]] | Elias Canetti | **Edits/introduces** | Elias Canetti | 'The First Book: Auto-da-Fé', pp. 124–34 ('ina' is the OCR reading) |
+| [[books/418-the-play-of-the-eyes|The Play of the Eyes]] | Elias Canetti | **Edits/introduces** | Elias Canetti | 'Büchner in the Desert'; also 'The “Black Statue”' |
+| [[books/3312-a-companion-to-the-works-of-elias-canetti|A Companion to the Works of Elias Canetti]] | Dagmar C. G. Lorenz (ed.); Hans Reiss | **Mentions** | Elias Canetti | front matter, 'Principal Works by Year of First Publication'; Reiss, 'Canetti’s Attitude to Writers and Writings', p. 83 |

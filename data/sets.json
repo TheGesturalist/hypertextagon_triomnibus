@@ -1842,5 +1842,58 @@
       "Author_Week": 2,
       "Week_Day": 5
     }
+  },
+  {
+    "id": 38,
+    "fields": {
+      "Date": 1793404800,
+      "Set_Title": "Shadow — Elias Canetti, day 6: The Crowd Is Cheated",
+      "Thread": "Day 6 (the author again). Auto-da-Fé (14962, 1935; tr. C. V. Wedgwood 1946, FSG 1984 EPUB) read in the light of days 2–5. The novel already holds the week. (1) Day 5/Girard: in II.X 'The Button' the crowd hunting Fischerle beats the hunchbacked Fishwife instead — 'they had been too far off to hit Fischerle, they pay with interest now' — while Crowds and Power says the baiting crowd 'cannot be cheated of it'; the 1935 novel is nearer Girard's scapegoat than the 1960 theory (whose only victim-substitution is sacrificial: Arafat, Abraham and Isaac). (2) Day 3/Carey: the ambivalence Carey calls incoherence is split between brothers — Peter's Mencius ('beware of these people of the masses') vs Georges's 'desire of men to rise into a higher type of animal, in to the mass'; Wotruba disliked Georges (Play of the Eyes 418). (3) Day 4: Kien his own tribunal ('He had condemned her to death...'; 'overwhelming verdict for acquittal'). (4) Day 2: B → Brand → Kant → Kien (413 pp. 124–34); yet Kien wrote a 'thesis on Kant and Confucius' though Canetti says only title and name were altered — open question. (5) Translation: the EPUB names no translator; the Companion (3312) names Wedgwood but gives 'Stein and Day, 1946' (firm founded 1962); the EPUB's LC data says Continuum 1947. (6) Day 1: Canetti's 'relief... at the thought of ending Kant's life' (418).",
+      "Connection_Kind": [
+        "L",
+        "Genealogy/influence",
+        "Conflict",
+        "Shared figure or motif"
+      ],
+      "Difficulty": 3,
+      "Themes": "crowd; baiting crowd; substitution; scapegoat; Girard; rhythm; discharge; mass; mass-soul; Georges Kien; Mencius; Carey; tribunal; verdict; confession; naming; Brand; Kant; Kien; Wedgwood; translator's name; colophon; book-burning; library in the head; 15 July 1927; survival; guilt",
+      "Notebook_Prompts": "1. The crowd 'pay[s] with interest' on the Fishwife. Write a scene in which a crowd is cheated of its target. Who is nearest, and what likeness makes them the substitute?\n2. Georges: 'education is in itself a cordon sanitaire for the individual against the mass in his own soul.' Is your library a cordon sanitaire or a crowd? Kien had both in one room.\n3. B, Brand, Kant, Kien: name a character four times, each name holding less of the ending. Which name would you publish under?",
+      "Rabbit_Holes": "https://library.oapen.org/bitstream/20.500.12657/43319/1/9781469657431.pdf\nhttps://en.wikipedia.org/wiki/Auto-da-F%C3%A9_(novel)\nhttps://en.wikipedia.org/wiki/C._V._Wedgwood\nhttps://archive.spectator.co.uk/article/23rd-july-2005/25/the-god-monster-of-hampstead\nhttps://ctext.org/mengzi/jin-xin-i\nhttps://en.wikipedia.org/wiki/Stein_and_Day",
+      "Carry_Quote": "“For they were educated men, and education is in itself a cordon sanitaire for the individual against the mass in his own soul.” — Elias Canetti, Auto-da-Fé, Part Three, ch. III, ‘A Madhouse’ (Georges Kien), tr. C. V. Wedgwood",
+      "Status": "New",
+      "Theme_Links": [
+        "L",
+        145,
+        1217,
+        1218,
+        1196,
+        1199,
+        732,
+        1219,
+        1164,
+        1220,
+        1221,
+        1222,
+        1223,
+        1174,
+        1171,
+        1224,
+        628,
+        1225,
+        1226,
+        1227,
+        1228,
+        1229,
+        1230,
+        1231,
+        1232,
+        1233,
+        1107,
+        1234
+      ],
+      "Method": 2,
+      "Author_Week": 2,
+      "Week_Day": 6
+    }
   }
 ]

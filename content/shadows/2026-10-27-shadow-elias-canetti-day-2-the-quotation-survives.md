@@ -136,7 +136,7 @@ Gass: “Moreover, after at first naming the character Kant, he called him Kien,
 
 Canetti, “The First Book: Auto-da-Fé”, in *The Conscience of Words* (413):
 
-1. **Brand** (“burning, fire”). After the fire of 15 July 1927, in the *Human Comedy of Mad-men* sketches, Canetti gave the bookworm B. the name Brand: “Nevertheless, the name Brand began hemming me in as I wrote the novel.” (p. 127)
+1. **Brand** (“burning, fire”). After the fire of 15 July 1927, in the *Human Comedy of Madmen* sketches, Canetti gave the bookworm B. the name Brand: “Nevertheless, the name Brand began hemming me in as I wrote the novel.” (p. 127)
 
 2. **Kant**: “I redubbed him Kant, and he bore that name undisturbed for a long time.” (p. 127). The manuscript was titled *Kant Catches Fire*.
 

@@ -4065,5 +4065,96 @@
       ],
       "Date": 1793318400
     }
+  },
+  {
+    "id": 116,
+    "fields": {
+      "Set": 38,
+      "Calibre_ID": 14962,
+      "Title": "Auto-Da-Fé",
+      "Author": "Elias Canetti",
+      "Year": "1935",
+      "File_Format": "EPUB",
+      "Role_in_Set": "Day 6 primary: the second own work, read in the light of days 2–5.",
+      "Selection_Logic": "Day-plan day 6; in the catalogue since 2026-10-26 (absent on day 1).",
+      "Elements": [
+        "L",
+        "Excerpt (II.X cheated crowd vs CP 'Baiting Crowds'); excerpt (II.VIII rhythmic crowd); two-brothers table of verified quotations on the mass; concordance heat-map by chapter (crowd 27",
+        "mass 26",
+        "fire/flame 72",
+        "confess 22",
+        "verdict/judge/sentence 46); misreading worth attempting (Kant thesis as scar of the name); the end + naming chain."
+      ],
+      "Quotes": "'The crowd falls upon her, they had been too far off to hit Fischerle, they pay with interest now.' (II.X) | 'He had condemned her to death, hunger and her own greed had executed the sentence on her.' (II.VI) | 'For they were educated men, and education is in itself a cordon sanitaire for the individual against the mass in his own soul.' (III.III) | 'By the way, I read your thesis on Kant and Confucius with real excitement...' (III.V) | 'When the flames reached him at last, he laughed out loud, louder than he had ever laughed in all his life.' (III.VI)",
+      "Themes": "crowd; substitution; mass; tribunal; naming; translation; book-burning",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        145,
+        1218,
+        1164,
+        1174,
+        628,
+        505,
+        1231
+      ],
+      "Date": 1793404800
+    }
+  },
+  {
+    "id": 117,
+    "fields": {
+      "Set": 38,
+      "Calibre_ID": 418,
+      "Title": "The Play of the Eyes",
+      "Author": "Elias Canetti",
+      "Year": null,
+      "File_Format": "EPUB",
+      "Role_in_Set": "Secondary: the author's afterword to the novel (not primary; used on day 2 as a source check).",
+      "Selection_Logic": "Canetti's own account of the aftermath of writing Auto-da-Fé; checks the critics' readings.",
+      "Elements": [
+        "L",
+        "Verified quotations ('Büchner in the Desert'); Wotruba's objection to Georges ('The “Black Statue”')."
+      ],
+      "Quotes": "'I could not forgive myself for burning the books.' | 'hiding the relief, the sense of liberation I felt at the thought of ending Kant’s life.' | 'fire, whose connection with crowds I had recognized July 15, and books, which I lived with day after day.' | 'it was only the sinologist’s psychiatrist brother that he couldn’t stomach.'",
+      "Themes": "guilt; survival; fire; crowds; Wotruba",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1234,
+        1107,
+        1235,
+        145,
+        1236
+      ],
+      "Date": 1793404800
+    }
+  },
+  {
+    "id": 118,
+    "fields": {
+      "Set": 38,
+      "Calibre_ID": 3312,
+      "Title": "A Companion to the Works of Elias Canetti",
+      "Author": "Dagmar C. G. Lorenz (ed.)",
+      "Year": "2004",
+      "File_Format": "PDF",
+      "Role_in_Set": "Secondary: names the translator the EPUB omits.",
+      "Selection_Logic": "Day-4 translation thread; full-text search for Wedgwood across the week's books.",
+      "Elements": [
+        "L",
+        "Bibliographic entry (front matter) checked against Wikipedia (Stein and Day founded 1962); Reiss p. 83 on Wedgwood; derived list of the three conflicting publication records."
+      ],
+      "Quotes": "'Auto-da-Fé. Translated by C. V. Wedgwood. New York: Stein and Day, 1946; also as: The Tower of Babel. New York: Knopf, 1947).' (front matter) | 'who translated Die Blendung' (Reiss, p. 83)",
+      "Themes": "translation; bibliography; colophon",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        505,
+        1237,
+        1230
+      ],
+      "Date": 1793404800
+    }
   }
 ]

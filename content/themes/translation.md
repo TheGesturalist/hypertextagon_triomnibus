@@ -13,4 +13,6 @@ tags:
 
 ## Books
 
+- [[books/3312-a-companion-to-the-works-of-elias-canetti|A Companion to the Works of Elias Canetti]]
 - [[books/4026-george-steiner-at-the-new-yorker|George Steiner at the New Yorker]]
+- [[books/14962-auto-da-fe|Auto-Da-Fé]]

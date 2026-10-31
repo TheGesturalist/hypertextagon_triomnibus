@@ -1,0 +1,10 @@
+---
+title: "Dagmar C. G. Lorenz"
+tags:
+  - person
+  - role/editor
+---
+
+## As editor
+
+- [[books/3312-a-companion-to-the-works-of-elias-canetti|A Companion to the Works of Elias Canetti]] — in [[shadows/2026-10-31-shadow-elias-canetti-day-6-the-crowd-is-cheated|Shadow — Elias Canetti, day 6: The Crowd Is Cheated]]

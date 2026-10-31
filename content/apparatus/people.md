@@ -125,6 +125,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/andre-leroi-gourhan|André Leroi-Gourhan]] — author
 - [[people/nikolai-leskov|Nikolai Leskov]] — author
 - [[people/edouard-leve|Édouard Levé]] — author
+- [[people/dagmar-c-g-lorenz|Dagmar C. G. Lorenz]] — editor
 - [[people/nathalie-leger|Nathalie Léger]] — editor
 - [[people/dale-maharidge|Dale Maharidge]] — author
 - [[people/catherine-malabou|Catherine Malabou]] — author

@@ -34,6 +34,7 @@ Readings ordered by difficulty, from the most visible connections to the most ob
 - [[shadows/2026-10-28-shadow-elias-canetti-day-3-mob-or-organisation|Shadow — Elias Canetti, day 3: Mob or Organisation]] (2026-10-28) · *An author and their shadow*
 - [[shadows/2026-10-29-shadow-elias-canetti-day-4-the-tribunal-in-transla|Shadow — Elias Canetti, day 4: The Tribunal in Translation]] (2026-10-29) · *An author and their shadow*
 - [[shadows/2026-10-30-shadow-elias-canetti-day-5-the-double-crowd|Shadow — Elias Canetti, day 5: The Double Crowd]] (2026-10-30) · *An author and their shadow*
+- [[shadows/2026-10-31-shadow-elias-canetti-day-6-the-crowd-is-cheated|Shadow — Elias Canetti, day 6: The Crowd Is Cheated]] (2026-10-31) · *An author and their shadow*
 
 ## Difficulty 4
 
