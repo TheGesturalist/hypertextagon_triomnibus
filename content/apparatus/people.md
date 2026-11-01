@@ -131,6 +131,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/catherine-malabou|Catherine Malabou]] — author
 - [[people/charlotte-mandell|Charlotte Mandell]] — translator
 - [[people/ralph-manheim|Ralph Manheim]] — translator
+- [[people/paul-mattick|Paul Mattick]] — author
 - [[people/tom-mccarthy|Tom McCarthy]] — author
 - [[people/alastair-mcewen|Alastair McEwen]] — translator
 - [[people/henri-michaux|Henri Michaux]] — author
@@ -192,6 +193,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/tyler-m-williams|Tyler M. Williams]] — editor
 - [[people/michael-williamson|Michael Williamson]] — contributor
 - [[people/martin-wilson|Martin Wilson]] — translator
+- [[people/stanislaw-ignacy-witkiewicz|Stanislaw Ignacy Witkiewicz]] — author
 - [[people/richard-woodfield|Richard Woodfield]] — editor
 - [[people/peter-wortsman|Peter Wortsman]] — translator
 - [[people/lu-xun|Lu Xun]] — author

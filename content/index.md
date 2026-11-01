@@ -4,7 +4,7 @@ title: "The Hypertext Triomnibus"
 
 *Scribrarium — Daily Resurfacings from a Thirteen-Thousand-Volume Library.*
 
-38 days and 116 distinct books resurfaced from one private library and read from their own files for what passes between them. Volume 1 (*Triads*) reads three books at a time across shared forms, motifs, genealogies, and conflicts; Volume 2 (*An Author and Their Shadow*) tracks a single writer per week across the library's full-text index.
+39 days and 118 distinct books resurfaced from one private library and read from their own files for what passes between them. Volume 1 (*Triads*) reads three books at a time across shared forms, motifs, genealogies, and conflicts; Volume 2 (*An Author and Their Shadow*) tracks a single writer per week across the library's full-text index.
 
 ## Ways in
 
@@ -17,7 +17,7 @@ title: "The Hypertext Triomnibus"
 
 ## Volume 2: An Author and Their Shadow
 
-- **Week 1:** [[shadows/weeks/elias-canetti|Shadow — Elias Canetti]] (*In progress* · 343 library mentions)
+- **Week 1:** [[shadows/weeks/elias-canetti|Shadow — Elias Canetti]] (*Complete* · 343 library mentions)
 
 1. 2026-10-26 — [[shadows/2026-10-26-shadow-elias-canetti-day-1-the-only-man|Shadow — Elias Canetti, day 1: The Only Man]]
 2. 2026-10-27 — [[shadows/2026-10-27-shadow-elias-canetti-day-2-the-quotation-survives|Shadow — Elias Canetti, day 2: The Quotation Survives]]
@@ -25,6 +25,7 @@ title: "The Hypertext Triomnibus"
 4. 2026-10-29 — [[shadows/2026-10-29-shadow-elias-canetti-day-4-the-tribunal-in-transla|Shadow — Elias Canetti, day 4: The Tribunal in Translation]]
 5. 2026-10-30 — [[shadows/2026-10-30-shadow-elias-canetti-day-5-the-double-crowd|Shadow — Elias Canetti, day 5: The Double Crowd]]
 6. 2026-10-31 — [[shadows/2026-10-31-shadow-elias-canetti-day-6-the-crowd-is-cheated|Shadow — Elias Canetti, day 6: The Crowd Is Cheated]]
+7. 2026-11-01 — [[shadows/2026-11-01-shadow-elias-canetti-day-7-the-map|Shadow — Elias Canetti, day 7: The Map]]
 
 ## Volume 1: The Triads
 

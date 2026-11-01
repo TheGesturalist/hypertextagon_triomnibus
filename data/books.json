@@ -4156,5 +4156,123 @@
       ],
       "Date": 1793404800
     }
+  },
+  {
+    "id": 119,
+    "fields": {
+      "Set": 39,
+      "Calibre_ID": 14938,
+      "Title": "Crowds and Power",
+      "Author": "Elias Canetti",
+      "Year": "1960",
+      "File_Format": "EPUB",
+      "Role_in_Set": "Day 7: the hub of the week's graph (9 of 27 edges point at it); re-read at 'The Survivor' and the Epilogue.",
+      "Selection_Logic": "Highest in-degree in Shadow_Edges for week 2; the Epilogue's 'double crowds' checked against the day-5 Girard suspicion.",
+      "Elements": [
+        "L",
+        "Citation graph of all 27 week edges (matplotlib)",
+        "Degree table (derived list)",
+        "Verified quotations",
+        "Excerpt (Epilogue opening)",
+        "Misreading worth attempting (graph as crowd diagram)"
+      ],
+      "Quotes": "'THE MOMENT OF survival is the moment of power.' ('The Survivor') | 'There is a clear trend towards the formation of enormous double crowds, named after whole quarters of the globe—East and West.' (Epilogue) | 'The survivor is mankind’s worst evil, its curse and perhaps its doom.' (Epilogue) | 'But it was my intention to hunt him out in all his hiding-places and show him for what he is and always has been.' (Epilogue) | 'CROWD CRYSTALS are the small, rigid groups of men, strictly delimited and of great constancy, which serve to precipitate crowds.' ('Crowd Crystals')",
+      "Themes": "survivor; double crowd; crowd crystal; hub; citation graph",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1242,
+        1195,
+        1156,
+        1239,
+        1238
+      ],
+      "Date": 1793491200
+    }
+  },
+  {
+    "id": 120,
+    "fields": {
+      "Set": 39,
+      "Calibre_ID": 413,
+      "Title": "The Conscience of Words",
+      "Author": "Elias Canetti",
+      "Year": "1979 (English)",
+      "File_Format": "PDF",
+      "Role_in_Set": "Lexicon check: 'onlyness' in 'Power and Survival', pp. 24–25 (tr. Neugroschel, © 1979). Not a primary book.",
+      "Selection_Logic": "Featured Lexicon term 'onlyness' credits the coinage to Merchant (2017); day 1 had found the word here.",
+      "Elements": [
+        "L",
+        "Verified quotations",
+        "Lexicon occurrence"
+      ],
+      "Quotes": "'But the crucial moment is the moment of the sultan’s onlyness, when he gazed from the palace roof across the empty city at night' (p. 24) | 'all these things would tend to show that the urge for this onlyness is something very real, a prime force to be taken seriously' (p. 25)",
+      "Themes": "onlyness; survival; uniqueness",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1109,
+        1107,
+        1247
+      ],
+      "Date": 1793491200
+    }
+  },
+  {
+    "id": 121,
+    "fields": {
+      "Set": 39,
+      "Calibre_ID": 997,
+      "Title": "Art in Its Time: Theories and Practices of Modern Aesthetics",
+      "Author": "Paul Mattick",
+      "Year": "2003",
+      "File_Format": "PDF",
+      "Role_in_Set": "Lexicon check: quotes Toffler, The Culture Consumers (1965) p. 63, 'one-and-onlyness' (p. 176 n. 3). Not a primary book.",
+      "Selection_Logic": "Full-text search for 'onlyness' with book_ids from the day-1 list (997 was one of 4 books with the word and without 'Canetti').",
+      "Elements": [
+        "L",
+        "Verified quotation",
+        "Lexicon occurrence"
+      ],
+      "Quotes": "'It is for this reason the broadest of all possible fields within which the individual can express his one-and-onlyness.' (Toffler as quoted, p. 176 n. 3)",
+      "Themes": "onlyness; individualism; culture consumption",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1109,
+        1248,
+        1249
+      ],
+      "Date": 1793491200
+    }
+  },
+  {
+    "id": 122,
+    "fields": {
+      "Set": 39,
+      "Calibre_ID": 1070,
+      "Title": "Insatiability",
+      "Author": "Stanislaw Ignacy Witkiewicz",
+      "Year": "1930 (tr. Iribarne 1977, rev. 1996)",
+      "File_Format": "EPUB",
+      "Role_in_Set": "Lexicon check: 'His Onlyness' as a title for the dictator Kotzmolochowicz. Not a primary book.",
+      "Selection_Logic": "Same 'onlyness' search; the EPUB is the 1996 revised translation, so the 1977 wording is not checked.",
+      "Elements": [
+        "L",
+        "Verified quotation",
+        "Lexicon occurrence"
+      ],
+      "Quotes": "'His Onlyness is absolutely inscrutable.' | 'His Onlyness did not need a name: he was, that sufficed.'",
+      "Themes": "onlyness; dictator; crowd; power",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1109,
+        1250,
+        145,
+        1108
+      ],
+      "Date": 1793491200
+    }
   }
 ]

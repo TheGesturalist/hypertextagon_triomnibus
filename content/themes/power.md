@@ -10,5 +10,6 @@ tags:
 
 ## Books
 
+- [[books/1070-insatiability|Insatiability]]
 - [[books/3246-kafka-s-other-trial-the-letters-to-felice|Kafka's Other Trial: The Letters to Felice]]
 - [[books/6272-franz-kafka-the-necessity-of-form|Franz Kafka: The Necessity of Form]]

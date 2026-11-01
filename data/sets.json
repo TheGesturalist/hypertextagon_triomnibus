@@ -1895,5 +1895,51 @@
       "Author_Week": 2,
       "Week_Day": 6
     }
+  },
+  {
+    "id": 39,
+    "fields": {
+      "Date": 1793491200,
+      "Set_Title": "Shadow — Elias Canetti, day 7: The Map",
+      "Thread": "Day 7 (the map). 27 edges from 15 citing books (4 Canetti's own): Quotes 12, Argues with 5, Edits/introduces 4, Uses without credit (suspected) 2, Mentions 2, Translates 1, Rewrites 1. Hub: Crowds and Power (14938), 9 arrows in; then Torch (421) 4, Auto-da-Fé (14962) 4, Conscience of Words (413) 3. 8 of 27 edges begin in Canetti's own books: he is his own most frequent commentator ('his own tribunal'). What travels is the sentence, not the concept: quotations mostly verbatim (drift by cuts in Carey, through French in Malabou); of 15 day-1 coinages only 'double crowd' is used without his name (Girard), and changed. Translation is where the meaning moves (Urteil: opinion / verdict / judgment). Mentions: 343 rows (330 non-own); 9 of the 330 became edges (2.7%); 2 edges from books that never name him; 3246 invisible to the index. Re-read CP 'The Survivor' and Epilogue: the Epilogue's 'double crowds ... East and West' stays spatial, confirming the day-5 difference from Girard. Lexicon: 'onlyness' (credited to Merchant 2017) verified in Neugroschel's Canetti (1979) and, as 'one-and-onlyness', Toffler 1965 via Mattick (997).",
+      "Connection_Kind": [
+        "L",
+        "Genealogy/influence",
+        "Conflict",
+        "Shared figure or motif"
+      ],
+      "Difficulty": 3,
+      "Themes": "citation graph; network; hub; degree; quotation; translation; Urteil; verdict; crowd-crystal; double crowd; survivor; Epilogue; self-commentary; tribunal; uncredited use; null result; onlyness; Toffler; Witkiewicz; Moretti",
+      "Notebook_Prompts": "1. The Epilogue says the survivor must be hunted 'in all his hiding-places'. The week found Canetti's own books to be the densest source of commentary on him. Is an author who explains his own first book acting as survivor of it? Write a page that tests the analogy and then breaks it.\n2. Edge 15: Urteil as opinion, verdict, judgment. Pick a word in your own work that a translator would have to choose between three English nouns for, and write the three sentences. Which would a hostile reader prefer?\n3. The misreading in section 3 predicts that ideas lose their names as they spread. Find one of your own coinages in someone else's text (or imagine it there) and decide what you would count as credit.",
+      "Rabbit_Holes": "https://www.cambridge.org/core/books/elias-canettis-counterimage-of-society/introduction/78B1219FDB1E81DAF70C5362C8CD1EE9\nhttps://lareviewofbooks.org/blog/essays/patience-hand-elias-canettis-crowds-power-current-crisis/\nhttps://newleftreview.org/issues/ii68/articles/franco-moretti-network-theory-plot-analysis\nhttps://litlab.stanford.edu/projects/network-theory-plot-analysis\nhttps://www.nobelprize.org/prizes/literature/1981/canetti/facts/",
+      "Carry_Quote": "“But it was my intention to hunt him out in all his hiding-places and show him for what he is and always has been.” — Elias Canetti, Crowds and Power, Epilogue, ‘The End of the Survivor’ (tr. Carol Stewart)",
+      "Status": "New",
+      "Theme_Links": [
+        "L",
+        1238,
+        1055,
+        1239,
+        1240,
+        666,
+        505,
+        1173,
+        1171,
+        1241,
+        1195,
+        1242,
+        1243,
+        1244,
+        1174,
+        1191,
+        1209,
+        1109,
+        1245,
+        1246,
+        1087
+      ],
+      "Method": 2,
+      "Author_Week": 2,
+      "Week_Day": 7
+    }
   }
 ]

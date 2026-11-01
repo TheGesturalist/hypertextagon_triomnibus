@@ -212,6 +212,7 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “I am here deliberately opposing all the usual concepts of tribe, sib, clan” (The Pack)
 - “I use the same word ‘pack’ for the three other basic formations I have mentioned.” (The Pack)
 - “We must have the courage to stand against it and break its tyranny.” (The Command)
+- 'THE MOMENT OF survival is the moment of power.' ('The Survivor') | 'There is a clear trend towards the formation of enormous double crowds, named after whole quarters of the globe—East and West.' (Epilogue) | 'The survivor is mankind’s worst evil, its curse and perhaps its doom.' (Epilogue) | 'But it was my intention to hunt him out in all his hiding-places and show him for what he is and always has been.' (Epilogue) | 'CROWD CRYSTALS are the small, rigid groups of men, strictly delimited and of great constancy, which serve to precipitate crowds.' ('Crowd Crystals')
 
 ### [[books/3246-kafka-s-other-trial-the-letters-to-felice|Kafka's Other Trial: The Letters to Felice]]
 
@@ -233,6 +234,7 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “Whole constellations dissolved” (p. 26)
 - “flags, music, marching units, which operate as crowd-crystals” (p. 68)
 - “I have called the Dichter the keeper of metamorphoses” (p. 163)
+- 'But the crucial moment is the moment of the sultan’s onlyness, when he gazed from the palace roof across the empty city at night' (p. 24) | 'all these things would tend to show that the urge for this onlyness is something very real, a prime force to be taken seriously' (p. 25)
 
 ### [[books/418-the-play-of-the-eyes|The Play of the Eyes]]
 
@@ -657,6 +659,10 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “Democracy is the mass’s tact.” (p. 118)
 - “The goal is the most intense darkness where the most people are gathered.” (p. 115, as quoted; Stewart: ‘This goal is the blackest spot where most people are gathered.’)
 
+### [[books/997-art-in-its-time-theories-and-practices-of-modern-a|Art in Its Time: Theories and Practices of Modern Aesthetics]]
+
+- 'It is for this reason the broadest of all possible fields within which the individual can express his one-and-onlyness.' (Toffler as quoted, p. 176 n. 3)
+
 ### [[books/4209-remainder|Remainder]]
 
 - “No Doing without Understanding: the accident bequeathed me that for ever, an eternal detour.” (ch. 2)
@@ -939,6 +945,10 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 ### [[books/12076-self-taught-african-american-education-in-slavery|Self-Taught: African American Education in Slavery and Freedom]]
 
 - "What learning dey would get in dem days, dey been get it at night. Taught demselves." (Louisa Gause, ch. 1 epigraph) | "Some slaves copied letters and words whose meanings they could not yet decipher onto fences and in the dirt." (ch. 1) | "Some young man, some woman, or old preacher, in cellar, or shed, or corner of a Negro meeting-house, with the alphabet in hand, or a torn spelling-book, is their teacher." (Alvord, ch. 6) | "Teaching amounted to a political act for African Americans in the emancipation period. And it was an act of courage." (ch. 6) | "But why have a Freedman's Primer any more than a Dutchman's Primer or an Irishman's Primer?" (ch. 7 epigraph) | Excerpt ch. 1 (pit schools) | Appendix: NC 1830–31 'the use of figures excepted'
+
+### [[books/1070-insatiability|Insatiability]]
+
+- 'His Onlyness is absolutely inscrutable.' | 'His Onlyness did not need a name: he was, that sufficed.'
 
 ### [[books/4214-jottings-under-lamplight|Jottings Under Lamplight]]
 

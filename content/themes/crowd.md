@@ -15,6 +15,7 @@ tags:
 - [[books/413-the-conscience-of-words-with-earwitness|The Conscience of Words (with Earwitness)]]
 - [[books/418-the-play-of-the-eyes|The Play of the Eyes]]
 - [[books/907-plasticity-the-promise-of-explosion-catalogued-as|Plasticity: The Promise of Explosion (catalogued as 'Plasticity at the Dusk of Writing')]]
+- [[books/1070-insatiability|Insatiability]]
 - [[books/6002-vampires-a-reasonable-dictionary|Vampires & a Reasonable Dictionary]]
 - [[books/7959-violence-and-the-sacred|Violence and the Sacred]]
 - [[books/14938-crowds-and-power|Crowds and Power]]

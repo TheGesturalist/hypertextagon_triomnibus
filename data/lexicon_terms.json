@@ -3958,5 +3958,84 @@
       "WN_Gloss": "conducted with or marked by hidden aims or methods",
       "WN_Hypernyms": ""
     }
+  },
+  {
+    "id": 135,
+    "fields": {
+      "Term": "gowpen",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Scots: the two hands held together to form a bowl; also the amount they can hold, a double handful, extended to a large quantity (as in \"gowd in gowpens\", wealth untold). As a verb, to scoop up with both hands cupped, especially grain or meal. An obsolete Scots-law sense names a perquisite of handfuls of meal given to a miller's servant under thirlage.",
+      "Etymology": "Early Scots gowpin(g), goup-, gopin(e), from Old Norse gaupn (pl. gaupnir), two hands placed together to form a bowl; cf. Norwegian dialect gaupna, to scoop with the hands. Scots attestation from c.1470 (sense \"double handful\").",
+      "Original_Script": "",
+      "Pronunciation": "/ˈɡʌupən/ (general Scots; Shetland, Orkney and Ulster variants differ)",
+      "Language": "Scots",
+      "Category": 0,
+      "Gravity": 0.02,
+      "Lineages": null,
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 136,
+    "fields": {
+      "Term": "logofascinated",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Strongly attracted to words or vocabulary; held by language as by a spell. A rare neoclassical formation recorded by Word Info, with no coiner or attestation given.",
+      "Etymology": "Greek logos (word, discourse, reason) via the combining form logo- + English fascinated, from Latin fascinare (bewitch, enchant), possibly from fascinum (a charm, spell). English fascinate from the 1590s in the sense \"bewitch,\" esp. by the eye; the weakened sense \"hold the attention with delight\" by 1815.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 0,
+      "Gravity": 0.05,
+      "Lineages": null,
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Not an established dictionary headword; the only lexicographic source located this run is Word Info, which gives no citations. The fascinate root still carries its older sense of being bewitched or transfixed, which separates it from mere interest in words (cf. logophile).",
+      "WN_Status": "Partial",
+      "WN_Synset": "oewn-00869156-s  (head: fascinated)",
+      "WN_Lexname": "adj.all",
+      "WN_Gloss": "having your attention fixated as though by a spell",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 137,
+    "fields": {
+      "Term": "onomastics",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "The study of proper names: their forms, origins, history, formation and use. A branch of lexicology (synonym onomatology), with subfields such as anthroponymy (personal names) and toponymy (place names); its international body is the International Council of Onomastic Sciences (ICOS).",
+      "Etymology": "From onomastic (English 1716; French onomastique) + -s, the noun attested in the 1930s. Ultimately Greek onomastikos (of naming), from onomazein (to name), onoma (name); PIE *h₁nómn̥, also the source of English name.",
+      "Original_Script": "",
+      "Pronunciation": "/ˌɒnəˈmæstɪks/ (UK), /ˌɑːnəˈmæstɪks/ (US)",
+      "Language": "",
+      "Category": 0,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        80,
+        137
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-06188711-n",
+      "WN_Lexname": "noun.cognition",
+      "WN_Gloss": "the branch of lexicology that studies the forms and origins of proper names",
+      "WN_Hypernyms": "lexicology"
+    }
   }
 ]

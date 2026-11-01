@@ -7,15 +7,10 @@ calibre_id: 413
 
 **[[people/elias-canetti|Elias Canetti]], [[people/joachim-neugroschel|Joachim Neugroschel]] (translator)** · 1976 (German); tr. Neugroschel; Picador ed. 1987 · PDF · Calibre ID 413
 
-Resurfaced in [[shadows/2026-10-26-shadow-elias-canetti-day-1-the-only-man|Shadow — Elias Canetti, day 1: The Only Man]] (2026-10-26).
+## Resurfaced across multiple readings
 
-## Role in the reading
-
-Day 1 primary: the author's own work, standing in for Crowds and Power (not yet in the catalogue).
-
-## Why this book
-
-Canetti's Prefatory Remark calls 'Power and Survival' a recapitulation of Crowds and Power and an apt introduction to it; 'Hitler, According to Speer' applies Crowds and Power; the Kraus essays serve day 4. No Canetti title is Gestext-flagged yet.
+- [[shadows/2026-10-26-shadow-elias-canetti-day-1-the-only-man|Shadow — Elias Canetti, day 1: The Only Man]] (2026-10-26): *Day 1 primary: the author's own work, standing in for Crowds and Power (not yet in the catalogue).*
+- [[shadows/2026-11-01-shadow-elias-canetti-day-7-the-map|Shadow — Elias Canetti, day 7: The Map]] (2026-11-01): *Lexicon check: 'onlyness' in 'Power and Survival', pp. 24–25 (tr. Neugroschel, © 1979). Not a primary book.*
 
 ## Quotations
 
@@ -28,7 +23,8 @@ Canetti's Prefatory Remark calls 'Power and Survival' a recapitulation of Crowds
 - “Whole constellations dissolved” (p. 26)
 - “flags, music, marching units, which operate as crowd-crystals” (p. 68)
 - “I have called the Dichter the keeper of metamorphoses” (p. 163)
+- 'But the crucial moment is the moment of the sultan’s onlyness, when he gazed from the palace roof across the empty city at night' (p. 24) | 'all these things would tend to show that the urge for this onlyness is something very real, a prime force to be taken seriously' (p. 25)
 
 ## Themes
 
-[[themes/crowd|crowd]] · [[themes/ibn-battuta|Ibn Battuta]] · [[themes/metamorphosis|metamorphosis]] · [[themes/onlyness|onlyness]] · [[themes/paranoia|paranoia]] · [[themes/schreber|Schreber]] · [[themes/survival|survival]]
+[[themes/crowd|crowd]] · [[themes/ibn-battuta|Ibn Battuta]] · [[themes/metamorphosis|metamorphosis]] · [[themes/onlyness|onlyness]] · [[themes/paranoia|paranoia]] · [[themes/schreber|Schreber]] · [[themes/survival|survival]] · [[themes/uniqueness|uniqueness]]

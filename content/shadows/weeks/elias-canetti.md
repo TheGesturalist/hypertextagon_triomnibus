@@ -5,7 +5,7 @@ tags:
   - shadow
 ---
 
-*Volume 2: An Author and Their Shadow · Week 1 · Status: In progress · Started 2026-10-26 · 343 Scribrarium volumes mention Elias Canetti.*
+*Volume 2: An Author and Their Shadow · Week 1 · Status: Complete · Started 2026-10-26 · 343 Scribrarium volumes mention Elias Canetti.*
 
 Subject page: [[people/elias-canetti|Elias Canetti]].
 
@@ -17,6 +17,7 @@ Subject page: [[people/elias-canetti|Elias Canetti]].
 - **Day 4** (2026-10-29) — [[shadows/2026-10-29-shadow-elias-canetti-day-4-the-tribunal-in-transla|Shadow — Elias Canetti, day 4: The Tribunal in Translation]]
 - **Day 5** (2026-10-30) — [[shadows/2026-10-30-shadow-elias-canetti-day-5-the-double-crowd|Shadow — Elias Canetti, day 5: The Double Crowd]]
 - **Day 6** (2026-10-31) — [[shadows/2026-10-31-shadow-elias-canetti-day-6-the-crowd-is-cheated|Shadow — Elias Canetti, day 6: The Crowd Is Cheated]]
+- **Day 7** (2026-11-01) — [[shadows/2026-11-01-shadow-elias-canetti-day-7-the-map|Shadow — Elias Canetti, day 7: The Map]]
 
 ## Citation & argument map (`Shadow_Edges`)
 
@@ -49,3 +50,9 @@ Subject page: [[people/elias-canetti|Elias Canetti]].
 | [[books/413-the-conscience-of-words-with-earwitness|The Conscience of Words]] | Elias Canetti | **Edits/introduces** | Elias Canetti | 'The First Book: Auto-da-Fé', pp. 124–34 ('ina' is the OCR reading) |
 | [[books/418-the-play-of-the-eyes|The Play of the Eyes]] | Elias Canetti | **Edits/introduces** | Elias Canetti | 'Büchner in the Desert'; also 'The “Black Statue”' |
 | [[books/3312-a-companion-to-the-works-of-elias-canetti|A Companion to the Works of Elias Canetti]] | Dagmar C. G. Lorenz (ed.); Hans Reiss | **Mentions** | Elias Canetti | front matter, 'Principal Works by Year of First Publication'; Reiss, 'Canetti’s Attitude to Writers and Writings', p. 83 |
+
+## Closing essay
+
+Week complete 2026-11-01 (7 days, 7 sets: Sets 33–39). Shadow_Edges 1–27 from 15 citing books (4 Canetti's own): Quotes 12, Argues with 5, Edits/introduces 4, Uses without credit (suspected) 2, Mentions 2, Translates 1, Rewrites 1. Hub: Crowds and Power (14938), 9 arrows in; Torch (421) and Auto-da-Fé (14962) 4 each; Conscience of Words (413) 3. Mentions: 343 rows (330 non-own); 9 of the 330 became edges (2.7%); 13 rows Promoted; 2 edges (Girard 8264, Abbott 6002) from books that never name Canetti; Kafka's Other Trial (3246) has no text layer and is invisible to the index.
+
+Findings: (1) The sentence travels, the concept does not: quotations mostly verbatim (drift by cuts in Carey, through French in Malabou); of 15 day-1 coinages only 'double crowd' appears without his name (Girard, Job), and Girard changes it from two crowds in space to one crowd in time; CP's Epilogue ('double crowds ... East and West') confirms Canetti's sense stays spatial. (2) The arguments (Carey: incoherent ambivalence; Malabou: the most organised mass) are about coherence, and Auto-da-Fé already splits the ambivalence between brothers and shows a crowd cheated of its victim, nearer Girard than the 1960 theory. No critic in the library argues with the novel. (3) Translation is where meaning moves: Urteil as opinion (Kresh) / verdict (Middleton) / judgment (Corngold); Malabou via French; Auto-da-Fé's EPUB omits Wedgwood. (4) Canetti is his own most frequent commentator: 8 of 27 edges begin in his books ('his own tribunal'). Limits: 321 of 330 non-own mentioning books produced no edge; FTS timeouts on days 1, 2, 5 make the uncredited-use search incomplete. Graph and essay: resurfacing-2026-11-01.pdf. Next by the queue: Kathy Acker (row 1, Queue 5, the only Planned row); nothing added.

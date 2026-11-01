@@ -221,4 +221,4 @@ Tomorrow this becomes the graph.
 ---
 
 Previous: [[shadows/2026-10-30-shadow-elias-canetti-day-5-the-double-crowd|Shadow — Elias Canetti, day 5: The Double Crowd]]  
-Next: —
+Next: [[shadows/2026-11-01-shadow-elias-canetti-day-7-the-map|Shadow — Elias Canetti, day 7: The Map]]

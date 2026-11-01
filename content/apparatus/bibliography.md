@@ -4,7 +4,7 @@ tags:
   - apparatus
 ---
 
-All 116 distinct books resurfaced across 38 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
+All 118 distinct books resurfaced across 39 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
 
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/vincenzo-binetti|Vincenzo Binetti]] (translator), [[people/cesare-casarino|Cesare Casarino]] (translator). *[[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]*. 1992 (essay); Eng. 2000. Calibre ID 13685.
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/adam-kotsko|Adam Kotsko]] (translator). *[[books/306-the-omnibus-homo-sacer-the-sacrament-of-language-a|The Omnibus Homo Sacer ('The Sacrament of Language: An Archaeology of the Oath')]]*. 2008. Calibre ID 306.
@@ -83,6 +83,7 @@ All 116 distinct books resurfaced across 38 daily readings, alphabetical by firs
 - [[people/dagmar-c-g-lorenz|Dagmar C. G. Lorenz]] (editor). *[[books/3312-a-companion-to-the-works-of-elias-canetti|A Companion to the Works of Elias Canetti]]*. 2004. Calibre ID 3312.
 - [[people/dale-maharidge|Dale Maharidge]], [[people/michael-williamson|Michael Williamson]] (contributor). *[[books/10207-and-their-children-after-them|And Their Children After Them]]*. 1989 (30th-anniversary ed. 2019). Calibre ID 10207.
 - [[people/catherine-malabou|Catherine Malabou]], [[people/tyler-m-williams|Tyler M. Williams]] (editor), [[people/dashiell-wasserman|Dashiell Wasserman]] (translator). *[[books/907-plasticity-the-promise-of-explosion-catalogued-as|Plasticity: The Promise of Explosion (catalogued as 'Plasticity at the Dusk of Writing')]]*. 2022 (ch. 8 delivered Cerisy 2002; French 2004). Calibre ID 907.
+- [[people/paul-mattick|Paul Mattick]]. *[[books/997-art-in-its-time-theories-and-practices-of-modern-a|Art in Its Time: Theories and Practices of Modern Aesthetics]]*. 2003. Calibre ID 997.
 - [[people/tom-mccarthy|Tom McCarthy]]. *[[books/4209-remainder|Remainder]]*. 2005 (Metronome Press); Vintage ed. 2007. Calibre ID 4209.
 - [[people/henri-michaux|Henri Michaux]], [[people/richard-sieburth|Richard Sieburth]] (translator). *[[books/5489-a-certain-plume|A Certain Plume]]*. 1930. Calibre ID 5489.
 - [[people/joseph-mitchell|Joseph Mitchell]]. *[[books/4670-up-in-the-old-hotel|Up in the Old Hotel]]*. 1992 (collection; pieces 1938–1964). Calibre ID 4670.
@@ -117,6 +118,7 @@ All 116 distinct books resurfaced across 38 daily readings, alphabetical by firs
 - [[people/graham-wallas|Graham Wallas]]. *[[books/13262-the-art-of-thought|The Art of Thought]]*. 1926. Calibre ID 13262.
 - [[people/simone-weil|Simone Weil]], [[people/gustave-thibon|Gustave Thibon]] (editor), [[people/emma-crawford|Emma Crawford]] (translator), [[people/mario-von-der-ruhr|Mario von der Ruhr]] (translator). *[[books/995-gravity-and-grace|Gravity and Grace]]*. 1947. Calibre ID 995.
 - [[people/heather-andrea-williams|Heather Andrea Williams]]. *[[books/12076-self-taught-african-american-education-in-slavery|Self-Taught: African American Education in Slavery and Freedom]]*. 2005. Calibre ID 12076.
+- [[people/stanislaw-ignacy-witkiewicz|Stanislaw Ignacy Witkiewicz]]. *[[books/1070-insatiability|Insatiability]]*. 1930 (tr. Iribarne 1977, rev. 1996). Calibre ID 1070.
 - [[people/lu-xun|Lu Xun]], [[people/eileen-j-cheng|Eileen J. Cheng]] (editor), [[people/kirk-a-denton|Kirk A. Denton]] (editor). *[[books/4214-jottings-under-lamplight|Jottings Under Lamplight]]*. 1918–1936 (essays); 2017 (this edition). Calibre ID 4214.
 - [[people/carla-yanni|Carla Yanni]]. *[[books/9911-the-architecture-of-madness-insane-asylums-in-the|The Architecture of Madness: Insane Asylums in the United States]]*. 2007. Calibre ID 9911.
 - [[people/araki-yasusada|Araki Yasusada]], [[people/kent-johnson|Kent Johnson]] (contributor), [[people/tosa-motokiyu|Tosa Motokiyu]] (translator), [[people/ojiu-norinaga|Ojiu Norinaga]] (translator), [[people/okura-kyojin|Okura Kyojin]] (translator). *[[books/11327-doubled-flowering-from-the-notebooks-of-araki-yasu|Doubled Flowering: From the Notebooks of Araki Yasusada]]*. 1997. Calibre ID 11327.
