@@ -50,6 +50,7 @@ Subject page: [[people/elias-canetti|Elias Canetti]].
 | [[books/413-the-conscience-of-words-with-earwitness|The Conscience of Words]] | Elias Canetti | **Edits/introduces** | Elias Canetti | 'The First Book: Auto-da-Fé', pp. 124–34 ('ina' is the OCR reading) |
 | [[books/418-the-play-of-the-eyes|The Play of the Eyes]] | Elias Canetti | **Edits/introduces** | Elias Canetti | 'Büchner in the Desert'; also 'The “Black Statue”' |
 | [[books/3312-a-companion-to-the-works-of-elias-canetti|A Companion to the Works of Elias Canetti]] | Dagmar C. G. Lorenz (ed.); Hans Reiss | **Mentions** | Elias Canetti | front matter, 'Principal Works by Year of First Publication'; Reiss, 'Canetti’s Attitude to Writers and Writings', p. 83 |
+| [[books/306-the-omnibus-homo-sacer-the-sacrament-of-language-a|The Omnibus Homo Sacer (Remnants of Auschwitz)]] | Giorgio Agamben | **Argues with** | Elias Canetti | Remnants of Auschwitz, ch. 2 (Omnibus PDF, printed p. 795) |
 
 ## Closing essay
 

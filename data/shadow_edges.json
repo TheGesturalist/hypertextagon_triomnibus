@@ -403,5 +403,125 @@
       "Evidence": "TARGET = Auto-da-Fé (14962), whose EPUB names no translator ('English translation copyright © 1947 by Elias Canetti'; LC data 'Originally published: New York: Continuum 1947'). Companion's 'Stein and Day, 1946' is an error: Stein and Day was founded 1962 (Wikipedia); first English edition Jonathan Cape 1946, US as The Tower of Babel, Knopf 1947 (Wikipedia). Reiss p. 83: Canetti 'found warm words for Veronica Wedgwood ... (PA, 121–23), who translated Die Blendung'. Quote whitespace-normalised from PDF line breaks.",
       "Verified": true
     }
+  },
+  {
+    "id": 28,
+    "fields": {
+      "Week": 2,
+      "Set": 39,
+      "Citing_Calibre_ID": 306,
+      "Citing_Title": "The Omnibus Homo Sacer (Remnants of Auschwitz)",
+      "Citing_Author": "Giorgio Agamben",
+      "Relation": "Argues with",
+      "Quote": "As Elias Canetti has noted, a heap of dead bodies is an ancient spectacle, one which has often satisfied the powerful. But the sight of Muselmänner is an absolutely new phenomenon, unbearable to human eyes.",
+      "Location": "Remnants of Auschwitz, ch. 2 (Omnibus PDF, printed p. 795)",
+      "Evidence": "TARGET = Crowds and Power (14938), 'The Survivor' ('THE MOMENT OF survival is the moment of power') and the survivor's satisfaction before the heap of the dead. Agamben accepts Canetti's figure and names what it cannot cover: the Muselmann, who cannot be stood over or watched. Found 2026-11-01 while compiling the week's book (Afterword, §1), not by the day-3 search; Mentions row 14 (Canetti 2, Elias Canetti 1). Counterpart in Canetti's own work: 'Dr Hachiya's Diary of Hiroshima' (413, p. 111): 'One does not have the feeling that, for him, the dead melt into a crowd, in which no individual counts anymore. He thinks of them as persons.' Quote substring-checked against pdftotext of 306.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 29,
+    "fields": {
+      "Week": 1,
+      "Set": 40,
+      "Citing_Calibre_ID": 1178,
+      "Citing_Title": "Great Expectations",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Rewrites",
+      "Quote": "My father’s name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Peter. So I called myself Peter, and came to be called Peter.",
+      "Location": "Part One, 'I Recall My Childhood' (opening); 'I Journey To Receive My Fortune' (opening)",
+      "Evidence": "Day-1 edge, direction outward: TARGET = Dickens, Great Expectations, in Complete Works (8747). Ch. I: 'MY FATHER’S FAMILY name being Pirrip ... than Pip. So, I called myself Pip' ('family' and comma cut, Pip→Peter). End of ch. XIX ('This is the end of the first stage of Pip’s expectations.') → 'Thus ends the first segment of my life. I am a person of GREAT EXPECTATIONS.' Ch. XX card 'just out of Smithfield, and close by the coach-office.' → 'just outside Alexandria, and close by the taxi stand.' All substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 30,
+    "fields": {
+      "Week": 1,
+      "Set": 40,
+      "Citing_Calibre_ID": 1178,
+      "Citing_Title": "Great Expectations",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Rewrites",
+      "Quote": "“I’m always alone. Worse luck for me, deary, and better for you,” a croak replies.",
+      "Location": "Part One, 'The Underworlds Of The World' (opening); 'I Journey To Receive My Fortune' (Rosa, O, Mr. Sadat)",
+      "Evidence": "TARGET = Dickens, The Mystery of Edwin Drood (8747), ch. XXIII 'The Dawn Again': '‘Alone, deary; worse luck for me, and better for you,’ replies a croaking voice.' Ch. I: '‘Visions of many butchers’ shops, and public-houses, and much credit?' → 'Visions of more butcher shops and bars and MasterCharge cards?' Rosa Bud, the Nuns' House; Helena Landless → O; Jasper → Mr. Anwar Sadat.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 31,
+    "fields": {
+      "Week": 1,
+      "Set": 40,
+      "Citing_Calibre_ID": 1178,
+      "Citing_Title": "Great Expectations",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Rewrites",
+      "Quote": "Red everywhere. Red up the river, where it flows among the green pines and old mining camps",
+      "Location": "Part Two, 'Night' ('Portrait In Red')",
+      "Evidence": "TARGET = Dickens, Bleak House (8747), ch. I: 'Fog everywhere. Fog up the river, where it flows among green aits and meadows'; London becomes Seattle.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 32,
+    "fields": {
+      "Week": 1,
+      "Set": 40,
+      "Citing_Calibre_ID": 1178,
+      "Citing_Title": "Great Expectations",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Rewrites",
+      "Quote": "The helmeted bowlegged stiff-muscled soldiers trample on just-born babies swaddled in scarlet violet shawls",
+      "Location": "Part One, 'I Recall My Childhood' (spliced passages)",
+      "Evidence": "TARGET = Guyotat, Eden Eden Eden (4776, tr. Graham Fox, Creation 1995): 'Soldiers, helmets cocked down, legs spread, trampling, muscles drawn back, over new-born babes swaddled in scarlet, violet shawls'. Acker (1982) predates Fox's English; her wording is a different translation (hers or another not in the library). RIMA platoon named in both.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 33,
+    "fields": {
+      "Week": 1,
+      "Set": 40,
+      "Citing_Calibre_ID": 1178,
+      "Citing_Title": "Great Expectations",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Rewrites",
+      "Quote": "I shall die at sixty before having formed any opinion concerning myself.",
+      "Location": "Part One, 'I Journey To Receive My Fortune'",
+      "Evidence": "TARGET = The Letters of Gustave Flaubert, tr. Steegmuller (5751), under 'To his mother, Cairo, January 5, 1850': 'and I shall die at eighty before having formed any opinion concerning myself'; also 'I live like a plant, suffusing myself with sun and light, with colors and fresh air' → 'I live like a plant filling myself with sun and light with colors and fresh air'. Other Egypt notes in the chapter (dogs on the donkey, Greek women's veils) not located in 5751 today.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 34,
+    "fields": {
+      "Week": 1,
+      "Set": 40,
+      "Citing_Calibre_ID": 1178,
+      "Citing_Title": "Great Expectations",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Rewrites",
+      "Quote": "“I’m happy,” Renée explained to me, “but the sexual ecstasy is so great, I’m going to be physically sick.”",
+      "Location": "Part Three, 'Inside'",
+      "Evidence": "TARGET = Colette, The Pure and the Impure (3267), PDF p. 117: '\"Tell me, Renee. Are you happy?\" / Renee blushed, smiled, then abruptly stiffened. / \"Why, of course, my dear Colette. Why would you want me to be unhappy?\" / \"I didn't say I wanted it,\" I retorted.' Acker keeps these four lines verbatim and adds Renée's answer. 'three brown tapers dripped waxen tears' and 'admirable quickness' passages also from Colette.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 35,
+    "fields": {
+      "Week": 1,
+      "Set": 40,
+      "Citing_Calibre_ID": 1178,
+      "Citing_Title": "Great Expectations",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Quotes",
+      "Quote": "Numb were the beadman’s fingers, while he told",
+      "Location": "Part Two, 'Day' (stanza 1 set as verse; later stanzas on Porphyro and Madeline)",
+      "Evidence": "TARGET = Keats, 'The Eve of St. Agnes', Complete Works (8742): 'Numb were the Beadsman’s fingers, while he told'. Drift: Beadsman→beadman, limp’d→limped, Seem’d→Seemed, without→with out. Uncredited in the book.",
+      "Verified": true
+    }
   }
 ]

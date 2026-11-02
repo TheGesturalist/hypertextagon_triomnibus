@@ -1941,5 +1941,51 @@
       "Author_Week": 2,
       "Week_Day": 7
     }
+  },
+  {
+    "id": 40,
+    "fields": {
+      "Date": 1793577600,
+      "Set_Title": "Shadow — Kathy Acker, day 1: The Card Says Alexandria",
+      "Thread": "Day 1 (the author). Great Expectations (1178, 1982) read from its EPUB; seven sources checked against texts in Scribrarium: Dickens's Great Expectations (opening sentence: 'family' cut, Pip → Peter; end of ch. XIX; Jaggers's card 'just out of Smithfield' → 'just outside Alexandria'), Edwin Drood (opium den, Rosa Bud; 'much credit' → 'MasterCharge cards') and Bleak House (fog → 'Red everywhere') in 8747; Guyotat, Eden Eden Eden (4776; Acker 1982 predates Fox's 1995 English); Flaubert's letters (5751: 'die at eighty' → 'die at sixty'); Keats, Eve of St. Agnes st. 1 (8742); Colette, The Pure and the Impure (3267, p. 117: dialogue verbatim, Renée given a new answer). Not checkable here: Story of O, Proust's Time Regained (sentence printed twice, names swapped), Propertius, Jonson, Melville's Redburn, Princesse de Clèves. Finding: she changes the smallest unit (one word, name, number, answer) and leaves the rest standing, so the change is the signature. Edges run outward (6 Rewrites, 1 Quotes). Mentions: 263 books (245 exact 'Kathy Acker' + 18 by surname, hand-checked); plugin search timed out, captured by read-only substring scan of full-text-search.db.",
+      "Connection_Kind": [
+        "L",
+        "Genealogy/influence",
+        "Shared form or method"
+      ],
+      "Difficulty": 2,
+      "Themes": "plagiarism; appropriation; rewriting; Dickens; Great Expectations; Edwin Drood; Bleak House; Guyotat; Flaubert; Keats; Colette; Proust; Story of O; Propertius; substitution; splicing; inheritance; mother; credit; bastard; attribution",
+      "Notebook_Prompts": "1. Acker changes eighty to sixty in Flaubert's sentence. Take a sentence you admire and change one number in it so that it becomes about you. Does the change make it yours, or only make it wrong?\n2. The Proust passage is printed twice, names changed, with nothing between. Write a paragraph of your own and then its double with different proper names. Where does the meaning go when only the names move?\n3. 'One text must subvert (the meaning of) another text until there's only background music.' Goal, or a description of what happens to any commonplace book kept long enough? Test it against your own Lexicon.",
+      "Rabbit_Holes": "https://www.gutenberg.org/ebooks/1400\nhttps://gutenberg.org/ebooks/564\nhttps://ojs.unica.it/index.php/between/article/view/380\nhttps://www.lrb.co.uk/v28/n24/gary-indiana/ackerville\nhttps://archives.lib.duke.edu/catalog/acker\nhttps://groveatlantic.com/book/great-expectations/",
+      "Carry_Quote": "“It’s a common belief that something exists when it’s part of a narrative.” — Kathy Acker, Great Expectations, Part Two, ‘Day’",
+      "Status": "New",
+      "Theme_Links": [
+        "L",
+        1192,
+        1251,
+        110,
+        1252,
+        1253,
+        1254,
+        1255,
+        1256,
+        1257,
+        901,
+        1258,
+        1259,
+        1260,
+        1261,
+        1218,
+        1262,
+        943,
+        1263,
+        1264,
+        1265,
+        252
+      ],
+      "Method": 2,
+      "Author_Week": 1,
+      "Week_Day": 1
+    }
   }
 ]

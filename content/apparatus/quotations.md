@@ -6,6 +6,10 @@ tags:
 
 Every quotation recorded for a book, grouped by book. Each was checked against the book's own text on the day it was used.
 
+### [[books/1178-great-expectations|Great Expectations]]
+
+- 'My father’s name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Peter.' | 'just outside Alexandria, and close by the taxi stand.' | 'I shall die at sixty before having formed any opinion concerning myself.' | 'that’s why one text must subvert (the meaning of) another text until there’s only background music like reggae' | 'It’s a common belief that something exists when it’s part of a narrative.'
+
 ### [[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]
 
 - “By the end of the nineteenth century, the Western bourgeoisie had definitely lost its gestures.” (p. 49)
@@ -317,6 +321,10 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “The break occurs midgesture” (ch. 5, p. 161)
 - “The chapter is a pause on a step or landing, a continuing motion or gesture caught midway, the awkwardness of stopping somewhere one is meant to keep traversing.” (ch. 5, p. 163)
 - “Our comprehension of time is continually and inescapably punctuated and divided, not only in retrospect but in the very moments of its formation.” (Post Chapter, p. 290)
+
+### [[books/8747-complete-works-of-charles-dickens-illustrated|Complete Works of Charles Dickens (Illustrated)]]
+
+- 'just out of Smithfield, and close by the coach-office.' | 'This is the end of the first stage of Pip’s expectations.' | '‘Alone, deary; worse luck for me, and better for you,’ replies a croaking voice.'
 
 ### [[books/580-mornings-like-this|Mornings Like This]]
 

@@ -191,7 +191,7 @@
       "Query": "\"Elias Canetti\"",
       "Own_Work": false,
       "Captured_On": 1792972800,
-      "Promoted": false,
+      "Promoted": true,
       "Note": "counts: Canetti 2, Elias Canetti 1 (PDF)"
     }
   },
@@ -4799,6 +4799,3688 @@
       "Captured_On": 1793059200,
       "Promoted": false,
       "Note": "duplicate of 417"
+    }
+  },
+  {
+    "id": 344,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8,
+      "Title": "Garner's Quotations: A Modern Miscellany",
+      "Snippet": "… we keep on fucking, I’m not gonna die. — Kathy Acker, Eurydice in the Underworld You don’t even really give …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 345,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10,
+      "Title": "Allen's Dictionary of English Phrases",
+      "Snippet": "… Blood and Guts in High School, by American writer Kathy Acker. Late 20th cent. The Times 1985 I’m a blood …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 346,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 92,
+      "Title": "Fanged Noumena: Collected Writings 1987-2007",
+      "Snippet": "… repetition as a power, not symmetry as a form’.80 Kathy Acker replays Neuromancer snatches in Empire of the Senseless, plexing …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x7"
+    }
+  },
+  {
+    "id": 347,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 123,
+      "Title": "Poetics Journal Digital Archive",
+      "Snippet": "… Public Giving Contents How to Use This Archive xv Kathy Acker 1 Ugly 3 Pierre Alferi, Seeking a Sentence 10 …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x18; 'Acker' x79"
+    }
+  },
+  {
+    "id": 348,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 136,
+      "Title": "Experimental Fiction: An Introduction for Readers and Writers",
+      "Snippet": "… the body and sexuality in their work, and how? Kathy Acker, an American, bisexual, experimental novelist and cult figure of …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x4"
+    }
+  },
+  {
+    "id": 349,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 143,
+      "Title": "Bomb: The Author Interviews",
+      "Snippet": "… Introduction by Francine Prose Chris Abani and Colm Tóibín Kathy Acker and Mark Magill Martin Amis and Patrick McGrath Roberto …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 350,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 177,
+      "Title": "A Philosophical Autofiction: Dolor's Youth",
+      "Snippet": "… bloodlust, worked up like that weird sister, performance novelist Kathy Acker’s self-puncturing fiction in which the identities of self and …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 351,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 199,
+      "Title": "Deleuze and the Schizoanalysis of Literature",
+      "Snippet": "… the Deleuzian, or Deleuze and Guattari’s, project. These include Kathy Acker, with her Empire of the Senseless (1988), David Foster …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 352,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 257,
+      "Title": "NYRB Fall 2024 Catalog",
+      "Snippet": "… Homicidal Lesbian Terrorist, and has illustrated books such as Kathy Acker’s Pussycat Fever, Kate Bornstein’s My Gender Workbook, and Anne …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 353,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 271,
+      "Title": "Between Cannon and Corpus: Six Perspectives on 20th Century Novels",
+      "Snippet": "… Delicious Thomas Wolfe Theodore Dreiser Ted Mooney Steve Erickson Kathy Acker Samuel R. Delany An American Tragedy Easy Travels To …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 354,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 464,
+      "Title": "A Derrida Dictionary",
+      "Snippet": "… in Cain’s Book (1960), that bible of junkies and Kathy Acker-lytes 28 dissemination everywhere: ‘I always ﬁnd it difﬁcult to …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 355,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 542,
+      "Title": "The Oxford Handbook of Rhetorical Studies",
+      "Snippet": "… écriture féminine of Hélène Cixous; and the autoplagiarisms of Kathy Acker that juxtapose materials from her own life with swatches …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x3"
+    }
+  },
+  {
+    "id": 356,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 561,
+      "Title": "Dictionary of Literary Utopias",
+      "Snippet": "… Roda] EMPIRE OF THE SENSELESS EMPIRE OF THENAIRS (THE) Kathy Acker (1948-, USA) James Henry Lawrence (1773-1840, GB) Dates: The …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x5"
+    }
+  },
+  {
+    "id": 357,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 566,
+      "Title": "The Encyclopedia of Literary and Cultural Theory, 3 Volume Set",
+      "Snippet": "… Nietzsche, Benjamin, Heidegger, Derrida, and Freud – and also Kathy Acker and George Bush – have lead to compelling texts …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 358,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 579,
+      "Title": "Postmodernism, Twenty-First Century Culture, and American Fiction: Establishing the Continuum",
+      "Snippet": "… inability to escape a claustrophobic capitalist framework found in Kathy Acker’s Empire of the Senseless (1988), Bret Easton Ellis’ American …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x18; 'Acker' x97"
+    }
+  },
+  {
+    "id": 359,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 708,
+      "Title": "The Routledge Companion to Experimental Literature",
+      "Snippet": "… mainstream. She suggests that contemporary feminist experimentalists, such as Kathy Acker, Bharati Mukherjee and The Guerilla Girls, have been driven …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x11; 'Acker' x28"
+    }
+  },
+  {
+    "id": 360,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 740,
+      "Title": "On Literary Worlds",
+      "Snippet": "… e-mail Jos suggests Oscar Wilde, Christina Rossetti, Jacques Derrida, Kathy Acker, John Ashbery. I wonder also if this mode might …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x4"
+    }
+  },
+  {
+    "id": 361,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 780,
+      "Title": "Neo-Aesthetic Theory",
+      "Snippet": "… theorist of culture Victor Burgin,41 to novelist and essayist Kathy Acker.42 The extent of the crisis of philosophy was also …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x4; 'Acker' x5"
+    }
+  },
+  {
+    "id": 362,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 819,
+      "Title": "The Beach Beneath the Street: The Everyday Life and Glorious Times of the Situationist International",
+      "Snippet": "… 1997: the sea, p. 6; alluvial sensations, p. 33. Kathy Acker’s détournement of it is in Amy Scholder (ed.), Essential …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 363,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 847,
+      "Title": "The Paul Virilio Reader",
+      "Snippet": "… British author Don Watson has testified that 'post-punk' writer Kathy Acker (herself published, subsequently, by Semiotext(e)) relied in the 1980s …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 364,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 948,
+      "Title": "Character: Three Inquiries in Literary Studies",
+      "Snippet": "… stylized, ironic, or rebarbative fiction, whether by Kafka or Kathy Acker— have abolished or done away with identification might give …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 365,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 988,
+      "Title": "Desert Islands and Other Texts (1953-1974)",
+      "Snippet": "… Aliens & Anorexia Chris Kraus Hannibal Lecter, My Father Kathy Acker How I Became One of the Invisible David Rattray …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 366,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 991,
+      "Title": "Between C and D: New Writing From the Lower East Side Fiction Magazine",
+      "Snippet": "… first appeared in issues of Between C&D. \"Male\" by Kathy Acker. Reprinted by permission of Curtis Brown Associates Ltd. Copyright …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x11; 'Acker' x11"
+    }
+  },
+  {
+    "id": 367,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 1080,
+      "Title": "Between Thought and Expression Lies a Lifetime: Why Ideas Matter",
+      "Snippet": "… performing their work in public—such names as Wally Serote, Kathy Acker, Alasdair Gray, Tom Raworth, Sorley Maclean, Linton Kwesi Johnson, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 368,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 1176,
+      "Title": "Literal Madness: 3 Novels: Kathy Goes to Haiti, My Death My Life by Pier Paolo Pasolini, and Florida",
+      "Snippet": "… PRESS New York Copyright © 1978, 1984, 1987 by Kathy Acker All rights reserved. No part of this book may …",
+      "Query": "scan:exact",
+      "Own_Work": true,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x3; own work"
+    }
+  },
+  {
+    "id": 369,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 1177,
+      "Title": "Portrait of an Eye: Three Novels",
+      "Snippet": "… Dreamt I Was A Nymphomaniac © 1974, 1980 by Kathy Acker The Adult Life of Toulouse Lautrec © 1975 by …",
+      "Query": "scan:exact",
+      "Own_Work": true,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x6; 'Acker' x9; own work"
+    }
+  },
+  {
+    "id": 370,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 1178,
+      "Title": "Great Expectations",
+      "Snippet": "… Kathy Acker GREAT EXPECTATIONS Table of Contents 1. Plagiarism 2. The …",
+      "Query": "scan:exact",
+      "Own_Work": true,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x3; own work"
+    }
+  },
+  {
+    "id": 371,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 1277,
+      "Title": "Wiki-Wiki: Wikipedia's Postmodern Entries [Thu, 13 Feb 2025]",
+      "Snippet": "… Kurt Vonnegut, Thomas Pynchon, William Gaddis, Philip K. Dick, Kathy Acker, and John Barth. Postmodernists often challenge authorities, which has …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x5"
+    }
+  },
+  {
+    "id": 372,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 1874,
+      "Title": "The Edinburgh Companion to the Prose Poem",
+      "Snippet": "… genre-benders by the likes of Theresa Hak Kyung Cha, Kathy Acker, D. J. Waldie and Laura Mullen), and the relevance …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x34"
+    }
+  },
+  {
+    "id": 373,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 1886,
+      "Title": "Foucault Live: Interviews, 1961-84",
+      "Snippet": "… POOL PAINTED BUCK Cookie Mueler HANNIBAL LEGER, MY FATHER Kathy Acker HOW I BECAME ONE OF THE INVISIBLE David Rattray …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 374,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 1914,
+      "Title": "The Unmapped Country",
+      "Snippet": "… the women avant-gardists of the 1980s and 90s like Kathy Acker and Chris Kraus. And there’s something distinctly Quin-like about …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 375,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2024,
+      "Title": "Marks of Identity",
+      "Snippet": "… With thanks to Kathy Acker, Mark Ainley, Martín Chalmers, Bob Lumley, Enrico Palandri, Kate …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 376,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2056,
+      "Title": "The American Prose Poem: Poetic Form and the Boundaries of Genre",
+      "Snippet": "… The New Prose Poem Does language control like money? Kathy Acker, Empire of the Senseless In an essay that appeared …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 377,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2119,
+      "Title": "Stories, Theories and Things",
+      "Snippet": "… as she has written herself from Gertrude Stein to Kathy Acker. (Friedman & Fuchs, Introduction, 42) True. There remains, however, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x4"
+    }
+  },
+  {
+    "id": 378,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2270,
+      "Title": "Re: Quin",
+      "Snippet": "… Reaction. New York: Marsilio Publishers, 1996. Wheeler, Kathleen. “Reading Kathy Acker.” Context 9 (2001), 5–6. Willmott, R. D. A Bibliography …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 379,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2324,
+      "Title": "Routledge Encyclopedia of Narrative Theory",
+      "Snippet": "… Russian-born Vladimir Nabokov, John Barth, Thomas Pynchon, Robert Coover, Kathy Acker, and Toni Morrison. In Europe (and the post-colonial Englishspeaking …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x7"
+    }
+  },
+  {
+    "id": 380,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2337,
+      "Title": "A Guide to Poetics Journal: Writing in the Expanded Field, 1982–1998",
+      "Snippet": "… I: PRACTICES OF POETICS 169 Part II: Numbers 5–7 Kathy Acker, Ugly 177 Bruce Andrews, Total Equals What: Poetics and …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x35; 'Acker' x62"
+    }
+  },
+  {
+    "id": 381,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2552,
+      "Title": "Encyclopedia of Twentieth-Century Photography",
+      "Snippet": "… rewriting of Henry James’s Turn of the Screw, and Kathy Acker’s rewriting of Charles Dickens’s Great Expectations. In most cases, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 382,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2582,
+      "Title": "Unoriginal Genius: Poetry by Other Means in the New Century",
+      "Snippet": "… of insurance texts in Stanzas for Iris Lezak, or Kathy Acker’s appropriation of the work of Harold Robbins in the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 383,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2625,
+      "Title": "The Literature of Exclusion: Dada, Data, and the Threshold of Electronic Literature",
+      "Snippet": "… his predecessors; however, while Tzara, Burroughs, Gysin, Stewart Home, Kathy Acker, Kenji Siratori, and Lee Kwo are interested in linguistic …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 384,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2636,
+      "Title": "The Many Voices of Lydia Davis: Translation, Rewriting, Intertextuality",
+      "Snippet": "… 7, is also reminiscent of postmodernist writers such as Kathy Acker and William Burroughs. I argue in that chapter that …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x4"
+    }
+  },
+  {
+    "id": 385,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2827,
+      "Title": "Encyclopedia of Beat Literature",
+      "Snippet": "… Directions, 1965. Maria Damon Acker, Kathy (1947–1997) Postmodern writer Kathy Acker once referred to the Beats as “the first breath …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x13; 'Acker' x77"
+    }
+  },
+  {
+    "id": 386,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2828,
+      "Title": "A Concise Companion to Twentieth-Century American Poetry",
+      "Snippet": "… millénium, looser concept of queerness might include writers like Kathy Acker, Dodie Bellamy, David Rattray, Alden Van Buskirk, Bob Kaufman, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 387,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2832,
+      "Title": "The Facts on File Companion to the American Novel",
+      "Snippet": "… Columbia: University of Missouri Press, 1989. ACKER, KATHY (1948–1997) Kathy Acker, an iconic figure in the punk movement of the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x9; 'Acker' x67"
+    }
+  },
+  {
+    "id": 388,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2867,
+      "Title": "Complaint: Grievance Among Friends",
+      "Snippet": "… of urgency I succumbed, including Derrida, Nancy, Dennis Cooper, Kathy Acker, Edouard Glissant, James Baldwin, a host of filmmakers, psychoanalysts, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x6; 'Acker' x10"
+    }
+  },
+  {
+    "id": 389,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2871,
+      "Title": "Loser Sons: Politics and Authority",
+      "Snippet": "… Dennis Cooper’s work to Daddy, to Daddy’s appeal in Kathy Acker’s Oedipalizations, to Hélène Cixous’s counterphobic laugh of the Medusa, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x3"
+    }
+  },
+  {
+    "id": 390,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2873,
+      "Title": "The UberReader: Selected Works of Avital Ronell",
+      "Snippet": "… 1989, and a rather famous shot of Avital with Kathy Acker on Kathy’s motorcycle in the early 1990s. xxxv i-lii_1-348_Rone.indd …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x17; 'Acker' x40"
+    }
+  },
+  {
+    "id": 391,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2965,
+      "Title": "The Story of \"Me\": Contemporary American Autofiction",
+      "Snippet": "… male privilege. Two female autofictions of interest here include Kathy Acker’s 1988 Empire of the Senseless, in which the controlling …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x4; 'Acker' x6"
+    }
+  },
+  {
+    "id": 392,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2970,
+      "Title": "Henry Miller and Narrative Form: Constructing the Self, Rejecting Modernity",
+      "Snippet": "… his indirect impact on such novelists as Nicholson Baker, Kathy Acker, and Bret Easton Ellis, Miller, whose Tropic of Cancer …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x3"
+    }
+  },
+  {
+    "id": 393,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3149,
+      "Title": "The Encyclopedia of the Novel",
+      "Snippet": "… avant-garde novels by women writers like Angela Carter and Kathy Acker, in which the hierarchies of gender and power that …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x4"
+    }
+  },
+  {
+    "id": 394,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3321,
+      "Title": "The Fate of Difficulty in the Poetry of Our Time",
+      "Snippet": "… deeply problematic character, but Zolf (improperly) combines her with Kathy Acker’s Janey Smith (from Blood and Guts in High School). …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 395,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3331,
+      "Title": "Experimental Writing",
+      "Snippet": "… Hag-Seed each reenvision different Shakespeare plays as contemporary dystopias; Kathy Acker’s Don Quixote reconceives the novel as set among a …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x14; 'Acker' x26"
+    }
+  },
+  {
+    "id": 396,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3398,
+      "Title": "Happy Hour",
+      "Snippet": "… for wild.” I can tell she’s been in my Kathy Acker again. We ordered half a dozen oysters (a selection …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 397,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3413,
+      "Title": "General Intellects: Twenty-Five Thinkers for the Twenty-First Century",
+      "Snippet": "… Wilding, Jill Johnson, Valerie Solanas, Silvia Federici, Ellen Willis, Kathy Acker, Sandy Stone, Shu Lea Chang, Diane Torr, Del LaGrace …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 398,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3531,
+      "Title": "Can the Monster Speak? A Report to an Academy of Psychoanalysts",
+      "Snippet": "… Room, the diaries of Lou Sullivan, the novels of Kathy Acker, the feminist rereading of the history of science by …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 399,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3590,
+      "Title": "Screen Tests",
+      "Snippet": "… of Anne Collier New York City, Summer 2013: On Kathy Acker One Can Be Dumb and Unhappy at Exactly the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x32; 'Acker' x39"
+    }
+  },
+  {
+    "id": 400,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3591,
+      "Title": "Appendix Project: Talks and Essays",
+      "Snippet": "… London Review of Books of Chris Kraus’s biography of Kathy Acker, and the reviewer referred, dismissively I thought, to “Ackerish …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x6"
+    }
+  },
+  {
+    "id": 401,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3594,
+      "Title": "Heroines",
+      "Snippet": "… column under the pseudonym Janey Smith (a nod to Kathy Acker’s anti-heroine), which he edits for me. As soon as …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x4"
+    }
+  },
+  {
+    "id": 402,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3597,
+      "Title": "Green Girl",
+      "Snippet": "… Project set in an absurd suburbia. The pilgrimage of Kathy Acker’s girl fuckup in Don Quixote. Acker’s Lousy Mindless Salesgirl …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 403,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3602,
+      "Title": "Drifts",
+      "Snippet": "… inside me feels so strange. It reminds me of Kathy Acker telling students to write while using a vibrator. My …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 404,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3640,
+      "Title": "The Best American Poetry 2023",
+      "Snippet": "… Writing (BlazeVOX [books], 2022), and The Complete Fear of Kathy Acker (Semiotext(e), 2023). Skelley is guitarist and songwriter for the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 405,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3732,
+      "Title": "The Encyclopedia of Twentieth-Century Fiction, 3 Volume Set",
+      "Snippet": "… (2002). Tactical Readings: Feminist Postmodernism in the Novels of Kathy Acker and Angela Carter Lewisburg, PA: Bucknell University Press. (c) …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x16; 'Acker' x58"
+    }
+  },
+  {
+    "id": 406,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3779,
+      "Title": "Blueberries",
+      "Snippet": "… On his private plane.’ A year before she died, Kathy Acker wrote in a notebook: Concerning imagination: At age 30 …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x4; 'Acker' x14"
+    }
+  },
+  {
+    "id": 407,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3810,
+      "Title": "Collage in Twenty-First-Century Literature in English: Art of Crisis",
+      "Snippet": "… focus on twentieth-century collagists such as T.S. Eliot and Kathy Acker. The most important critical books about literary collage published …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x8; 'Acker' x21"
+    }
+  },
+  {
+    "id": 408,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3878,
+      "Title": "The Maximalist Novel: From Thomas Pynchon's Gravity's Rainbow to Roberto Bolano's 2666",
+      "Snippet": "… Ford, Saul Bellow, Ethan Canin, Cynthia Ozick, Robert Stone, Kathy Acker, Russell Banks, Joyce Carol Oates, Nicholson Baker, Peter Matthiessen, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 409,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3884,
+      "Title": "BAX 2018: Best American Experimental Writing",
+      "Snippet": "… intentions as comical or political. You can only be Kathy Acker if you say you’re Kathy Acker. I knew also …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 410,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3892,
+      "Title": "Anglo-English Attitudes",
+      "Snippet": "… and its Others’ or ‘Dis-Ease in the works of Kathy Acker and William Burroughs’. My own waning fascination with this …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 411,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3901,
+      "Title": "Passwords Primeval: 20 American Poets in Their Own Words",
+      "Snippet": "… of a way to write about AIDS crisis, 1992 Kathy Acker suggests films of Dario Argento as a prism through …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x7; 'Acker' x9"
+    }
+  },
+  {
+    "id": 412,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3904,
+      "Title": "Mind Factory",
+      "Snippet": "… Arthur & Marilouise Kroker Cloner[*] for Kathy Acker It’s a sweet moving, easy livin’ summer evening, the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 413,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3916,
+      "Title": "Digital Delirium",
+      "Snippet": "… Bruce Sterling, mech poet John Nbto, ejrtraordinary fiction writer Kathy Acker, pioneering electronic artist, Lynn - Digital Delirium xvii Hershman …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x5"
+    }
+  },
+  {
+    "id": 414,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3936,
+      "Title": "The Bloomsbury Handbook of Electronic Literature",
+      "Snippet": "… the poetry of Susan Howe, or the novels of Kathy Acker). Nor is this neo, postliterary literature Art Brut as …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 415,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3972,
+      "Title": "The A to Z of Creative Writing Methods",
+      "Snippet": "… thus antithetical to its ethics and politics. For instance, Kathy Acker’s hybrid novels (1984, 1986) and essays (1997) flaunt carnivalesque …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x5"
+    }
+  },
+  {
+    "id": 416,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4042,
+      "Title": "Postmodern Sublime: Technology and American Writing From Mailer to Cyberpunk",
+      "Snippet": "… in twentieth-century American writing (running from Henry Adams to Kathy Acker), these writers share an exemplary willingness to push beyond …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x7; 'Acker' x45"
+    }
+  },
+  {
+    "id": 417,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4087,
+      "Title": "Austerity Measures: The New Greek Poetry",
+      "Snippet": "… poetry also plays a big part; and indeed Penga’s Kathy Acker-esque non-dramatic work divides its translators, being presented as poetry …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 418,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4091,
+      "Title": "Another South: Experimental Writing in the South",
+      "Snippet": "… Cage, Jorge Luis Borges, Jack Spicer, Frank O’Hara, and Kathy Acker. The so-called “postmodern” is strongly at work (and play) …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 419,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4135,
+      "Title": "A Book of the Book",
+      "Snippet": "… varieties of \"appropriation from Borges's Pierre Menard's Quixote to Kathy Acker's Don Quixote, play on the same possibility of transformation, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x5"
+    }
+  },
+  {
+    "id": 420,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4146,
+      "Title": "The Point Is To Change It",
+      "Snippet": "… pastiche Greek tragedy. Imagine you are Huck Finn, or Kathy Acker. It is precisely a superstition to imagine those verses …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x7; 'Acker' x9"
+    }
+  },
+  {
+    "id": 421,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4160,
+      "Title": "1001 Books You Must Read Before You Die",
+      "Snippet": "… the 1900s 1900s Blood and Guts in High School Kathy Acker Lifespan | b. 1947 (U.S.), d. 1997 (Mexico) First …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 422,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4195,
+      "Title": "Young Adam",
+      "Snippet": "… had yet to become an accepted postmodern practice (cf. Kathy Acker, Bret Easton Ellis and Chris Kraus). What Trocchi excised …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 423,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4206,
+      "Title": "Typewriters, Bombs, Jellyfish",
+      "Snippet": "… Certeau, On Kawara, Fly Fishing, and Various Other Things Kathy Acker’s Infidel Heteroglossia Sources Biographical Notes For all my New …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x4; 'Acker' x40"
+    }
+  },
+  {
+    "id": 424,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4210,
+      "Title": "Recessional - Or, the Time of the Hammer",
+      "Snippet": "… High Modernism and these other figures like Pynchon or Kathy Acker or Burroughs. But in terms of the politics of …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 425,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4228,
+      "Title": "The Sea-God's Herb: Reviews and Essays",
+      "Snippet": "… respect for Robert Coover (more respectful about narrative) or Kathy Acker (more direct in her social critique), it’s fair to …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 426,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4288,
+      "Title": "Scritt's Wikipedia - Individuals of Note: Volume 1",
+      "Snippet": "… in the 1988 book Empire of the Senseless by Kathy Acker. A character of the same name appears in the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 427,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4473,
+      "Title": "Reception of Northrop Frye",
+      "Snippet": "… in the Novels of Donald Barthelme, Thomas Pynchon, and Kathy Acker. PhD dissertation, University of Toronto (Canada), 1996. Dickinson, Peter. …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 428,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4608,
+      "Title": "Timetables of World Literature",
+      "Snippet": "… Max Frisch Santa Cruz Play by Max Frisch BIRTHS Kathy Acker, American novelist Aldo Busi, Italian novelist Katherine Govier, Canadian …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 429,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4609,
+      "Title": "The Posthuman Dada Guide: Tzara & Lenin Play Chess",
+      "Snippet": "… poetry students, 2008: Fuck more strangers because of reading Kathy Acker. Read all ellipses. Shave cat. Write fortune cookies. Birch …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 430,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4623,
+      "Title": "Historical Dictionary of Postmodernist Literature and Theater",
+      "Snippet": "… and postmodernist Victorian novel. In Empire of the Senseless, Kathy Acker extends her deconstruction of gender relations to social and …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x6; 'Acker' x18"
+    }
+  },
+  {
+    "id": 431,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4656,
+      "Title": "Encyclopedia of Contemporary Writers and Their Work",
+      "Snippet": "… strained relationship with figures such as John Barth or Kathy Acker, whose fictions, argued Wallace, so often sacrifice character and …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 432,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4680,
+      "Title": "The Delirium of Praise: Bataille, Blanchot, Deleuze, Foucault, Klossowski",
+      "Snippet": "… to write to a stranger, to a friend. — Kathy Acker Given that the exchanges between Bataille and Blanchot have …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 433,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4712,
+      "Title": "Autonomia, New Edition: Post-Political Politics",
+      "Snippet": "… John Glorno, Grasping at Emptiness; Alphonso F. Lingis, Savages; Kathy Acker, The Persian Poems; Richard Foreman, 14 Thfngs I Tell …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 434,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4717,
+      "Title": "The Letters of Mina Harker",
+      "Snippet": "… like a hungry snake—a year later in Los Angeles Kathy Acker will tell Mark there is absolutely nothing this monk …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 435,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4718,
+      "Title": "The Devil Never Sleeps",
+      "Snippet": "… carnage among my contemporaries and my elders. Jim Gustafson. Kathy Acker, one of the bright lights of my young days …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 436,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4750,
+      "Title": "Torpor",
+      "Snippet": "… fast for a compromise. “What about,” he ventures, “ Kathy Acker?” Sylvie presses her thin lips tight and glares at …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x7"
+    }
+  },
+  {
+    "id": 437,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4757,
+      "Title": "The Madame Realism Complex",
+      "Snippet": "… Mueller Not Me Eileen Myles Hannibal Lecter, My Father Kathy Acker Sick Burn Cut Deran Ludd The Madame Realism Complex …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 438,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4778,
+      "Title": "Diego Garcia: A Novel",
+      "Snippet": "… is where I found books by James Baldwin and Kathy Acker and Paul Bowles. I would read these in Bunjie's …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 439,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4782,
+      "Title": "On the Line",
+      "Snippet": "… CLEARWATER PAINTED BLACK Cookie Mueller HANNIBAL $6 LECTER, MY Kathy Acker IN A POOL FATHER $6 NOT ME Eileen Myles …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 440,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4851,
+      "Title": "Inferno: A Poet's Novel",
+      "Snippet": "… Which was Kathy. I am the backup singer to Kathy Acker’s fucking tattoos. Meanwhile across her face was a little …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x3"
+    }
+  },
+  {
+    "id": 441,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4852,
+      "Title": "Pathetic Literature",
+      "Snippet": "… LUST” by Andrea Abi-Karam Excerpt from Great Expectations by Kathy Acker “38” by Layli Long Soldier Excerpt from Light While …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x3"
+    }
+  },
+  {
+    "id": 442,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4853,
+      "Title": "For Now",
+      "Snippet": "… living, some dead. I did Chantal Akerman, I did Kathy Acker, I did Gail Scott, I did Lynne Tillman. I …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 443,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4910,
+      "Title": "Tripticks",
+      "Snippet": "… serves as a literary bridge between Virginia Woolf and Kathy Acker—as she’s been described—then this is the book that gets …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 444,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5013,
+      "Title": "Every Short Story, 1951-2012",
+      "Snippet": "… me later. In 1986 I told the American author, Kathy Acker, that I was unlikely to write another story, because …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 445,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5066,
+      "Title": "Destroyer of Naivetés",
+      "Snippet": "… de Sade, Yukio Mishima, Ovid, Leopold von SacherMasoch, and Kathy Acker. Indeed, Acker’s wild snatch style urged me on to …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 446,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5070,
+      "Title": "2500 Random Things About Me Too",
+      "Snippet": "… as I did then. The first time I saw Kathy Acker after she had her mastectomy, she lifted up her …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x15; 'Acker' x16"
+    }
+  },
+  {
+    "id": 447,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5274,
+      "Title": "A Sanctuary of Sounds",
+      "Snippet": "… much of the arts are about recycled material. Take Kathy Acker for example and her work on Don Quixote. Or …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 448,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5341,
+      "Title": "CMOK to YOu To: A Correspondence",
+      "Snippet": "… publish our chapbook - dizzy derata Image: Cover of Kathy Acker and McKenzie Wark, I’m Very Into You: Correspondence 1995-1996 …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x5; 'Acker' x10"
+    }
+  },
+  {
+    "id": 449,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5356,
+      "Title": "Seven Controlled Vocabularies and Obituary 2004. The Joy of Cooking",
+      "Snippet": "… Life of Toulouse Lautrec by Henri Toulouse Lautrec by Kathy Acker. © 1978 Kathy Acker. TVRT Press. Reproduced with permission. …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 450,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5392,
+      "Title": "Leper Creativity: Cyclonopedia Symposium",
+      "Snippet": "… James Joyce and William Burroughs, Ishmael 18 Reed and Kathy Acker , but it’s also responding to the trans. Kathleen …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 451,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5429,
+      "Title": "Literary Lab #8",
+      "Snippet": "… Delicious Thomas Wolfe Theodore Dreiser Ted Mooney Steve Erickson Kathy Acker Samuel R. Delany An American Tragedy Easy Travels To …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 452,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5451,
+      "Title": "Stay Inspired: Finding Motivation for Your Creative Work",
+      "Snippet": "… brought a new context to it. The real-life novelist Kathy Acker also took well-known books, like Don Quixote, and rewrote …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 453,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5453,
+      "Title": "Nobody's Business: Twenty First Century Avant-Garde Poetics",
+      "Snippet": "… © 2013. Cornell University Press. All rights reserved. — Kathy Acker, In Memoriam to Identity (1990) In Lyric Powers (2008) …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x4; 'Acker' x6"
+    }
+  },
+  {
+    "id": 454,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5466,
+      "Title": "The Bodies That Remain",
+      "Snippet": "… Leiris, Roland Bathes, Nathalie Sarraute; Eileen Myles, Hilton Als, Kathy Acker; Susan Sontag, Maggie Nelson, Wayne Koestenbaum; Lynne Tillman, Ben …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x31; 'Acker' x33"
+    }
+  },
+  {
+    "id": 455,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5473,
+      "Title": "Encyclopedia of Postmodernism",
+      "Snippet": "… the materiality of narrative unites writers as different as Kathy Acker Harper & Row. LeClair, Thomas ( 1 989) The …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x5"
+    }
+  },
+  {
+    "id": 456,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5513,
+      "Title": "Resistant Form: Aristophanes and the Comedy of Crisis",
+      "Snippet": "… 2: 275–95. DOI: 10.1215/23289252-3815069. ———. 2020. “Cutting Up Words: Kathy Acker’s Trans Locutions.” Transgender Studies Quarterly 7, no. 3: 479–88. …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 457,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5541,
+      "Title": "Poetic Revolutionaries",
+      "Snippet": "… Beyond necrophilic consumption By way of conclusion Chapter Four Kathy Acker or Catheter the Hack i. ii. iii. iv. v. …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x36; 'Acker' x132"
+    }
+  },
+  {
+    "id": 458,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5612,
+      "Title": "Shift Linguals: Cut-Up Narratives From William S Burroughs to the Present",
+      "Snippet": "… and Utopia in Cities of the Red Night 130 Kathy Acker: Plagiarism and Adaptation – From Cut-Up to Cut-and-Paste 151 …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x61; 'Acker' x339"
+    }
+  },
+  {
+    "id": 459,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5616,
+      "Title": "Making Strange: Beauty, Sublimity, and the Post Modern Third Aesthetic",
+      "Snippet": "… Man, 1975; Margaret Atwood in The Handmaid’s Tale, 1986; Kathy Acker in The Empire of the Senseless, 1988). Such a …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 460,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5701,
+      "Title": "How I Became One of the Invisible",
+      "Snippet": "… Mueller Not Me Eileen Myles Hannibal Lecter, My Father Kathy Acker Sick Burn Cut Deran Ludd The Madame Realisnm Complex …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 461,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5808,
+      "Title": "Book Lust: Recommended Reading for Every Mood, Moment, and Reason",
+      "Snippet": "… If by Mark Costello; Pale Fire by Vladimir Nabokov; Kathy Acker’s books, including Empire of the Senseless; David Foster Wallace’s …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 462,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5858,
+      "Title": "The Devil Notebooks",
+      "Snippet": "… get her looks back, too. In My Mother: Demonology, Kathy Acker digs writing in the throwaway defense mechanisms of the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x4; 'Acker' x20"
+    }
+  },
+  {
+    "id": 463,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5942,
+      "Title": "Wilhelm Reich Versus the Flying Saucers: An American Tragedy",
+      "Snippet": "… relationship with Reich’s theories and the counterculture, not least Kathy Acker with whom there is some avant-garde 12 Christopher Turner, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 464,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6172,
+      "Title": "William Burroughs and the Secret of Fascination",
+      "Snippet": "… Z of Burroughs’ fertilizing influence on contemporary culture from Kathy Acker to Frank Zappa, as it becomes ever harder to …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 465,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6174,
+      "Title": "Shift Linguals: Cut-Up Narratives From William S Burroughs to the Present",
+      "Snippet": "… and Utopia in Cities of the Red Night 130 Kathy Acker: Plagiarism and Adaptation – From Cut-Up to Cut-and-Paste 151 …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 5612; 'Kathy Acker' x61; 'Acker' x339"
+    }
+  },
+  {
+    "id": 466,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6336,
+      "Title": "Against Expression: An Anthology of Conceptual Writing",
+      "Snippet": "… Alphabetized, Hagstrom’s Maps of the Five Boroughs: . Manhattan Kathy Acker, from Great Expectations Sally Alatalo, from Unforeseen …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x6; 'Acker' x6"
+    }
+  },
+  {
+    "id": 467,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6338,
+      "Title": "New Directions in Philosophy and Literature",
+      "Snippet": "… care the works of Vonnegut, Barth, Philip K. Dick, Kathy Acker, or even Thomas Pynchon (in terms of literature) and …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x5"
+    }
+  },
+  {
+    "id": 468,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6371,
+      "Title": "My Way: Speeches and Poems",
+      "Snippet": "… it is a struggle within \"high\" and \"popular\" culture: Kathy Acker vs James Merrill, Vanilla Ice vs Linton Kwesi Johnson, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 469,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6383,
+      "Title": "Don DeLillo",
+      "Snippet": "… the postmodern also suggests a commonsense antagonism. For example, Kathy Acker has noted, “I might not know what the postmodern …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 470,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6416,
+      "Title": "Anxieties of Experience: The Literatures of the Americas From Whitman to Bolaño",
+      "Snippet": "… John Barth, Thomas Pynchon, Ishmael Reed, William Gass, and Kathy Acker–a phenomenon accompanied by the turn toward poststructuralism in the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 471,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6430,
+      "Title": "The Salt Companion to Charles Bernstein",
+      "Snippet": "… section reserved for “male cult writers,” they had shelved Kathy Acker, and that’s how I came across her work. Compendium …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x3"
+    }
+  },
+  {
+    "id": 472,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6505,
+      "Title": "Handbook of the American Short Story",
+      "Snippet": "… Anthony Dooner’s Repetition in Postmodern Fiction: The Works of Kathy Acker, Donald Barthelme and Don DeLillo (1993). As some of …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 473,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6506,
+      "Title": "Handbook of the American Novel of the Twentieth and Twenty-First Centuries",
+      "Snippet": "… which, in the work of Samuel R. Delany and Kathy Acker, becomes a setting for new gender constellations and negotiations. …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x4"
+    }
+  },
+  {
+    "id": 474,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6580,
+      "Title": "Unmaking The Making of Americans",
+      "Snippet": "… such as Carole Maso, Anne Carson, Harryette Mullen, and Kathy Acker. As recent critics, such as Hejinian in “Two Stein …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 475,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6623,
+      "Title": "The Cambridge Introduction to Postmodern Fiction",
+      "Snippet": "… women: Carter, Atwood, Acker 140 Angela Carter Margaret Atwood Kathy Acker 142 148 156 Chapter 7 Two postmodern genres: cyberpunk …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x15; 'Acker' x58"
+    }
+  },
+  {
+    "id": 476,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6651,
+      "Title": "Unnatural Voices: Extreme Narration in Modern and Contemporary Fiction",
+      "Snippet": "… “Na,” to refer to all people regardless of gender. Kathy Acker’s story “Humiliation” (1990) is written entirely in a prose …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x6"
+    }
+  },
+  {
+    "id": 477,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6695,
+      "Title": "On Style: An Atelier",
+      "Snippet": "… are: Dodie Bellamy, Kevin Killian, Sam D'Allesandro, Dennis Cooper, Kathy Acker, Camille Roy, and Steve Abbott. 32 Rob Halpern, quoted …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 478,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6717,
+      "Title": "Literary History and Avant-Garde Poetics in the Antipodes: Languages of Invention",
+      "Snippet": "… to unimaginable (for Walwicz, the exception to this is Kathy Acker). Does this mean Walwicz identifies with a Deleuzoguattarian “minor …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 479,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6799,
+      "Title": "A World of Disorderly Notions: Quixote and the Logic of Exceptionalism",
+      "Snippet": "… Pickwick Papers (1836), Graham Greene’s Monsignor Quixote (1982), and Kathy Acker’s Don Quixote (1986) all take quixotism as a guiding …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x3"
+    }
+  },
+  {
+    "id": 480,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6806,
+      "Title": "A Life in Words. Conversations With I.B. Siegumfeldt",
+      "Snippet": "… the Fiction of Gertrude Stein, Alain Robbe-Grillet, Paul Auster, Kathy Acker, and J.G. Ballard” (PhD thesis, University of Iowa, 2000). …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 481,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6842,
+      "Title": "New Keywords",
+      "Snippet": "… to describe the contemporary fiction of writers such as Kathy Acker and Paul Auster (Hutcheon, 1988). ‘‘Postmodernism’’ is sometimes used …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 482,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 6914,
+      "Title": "Uses of Literature",
+      "Snippet": "… turned on their head. We need only think of Kathy Acker, with her cartoonish sex parts, scatological vocabulary, and obsession …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 483,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 7009,
+      "Title": "Diffractive Reading: New Materialism, Theory, Critique",
+      "Snippet": "… working on a project on Simone Weil, Chris Kraus, Kathy Acker, and Annie Ernaux. At the manifold intersections between mysticism …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 484,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 7044,
+      "Title": "Contemporary Novelists",
+      "Snippet": "… novels are, relative to a William Burroughs or a Kathy Acker, quite conventionally written. And although his focus on the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 485,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 7468,
+      "Title": "Blue of Noon",
+      "Snippet": "… passion, violence, sex and humour. DOD Quixote £2.95 0 Kathy Acker From the author of BLOOD AND GUTS IN HIGH …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 486,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 7585,
+      "Title": "New Encyclopedia of Science Fiction",
+      "Snippet": "… Empire of the Senseless Empire of the Senseless by Kathy Acker Cover: Grove Press, 1988 (First Edition) illustration by George …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 487,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 7586,
+      "Title": "Dictionary of Literary Characters",
+      "Snippet": "… in High School, 1978 torturer O’BRIEN,Winston surrenders and learns Kathy Acker to love his oppressor.Victim and victimizer have Sexually abused, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 488,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 7889,
+      "Title": "October: The Second Decade, 1986-1996",
+      "Snippet": "… becomes that nexus within which mésalliances are formed. As Kathy Acker has pointed out in a recent account of the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 489,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8027,
+      "Title": "The Aesthetics of Authenticity: Medial Constructions of the Real",
+      "Snippet": "… working on the avant-garde memoir in the writings of Kathy Acker and Christine Brooke-Rose. She is a published poet, founded …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 490,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8032,
+      "Title": "Seven Controlled Vocabularies and Obituary 2004. The Joy of Cooking",
+      "Snippet": "… Life of Toulouse Lautrec by Henri Toulouse Lautrec by Kathy Acker. © 1978 Kathy Acker. TVRT Press. Reproduced with permission. …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 5356; 'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 491,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8161,
+      "Title": "Reading the Waves: A Memoir",
+      "Snippet": "… hardly anyone listens! (Laughter and knowing between sisters) L: Kathy Acker’s nickname in high school was Cassandra. That’s good company, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 492,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8272,
+      "Title": "Beyond the Red Notebook: Essays on Paul Auster",
+      "Snippet": "… Essay on The New York Trilogy and fiction by Kathy Acker and Steve McCaffery. Merwin, W. S. \"The Invention of …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 493,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8300,
+      "Title": "The Test Drive",
+      "Snippet": "… test everything to the point of death. Beyond. – Kathy Acker ING 1 On Being Tested TEST Whether you mean …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 494,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8308,
+      "Title": "Stupidity",
+      "Snippet": "… Nietz- sche’s demand for a virtuous stupidity or in Kathy Acker’s affirmation in her oeuvre of emancipatory stupidities. In other …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 495,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8390,
+      "Title": "Thinking With AI: Machine Learning the Humanities",
+      "Snippet": "… A Theory of Vibe 29 Figure 3. Excerpt from Kathy Acker, Blood and Guts in High School, New York, Grove …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x4"
+    }
+  },
+  {
+    "id": 496,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8493,
+      "Title": "Fail Better: Reckonings With Artists and Critics",
+      "Snippet": "… in a pastiche that undercut their normativity (as with Kathy Acker).7 Most important, Jameson refused any stylistic understanding of the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 497,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8503,
+      "Title": "Beyond Aesthetics: Philosophical Essays",
+      "Snippet": "… with modernist or avant-garde narratives.These are often antinarratives, like Kathy Acker’s Pussy King of the Pirates, that are designed to …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x4"
+    }
+  },
+  {
+    "id": 498,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8551,
+      "Title": "The Handbook to Gothic Literature",
+      "Snippet": "… Gothic' writing (by Stephen King, Emma Tennant, Patrick McGrath, Kathy Acker, and others) engages with topical medical concerns (bulimia, 'suburban …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 499,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8590,
+      "Title": "Evenings and Weekends",
+      "Snippet": "… have been the New York of Patti Smith or Kathy Acker; it wouldn’t even have been the New York of …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 500,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8731,
+      "Title": "Semiotext(e) SF",
+      "Snippet": "… The era of state-specific physics has arrived!” Walter Ablsh Kathy Acker Antonin Artaud Roland Barthes Georges Bataille 9 Jean Baudrlllard …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 501,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8881,
+      "Title": "Io Anthology: Literature, Interviews, and Art From the Seminal Interdisciplinary Journal, 1965 -1993",
+      "Snippet": "… editors. They brought in new contributors like William Bronk, Kathy Acker, April Hubinger, and Michael Palmer (who later edited an …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 502,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8914,
+      "Title": "Women, the New York School, and Other True Abstractions",
+      "Snippet": "… a different, more anarchic roster—one that might also accommodate Kathy Acker, Dennis Cooper, Tim Dlugos, David Trinidad, and David Wojnarowicz, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x4; 'Acker' x7"
+    }
+  },
+  {
+    "id": 503,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8962,
+      "Title": "Meta/Data: A Digital Poetics",
+      "Snippet": "… literary network, there are the late Ron Sukenick and Kathy Acker, Ray Federman, Robert Coover, Larry McCaffery, Curt White, Doug …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x11; 'Acker' x19"
+    }
+  },
+  {
+    "id": 504,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8967,
+      "Title": "Looking Critically: 21 Years of Artforum Magazine",
+      "Snippet": "… by Lawrence Weiner, IMPASSIONED WITH SOME SONG WE, by Kathy Acker, PORTRAITS, by Robert Mapplethorpe (XXI9 May 1982). GRIM FAIRY …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x8; 'Acker' x10"
+    }
+  },
+  {
+    "id": 505,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9053,
+      "Title": "The Paramaters of Postmodernism",
+      "Snippet": "… have shared their time and ideas with me, particularly: Kathy Acker, Laurie Anderson, Robert Ashley, J.G.Ballard, Jean Baudrillard, Samuel Beckett, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x5; 'Acker' x14"
+    }
+  },
+  {
+    "id": 506,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9073,
+      "Title": "The Aesthetics of Authenticity: Medial Constructions of the Real",
+      "Snippet": "… working on the avant-garde memoir in the writings of Kathy Acker and Christine Brooke-Rose. She is a published poet, founded …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 8027; 'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 507,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9079,
+      "Title": "The Composite Novel: The Short Story Cycle in Transition",
+      "Snippet": "… Silko. Trailerpark, by Russell Banks. 1982 Great Expectations, by Kathy Acker. The Home Girls, by Olga Masters. Levitations: Five Fictions, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 508,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9083,
+      "Title": "On Theory-Fiction and Other Genres",
+      "Snippet": "… to be especially the case with an author like Kathy Acker—who already uses plagiarism and pastiche as part of her …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x8; 'Acker' x16"
+    }
+  },
+  {
+    "id": 509,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9138,
+      "Title": "The Cambridge Handbook of Literary Authorship",
+      "Snippet": "… both an unwriting and a rewriting. A self-titled “plagiarism,” Kathy Acker’s Great Expectations (1982) revisits the famous opening of Dickens’s …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x4"
+    }
+  },
+  {
+    "id": 510,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9155,
+      "Title": "Handbook of Intermediality: Literature – Image – Sound – Music",
+      "Snippet": "… Thomas Pynchon’s Vineland (1990), Charles Bernstein’s My Way (1999), Kathy Acker’s Portrait of an Eye (1992) and David Foster Wallace’s …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 511,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9159,
+      "Title": "The Routledge Companion to Critical and Cultural Theory",
+      "Snippet": "… writings of William Gibson, Bruce Sterling, Pat Cadigan and Kathy Acker (amongst many others). The 'cyber' element indicates that this …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 512,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9162,
+      "Title": "Authority Matters: Rethinking the Theory and Practice of Authorship",
+      "Snippet": "… Cage and Charles Bukowski, Hunter Thompson and Paul Auster. Kathy Acker’s splendidly outrageous apothegm – “The demand for an adequate …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x8"
+    }
+  },
+  {
+    "id": 513,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9167,
+      "Title": "Narratology in Practice",
+      "Snippet": "… the more suitable term is “interdiscursivity.” American experimental novelist Kathy Acker’s novels are good examples of an ironic use of …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 514,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9183,
+      "Title": "Words to Be Looked At: Language in 1960s Art",
+      "Snippet": "… with many people over many years, including the late Kathy Acker, Amy Adler, Bruce Andrews, Abigail Child, Eric de Bruyn,Simon …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 515,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9197,
+      "Title": "Narratology: Introduction to the Theory of Narrative",
+      "Snippet": "… her novel Blood and Guts in High School (1978), Kathy Acker seems to mock any attempt to establish Rhythm …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x6"
+    }
+  },
+  {
+    "id": 516,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9199,
+      "Title": "Longman Grammar of Spoken and Written English",
+      "Snippet": "… adverbials are also occasionally placed after other main verbs: Kathy Acker's off-the-shoulder dress displayed to advantage her collection of off-the-shoulder …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 517,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9394,
+      "Title": "Reading Experimental Writing",
+      "Snippet": "… Alex Houen 51 3. Experiment, Inscription and the Archive: Kathy Acker’s Manuscript Practice Georgina Colby 74 4. Rereading Race and …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x77; 'Acker' x244"
+    }
+  },
+  {
+    "id": 518,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9455,
+      "Title": "Spaces and Fictions of the Weird and the Fantastic: Ecologies, Geographies, Oddities",
+      "Snippet": "… Burroughs zwischen 1959 und 1968, Peter Lang, 2008) and Kathy Acker (Das Zwischen schreiben—Transgression und avantgardistisches Erbe bei Kathy Acker, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 519,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9535,
+      "Title": "The 3D Additivist Cookbook",
+      "Snippet": "… Luigi Serafini’s Codex Seraphinianus, creative remixes/rewritings such as most Kathy Acker’s fiction, Mark Amerika’s Locus Solus or Christopher Higgs’ One, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 520,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9574,
+      "Title": "Chronicle of Separation: On Deconstruction’s Disillusioned Love",
+      "Snippet": "… about me, I wonder? As a practicing paranoid lectrice—what Kathy Acker might call a “Hannibal Lectrice” after the deranged cannibalistic …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 521,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9577,
+      "Title": "The Limits of Fabrication: Materials Science, Materialist Poetics",
+      "Snippet": "… Brossard, who are two conceptual French lesbian writers, or Kathy Acker or Dennis Cooper, who have developed ways of trying …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 522,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9755,
+      "Title": "Crumb: A Cartoonist's Life",
+      "Snippet": "… Noomin and published by Penguin. With blurbs from Madonna, Kathy Acker, and Robert himself, the book is a landmark for …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 523,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9863,
+      "Title": "The Encyclopedia of Contemporary American Fiction, 2 Volumes: 1980 - 2020",
+      "Snippet": "… 7 Acker, Kathy PATRICK O’DONNELL Michigan State University, USA Kathy Acker (1947–1997) is one of the best- known and prolific …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x16; 'Acker' x87"
+    }
+  },
+  {
+    "id": 524,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10074,
+      "Title": "What to Read (And Not): Essays and Reviews",
+      "Snippet": "… there’s Jane Smiley’s A Thousand Acres and many of Kathy Acker’s novels. Smiley and Acker also provide a distinction: A …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x4; 'Acker' x8"
+    }
+  },
+  {
+    "id": 525,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10272,
+      "Title": "Electronic Literature as Digital Humanities: Contexts, Forms, and Practices",
+      "Snippet": "… John Barth, John Hawkes, Robert Coover, Thomas Pynchon, and Kathy Acker had accustomed readers to difficult, recursive, and counterfactual narratives. …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 526,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10273,
+      "Title": "Flatline Constructs: Gothic Materialism and Cybernetic Theory-Fiction",
+      "Snippet": "… in Flames, John Carpenter’s In the Mouth of Madness, Kathy Acker’s Empire of the Senseless (the RIYLs are numerous...) are …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 527,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10316,
+      "Title": "On Theory-Fiction and Other Genres",
+      "Snippet": "… to be especially the case with an author like Kathy Acker—who already uses plagiarism and pastiche as part of her …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 9083; 'Kathy Acker' x8; 'Acker' x16"
+    }
+  },
+  {
+    "id": 528,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10371,
+      "Title": "Language, Text and Context",
+      "Snippet": "… fiction (e.g. the postmodernist disjunctive novels ofWilliam Burroughs or Kathy Acker), into cinematic discourse (e.g. the postmodernist films of Hans-Jürgen …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 529,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10372,
+      "Title": "Fictioning: The Myth-Functions of Contemporary Art and Philosophy",
+      "Snippet": "… Space as part of Bob Cobbing: Bill Jubobe.33 2.2 Kathy Acker, ‘A Map of my Dreams’ from Blood and Guts …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x12"
+    }
+  },
+  {
+    "id": 530,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10410,
+      "Title": "Bartlett's Familiar Quotations",
+      "Snippet": "… in the Wall (Part 2). Recorded by Pink Floyd Kathy Acker 1944–1997 For 2,000 years you’ve had the nerve to …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 531,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10457,
+      "Title": "Reading Experimental Writing",
+      "Snippet": "… Alex Houen 51 3. Experiment, Inscription and the Archive: Kathy Acker’s Manuscript Practice Georgina Colby 74 4. Rereading Race and …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 9394; 'Kathy Acker' x77; 'Acker' x244"
+    }
+  },
+  {
+    "id": 532,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10518,
+      "Title": "The Routledge Companion to Music and Modern Literature",
+      "Snippet": "… novel to talk of punk writing or punk literature—and Kathy Acker is a paradigmatic example here—or even punk poetics, Jawbreaker’s …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 533,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10526,
+      "Title": "The Routledge Companion to Literature and Art",
+      "Snippet": "… Rauschenberg— have also shaped the work of writers like Kathy Acker and Steve Tomasula in critical ways that have evolved …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 534,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10597,
+      "Title": "Pornoterrorism: De-Aestheticising Power",
+      "Snippet": "… ers with Malware.” The Intercept). 5 Kathy Acker, “On Violence,” Review of Contemporary Fiction 9.3 (Fall 1989): …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x17; 'Acker' x99"
+    }
+  },
+  {
+    "id": 535,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10603,
+      "Title": "Hidden Agendas: Unreported Poetics",
+      "Snippet": "… or Hélène Cixous’ “feminine” language, in an American context, Kathy Acker’s deconstructions of patriarchal narratives might be a more direct …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 536,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10605,
+      "Title": "French Theory: How Foucault, Derrida, Deleuze, & Co. Transformed the Intellectual Life of the United States",
+      "Snippet": "… refusal-that they would read W illiam Burroughs, Allen Ginsberg, Kathy Acker, or Michel Foucault and Gilles Deleuze-the latter thanks to …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x8; 'Acker' x10"
+    }
+  },
+  {
+    "id": 537,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10640,
+      "Title": "New Media and the Transformation of Postmodern American Literature: From Cage to Connection",
+      "Snippet": "… programmed fluidity of Shelley Jackson’s Patchwork Girl (1995), or Kathy Acker’s plagiaristic-punk ethos. (I have explored elsewhere contemporary examples of …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 538,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10773,
+      "Title": "Testo Junkie",
+      "Snippet": "… and instead, in the tradition of William S. Burroughs, Kathy Acker, and Jean Genet, s/he conducts a wild textual experiment. …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 539,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10904,
+      "Title": "Meatphysics",
+      "Snippet": "… on their own. Just as McDonald’s now runs.’ ( Kathy Acker). When a molar consciousness comes to completion it eludes …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 540,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10951,
+      "Title": "Blood and Guts in High School",
+      "Snippet": "… Kathy Acker BLOOD AND GUTS IN HIGH SCHOOL Contents Inside high …",
+      "Query": "scan:exact",
+      "Own_Work": true,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x3; own work"
+    }
+  },
+  {
+    "id": 541,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11013,
+      "Title": "Perspectives on Harry Crews",
+      "Snippet": "… issues of representation and identity. The linguistic innovation of Kathy Acker and William Burroughs is allied to a critique of …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x3"
+    }
+  },
+  {
+    "id": 542,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11025,
+      "Title": "Contemporary Novelists",
+      "Snippet": "… novels are, relative to a William Burroughs or a Kathy Acker, quite conventionally written. And although his focus on the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 7044; 'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 543,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11056,
+      "Title": "The Possibility of Literature: The Novel and the Politics of Form",
+      "Snippet": "… Paul Auster does in The New York Trilogy, as Kathy Acker does in Don Quixote: Which Was a Dream. The …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x5"
+    }
+  },
+  {
+    "id": 544,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11075,
+      "Title": "Our Aesthetic Categories: Zany, Cute, Interesting",
+      "Snippet": "… exclusive to the performing arts. From Ishmael Reed to Kathy Acker to Shelley Jackson; or. John Ashbery to Bruce An- …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 545,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11165,
+      "Title": "Guy Davenport: Postmodern and After",
+      "Snippet": "… in contrast to a Robert Rauschenberg collage or a Kathy Acker novel, employ a selective and coherent body of images …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 546,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11188,
+      "Title": "Conceptualisms: The Anthology of Prose, Poetry, Visual, Found, E- & Hybrid Writing as Contemporary Art",
+      "Snippet": "… phrasing, the hybrid writing of Zora Neal Hurston or Kathy Acker's appropriations); all of them continue to influence whatever is …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 547,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11242,
+      "Title": "Private Novelist",
+      "Snippet": "… the cover art for Pussy, King of the Pirates, Kathy Acker’s collaboration with the Mekons, an English rock band. I …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 548,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11677,
+      "Title": "The Kafka Chronicles",
+      "Snippet": "… everything's coming out through the lens of sexuality...\" — Kathy Acker Paper, ISBN: 0-932511-54-6, $7.00 Revelation Countdown Short Fiction by …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x3"
+    }
+  },
+  {
+    "id": 549,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11776,
+      "Title": "A Companion to American Literary Studies",
+      "Snippet": "… with reference to such authors as Thomas Pynchon and Kathy Acker (“POSTcyberMODERNpunkISM”). The Posthuman Turn 467 This tendency is becoming …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 550,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11827,
+      "Title": "Mosaic of Juxtaposition: William S. Burroughs’ Narrative Revolution",
+      "Snippet": "… authors cite Burroughs as a significant influence – Gibson, Kathy Acker, and David Foster Wallace to name a few – …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 551,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11854,
+      "Title": "Autofiction in English",
+      "Snippet": "… influences from French literature and/or theory include works by Kathy Acker, William 208 A. WALKER S. Burroughs and Lawrence Ferlinghetti—although …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x3"
+    }
+  },
+  {
+    "id": 552,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11911,
+      "Title": "I Can Give You Anything but Love",
+      "Snippet": "… was bagging unwanted books to sell at the Strand. Kathy Acker had asked me to give Susan her then self-published …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 553,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 12079,
+      "Title": "Porn Archives",
+      "Snippet": "… who promptly fired him. His last significant acquisition was Kathy Acker. Grove’s exhumation of the underground had two profoundly significant …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 554,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 12285,
+      "Title": "Character: Three Inquiries in Literary Studies",
+      "Snippet": "… stylized, ironic, or rebarbative fiction, whether by Kafka or Kathy Acker— have abolished or done away with identification might give …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 948; 'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 555,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 12302,
+      "Title": "Uses of Literature",
+      "Snippet": "… turned on their head. We need only think of Kathy Acker, with her cartoonish sex parts, scatological vocabulary, and obsession …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 6914; 'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 556,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 12378,
+      "Title": "The Modern Myths: Adventures in the Machinery of the Popular Imagination",
+      "Snippet": "… Louise (1991) (not nearly as radical-feminist a rewriting as Kathy Acker’s Don Quixote [1986]) and Sideways (2004). The lovably foolish, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 557,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 12447,
+      "Title": "Fantasies of the Library",
+      "Snippet": "… of Flaubert—or a hundred years later, by way of Kathy Acker31—and then held in a codex-bound book is typically organized …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 558,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 12622,
+      "Title": "Life Stories: Profiles From the New Yorker",
+      "Snippet": "… in case. (“Let’s see: what if I said that Kathy Acker had begun an affair with, oh, V. S. Pritchett—that …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 559,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 12740,
+      "Title": "Rants & Incendiary Tracts: Voices of Desperate Illumination 1558-Present",
+      "Snippet": "… translation©Anthony Wells OUT OF THE MAGIC OF VENOM: CREATION© Kathy Acker THE POETS' DISHONOR©AUas Press 10987654321 ISBN:0-941693-03-1 Co-published by Amok …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x4; 'Acker' x6"
+    }
+  },
+  {
+    "id": 560,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 12890,
+      "Title": "Encyclopedia of the New York School Poets",
+      "Snippet": "… his own brief list of influences are Jack Kerouac, Kathy Acker, Dylan Thomas, James Schuyler, Laura (Riding) Jackson, Will Alexander, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x7"
+    }
+  },
+  {
+    "id": 561,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13003,
+      "Title": "The Encyclopedia of Popular Music",
+      "Snippet": "… The Pirates, was a bizarre collaboration with American writer Kathy Acker. Me was another challenging, conceptual work that bemused and …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x38"
+    }
+  },
+  {
+    "id": 562,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13007,
+      "Title": "Cult Writers: 50 Nonconformist Novelists You Need to Know",
+      "Snippet": "… this selection are celebrated for their experimentation with form.) Kathy Acker, J.G. Ballard, Octavia E. Butler, Philip K. Dick, Ursula …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x12; 'Acker' x24"
+    }
+  },
+  {
+    "id": 563,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13043,
+      "Title": "Videology",
+      "Snippet": "… Chris Kraus, Harold Jaffe, Lynne Tillman, Dennis Cooper & Kathy Acker) is an ex-reporter who after fifteen years working the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 564,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13056,
+      "Title": "Giacomo Joyce: Envoys of the Other",
+      "Snippet": "… subliminally decorate this text. And if it all makes Kathy Acker look like Enid Blyton, it does so not at …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 565,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13057,
+      "Title": "Hidden Agendas: Unreported Poetics",
+      "Snippet": "… or Hélène Cixous’ “feminine” language, in an American context, Kathy Acker’s deconstructions of patriarchal narratives might be a more direct …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 10603; 'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 566,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13058,
+      "Title": "The Organ-Grinder’s Monkey",
+      "Snippet": "… the whimsical sentimentalists of the multiverse? Should we read Kathy Acker and Stewart Home as evangelists or elegists of the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x2"
+    }
+  },
+  {
+    "id": 567,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13059,
+      "Title": "Mind Factory",
+      "Snippet": "… Arthur & Marilouise Kroker Cloner[*] for Kathy Acker It’s a sweet moving, easy livin’ summer evening, the …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 3904; 'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 568,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13137,
+      "Title": "Outline of American Literature",
+      "Snippet": "… reality and illusion. Auster’s trilogy, in effect, selfdeconstructs. Similarly, Kathy Acker (1948-1997) juxtaposed passages from works by Cervantes and Charles …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 569,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13149,
+      "Title": "Gale Contextual Encyclopedia of World Literature, Volume 4",
+      "Snippet": "… surrealism. Blood and Guts in High School (1984) by Kathy Acker. This popular novel—one of the author’s best-selling works—is representative …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x2; 'Acker' x3"
+    }
+  },
+  {
+    "id": 570,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13174,
+      "Title": "Times Literary Supplement [July 10, 2026]",
+      "Snippet": "… for mushrooms. To pay her way, punk rock novelist Kathy Acker had a go at pretty much everything – acting …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 571,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13275,
+      "Title": "To Write as if Already Dead",
+      "Snippet": "… haunted by the fact that both Susan Sontag and Kathy Acker didn’t have health insurance when they were diagnosed with …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x8; 'Acker' x8"
+    }
+  },
+  {
+    "id": 572,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13324,
+      "Title": "Times Literary Supplement [July 10, 2026]",
+      "Snippet": "… for mushrooms. To pay her way, punk rock novelist Kathy Acker had a go at pretty much everything – acting …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 13174; 'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 573,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13365,
+      "Title": "Absence of Clutter: Minimal Writing as Art and Literature",
+      "Snippet": "… Michael Wutz (Stanford: Stanford University Press, 1999), 263. 35 Kathy Acker, “Symposium: Postmodern?,” in “Postmodern?,” ed. Barrett Watten and Lyn …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x3"
+    }
+  },
+  {
+    "id": 574,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13477,
+      "Title": "Conjunctions",
+      "Snippet": "… David Starobin interview. 360 pages. CONJUNCTIONS:17. Tenth Anniversary Issue. Kathy Acker, Janice Galloway, David Foster Wallace, Robert Coover, Diana Michener, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x3"
+    }
+  },
+  {
+    "id": 575,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13481,
+      "Title": "The Greenwood Encyclopedia of American Poets and Poetry: Vol. 1",
+      "Snippet": "… Audre Lorde, Adrienne Rich, Gloria Anzaldua, Lyn Hejinian, and Kathy Acker. There has been an espe¬ lisher and politician Gerald …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 576,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13574,
+      "Title": "Ambivalence",
+      "Snippet": "… in magazines. He wants to read, but never does, Kathy Acker’s Blood and Guts in High School. He has read …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 577,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13582,
+      "Title": "Arts and Letters Daily [Sun, 09 Aug 2026]",
+      "Snippet": "… this effect or that one and trace it to Kathy Acker, or Donald Barthelme, or John Hawkes, say, but for …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 578,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13825,
+      "Title": "Bartlett's Familiar Quotations",
+      "Snippet": "… in the Wall (Part 2). Recorded by Pink Floyd Kathy Acker 1944–1997 For 2,000 years you’ve had the nerve to …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 10410; 'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 579,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 14285,
+      "Title": "Remarks on Marx Conversations with Duccio Trombadori",
+      "Snippet": "… Editors NOT ME, EUeen Myles HANNIBAL LECTER, MY FATHER, Kathy Acker IF YOU'RE A GIRL, Ann Rower WALKING THROUGH CLEAR …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 580,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 14372,
+      "Title": "Beautiful Mutants and Swallowing Geography",
+      "Snippet": "… her going home to pore over Angela Carter and Kathy Acker, Antonin Artaud and Jean Genet; we can almost hear …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 581,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 14381,
+      "Title": "William T. Vollmann: A Critical Study and Seven Interviews",
+      "Snippet": "… released it as a paperback original. The late writer Kathy Acker read the short novel and recommended it to her …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x2"
+    }
+  },
+  {
+    "id": 582,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 14617,
+      "Title": "Trauma Theory as an Approach to Analyzing Literary Texts: An Updated and Expanded Edition, With Readings",
+      "Snippet": "… look so darn postmodern? If the intertextual deconstructions of Kathy Acker’s Empire of the Senseless are postmodern, why shouldn’t those …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 583,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 14685,
+      "Title": "The No Rules Handbook for Writers: (Know the Rules So You Can Break Them)",
+      "Snippet": "… everywhere. I think of Quentin Tarantino's Pulp Fiction (1994); Kathy Acker’s Blood and Guts in High School (1984); Anthony Neilson’s …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x4"
+    }
+  },
+  {
+    "id": 584,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 14732,
+      "Title": "Critical Vices: The Myths of Postmodern Theory",
+      "Snippet": "… artists of the nineteenth century.”87 Like the American novelist Kathy Acker, Baudrillard seems to locate himself within something very close …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x3; 'Acker' x4"
+    }
+  },
+  {
+    "id": 585,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 14845,
+      "Title": "London Review of Books [Vol. 48 No. 19 · 22 October 2026]",
+      "Snippet": "… hard-boiled crime. Calls would circulate when the latest Raworth, Kathy Acker, Allen Fisher came out of the box. William Gibson, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 586,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 14858,
+      "Title": "The Paris Review Interviews: Writers at Work (Complete Chronological Edition, 1953–2026)",
+      "Snippet": "… Selby Jr., Michael McClure, Kenzaburo Oe, D. T. Suzuki, Kathy Acker, and David Mamet. In 1988, the PEN American Center …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x13; 'Acker' x14"
+    }
+  },
+  {
+    "id": 587,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 14923,
+      "Title": "London Review of Books [Vol. 48 No. 19 · 22 October 2026]",
+      "Snippet": "… hard-boiled crime. Calls would circulate when the latest Raworth, Kathy Acker, Allen Fisher came out of the box. William Gibson, …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "duplicate of 14845; 'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 588,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 14974,
+      "Title": "Selected Essays, 2019–2023",
+      "Snippet": "… Burroughs, Jack Kerouac, Robert Creeley, Paul Metcalf, and later, Kathy Acker and her use of collage, and many others, including …",
+      "Query": "scan:exact",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "'Kathy Acker' x1; 'Acker' x1"
+    }
+  },
+  {
+    "id": 589,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13,
+      "Title": "The Routledge Companion to Imaginary Worlds",
+      "Snippet": "… and postmodernist fictions (by, for example, Borges, Pynchon, or Acker) that thematize the gaps inherent to human knowledge practices. For …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "No exact 'Kathy Acker' string; 'Acker' x1; snippet refers to Kathy Acker (judged by hand)"
+    }
+  },
+  {
+    "id": 590,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 111,
+      "Title": "Supplanting the Postmodern: An Anthology of Writings on the Arts and Culture of the Early 21st Century",
+      "Snippet": "… advocated so blatantly in the work of Vonnegut and Acker, Andrews’ need to assure himself, and his readers, that an …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "No exact 'Kathy Acker' string; 'Acker' x1; snippet refers to Kathy Acker (judged by hand)"
+    }
+  },
+  {
+    "id": 591,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 1192,
+      "Title": "A Dictionary of Postmodernism",
+      "Snippet": "… Charles Taylor, ethics, Husserl, cyborg, Marx, Sartre, Virilio, Kathy Acker, practice, nature, experience, meaning, Kant, Mondrian, Burroughs …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "No exact 'Kathy Acker' string (line-break/OCR form); 'Acker' x1; snippet refers to Kathy Acker (judged by hand)"
+    }
+  },
+  {
+    "id": 592,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 2657,
+      "Title": "A Dictionary of the Avant-Gardes",
+      "Snippet": "… career as various as Acconci’s merits a long biography. Acker, Kathy (18 April 1947–30 November 1997; b. Karen Alexander) She …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "Inverted form 'Acker, Kathy'; 'Acker' x2; snippet refers to Kathy Acker (judged by hand)"
+    }
+  },
+  {
+    "id": 593,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 3341,
+      "Title": "Susan Sontag: An Annotated Bibliography 1948-1992",
+      "Snippet": "… Reports on the Toronto Congress (see G69, G72). K100 Acker, Kathy. Great Expectations. San Francisco: Re/Search, 1982. Sontag is one …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "Inverted form 'Acker, Kathy'; 'Acker' x1; entry K100 on Great Expectations (judged by hand)"
+    }
+  },
+  {
+    "id": 594,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4144,
+      "Title": "Word Toys",
+      "Snippet": "… “abject” in the tradition of Sade, Rimbaud, Burroughs, and Acker, for example—faded even as early gurus of the internet promised …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "No exact 'Kathy Acker' string; 'Acker' x4; snippet refers to Kathy Acker (judged by hand)"
+    }
+  },
+  {
+    "id": 595,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 4759,
+      "Title": "White Review",
+      "Snippet": "… reading a lot of Kathy East market in Hackney, Acker. Spooner is an artist whose output includes essays and novels, …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "Layout-split text ('Kathy ... Acker'); 'Acker' x3; probably Kathy Acker (judged by hand; uncertain)"
+    }
+  },
+  {
+    "id": 596,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 5846,
+      "Title": "Noise Thinks the Anthropocene: An Experiment in Noise Poetics",
+      "Snippet": "… Arcades Project, Mark Amerika’s remixthebook, the writings of Kathy Acker, and significant portions of William Burroughs’s cutups …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "No exact 'Kathy Acker' string (line-break/OCR form); 'Acker' x1; snippet refers to Kathy Acker (judged by hand)"
+    }
+  },
+  {
+    "id": 597,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 7022,
+      "Title": "Subcultures: Cultural Histories and Social Practice",
+      "Snippet": "… to the postmodern novelist ‘Kathy King of the Pirates Acker’: reproducing the romantic hacker/pirate connection, even though he seems unaware …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "Split form 'Kathy King of the Pirates Acker'; 'Acker' x2 (judged by hand)"
+    }
+  },
+  {
+    "id": 598,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 7602,
+      "Title": "Postmodernism in Pieces: Materializing the Social in U.S. Fiction",
+      "Snippet": "… some canonical postmodern writers such as Thomas Pynchon, Kathy Acker, and Ishmael Reed, who might also fit especially well with …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "No exact 'Kathy Acker' string (line-break/OCR form); 'Acker' x2; snippet refers to Kathy Acker (judged by hand)"
+    }
+  },
+  {
+    "id": 599,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8468,
+      "Title": "Theorizing Visual Studies: Writing Through the Discipline",
+      "Snippet": "… the New Narrative movement (Dodie Bellamy, Dennis Cooper, Kathy Acker), the world of performance (Laurie Anderson, Karen Finlay …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "No exact 'Kathy Acker' string (line-break/OCR form); 'Acker' x2; snippet refers to Kathy Acker (judged by hand)"
+    }
+  },
+  {
+    "id": 600,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 8612,
+      "Title": "The Very Last Interview",
+      "Snippet": "… book? What’s your take on the cut-up folks—Burroughs and Acker—and to what extent were they an inspiration for you? …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "Surname only; 'Acker' x1; snippet refers to Kathy Acker (judged by hand)"
+    }
+  },
+  {
+    "id": 601,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 9116,
+      "Title": "Art in Progress: A Philosophical Response to the End of the Avant-Garde",
+      "Snippet": "… ch. 3: ‘The texts of Baudrillard, Acker and Lyotard all seem to require that “history” is no …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "Surname only; 'Acker' x1; snippet refers to Kathy Acker (judged by hand)"
+    }
+  },
+  {
+    "id": 602,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10269,
+      "Title": "Good Fiction Guide",
+      "Snippet": "… Acker, Kathy (US, 1947-98) A native bitch alongside the narrator's attachment New Yorker, Acker was initially …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "Inverted form 'Acker, Kathy' (OCR columns interleaved); 'Acker' x3 (judged by hand)"
+    }
+  },
+  {
+    "id": 603,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 10611,
+      "Title": "Avant-Post: The Avant-Garde Under \"Post-\" Conditions",
+      "Snippet": "… Abigail Child. Rae Armantrout. Kathy Acker. Susan Howe. Johanna Drucker. Lynne Dreyer. Leslie Scalapino. Laura Moriarty. …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "Odd space character between names in the text layer; 'Acker' x1 (judged by hand)"
+    }
+  },
+  {
+    "id": 604,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 11053,
+      "Title": "Twenty-First-Century Fiction",
+      "Snippet": "… Christine Brooke-Rose, where writers such as Rushdie, Carter, Morrison, Acker and so on, found a new way of adapting to …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "Surname only; 'Acker' x1; snippet refers to Kathy Acker (judged by hand)"
+    }
+  },
+  {
+    "id": 605,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13042,
+      "Title": "Videology 2",
+      "Snippet": "… Nick Zedd, Richard Kern, Lydia Lunch, but also Kathy Acker & Denis Cooper. In the UK there’d been Alan Moore, …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "No exact 'Kathy Acker' string (line-break/OCR form); 'Acker' x1 (judged by hand)"
+    }
+  },
+  {
+    "id": 606,
+    "fields": {
+      "Week": 1,
+      "Calibre_ID": 13963,
+      "Title": "Odd Affinities: Virginia Woolf’s Shadow Genealogies",
+      "Snippet": "… Skin Tropes and Identities in Woolf, Ellison, Pynchon, and Acker (New York: Routledge, 2003), 15–40. 36. We could take as …",
+      "Query": "scan:Acker-hand",
+      "Own_Work": false,
+      "Captured_On": 1793577600,
+      "Promoted": false,
+      "Note": "Surname only (book title in a citation); 'Acker' x1 (judged by hand)"
     }
   }
 ]

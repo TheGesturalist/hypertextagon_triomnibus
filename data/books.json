@@ -4274,5 +4274,70 @@
       ],
       "Date": 1793491200
     }
+  },
+  {
+    "id": 123,
+    "fields": {
+      "Set": 40,
+      "Calibre_ID": 1178,
+      "Title": "Great Expectations",
+      "Author": "Kathy Acker",
+      "Year": "1982 (Penguin Modern Classics EPUB 2018)",
+      "File_Format": "EPUB",
+      "Role_in_Set": "Day 1 primary: the author's own work, read whole from its EPUB (c. 30,800 words).",
+      "Selection_Logic": "Named by the week's Day_Plan; Gestext-flagged; Part One is titled 'Plagiarism', so the book names the procedure the week studies.",
+      "Elements": [
+        "L",
+        "Verified quotation",
+        "Concordance",
+        "Excerpt",
+        "Diagram",
+        "Misreading worth attempting",
+        "Derived list"
+      ],
+      "Quotes": "'My father’s name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Peter.' | 'just outside Alexandria, and close by the taxi stand.' | 'I shall die at sixty before having formed any opinion concerning myself.' | 'that’s why one text must subvert (the meaning of) another text until there’s only background music like reggae' | 'It’s a common belief that something exists when it’s part of a narrative.'",
+      "Themes": "plagiarism; rewriting; Dickens; substitution; splicing; inheritance; mother; attribution",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1192,
+        110,
+        1252,
+        1218,
+        1262,
+        943,
+        1263,
+        252
+      ],
+      "Date": 1793577600
+    }
+  },
+  {
+    "id": 124,
+    "fields": {
+      "Set": 40,
+      "Calibre_ID": 8747,
+      "Title": "Complete Works of Charles Dickens (Illustrated)",
+      "Author": "Charles Dickens",
+      "Year": "Delphi collection",
+      "File_Format": "EPUB",
+      "Role_in_Set": "Source check only (not a primary book): Great Expectations chs. I, XIX, XX; Edwin Drood chs. I, XXIII; Bleak House ch. I.",
+      "Selection_Logic": "Acker's primary source; used to verify her lifts verbatim.",
+      "Elements": [
+        "L",
+        "Verified quotation",
+        "Concordance"
+      ],
+      "Quotes": "'just out of Smithfield, and close by the coach-office.' | 'This is the end of the first stage of Pip’s expectations.' | '‘Alone, deary; worse luck for me, and better for you,’ replies a croaking voice.'",
+      "Themes": "Dickens; source text; rewriting",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1252,
+        1266,
+        110
+      ],
+      "Date": 1793577600
+    }
   }
 ]

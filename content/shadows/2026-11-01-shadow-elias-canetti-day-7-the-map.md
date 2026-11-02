@@ -51,6 +51,7 @@ difficulty: 3
 | [[books/413-the-conscience-of-words-with-earwitness|The Conscience of Words]] (Elias Canetti) | **Edits/introduces** | Elias Canetti | 'The First Book: Auto-da-Fé', pp. 124–34 ('ina' is the OCR reading) |
 | [[books/418-the-play-of-the-eyes|The Play of the Eyes]] (Elias Canetti) | **Edits/introduces** | Elias Canetti | 'Büchner in the Desert'; also 'The “Black Statue”' |
 | [[books/3312-a-companion-to-the-works-of-elias-canetti|A Companion to the Works of Elias Canetti]] (Dagmar C. G. Lorenz (ed.); Hans Reiss) | **Mentions** | Elias Canetti | front matter, 'Principal Works by Year of First Publication'; Reiss, 'Canetti’s Attitude to Writers and Writings', p. 83 |
+| [[books/306-the-omnibus-homo-sacer-the-sacrament-of-language-a|The Omnibus Homo Sacer (Remnants of Auschwitz)]] (Giorgio Agamben) | **Argues with** | Elias Canetti | Remnants of Auschwitz, ch. 2 (Omnibus PDF, printed p. 795) |
 
 ---
 
@@ -242,4 +243,4 @@ So on your own shelves the word is in print 38 years before 2017 and, hyphenated
 ---
 
 Previous: [[shadows/2026-10-31-shadow-elias-canetti-day-6-the-crowd-is-cheated|Shadow — Elias Canetti, day 6: The Crowd Is Cheated]]  
-Next: —
+Next: [[shadows/2026-11-02-shadow-kathy-acker-day-1-the-card-says-alexandria|Shadow — Kathy Acker, day 1: The Card Says Alexandria]]

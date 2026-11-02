@@ -9,6 +9,7 @@ Readings ordered by difficulty, from the most visible connections to the most ob
 ## Difficulty 2
 
 - [[triads/2026-09-28-point-pause-chapter|Point, Pause, Chapter]] (2026-09-28)
+- [[shadows/2026-11-02-shadow-kathy-acker-day-1-the-card-says-alexandria|Shadow — Kathy Acker, day 1: The Card Says Alexandria]] (2026-11-02) · *An author and their shadow*
 
 ## Difficulty 3
 

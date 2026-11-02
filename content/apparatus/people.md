@@ -7,6 +7,7 @@ tags:
 Authors, editors, translators and contributors credited across the Triomnibus.
 
 - [[people/friedrich-achleitner|Friedrich Achleitner]] — editor
+- [[people/kathy-acker|Kathy Acker]] — author
 - [[people/giorgio-agamben|Giorgio Agamben]] — author
 - [[people/james-agee|James Agee]] — author
 - [[people/cesar-aira|César Aira]] — author
@@ -58,6 +59,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/michael-j-curley|Michael J. Curley]] — translator
 - [[people/nicholas-dames|Nicholas Dames]] — author
 - [[people/kirk-a-denton|Kirk A. Denton]] — editor
+- [[people/charles-dickens|Charles Dickens]] — author
 - [[people/annie-dillard|Annie Dillard]] — author
 - [[people/jonathan-dunne|Jonathan Dunne]] — translator
 - [[people/craig-dworkin|Craig Dworkin]] — author

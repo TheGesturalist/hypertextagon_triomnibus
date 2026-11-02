@@ -4,8 +4,9 @@ tags:
   - apparatus
 ---
 
-All 118 distinct books resurfaced across 39 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
+All 120 distinct books resurfaced across 40 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
 
+- [[people/kathy-acker|Kathy Acker]]. *[[books/1178-great-expectations|Great Expectations]]*. 1982 (Penguin Modern Classics EPUB 2018). Calibre ID 1178.
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/vincenzo-binetti|Vincenzo Binetti]] (translator), [[people/cesare-casarino|Cesare Casarino]] (translator). *[[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]*. 1992 (essay); Eng. 2000. Calibre ID 13685.
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/adam-kotsko|Adam Kotsko]] (translator). *[[books/306-the-omnibus-homo-sacer-the-sacrament-of-language-a|The Omnibus Homo Sacer ('The Sacrament of Language: An Archaeology of the Oath')]]*. 2008. Calibre ID 306.
 - [[people/james-agee|James Agee]], [[people/walker-evans|Walker Evans]] (contributor). *[[books/889-cotton-tenants-three-families|Cotton Tenants: Three Families]]*. 1936 (written); 2013 (first published). Calibre ID 889.
@@ -43,6 +44,7 @@ All 118 distinct books resurfaced across 39 daily readings, alphabetical by firs
 - [[people/stanley-corngold|Stanley Corngold]]. *[[books/6272-franz-kafka-the-necessity-of-form|Franz Kafka: The Necessity of Form]]*. 1988. Calibre ID 6272.
 - [[people/harry-crews|Harry Crews]]. *[[books/10998-a-childhood-the-biography-of-a-place|A Childhood: The Biography of a Place]]*. 1978. Calibre ID 10998.
 - [[people/nicholas-dames|Nicholas Dames]]. *[[books/11289-the-chapter-a-segmented-history-from-antiquity-to|The Chapter: A Segmented History From Antiquity to the Twenty-First Century]]*. 2023. Calibre ID 11289.
+- [[people/charles-dickens|Charles Dickens]]. *[[books/8747-complete-works-of-charles-dickens-illustrated|Complete Works of Charles Dickens (Illustrated)]]*. Delphi collection. Calibre ID 8747.
 - [[people/annie-dillard|Annie Dillard]]. *[[books/580-mornings-like-this|Mornings Like This]]*. 1995. Calibre ID 580.
 - [[people/craig-dworkin|Craig Dworkin]]. *[[books/4416-no-medium|No Medium]]*. 2013. Calibre ID 4416.
 - [[people/umberto-eco|Umberto Eco]], [[people/alastair-mcewen|Alastair McEwen]] (translator). *[[books/3929-kant-and-the-platypus-essays-on-language-and-cogni|Kant and the Platypus: Essays on Language and Cognition]]*. 1997. Calibre ID 3929.
