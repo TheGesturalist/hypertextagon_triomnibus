@@ -1987,5 +1987,50 @@
       "Author_Week": 1,
       "Week_Day": 1
     }
+  },
+  {
+    "id": 41,
+    "fields": {
+      "Date": 1793664000,
+      "Set_Title": "Shadow — Kathy Acker, day 2: The Room No One Else Wants",
+      "Thread": "Day 2 (who quotes her). A 7-word-shingle comparison of all 259 non-own Mentions books against Acker's four library books (1176, 1177, 1178, 10951) located verbatim quotation; three books read and collated: McCarthy, Typewriters, Bombs, Jellyfish (4206; 'Kathy Acker's Infidel Heteroglossia', 23 runs/526 words from four Acker books); Bal, Narratology 4th ed. 2017 (9197; 154-word run, the hexagon bedroom, p. 102); Campbell, Poetic Revolutionaries (5541; 58 runs/1,728 words). Finding: the field quotes a narrow band of Blood and Guts (Grove pp. 34–37): Bal and Campbell both reproduce Janey's hexagon bedroom in full citing p. 36 (FTS: no other book in the library has it); McCarthy and Bal both quote the 'rotgut' abortions sentence. Quoting her, each critic changes the smallest unit, the scale Acker worked at: McCarthy this→the world, 'We all'→'We', anything→everything, as if→as though, Bolitho→Boitho; Bal drops 'real', for just→just for; Campbell My room→My bedroom, +'kind of', −'red', −'that', −'is'. Witnesses check each other (Bal's Grove 1984 hexagon matches the Penguin 2017 EPUB exactly). McCarthy attributes to Empire of the Senseless lines ('Sex is public … Go over this threshold with me.') that stand in GE Part Three 'Inside' (here→there); Empire not in library, so open question. Campbell's chapter title 'Kathy Acker or Catheter the Hack' comes from Acker's own renaming in Don Quixote (not in library). Edges 36–43, all Quotes, all inward.",
+      "Connection_Kind": [
+        "L",
+        "Genealogy/influence",
+        "Shared figure or motif"
+      ],
+      "Difficulty": 2,
+      "Themes": "quotation; collation; variant; textual drift; critical apparatus; plagiarism; Blood and Guts in High School; Great Expectations; abortion; abjection; frequency; narratology; parody; Genet; Kristeva; Haraway; heteroglossia; leopard coat; naming; misattribution",
+      "Notebook_Prompts": "1. Campbell writes 'My bedroom is the room' where Acker wrote 'My room is the room', and a page later builds an argument on 'leopard coat' against 'leopard skin coat'. Write a page on attention: what makes a reader exact about one word and careless about the next?\n2. McCarthy proposes 'a powerful infidel heteroglossia' as a catalogue description. Write the catalogue card for Great Expectations that a librarian following him would file, with subject headings.\n3. Bal asks whether the hexagon passage turns iterative through one sentence. Find a passage in your own work where a single sentence changes how often everything before it has happened.",
+      "Rabbit_Holes": "https://thoughtgallery.org/?p=41146\nhttps://www.bookforum.com/culture/typewriters-bombs-jellyfish-by-tom-mccarthy-18066\nhttps://openjournals.library.sydney.edu.au/JASAL/article/view/10015/10212\nhttps://dro.deakin.edu.au/articles/book/Poetic_revolutionaries_intertextuality_and_subversion/20957095\nhttps://personal.unizar.es/garciala/publicaciones/structuralnarratology/3.Story/3.5.Aspect.html",
+      "Carry_Quote": "“My room is the room no one else in the world wants.” — Kathy Acker, Blood and Guts in High School, ‘Inside High School’ / ‘The Scorpions’ (Grove p. 36)",
+      "Status": "New",
+      "Theme_Links": [
+        "L",
+        666,
+        1267,
+        1268,
+        1269,
+        1270,
+        1192,
+        1271,
+        1253,
+        1272,
+        1273,
+        1274,
+        1275,
+        255,
+        1276,
+        1277,
+        1278,
+        1279,
+        1280,
+        628,
+        1281
+      ],
+      "Method": 2,
+      "Author_Week": 1,
+      "Week_Day": 2
+    }
   }
 ]

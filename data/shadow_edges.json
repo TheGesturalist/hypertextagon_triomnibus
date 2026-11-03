@@ -523,5 +523,125 @@
       "Evidence": "TARGET = Keats, 'The Eve of St. Agnes', Complete Works (8742): 'Numb were the Beadsman’s fingers, while he told'. Drift: Beadsman→beadman, limp’d→limped, Seem’d→Seemed, without→with out. Uncredited in the book.",
       "Verified": true
     }
+  },
+  {
+    "id": 36,
+    "fields": {
+      "Week": 1,
+      "Set": 41,
+      "Citing_Calibre_ID": 4206,
+      "Citing_Title": "Typewriters, Bombs, Jellyfish",
+      "Citing_Author": "Tom McCarthy",
+      "Relation": "Quotes",
+      "Quote": "“My mother,” writes its narrator O, “is a dummy and a piece of jellyfish. The most disgusting thing in this world is her. My worst nightmare is that I’ll have some of that jellyfish in me.”",
+      "Location": "'Kathy Acker's Infidel Heteroglossia', § I",
+      "Evidence": "TARGET = Acker, Great Expectations (1178), Part One, 'I Journey To Receive My Fortune': exact. Also exact: jellyfish nightmare and 'so they could do whatever they want with her … This identity doesn't exist.' ('The Underworlds Of The World'). Substring-checked in both EPUBs.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 37,
+    "fields": {
+      "Week": 1,
+      "Set": 41,
+      "Citing_Calibre_ID": 4206,
+      "Citing_Title": "Typewriters, Bombs, Jellyfish",
+      "Citing_Author": "Tom McCarthy",
+      "Relation": "Quotes",
+      "Quote": "As Empire, breaking into verse, states: “Sex is public: the streets made themselves for us to walk naked down them take out your cock and piss over me. / The threshold is there. . . . Go over this threshold with me.”",
+      "Location": "'Kathy Acker's Infidel Heteroglossia', § I (end)",
+      "Evidence": "Attributed to Empire of the Senseless (not in library). The lines stand in Great Expectations (1178), Part Three, 'Inside': 'Sex is public: the streets made themselves … piss over me.' / 'The threshold is here.' … 'Go over this threshold with me.' here→there. Whether Acker reused them in Empire cannot be checked here: open question, possible misattribution.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 38,
+    "fields": {
+      "Week": 1,
+      "Set": 41,
+      "Citing_Calibre_ID": 4206,
+      "Citing_Title": "Typewriters, Bombs, Jellyfish",
+      "Citing_Author": "Tom McCarthy",
+      "Relation": "Quotes",
+      "Quote": "“I’m not trying to tell you about the rotgut weird parts of my life,” she writes in Blood and Guts. “Abortions are the symbol, the outer image, of sexual relations in the world.",
+      "Location": "'Kathy Acker's Infidel Heteroglossia', §§ I–III",
+      "Evidence": "TARGET = Blood and Guts (10951, Penguin 2017 EPUB), 'The Scorpions': 'in this world' → 'in the world'. 'A book report': 'We all live in prison' → 'We live in prison'. Exact: 'tough, rotted, putrid beef' ('Parents stink'); Scarlet Letter line; 'There’s going to be a world …'.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 39,
+    "fields": {
+      "Week": 1,
+      "Set": 41,
+      "Citing_Calibre_ID": 4206,
+      "Citing_Title": "Typewriters, Bombs, Jellyfish",
+      "Citing_Author": "Tom McCarthy",
+      "Relation": "Quotes",
+      "Quote": "“I’ve remade the outside prison inside me,” she has him (or is it the other way round?) say in The Childlike Life, “because there’s no difference between outside and inside my mind: they release me from prison and I’m still in prison.”",
+      "Location": "'Kathy Acker's Infidel Heteroglossia', §§ I–II",
+      "Evidence": "TARGET = Portrait of an Eye (1177), The Childlike Life of the Black Tarantula: this and 'I’m trying to get away from self-expression …' exact. Variants: 'as if it were a web' → 'as though'; 'I can see anything' → 'everything' (ch. 4); 'W . Bolitho' → 'W. Boitho' (ch. 1); 'i move to san francisco … favorite' → capitals, 'FAVOURITE' (ch. 3).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 40,
+    "fields": {
+      "Week": 1,
+      "Set": 41,
+      "Citing_Calibre_ID": 4206,
+      "Citing_Title": "Typewriters, Bombs, Jellyfish",
+      "Citing_Author": "Tom McCarthy",
+      "Relation": "Quotes",
+      "Quote": "“One could say,” she writes in My Death My Life by Pier Paolo Pasolini, plagiarizing the magnificent climax of Flaubert’s The Temptation of Saint Anthony, “that he seeks to merge with unnameable nature, fleeing the weight of nomination in the unnameable texture of things, I want people to treat me as an animal, in the irregular indefinable movements of the foliage, of the waves. To be matter.”",
+      "Location": "'Kathy Acker's Infidel Heteroglossia', § I; Juliet/Romeo in § III",
+      "Evidence": "TARGET = Literal Madness (1176), My Death My Life: exact; Acker continues 'To be matter to matter.' Juliet/Romeo exchange ('What time tomorrow will we be able to fuck?') also exact.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 41,
+    "fields": {
+      "Week": 1,
+      "Set": 41,
+      "Citing_Calibre_ID": 9197,
+      "Citing_Title": "Narratology: Introduction to the Theory of Narrative (4th ed.)",
+      "Citing_Author": "Mieke Bal",
+      "Relation": "Quotes",
+      "Quote": "Of course, daddy and Sally and the boys in his band are given their rooms first. My room is the room no one else in the world wants. My bedroom is the huge white hexagon in the front left corner of the hotel.",
+      "Location": "ch. 2 'Story: Aspects', § 5 Frequency, p. 102",
+      "Evidence": "TARGET = Blood and Guts (10951), 'The Scorpions' (Bal cites Grove 1984 p. 36): 154-word block, exact against the Penguin 2017 EPUB. FTS '\"huge white hexagon\"': only 10951, 9197, 5541 in the library. Bal: 'The final sentence is totally unclear in terms of frequency.'",
+      "Verified": true
+    }
+  },
+  {
+    "id": 42,
+    "fields": {
+      "Week": 1,
+      "Set": 41,
+      "Citing_Calibre_ID": 9197,
+      "Citing_Title": "Narratology: Introduction to the Theory of Narrative (4th ed.)",
+      "Citing_Author": "Mieke Bal",
+      "Relation": "Quotes",
+      "Quote": "I’m not trying to tell you about the rotgut weird parts of my life. Abortions are the symbol, the outer image, of sexual relations in this world. Describing my abortions is the only way I can tell you about pain and fear ... my unstoppable drive for sexual love made me know. (34)",
+      "Location": "ch. 2 'Story: Aspects', § 4 Rhythm, pp. 98–99",
+      "Evidence": "TARGET = Blood and Guts (10951), 'The Scorpions': 'only real way' → 'only way'. Bakery passage: 'for just a second' → 'just for a second'; abortions-hurt passage exact. Quoted via an unnamed critic ('As one critic wrote'); Bal's only Acker bibliography entry is Ernst van Alphen, 'Excess and Sublimity in Kathy Acker's Narratives' (1997) — probable, unconfirmed.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 43,
+    "fields": {
+      "Week": 1,
+      "Set": 41,
+      "Citing_Calibre_ID": 5541,
+      "Citing_Title": "Poetic Revolutionaries: Intertextuality & Subversion",
+      "Citing_Author": "Marion May Campbell",
+      "Relation": "Quotes",
+      "Quote": "Of course, daddy and Sally and the boys in his band are given their rooms first. My bedroom is the room no one else in the world wants. My bedroom is the huge white hexagon in the front left corner of the hotel. It has no clear outside or inside or any kind of architectural regularity.",
+      "Location": "ch. 4 'Kathy Acker or Catheter the Hack', pp. 167–168 (nn. 42–46)",
+      "Evidence": "TARGET = Blood and Guts (10951), 'The Scorpions' (Campbell cites Blood and Guts in High School Plus Two, London 1984, pp. 35–36). Variants vs EPUB: 'My room'→'My bedroom'; +'kind of'; 'a red sweater'→'a sweater'; 'would know that I'→'would know I'; 'is now, is really'→'is now, really'. 'My cunt used to be a men’s toilet.' and 'I walk out in a leopard coat.' exact. 58 verbatim runs from BG in the book (1,728 words). Also quotes Acker's Don Quixote (not in library), p. 155: 'so, she decided, “catheter” is the glorification of “Kathy”.' — source of the chapter title.",
+      "Verified": true
+    }
   }
 ]

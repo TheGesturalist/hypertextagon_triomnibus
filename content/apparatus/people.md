@@ -18,6 +18,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/hannah-arendt|Hannah Arendt]] — translator
 - [[people/joaquim-maria-machado-de-assis|Joaquim Maria Machado de Assis]] — author
 - [[people/arseny-avraamov|Arseny Avraamov]] — author
+- [[people/mieke-bal|Mieke Bal]] — author
 - [[people/gennady-barabtarlo|Gennady Barabtarlo]] — editor
 - [[people/meyer-barash|Meyer Barash]] — translator
 - [[people/roland-barthes|Roland Barthes]] — author
@@ -44,6 +45,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/robert-burton|Robert Burton]] — author
 - [[people/heimrad-backer|Heimrad Bäcker]] — author
 - [[people/italo-calvino|Italo Calvino]] — author
+- [[people/marion-may-campbell|Marion May Campbell]] — author
 - [[people/elias-canetti|Elias Canetti]] — author
 - [[people/john-carey|John Carey]] — author
 - [[people/leonora-carrington|Leonora Carrington]] — author

@@ -21,7 +21,11 @@ Named by the week's Day_Plan; Gestext-flagged; Part One is titled 'Plagiarism', 
 
 *Verified against the book's own text on the day of the reading.*
 
-- 'My father’s name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Peter.' | 'just outside Alexandria, and close by the taxi stand.' | 'I shall die at sixty before having formed any opinion concerning myself.' | 'that’s why one text must subvert (the meaning of) another text until there’s only background music like reggae' | 'It’s a common belief that something exists when it’s part of a narrative.'
+- “My father’s name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Peter.” (Part One, ‘I Recall My Childhood’)
+- “just outside Alexandria, and close by the taxi stand.” (Part One, ‘I Journey To Receive My Fortune’)
+- “I shall die at sixty before having formed any opinion concerning myself.” (Part One, ‘I Journey To Receive My Fortune’)
+- “that’s why one text must subvert (the meaning of) another text until there’s only background music like reggae” (Part One, ‘I Recall My Childhood’)
+- “It’s a common belief that something exists when it’s part of a narrative.” (Part Two, ‘Day’)
 
 ## Themes
 

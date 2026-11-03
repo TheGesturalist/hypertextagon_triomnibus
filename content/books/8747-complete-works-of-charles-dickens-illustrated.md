@@ -21,7 +21,9 @@ Acker's primary source; used to verify her lifts verbatim.
 
 *Verified against the book's own text on the day of the reading.*
 
-- 'just out of Smithfield, and close by the coach-office.' | 'This is the end of the first stage of Pip’s expectations.' | '‘Alone, deary; worse luck for me, and better for you,’ replies a croaking voice.'
+- “just out of Smithfield, and close by the coach-office.” (Great Expectations, ch. XX)
+- “This is the end of the first stage of Pip’s expectations.” (Great Expectations, ch. XIX)
+- “‘Alone, deary; worse luck for me, and better for you,’ replies a croaking voice.” (The Mystery of Edwin Drood, ch. XXIII)
 
 ## Themes
 

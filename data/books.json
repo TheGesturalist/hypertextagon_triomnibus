@@ -4295,7 +4295,7 @@
         "Misreading worth attempting",
         "Derived list"
       ],
-      "Quotes": "'My father’s name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Peter.' | 'just outside Alexandria, and close by the taxi stand.' | 'I shall die at sixty before having formed any opinion concerning myself.' | 'that’s why one text must subvert (the meaning of) another text until there’s only background music like reggae' | 'It’s a common belief that something exists when it’s part of a narrative.'",
+      "Quotes": "“My father’s name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Peter.” (Part One, ‘I Recall My Childhood’)\n“just outside Alexandria, and close by the taxi stand.” (Part One, ‘I Journey To Receive My Fortune’)\n“I shall die at sixty before having formed any opinion concerning myself.” (Part One, ‘I Journey To Receive My Fortune’)\n“that’s why one text must subvert (the meaning of) another text until there’s only background music like reggae” (Part One, ‘I Recall My Childhood’)\n“It’s a common belief that something exists when it’s part of a narrative.” (Part Two, ‘Day’)",
       "Themes": "plagiarism; rewriting; Dickens; substitution; splicing; inheritance; mother; attribution",
       "Followed_Up": false,
       "Theme_Links": [
@@ -4328,7 +4328,7 @@
         "Verified quotation",
         "Concordance"
       ],
-      "Quotes": "'just out of Smithfield, and close by the coach-office.' | 'This is the end of the first stage of Pip’s expectations.' | '‘Alone, deary; worse luck for me, and better for you,’ replies a croaking voice.'",
+      "Quotes": "“just out of Smithfield, and close by the coach-office.” (Great Expectations, ch. XX)\n“This is the end of the first stage of Pip’s expectations.” (Great Expectations, ch. XIX)\n“‘Alone, deary; worse luck for me, and better for you,’ replies a croaking voice.” (The Mystery of Edwin Drood, ch. XXIII)",
       "Themes": "Dickens; source text; rewriting",
       "Followed_Up": false,
       "Theme_Links": [
@@ -4338,6 +4338,144 @@
         110
       ],
       "Date": 1793577600
+    }
+  },
+  {
+    "id": 125,
+    "fields": {
+      "Set": 41,
+      "Calibre_ID": 4206,
+      "Title": "Typewriters, Bombs, Jellyfish",
+      "Author": "Tom McCarthy",
+      "Year": "2017 (New York Review Books)",
+      "File_Format": "EPUB",
+      "Role_in_Set": "Day 2 primary (quotes Acker): final essay 'Kathy Acker's Infidel Heteroglossia' (lecture, Center for Fiction, 9 May 2017), read whole and collated against four Acker books in the library.",
+      "Selection_Logic": "Top novelist in the verbatim-overlap scan of the week's Mentions (23 runs of 10+ words, 526 words); the only one of today's books to quote Great Expectations (day 1). Mentions row 423.",
+      "Elements": [
+        "L",
+        "Concordance",
+        "Verified quotation",
+        "Excerpt",
+        "Misreading worth attempting"
+      ],
+      "Quotes": "“My mother,” writes its narrator O, “is a dummy and a piece of jellyfish. The most disgusting thing in this world is her. My worst nightmare is that I’ll have some of that jellyfish in me.” (‘Kathy Acker’s Infidel Heteroglossia’, § I)\n“an Acker plagiarism is instantly distinguishable from one by, say, her early mentor Burroughs or her younger admirer Stewart Home” (‘Kathy Acker’s Infidel Heteroglossia’, § I)\n“We live in prison,” Acker writes in Blood and Guts. “Most of us don’t know we live in prison.” (‘Kathy Acker’s Infidel Heteroglossia’, § II)\n“Those last four words (librarians take note) would constitute a fitting catalog description of Acker’s oeuvre.” (‘Kathy Acker’s Infidel Heteroglossia’, § III)\n“It might just be that the final measure of a writer is not so much what they achieve themselves as what they render possible for others.” (‘Kathy Acker’s Infidel Heteroglossia’, § III)",
+      "Themes": "quotation; abjection; Kristeva; Agamben; Sade; Haraway; heteroglossia; plagiarism; misattribution; Empire of the Senseless",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        666,
+        1273,
+        1277,
+        1037,
+        1282,
+        1278,
+        1279,
+        1192,
+        1281,
+        1283
+      ],
+      "Date": 1793664000
+    }
+  },
+  {
+    "id": 126,
+    "fields": {
+      "Set": 41,
+      "Calibre_ID": 9197,
+      "Title": "Narratology: Introduction to the Theory of Narrative",
+      "Author": "Mieke Bal",
+      "Year": "2017 (4th ed., University of Toronto Press; catalogue date 1978 is wrong)",
+      "File_Format": "PDF",
+      "Role_in_Set": "Day 2 primary (quotes Acker): ch. 2 'Story: Aspects', § 4 Rhythm (pp. 98–99) and § 5 Frequency (p. 102), read and collated against Blood and Guts.",
+      "Selection_Logic": "Most telling quotation in the scan: the longest verbatim Acker run (154 words) outside anthology reprints, in a standard textbook. Mentions row 515.",
+      "Elements": [
+        "L",
+        "Excerpt",
+        "Verified quotation",
+        "Derived list",
+        "Misreading worth attempting"
+      ],
+      "Quotes": "“With postmodernism, the question of narrative rhythm along these lines loses its meaning altogether.” (ch. 2 § 4, p. 98)\n“As one critic wrote: ‘When Janey tells about the abortions in her life, she immediately makes clear that they should not be seen as dramatic moments in a life story. She tells about her abortions because they have for her symbolic value.’” (ch. 2 § 4, p. 99)\n“My room is the room no one else in the world wants. My bedroom is the huge white hexagon in the front left corner of the hotel.” (ch. 2 § 5, p. 102, quoting Blood and Guts 36)\n“The final sentence is totally unclear in terms of frequency.” (ch. 2 § 5, p. 102)",
+      "Themes": "narratology; rhythm; frequency; iterative; postmodernism; abortion; Blood and Guts in High School; van Alphen",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1275,
+        732,
+        1274,
+        1284,
+        219,
+        1272,
+        1271,
+        1285
+      ],
+      "Date": 1793664000
+    }
+  },
+  {
+    "id": 127,
+    "fields": {
+      "Set": 41,
+      "Calibre_ID": 5541,
+      "Title": "Poetic Revolutionaries: Intertextuality & Subversion",
+      "Author": "Marion May Campbell",
+      "Year": "2014 (Rodopi, Postmodern Studies 50)",
+      "File_Format": "PDF",
+      "Role_in_Set": "Day 2 primary (quotes Acker): ch. 4 'Kathy Acker or Catheter the Hack' (pp. 153–175 read), collated against Blood and Guts.",
+      "Selection_Logic": "Heaviest quoter of Acker in the library: 58 verbatim runs from Blood and Guts, 1,728 words; second only to Myles's Pathetic Literature (4852), which reprints part of Great Expectations. Mentions row 457.",
+      "Elements": [
+        "L",
+        "Concordance",
+        "Verified quotation",
+        "Excerpt",
+        "Misreading worth attempting"
+      ],
+      "Quotes": "“so, she decided, ‘catheter’ is the glorification of ‘Kathy’.” (ch. 4, p. 155, quoting Acker, Don Quixote)\n“My bedroom is the room no one else in the world wants.” (ch. 4, p. 168, quoting Blood and Guts 36; Acker has ‘My room’)\n“The dream narrative here condenses the theme of desire and commodification with the cogito, I am aborted therefore I am.” (ch. 4, p. 168)\n“Of course yoking them together, Acker is asserting consequence.” (ch. 4, p. 168, n. 45)\n“Acker wickedly reverses the order and reduces Genet to KathyJaney’s shadow, thus making him the shadow’s shadow and feminising him to the second degree.” (ch. 4, p. 175)",
+      "Themes": "parody; intertextuality; Genet; Wittig; Carter; Don Quixote; naming; leopard coat; shoplifting; commodity; abjection",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        255,
+        1286,
+        1276,
+        1287,
+        1288,
+        1289,
+        628,
+        1280,
+        1290,
+        1291,
+        1273
+      ],
+      "Date": 1793664000
+    }
+  },
+  {
+    "id": 128,
+    "fields": {
+      "Set": 41,
+      "Calibre_ID": 10951,
+      "Title": "Blood and Guts in High School",
+      "Author": "Kathy Acker",
+      "Year": "1978/1984 (Penguin Classics EPUB 2017)",
+      "File_Format": "EPUB",
+      "Role_in_Set": "Source check only (not a primary book; reserved for day 6): base text for collating Bal, Campbell and McCarthy.",
+      "Selection_Logic": "The Acker book that today's quoters quote most; used to verify their quotations.",
+      "Elements": [
+        "L",
+        "Verified quotation",
+        "Concordance"
+      ],
+      "Quotes": "“My room is the room no one else in the world wants.” (Inside High School, ‘The Scorpions’)\n“I’m not trying to tell you about the rotgut weird parts of my life. Abortions are the symbol, the outer image, of sexual relations in this world.” (Inside High School, ‘The Scorpions’)\n“We all live in prison. Most of us don’t know we live in prison.” (Outside High School, ‘A book report’)",
+      "Themes": "source text; Blood and Guts in High School; collation",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1266,
+        1271,
+        1267
+      ],
+      "Date": 1793664000
     }
   }
 ]

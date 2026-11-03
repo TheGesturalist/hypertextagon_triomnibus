@@ -4,8 +4,9 @@ tags:
   - apparatus
 ---
 
-All 120 distinct books resurfaced across 40 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
+All 124 distinct books resurfaced across 41 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
 
+- [[people/kathy-acker|Kathy Acker]]. *[[books/10951-blood-and-guts-in-high-school|Blood and Guts in High School]]*. 1978/1984 (Penguin Classics EPUB 2017). Calibre ID 10951.
 - [[people/kathy-acker|Kathy Acker]]. *[[books/1178-great-expectations|Great Expectations]]*. 1982 (Penguin Modern Classics EPUB 2018). Calibre ID 1178.
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/vincenzo-binetti|Vincenzo Binetti]] (translator), [[people/cesare-casarino|Cesare Casarino]] (translator). *[[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]*. 1992 (essay); Eng. 2000. Calibre ID 13685.
 - [[people/giorgio-agamben|Giorgio Agamben]], [[people/adam-kotsko|Adam Kotsko]] (translator). *[[books/306-the-omnibus-homo-sacer-the-sacrament-of-language-a|The Omnibus Homo Sacer ('The Sacrament of Language: An Archaeology of the Oath')]]*. 2008. Calibre ID 306.
@@ -15,6 +16,7 @@ All 120 distinct books resurfaced across 40 daily readings, alphabetical by firs
 - [[people/philip-s-alexander|Philip S. Alexander]] (editor), [[people/armin-lange|Armin Lange]] (editor), [[people/renate-j-pillinger|Renate J. Pillinger]] (editor). *[[books/6896-in-the-second-degree-paratextual-literature-in-anc|In the Second Degree: Paratextual Literature in Ancient Near Eastern and Ancient Mediterranean Culture and Its Reflections in Medieval Literature]]*. 2010. Calibre ID 6896.
 - [[people/anonymous|Anonymous]], [[people/michael-j-curley|Michael J. Curley]] (translator). *[[books/4597-physiologus-a-medieval-book-of-nature-lore|Physiologus: A Medieval Book of Nature Lore]]*. c. 2nd c. AD (Greek); trans. 1979. Calibre ID 4597.
 - [[people/joaquim-maria-machado-de-assis|Joaquim Maria Machado de Assis]], [[people/william-l-grossman|William L. Grossman]] (translator). *[[books/1138-the-alienist|The Alienist]]*. 1882. Calibre ID 1138.
+- [[people/mieke-bal|Mieke Bal]]. *[[books/9197-narratology-introduction-to-the-theory-of-narrativ|Narratology: Introduction to the Theory of Narrative]]*. 2017 (4th ed., University of Toronto Press; catalogue date 1978 is wrong). Calibre ID 9197.
 - [[people/roland-barthes|Roland Barthes]], [[people/nathalie-leger|Nathalie Léger]] (editor), [[people/richard-howard|Richard Howard]] (translator). *[[books/182-mourning-diary|Mourning Diary]]*. 1977-79 (written); 2009 (Journal de deuil). Calibre ID 182.
 - [[people/georges-bataille|Georges Bataille]], [[people/marina-galletti|Marina Galletti]] (editor), [[people/alastair-brotchie|Alastair Brotchie]] (editor), [[people/natasha-lehrer|Natasha Lehrer]] (translator), [[people/john-harman|John Harman]] (translator), [[people/meyer-barash|Meyer Barash]] (translator). *[[books/7729-the-sacred-conspiracy-the-internal-papers-of-the-s|The Sacred Conspiracy: The Internal Papers of the Secret Society of Acéphale and Lectures to the College of Sociology]]*. 1936–1939 (papers); 2017/2018 (Atlas Press edition). Calibre ID 7729.
 - [[people/ibn-battuta|Ibn Battuta]], [[people/samuel-lee|Samuel Lee]] (translator). *[[books/13883-the-travels-of-ibn-battuta-in-the-near-east-asia-a|The Travels of Ibn Battuta: In the Near East, Asia and Africa, 1325-1354]]*. 1829 (Lee translation). Calibre ID 13883.
@@ -28,6 +30,7 @@ All 120 distinct books resurfaced across 40 daily readings, alphabetical by firs
 - [[people/robert-burton|Robert Burton]]. *[[books/8773-the-anatomy-of-melancholy|The Anatomy of Melancholy]]*. 1621. Calibre ID 8773.
 - [[people/heimrad-backer|Heimrad Bäcker]], [[people/patrick-greaney|Patrick Greaney]] (translator), [[people/vincent-kling|Vincent Kling]] (translator), [[people/friedrich-achleitner|Friedrich Achleitner]] (editor). *[[books/9312-transcript|Transcript]]*. 1986. Calibre ID 9312.
 - [[people/italo-calvino|Italo Calvino]], [[people/william-weaver|William Weaver]] (translator). *[[books/7787-if-on-a-winter-s-night-a-traveler|If on a Winter's Night a Traveler]]*. 1979 (Eng. 1981). Calibre ID 7787.
+- [[people/marion-may-campbell|Marion May Campbell]]. *[[books/5541-poetic-revolutionaries-intertextuality-subversion|Poetic Revolutionaries: Intertextuality & Subversion]]*. 2014 (Rodopi, Postmodern Studies 50). Calibre ID 5541.
 - [[people/elias-canetti|Elias Canetti]]. *[[books/14962-auto-da-fe|Auto-Da-Fé]]*. 1935. Calibre ID 14962.
 - [[people/elias-canetti|Elias Canetti]], [[people/carol-stewart|Carol Stewart]] (translator). *[[books/14938-crowds-and-power|Crowds and Power]]*. 1960 (German); English 1962. Calibre ID 14938.
 - [[people/elias-canetti|Elias Canetti]], [[people/christopher-middleton|Christopher Middleton]] (translator). *[[books/3246-kafka-s-other-trial-the-letters-to-felice|Kafka's Other Trial: The Letters to Felice]]*. 1969 (English 1974). Calibre ID 3246.
@@ -87,6 +90,7 @@ All 120 distinct books resurfaced across 40 daily readings, alphabetical by firs
 - [[people/catherine-malabou|Catherine Malabou]], [[people/tyler-m-williams|Tyler M. Williams]] (editor), [[people/dashiell-wasserman|Dashiell Wasserman]] (translator). *[[books/907-plasticity-the-promise-of-explosion-catalogued-as|Plasticity: The Promise of Explosion (catalogued as 'Plasticity at the Dusk of Writing')]]*. 2022 (ch. 8 delivered Cerisy 2002; French 2004). Calibre ID 907.
 - [[people/paul-mattick|Paul Mattick]]. *[[books/997-art-in-its-time-theories-and-practices-of-modern-a|Art in Its Time: Theories and Practices of Modern Aesthetics]]*. 2003. Calibre ID 997.
 - [[people/tom-mccarthy|Tom McCarthy]]. *[[books/4209-remainder|Remainder]]*. 2005 (Metronome Press); Vintage ed. 2007. Calibre ID 4209.
+- [[people/tom-mccarthy|Tom McCarthy]]. *[[books/4206-typewriters-bombs-jellyfish|Typewriters, Bombs, Jellyfish]]*. 2017 (New York Review Books). Calibre ID 4206.
 - [[people/henri-michaux|Henri Michaux]], [[people/richard-sieburth|Richard Sieburth]] (translator). *[[books/5489-a-certain-plume|A Certain Plume]]*. 1930. Calibre ID 5489.
 - [[people/joseph-mitchell|Joseph Mitchell]]. *[[books/4670-up-in-the-old-hotel|Up in the Old Hotel]]*. 1992 (collection; pieces 1938–1964). Calibre ID 4670.
 - [[people/franco-moretti|Franco Moretti]]. *[[books/5420-network-theory-plot-analysis-literary-lab-pamphlet|Network Theory, Plot Analysis (Literary Lab Pamphlet 2)]]*. 2011. Calibre ID 5420.

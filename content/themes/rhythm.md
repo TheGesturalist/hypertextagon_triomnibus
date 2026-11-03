@@ -12,3 +12,4 @@ tags:
 ## Books
 
 - [[books/1003-gesture-and-speech|Gesture and Speech]]
+- [[books/9197-narratology-introduction-to-the-theory-of-narrativ|Narratology: Introduction to the Theory of Narrative]]

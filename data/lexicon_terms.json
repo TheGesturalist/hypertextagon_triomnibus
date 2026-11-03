@@ -4096,5 +4096,154 @@
       "WN_Gloss": "",
       "WN_Hypernyms": ""
     }
+  },
+  {
+    "id": 140,
+    "fields": {
+      "Term": "ratiocinate",
+      "Status": "Auto",
+      "My_Definition": "to use ones rational abilities to arrive at an outcome",
+      "Received_Definition": "To reason formally and methodically, passing from premises to a conclusion; classically, to infer a third judgment from two given ones. Most writers treat it as a synonym for reasoning, though J. S. Mill and others restricted it to necessary (deductive) reasoning. Now rare outside elevated or ironic use.",
+      "Etymology": "From Latin ratiocinatus, past participle of ratiocinari (to reckon, compute; to reason, infer), from ratio (reckoning, reason) + -cinari, probably related to conari (to endeavor). Verb attested in English 1640s; the noun ratiocination is earlier (1520s).",
+      "Original_Script": "",
+      "Pronunciation": "/ˌɹætiˈosəˌneɪt/",
+      "Language": "English (from Latin)",
+      "Category": 0,
+      "Gravity": 0.1,
+      "Lineages": [
+        "L",
+        160,
+        86,
+        145
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": [
+        "L",
+        "bstd"
+      ],
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Broad usage equates it with reasoning in general; the stricter logical usage (Mill) confines it to necessary inference, excluding induction.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-00634927-v",
+      "WN_Lexname": "verb.cognition",
+      "WN_Gloss": "reason methodologically and logically",
+      "WN_Hypernyms": "reason"
+    }
+  },
+  {
+    "id": 141,
+    "fields": {
+      "Term": "Mam­mon",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Wealth or material gain personified as a false god or corrupting power that competes with God for devotion (\"Ye cannot serve God and mammon\"); by extension, riches regarded as an evil influence. Medieval readers took the word for the name of a demon of avarice.",
+      "Etymology": "From Aramaic mamona / mamon (riches, gain), via Ecclesiastical Greek mamōnas and Late Latin mammona. Left untranslated in the Greek New Testament (Matthew 6:24; Luke 16:9–13) and the Vulgate, hence read as a proper name. In English from the mid-14th century.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "English (from Aramaic)",
+      "Category": 4,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        81,
+        83
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Wavers between an abstract noun (lowercase mammon, wealth as corrupting) and a proper name for a personified spirit or demon (Mammon); the demonic reading is a medieval accretion, not in the Gospel text.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-09514455-n",
+      "WN_Lexname": "noun.person",
+      "WN_Gloss": "(New Testament) a personification of wealth and avarice as an evil spirit",
+      "WN_Hypernyms": "imaginary being"
+    }
+  },
+  {
+    "id": 142,
+    "fields": {
+      "Term": "pyrrhic",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Of a victory or success: won at so heavy a cost to the victor that it is tantamount to defeat. After Pyrrhus of Epirus, whose army beat the Romans at Asculum (279 BCE) but lost so many men that he could not press on, reportedly saying that one more such victory would undo him.",
+      "Etymology": "From the name of King Pyrrhus of Epirus; Greek Pyrrhos (\"red-haired\", from pyrrhos, flame-coloured, from pyr, fire). \"Pyrrhic victory\" in English from 1885. Homograph: pyrrhic (n.), a Greek war-dance in armour (1590s) and a metrical foot of two short syllables (1620s), from Greek pyrrikhē, traditionally named for its inventor Pyrrhikhos.",
+      "Original_Script": "",
+      "Pronunciation": "/ˈpɪrɪk/",
+      "Language": "English (from Greek)",
+      "Category": 4,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        163,
+        87
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Three senses share the spelling (victory, dance, metrical foot); only the victory sense derives from Pyrrhus. Often loosely used for any costly win rather than one whose cost cancels the gain.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-03118518-a",
+      "WN_Lexname": "adj.pert",
+      "WN_Gloss": "of or relating to or resembling Pyrrhus or his exploits (especially his sustaining staggering losses in order to defeat the Romans)",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 143,
+    "fields": {
+      "Term": "Cohomology",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "In algebraic topology and beyond, a sequence of abelian groups (often rings) attached to a space or other object, usually defined from a cochain complex dual to the chain complex of homology. Its classes measure whether locally consistent data (cocycles) can be glued into global data, modulo data arising trivially (coboundaries). The cup product gives it a ring structure, making it usually a stronger invariant than homology. Term introduced by Hassler Whitney (1937).",
+      "Etymology": "co- (dual, as in category-theoretic reversal of arrows) + homology, from Greek homologos (agreeing, corresponding). The word was introduced by Hassler Whitney in \"On matrices of integers and combinatorial topology\", Duke Mathematical Journal (1937); the concept was set out independently by Kolmogorov and Alexander in 1935.",
+      "Original_Script": "",
+      "Pronunciation": "/ˌkoʊhəˈmɒlədʒi/",
+      "Language": "English (mathematics)",
+      "Category": 2,
+      "Gravity": 0.3,
+      "Lineages": [
+        "L",
+        162,
+        36,
+        161
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Not a single theory but a family (singular, de Rham, Čech, sheaf, group cohomology, etc.) that agree on nice spaces and diverge elsewhere. Reaches visualization through topological data analysis (persistent (co)homology).",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 144,
+    "fields": {
+      "Term": "crozier",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "The hooked pastoral staff carried by or before a bishop as the emblem of pastoral office. Strictly the word first named the bearer of the staff; applied to the staff itself since the 18th century, now the standard sense.",
+      "Etymology": "From Old French crocier, Medieval Latin crociarius (bearer of a cross), from crocia (cross), merged with Old French croisier (one who bears a cross); ultimately from Latin crux. Late 13th century for the staff-bearer; applied to the staff itself from 1733.",
+      "Original_Script": "",
+      "Pronunciation": "/ˈkroʊʒər/",
+      "Language": "English (from Old French)",
+      "Category": 6,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        83
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "The word's root is 'cross' while the object is usually a crook; dictionary glosses (e.g. WordNet's 'crook or cross') still straddle the two. The staff sense began as an error for the bearer.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-07282014-n",
+      "WN_Lexname": "noun.communication",
+      "WN_Gloss": "a staff surmounted by a crook or cross carried by bishops as a symbol of pastoral office",
+      "WN_Hypernyms": "staff"
+    }
   }
 ]

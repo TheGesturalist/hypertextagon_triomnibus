@@ -6,9 +6,19 @@ tags:
 
 Every quotation recorded for a book, grouped by book. Each was checked against the book's own text on the day it was used.
 
+### [[books/10951-blood-and-guts-in-high-school|Blood and Guts in High School]]
+
+- “My room is the room no one else in the world wants.” (Inside High School, ‘The Scorpions’)
+- “I’m not trying to tell you about the rotgut weird parts of my life. Abortions are the symbol, the outer image, of sexual relations in this world.” (Inside High School, ‘The Scorpions’)
+- “We all live in prison. Most of us don’t know we live in prison.” (Outside High School, ‘A book report’)
+
 ### [[books/1178-great-expectations|Great Expectations]]
 
-- 'My father’s name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Peter.' | 'just outside Alexandria, and close by the taxi stand.' | 'I shall die at sixty before having formed any opinion concerning myself.' | 'that’s why one text must subvert (the meaning of) another text until there’s only background music like reggae' | 'It’s a common belief that something exists when it’s part of a narrative.'
+- “My father’s name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Peter.” (Part One, ‘I Recall My Childhood’)
+- “just outside Alexandria, and close by the taxi stand.” (Part One, ‘I Journey To Receive My Fortune’)
+- “I shall die at sixty before having formed any opinion concerning myself.” (Part One, ‘I Journey To Receive My Fortune’)
+- “that’s why one text must subvert (the meaning of) another text until there’s only background music like reggae” (Part One, ‘I Recall My Childhood’)
+- “It’s a common belief that something exists when it’s part of a narrative.” (Part Two, ‘Day’)
 
 ### [[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]
 
@@ -89,6 +99,13 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 ### [[books/1138-the-alienist|The Alienist]]
 
 - "“Science,” he told His Majesty, “is my only office; Itaguai, my universe.”" (ch. I) | "The building had a courtyard in the center and two hundred cubicles, each with one window." (ch. I) | "At the end of four months the Green House was a little community in itself. A gallery with thirty-seven more cubicles had to be added." (ch. II) | "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." (ch. IV) | "In one gallery lived only those whose outstanding moral quality was modesty." (ch. XII) | "He entered the Green House, shut the door behind him, and set about the business of curing himself." (ch. XIII)
+
+### [[books/9197-narratology-introduction-to-the-theory-of-narrativ|Narratology: Introduction to the Theory of Narrative]]
+
+- “With postmodernism, the question of narrative rhythm along these lines loses its meaning altogether.” (ch. 2 § 4, p. 98)
+- “As one critic wrote: ‘When Janey tells about the abortions in her life, she immediately makes clear that they should not be seen as dramatic moments in a life story. She tells about her abortions because they have for her symbolic value.’” (ch. 2 § 4, p. 99)
+- “My room is the room no one else in the world wants. My bedroom is the huge white hexagon in the front left corner of the hotel.” (ch. 2 § 5, p. 102, quoting Blood and Guts 36)
+- “The final sentence is totally unclear in terms of frequency.” (ch. 2 § 5, p. 102)
 
 ### [[books/182-mourning-diary|Mourning Diary]]
 
@@ -205,6 +222,14 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “For an instant I seem to understand the meaning and fascination of a now inconceivable vocation: that of the copyist.” (ch. 8)
 - “if you need little to set the imagination going, I require even less: the promise of reading is enough.” (ch. 11)
 - “Just a moment, I've almost finished If on a winter's night a traveler by Italo Calvino.” (ch. 12)
+
+### [[books/5541-poetic-revolutionaries-intertextuality-subversion|Poetic Revolutionaries: Intertextuality & Subversion]]
+
+- “so, she decided, ‘catheter’ is the glorification of ‘Kathy’.” (ch. 4, p. 155, quoting Acker, Don Quixote)
+- “My bedroom is the room no one else in the world wants.” (ch. 4, p. 168, quoting Blood and Guts 36; Acker has ‘My room’)
+- “The dream narrative here condenses the theme of desire and commodification with the cogito, I am aborted therefore I am.” (ch. 4, p. 168)
+- “Of course yoking them together, Acker is asserting consequence.” (ch. 4, p. 168, n. 45)
+- “Acker wickedly reverses the order and reduces Genet to KathyJaney’s shadow, thus making him the shadow’s shadow and feminising him to the second degree.” (ch. 4, p. 175)
 
 ### [[books/14962-auto-da-fe|Auto-Da-Fé]]
 
@@ -324,7 +349,9 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 
 ### [[books/8747-complete-works-of-charles-dickens-illustrated|Complete Works of Charles Dickens (Illustrated)]]
 
-- 'just out of Smithfield, and close by the coach-office.' | 'This is the end of the first stage of Pip’s expectations.' | '‘Alone, deary; worse luck for me, and better for you,’ replies a croaking voice.'
+- “just out of Smithfield, and close by the coach-office.” (Great Expectations, ch. XX)
+- “This is the end of the first stage of Pip’s expectations.” (Great Expectations, ch. XIX)
+- “‘Alone, deary; worse luck for me, and better for you,’ replies a croaking voice.” (The Mystery of Edwin Drood, ch. XXIII)
 
 ### [[books/580-mornings-like-this|Mornings Like This]]
 
@@ -682,6 +709,14 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “I and the other re-enactors were like a set of devotees to a religion not yet founded: patient, waiting for our deity to appear, to manifest himself to us, redeem us; and our gestures were all votive ones, acts of anticipation.” (ch. 16)
 - “Go?” I said. “Nowhere. Just keep doing this.” (ch. 16)
 - Excerpt: ch. 2, the carrot
+
+### [[books/4206-typewriters-bombs-jellyfish|Typewriters, Bombs, Jellyfish]]
+
+- “My mother,” writes its narrator O, “is a dummy and a piece of jellyfish. The most disgusting thing in this world is her. My worst nightmare is that I’ll have some of that jellyfish in me.” (‘Kathy Acker’s Infidel Heteroglossia’, § I)
+- “an Acker plagiarism is instantly distinguishable from one by, say, her early mentor Burroughs or her younger admirer Stewart Home” (‘Kathy Acker’s Infidel Heteroglossia’, § I)
+- “We live in prison,” Acker writes in Blood and Guts. “Most of us don’t know we live in prison.” (‘Kathy Acker’s Infidel Heteroglossia’, § II)
+- “Those last four words (librarians take note) would constitute a fitting catalog description of Acker’s oeuvre.” (‘Kathy Acker’s Infidel Heteroglossia’, § III)
+- “It might just be that the final measure of a writer is not so much what they achieve themselves as what they render possible for others.” (‘Kathy Acker’s Infidel Heteroglossia’, § III)
 
 ### [[books/5489-a-certain-plume|A Certain Plume]]
 

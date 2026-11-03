@@ -4,7 +4,7 @@ title: "The Hypertext Triomnibus"
 
 *Scribrarium — Daily Resurfacings from a Thirteen-Thousand-Volume Library.*
 
-40 days and 120 distinct books resurfaced from one private library and read from their own files for what passes between them. Volume 1 (*Triads*) reads three books at a time across shared forms, motifs, genealogies, and conflicts; Volume 2 (*An Author and Their Shadow*) tracks a single writer per week across the library's full-text index.
+41 days and 124 distinct books resurfaced from one private library and read from their own files for what passes between them. Volume 1 (*Triads*) reads three books at a time across shared forms, motifs, genealogies, and conflicts; Volume 2 (*An Author and Their Shadow*) tracks a single writer per week across the library's full-text index.
 
 ## Ways in
 
@@ -28,6 +28,7 @@ title: "The Hypertext Triomnibus"
 6. 2026-10-31 — [[shadows/2026-10-31-shadow-elias-canetti-day-6-the-crowd-is-cheated|Shadow — Elias Canetti, day 6: The Crowd Is Cheated]]
 7. 2026-11-01 — [[shadows/2026-11-01-shadow-elias-canetti-day-7-the-map|Shadow — Elias Canetti, day 7: The Map]]
 8. 2026-11-02 — [[shadows/2026-11-02-shadow-kathy-acker-day-1-the-card-says-alexandria|Shadow — Kathy Acker, day 1: The Card Says Alexandria]]
+9. 2026-11-03 — [[shadows/2026-11-03-shadow-kathy-acker-day-2-the-room-no-one-else-want|Shadow — Kathy Acker, day 2: The Room No One Else Wants]]
 
 ## Volume 1: The Triads
 
