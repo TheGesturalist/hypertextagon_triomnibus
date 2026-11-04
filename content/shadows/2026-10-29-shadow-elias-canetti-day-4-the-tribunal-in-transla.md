@@ -81,48 +81,14 @@ The relations, precisely:
 
 **Element 2 — a concordance of Canetti’s Kafka against the library’s *Diaries* (Calibre 3169, tr. Joseph Kresh, vol. I, and Martin Greenberg with Hannah Arendt, vol. II).** Canetti’s notes cite “Diaries, I” and “Diaries, II” (Schocken 1948, 1949), the same translation as 3169 (the library’s copy is the 1964 Peregrine one-volume text, with British spellings). I aligned the 143 longer quotations (60+ characters) in the OCR text against 3169; the diary quotations are the Kresh/Greenberg text. The deviations:
 
-> Kresh / Greenberg Canetti / Middleton
-
-Entry (3169) (3246) Kind
-
-> retranslated “As I was sitting 20 Aug 1912 “As I was taking my down, I looked at her seat I looked at her closely for the first closely for the first time, by the time I time, by the time I was seated I already was seated I already had an unshakable had an unshakeable opinion.” verdict.” (p. 5)
-
-3 Jan 1912 “I atrophied in all same, with note 7: glossed toward the
-
-| these directions.” | “The “atrophied” | thesis (thinness) |
-|---|---|---|
-|  | phrase in the original reads literally: “I thinned down in all these directions.”” (p. 119) |  |
-
-23 July 1914 “The tribunal in the “The tribunal in the cut: the cab, the
-
-| hotel. Trip in the cab. | hotel. … F.’s face. | nose, the bedbug, |
-|---|---|---|
-| F.’s face. She patted | She patted her hair with her hand, . . . | the father’s night journey from Malmö |
-| her hair with her |  |  |
-| hand, wiped her | yawned.” (p. 68) |  |
-| nose, yawned.” |  |  |
-| Kresh / Greenberg | Canetti / Middleton |  |
-
-Entry (3169) (3246) Kind
-
-20 Jan 1915 “When will it catch “When will it catch word dropped (cause
-
-| me up again?” | up again?” (p. 77, | not determinable |
-|---|---|---|
-|  | n. 37) | from the library) |
-
-1914 (on Erna) “from the tram to the “from the trolley to US vs UK printing of
-
-| Lehrter railway | the Lehrter railroad | the same translation, |
-|---|---|---|
-| station” | station” (p. 68) | probably |
-
-July 1916 entry ends “…the adds “With F. I knew restored from
-
-| second a child, and I | intimacy only in | manuscript (n. 50) |
-|---|---|---|
-| was utterly | letters, in a human |  |
-| confused.” | way not until the last two days. The clarity is still lacking, doubts remain. But it is beautiful, the gaze of her calm eyes, the opening of womanly depth.” (p. 99) |  |
+| Entry | Kresh / Greenberg (3169) | Canetti / Middleton (3246) | Kind |
+|---|---|---|---|
+| 20 Aug 1912 | “As I was taking my seat I looked at her closely for the first time, by the time I was seated I already had an unshakeable opinion.” | “As I was sitting down, I looked at her closely for the first time, by the time I was seated I already had an unshakable verdict.” (p. 5) | retranslated |
+| 3 Jan 1912 | “I atrophied in all these directions.” | same, with note 7: “The “atrophied” phrase in the original reads literally: “I thinned down in all these directions.”” (p. 119) | glossed toward the thesis (thinness) |
+| 23 July 1914 | “The tribunal in the hotel. Trip in the cab. F.’s face. She patted her hair with her hand, wiped her nose, yawned.” | “The tribunal in the hotel. … F.’s face. She patted her hair with her hand, . . . yawned.” (p. 68) | cut: the cab, the nose, the bedbug, the father’s night journey from Malmö |
+| 20 Jan 1915 | “When will it catch me up again?” | “When will it catch up again?” (p. 77, n. 37) | word dropped (cause not determinable from the library) |
+| 1914 (on Erna) | “from the tram to the Lehrter railway station” | “from the trolley to the Lehrter railroad station” (p. 68) | US vs UK printing of the same translation, probably |
+| July 1916 | entry ends “…the second a child, and I was utterly confused.” | adds “With F. I knew intimacy only in letters, in a human way not until the last two days. The clarity is still lacking, doubts remain. But it is beautiful, the gaze of her calm eyes, the opening of womanly depth.” (p. 99) | restored from manuscript (n. 50) |
 
 The last row is the strongest: Canetti’s note 50 states that the passage “does not appear in the German Tagebiicher [OCR for Tagebücher] or in the English Diaries. The source is the manuscript of the diaries as cited by Klaus Wagenbach” (p. 121). In 3169 the entry stops at “utterly confused.” and the next line is “13 July.” Brod’s edition cut it; Canetti put it back; the library’s *Diaries* still lacks it.
 
@@ -140,35 +106,16 @@ The last row is the strongest: Canetti’s note 50 states that the passage “do
 
 **Overview.** Corngold’s study reads Kafka’s work as the necessity of literary form. Canetti appears in the Introduction and in chapters 2, 3, 6, 9 and 10, for the Kafka book always from *Der andere Prozeß* (Munich: Hanser, 1969), with German page numbers. A search of the whole text for “Middleton” and “Other Trial” returns nothing.
 
-**Element 1 — parallel texts, Corngold’s English against Middleton’s.**
+**Element 1 — parallel texts, Corngold’s English against Middleton’s.** The drift is in one direction: Corngold’s Canetti is more theological (“sacralization” for “con-
 
-Corngold (6272) Middleton (3246)
+| Corngold (6272) | Middleton (3246) |
+|---|---|
+| “what Elias Canetti calls Kafka’s “compulsive sacralization” of places and states of mind—which amounts to a “sacralization of man. Every place, every moment, every aspect, every step of the way is serious and important and unique.”” (Introduction, n. 8: German p. 36) | “The consecration of places and of states of mind, which operates so astonishingly with him that one feels it is compulsive, is neither more nor less than a consecration of man. Every place, every moment, every trait, every step is serious and important and peculiar to itself.” (p. 35) |
+| “instead of offering his fiancee at least the promise of a body in place of his actual, unavailable body, Kafka puts in its place something [he calls] more truly his own: the fullness of things he has seen, things seen in the person he is courting: this fullness [of the seen] is his body.” (Introduction, n. 11: German p. 28) | “Kafka, instead, comes forward with what is peculiarly his own: the fullness of what he has seen, seen of the appearance of the person being wooed. This fullness is his body.” (p. 23) |
+| “Among all writers,” as Elias Canetti remarked, “Kafka is the greatest expert on power,” (ch. 6, n. 22: German p. 76) | “Of all writers, Kafka is the greatest expert on power.” (p. 80) |
+| “There is something deeply exciting about this stubborn attempt of someone who was helpless, to exclude himself from power in any form” (ch. 6, n. 22: German p. 75) | “There is something most profoundly exciting about this tenacious attempt, on the part of a man who was lacking in power, to withdraw from power in whatever form it might appear.” (p. 80) |
 
-“what Elias Canetti calls Kafka’s “The consecration of places and of states of
-
-> mind, which operates so astonishingly with “compulsive sacralization” of places and
-
-states of mind—which amounts to a him that one feels it is compulsive, is neither
-
-> more nor less than a consecration of man. “sacralization of man. Every place, every
-
-moment, every aspect, every step of the way Every place, every moment, every trait, is serious and important and unique.”” every step is serious and important and (Introduction, n. 8: German p. 36) peculiar to itself.” (p. 35)
-
-> “Kafka, instead, comes forward with what is “instead of offering his fiancee at least the
-
-promise of a body in place of his actual, peculiarly his own: the fullness of what he
-
-> has seen, seen of the appearance of the unavailable body, Kafka puts in its place person being wooed. This fullness is his something [he calls] more truly his own: the body.” (p. 23) fullness of things he has seen, things seen in
-
-the person he is courting: this fullness [of the seen] is his body.” (Introduction, n. 11: German p. 28)
-
-> “Of all writers, Kafka is the greatest expert “Among all writers,” as Elias Canetti on power.” (p. 80) remarked, “Kafka is the greatest expert on
-
-power,” (ch. 6, n. 22: German p. 76)
-
-> “There is something most profoundly “There is something deeply exciting about exciting about this tenacious attempt, on the this stubborn attempt of someone who was part of a man who was lacking in power, to helpless, to exclude himself from power in withdraw from power in whatever form it any form” (ch. 6, n. 22: German p. 75) might appear.” (p. 80)
-
-The drift is in one direction: Corngold’s Canetti is more theological (“sacralization” for “consecration”) and more compressed, and his brackets put words in the speaker’s mouth (“[he calls]”; Middleton has no such attribution).
+secration”) and more compressed, and his brackets put words in the speaker’s mouth (“[he calls]”; Middleton has no such attribution).
 
 **Element 2 — Corngold also corrects Kresh.** In chapter 2, “The Hermeneutic of “The Judgment””: “a woman about whom, at their first meeting, he had formed “an unshakeable judgment [unerschütterliches Urteil]” (DI 269; Ta 285)”. He cites the Kresh *Diaries* page and changes its noun. Canetti and Corngold, independently, take the word back to the court; in German the same noun is the title of the story Kafka wrote two days after his first letter to Felice, as Corngold notes (“Two days later he composed “The Judgment.””).
 
@@ -194,43 +141,21 @@ The summary is fair to one half. It leaves out the half where Canetti indicts hi
 
 ## 4. The shadow so far
 
-From Relation To Location
-
-Canetti, *Conscience* Quotes Ibn Battuta (13883) p. 24 *of Words* (413) Canetti, *Conscience* Argues with Freud on Schreber p. 25 *of Words* (413) Földényi (3123) Quotes *Crowds and Power*; “A Capacity for From
-
-> *Notes from* Amazement”, nn. 1, 3 *Hampstead*
-
-> Relation To Location
-
-Gass (926) Quotes *Torch*, *Tongue*, *Play* “The Road to the
-
-> *of the Eyes*, True Book”; *Conscience* “Influence”
-
-Carey (3632) Argues with; Quotes *Crowds and Power*; ch. 1, n. 11
-
-> *Torch*
-
-Malabou (907) Argues with; Quotes *Crowds and Power*; ch. 8, pp. 115–129
-
-> *Torch*
-
-Steiner (4026) Argues with; Quotes Canetti’s oeuvre; “A Tale of Three
-
-> *Torch* Cities”
-
-**Canetti, *Kafka’s* Quotes Kafka, *Diaries* pp. 5–99; nn. 2–58 *Other Trial* (3246) (3169) Canetti, *Kafka’s* Edits/introduces Kafka, *Diaries* p. 99, n. 50 *Other Trial* (3246) (3169): restored (p. 121)**
-
-> **passage**
-
-**Corngold (6272) Translates *Der andere Prozeß* Intro nn. 8, 11;**
-
-> **(3246 in English) ch. 3 n. 1; ch. 6 n. 22; ch. 10 n. 27**
-
-**Corngold (6272) Quotes *Conscience of* ch. 6, n. 22**
-
-> ***Words* (413) “Nestroy and Edits/introduces Canetti, “Karl Reitter in *The* Posterity”, n. 14 Kraus: The School *Kraus Project* of Resistance” (401) (413) Argues with Kraus pp. 35–37 Canetti,**
-
-***Conscience of Words* (413)**
+| From | Relation | To | Location |
+|---|---|---|---|
+| Canetti, *Conscience of Words* (413) | Quotes | Ibn Battuta (13883) | p. 24 |
+| Canetti, *Conscience of Words* (413) | Argues with | Freud on Schreber | p. 25 |
+| Földényi (3123) | Quotes | *Crowds and Power*; *Notes from Hampstead* | “A Capacity for Amazement”, nn. 1, 3 |
+| Gass (926) | Quotes | *Torch*, *Tongue*, *Play of the Eyes*, *Conscience* | “The Road to the True Book”; “Influence” |
+| Carey (3632) | Argues with; Quotes | *Crowds and Power*; *Torch* | ch. 1, n. 11 |
+| Malabou (907) | Argues with; Quotes | *Crowds and Power*; *Torch* | ch. 8, pp. 115–129 |
+| Steiner (4026) | Argues with; Quotes | Canetti’s oeuvre; *Torch* | “A Tale of Three Cities” |
+| **Canetti, *Kafka’s Other Trial* (3246)** | **Quotes** | **Kafka, *Diaries* (3169)** | **pp. 5–99; nn. 2–58** |
+| **Canetti, *Kafka’s Other Trial* (3246)** | **Edits/introduces** | **Kafka, *Diaries* (3169): restored passage** | **p. 99, n. 50 (p. 121)** |
+| **Corngold (6272)** | **Translates** | ***Der andere Prozeß* (3246 in English)** | **Intro nn. 8, 11; ch. 3 n. 1; ch. 6 n. 22; ch. 10 n. 27** |
+| **Corngold (6272)** | **Quotes** | ***Conscience of Words* (413)** | **ch. 6, n. 22** |
+| **Reitter in *The Kraus Project* (401)** | **Edits/introduces** | **Canetti, “Karl Kraus: The School of Resistance” (413)** | **“Nestroy and Posterity”, n. 14** |
+| **Canetti, *Conscience of Words* (413)** | **Argues with** | **Kraus** | **pp. 35–37** |
 
 ![](images/2026-10-29-1.png)
 

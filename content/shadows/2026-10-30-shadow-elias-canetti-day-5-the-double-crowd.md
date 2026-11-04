@@ -119,27 +119,16 @@ The phrase occurs once in the book. Girard sets out the structure eight pages ea
 
 **Diagram: the same two words, two structures.**
 
-**The evidence, set out as a case file:**
+**The evidence, set out as a case file: Verdict.** This is a suspicion. If Girard took the phrase, he took the name and not the thing.
 
-> For a borrowing Against
+| For a borrowing | Against |
+|---|---|
+| Wording “double crowd” is a chapter title in *Crowds and Power*; no other book in the library uses it | Two common English words; “double” runs all through Girard (15 times in *Job*, “monstrous double” 40 times in *Violence and the Sacred*) |
+| Access *Violence and the Sacred*, p. 131 n. 3, recommends *Crowds and Power* (Stewart tr., New York 1966) and lists it in the bibliography | The library holds only the English translations. I could not check whether that note, or the phrase in *Job*, is in Girard’s French (“La route antique des hommes pervers”, 1985) or was supplied by a translator |
+| Subject Both books bring kingship, crowd and victim together (Canetti’s ‘Rulers and Paranoiacs’; Girard’s ch. 13, p. 85, where African rites “clearly attribute a primary role to this turnabout on the part of the people”) | Girard’s sense differs: one crowd in two phases, not two crowds facing each other |
+| Crediting habit Girard does credit a source in the same place: “I am not the first to whom this has occurred.” (ch. 14, p. 86), with a note to A. Caquot on the royal traits of Job | That credit concerns the Job–king analogy, not the crowd |
 
-Wording “double crowd” is a chapter Two common English words;
-
-> title in *Crowds and Power*; “double” runs all through no other book in the library Girard (15 times in *Job*, uses it “monstrous double” 40 times in *Violence and the Sacred*)
-
-> For a borrowing Against
-
-Access *Violence and the Sacred*, The library holds only the
-
-> p. 131 n. 3, recommends English translations. I could *Crowds and Power* (Stewart not check whether that note, tr., New York 1966) and lists or the phrase in *Job*, is in it in the bibliography Girard’s French (“La route antique des hommes pervers”, 1985) or was supplied by a translator
-
-Subject Both books bring kingship, Girard’s sense differs: one
-
-> crowd and victim together crowd in two phases, not two (Canetti’s ‘Rulers and crowds facing each other Paranoiacs’; Girard’s ch. 13, p. 85, where African rites “clearly attribute a primary role to this turnabout on the part of the people”) That credit concerns the Crediting habit Girard does credit a source Job–king analogy, not the in the same place: “I am not crowd the first to whom this has occurred.” […]
->
-> *(Shortened for the public edition.)*
-
-**Verdict.** This is a suspicion. If Girard took the phrase, he took the name and not the thing. A charge of uncredited use would have to show that the words were Canetti’s while the idea was not, which is close to the opposite of plagiarism.
+A charge of uncredited use would have to show that the words were Canetti’s while the idea was not, which is close to the opposite of plagiarism.
 
 **A misreading worth attempting.** Read Girard’s double crowd as a hidden reply to Canetti. For Canetti, a crowd preserves itself by facing a second crowd. For Girard, it preserves itself by producing a single victim out of its own number. On that reading, Girard’s lynching is Canetti’s double crowd with the second crowd shrunk to one man. Read *Violence and the Sacred* p. 131 with that in mind: “The crowd finally hurled itself on one individual”.
 
@@ -171,82 +160,32 @@ in time)
 
 ## Checked and set aside (null results, with evidence)
 
-> Where found without
-
-Term (day-1 list) “Canetti” Why it does not hold
-
-> Renders Heidegger’s “onlyness” de Gennaro, *The Weirdness* vocabulary for beyng; a *of Being* (6581): “in its withdrawn onlyness” different source
-
-“moment of survival” Bernhard, *Old Masters* Ordinary phrase about the
-
-> (6879): “we believe that at old masters; no link to the crucial moment of Canetti in the passage survival we can use them for our purposes”
-
-“moment of survival” Negarestani, *Cyclonopedia* Ordinary phrase in a
-
-> (3044): “Each moment of different theory of openness survival can be a summoning ritual”
-
-“Crowds and Power” (title) Thrift, *Non-Representational* Only inside other authors’
-
-> *Theory* (2197); *Killing the* article titles in a *Messiah* (14553) bibliography (J. Miller 1983; R. Myles 2020): echoes once removed
-
-> Where found without
-
-Term (day-1 list) “Canetti” Why it does not hold
-
-15 coinages (crowd crystal, Substring scan of 107 Only hit without Canetti: baiting crowd, thematic titles “heap of corpses” in da lamenting/increase pack, Cunha, *Rebellion in the* sting(s) of command, *Backlands* (14306), a literal invisible/slow/reversal battlefield. The two “crowd crowd, heap of dead/corpses, crystal” hits (*An American* fear of being touched, *Utopia*, 11458) are in a book power-wielder, onlyness, that names Canetti 25 times double crowd, moment of survival)
+| Term (day-1 list) | Where found without “Canetti” | Why it does not hold |
+|---|---|---|
+| “onlyness” | de Gennaro, *The Weirdness of Being* (6581): “in its withdrawn onlyness” | Renders Heidegger’s vocabulary for beyng; a different source |
+| “moment of survival” | Bernhard, *Old Masters* (6879): “we believe that at the crucial moment of survival we can use them for our purposes” | Ordinary phrase about the old masters; no link to Canetti in the passage |
+| “moment of survival” | Negarestani, *Cyclonopedia* (3044): “Each moment of survival can be a summoning ritual” | Ordinary phrase in a different theory of openness |
+| “Crowds and Power” (title) | Thrift, *Non-Representational Theory* (2197); *Killing the Messiah* (14553) | Only inside other authors’ article titles in a bibliography (J. Miller 1983; R. Myles 2020): echoes once removed |
+| 15 coinages (crowd crystal, baiting crowd, lamenting/increase pack, sting(s) of command, invisible/slow/reversal crowd, heap of dead/corpses, fear of being touched, power-wielder, onlyness, double crowd, moment of survival) | Substring scan of 107 thematic titles | Only hit without Canetti: “heap of corpses” in da Cunha, *Rebellion in the Backlands* (14306), a literal battlefield. The two “crowd crystal” hits (*An American Utopia*, 11458) are in a book that names Canetti 25 times |
 
 ## 4. The shadow so far
 
-# From Relation To Location
-
-1 Canetti, Quotes Ibn Battuta p. 24
-
-> *Conscience of* (13883) *Words* (413) Canetti (413) Argues with p. 25 2 Freud on Schreber ‘A Capacity for 3–4 Földényi (3123) Quotes *Crowds and* Amazement’ *Power*; *Notes from Hampstead* ‘The Road to the Gass, *A Temple* Quotes *Torch*, *Tongue*, 5–8
-
-| of Texts (926) | Play of the Eyes, | True Book’; |
-|---|---|---|
-|  | *Conscience* | ‘Influence’ |
-
-9–10 Carey (3632) Argues with / *Crowds and* ch. 1
-
-> Quotes *Power*
-
-11–12 Malabou (907) Argues with / *Crowds and* ch. 8,
-
-13–14 Steiner (4026) Argues with / oeuvre; *Torch* ‘A Tale of Three
-
-> Quotes Cities’ Quotes / Edits Kafka, *Diaries* pp. 5, 99 15–16 Canetti, *Kafka’s* (3169) *Other Trial* (3246) Corngold (6272) Translates / *Der andere* Intro n. 8; ch. 6 17–18
-
-| Quotes | Prozeß; | n. 22 |
-|---|---|---|
-|  | *Conscience* |  |
-
-19 Reitter in *The* Edits/introduces Canetti on n. 14
-
-> *Kraus Project* Kraus (413) (401) Canetti (413) Argues with pp. 35–36 20 Karl Kraus
-
-**21 Girard, *Job* Uses without *Crowds and* ch. 15, p. 93;**
-
-| (8264) | credit | Power, ‘The | ch. 13, p. 85 |
-|---|---|---|---|
-|  | **(suspected)** | **Double Crowd’** |  |
-
-**22 Girard, Mentions *Crowds and* p. 131 n. 3;** #
-
-| Violence and | Power | bibliography |
-|---|---|---|
-| ***the Sacred*** |  |  |
-| **(7959)** |  |  |
-
-> From Relation To Location
-
-**23 Abbott, Uses without *Crowds and* ‘Belgrade, 24**
-
-| Vampires & a | credit | Power (title) | May 1998’, |
-|---|---|---|---|
-| ***Reasonable*** | **(suspected)** |  | **pp. 116–17** |
-| ***Dictionary*** |  |  |  |
-| **(6002)** |  |  |  |
+| # | From | Relation | To | Location |
+|---|---|---|---|---|
+| 1 | Canetti, *Conscience of Words* (413) | Quotes | Ibn Battuta (13883) | p. 24 |
+| 2 | Canetti (413) | Argues with | Freud on Schreber | p. 25 |
+| 3–4 | Földényi (3123) | Quotes | *Crowds and Power*; *Notes from Hampstead* | ‘A Capacity for Amazement’ |
+| 5–8 | Gass, *A Temple of Texts* (926) | Quotes | *Torch*, *Tongue*, *Play of the Eyes*, *Conscience* | ‘The Road to the True Book’; ‘Influence’ |
+| 9–10 | Carey (3632) | Argues with / Quotes | *Crowds and Power* | ch. 1 |
+| 11–12 | Malabou (907) | Argues with / Quotes | *Crowds and Power* | ch. 8, pp. 115–18 |
+| 13–14 | Steiner (4026) | Argues with / Quotes | oeuvre; *Torch* | ‘A Tale of Three Cities’ |
+| 15–16 | Canetti, *Kafka’s Other Trial* (3246) | Quotes / Edits | Kafka, *Diaries* (3169) | pp. 5, 99 |
+| 17–18 | Corngold (6272) | Translates / Quotes | *Der andere Prozeß*; *Conscience* | Intro n. 8; ch. 6 n. 22 |
+| 19 | Reitter in *The Kraus Project* (401) | Edits/introduces | Canetti on Kraus (413) | n. 14 |
+| 20 | Canetti (413) | Argues with | Karl Kraus | pp. 35–36 |
+| **21** | **Girard, *Job* (8264)** | **Uses without credit (suspected)** | ***Crowds and Power*****, ‘The Double Crowd’** | **ch. 15, p. 93; ch. 13, p. 85** |
+| **22** | **Girard, *Violence and the Sacred* (7959)** | **Mentions** | ***Crowds and Power*** | **p. 131 n. 3; bibliography** |
+| **23** | **Abbott, *Vampires & a Reasonable Dictionary* (6002)** | **Uses without credit (suspected)** | ***Crowds and Power* (title)** | **‘Belgrade, 24 May 1998’, pp. 116–17** |
 
 ## 5. Where this sends you
 

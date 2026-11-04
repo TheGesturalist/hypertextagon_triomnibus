@@ -107,41 +107,21 @@ Acker (“Inside”) runs the same four lines and then adds what Colette’s Ren
 
 This is the theory the week will test. Days 2–4 will show whether the people who quote her quote the *procedure* or the *slogans*; day 5 will look for her sentences travelling without her name, which would be the shadow paying her back in her own coin.
 
-**Element: a concordance of small changes (verified)** Source (Calibre ID)
+**Element: a concordance of small changes (verified)** Credit is a currency and Acker pays in loose change: a lost “family”, a shift from eighty to
 
-> Source reads Acker reads
+| Source (Calibre ID) | Source reads | Acker reads |
+|---|---|---|
+| Dickens, GE ch. I (8747) | “My father’s family name” … “Pip” | “My father’s name” … “Peter” |
+| Dickens, GE ch. XX | “just out of Smithfield, and close by the coach-office.” | “just outside Alexandria, and close by the taxi stand.” |
+| Dickens, GE ch. XIX | “This is the end of the first stage of Pip’s expectations.” | “Thus ends the first segment of my life. I am a person of GREAT EXPECTATIONS.” |
+| Dickens, *Drood* ch. XXIII | “ ‘Alone, deary; worse luck for me, and better for you,’ replies a croaking voice.” | ““I’m always alone. Worse luck for me, deary, and better for you,” a croak replies.” |
+| Dickens, *Drood* ch. I | “ ‘Visions of many butchers’ shops, and public-houses, and much credit?” | ““What visions can SHE have? Visions of more butcher shops and bars and MasterCharge cards?” |
+| Dickens, *Bleak House* ch. I | “Fog everywhere. Fog up the river, where it flows among green aits and meadows” | “Red everywhere. Red up the river, where it flows among the green pines and old mining camps” |
+| Flaubert, letters, “To his mother, Cairo, January 5, 1850” (5751) | “I shall die at eighty” | “I shall die at sixty” |
+| Keats, “Eve of St. Agnes” st. 1 (8742) | “Numb were the Beadsman’s fingers” … “Seem’d taking flight for heaven, without a death” | “Numb were the beadman’s fingers” … “Seemed taking flight for heaven, with out a death” |
+| Colette (3267, p. 117) | “”I didn’t say I wanted it,” I retorted.” | the same line, then Renée answers |
 
-> “My father’s name” … Dickens, GE ch. I (8747) “My father’s family name” … “Pip” “Peter”
-
-Dickens, GE ch. XX “just out of Smithfield, and “just outside Alexandria, and
-
-> close by the coach-office.” close by the taxi stand.”
-
-Dickens, GE ch. XIX “This is the end of the first “Thus ends the first segment
-
-> stage of Pip’s expectations.” of my life. I am a person of GREAT EXPECTATIONS.”
-
-Dickens, *Drood* ch. XXIII “ ‘Alone, deary; worse luck ““I’m always alone. Worse
-
-> for me, and better for you,’ luck for me, deary, and replies a croaking voice.” better for you,” a croak replies.”
-
-Dickens, *Drood* ch. I “ ‘Visions of many butchers’ ““What visions can SHE
-
-> shops, and public-houses, have? Visions of more and much credit?” butcher shops and bars and MasterCharge cards?”
-
-Dickens, *Bleak House* ch. I “Fog everywhere. Fog up the “Red everywhere. Red up
-
-> river, where it flows among the river, where it flows green aits and meadows” among the green pines and old mining camps” “I shall die at eighty” “I shall die at sixty” Flaubert, letters, “To his
-
-mother, Cairo, January 5, 1850” (5751)
-
-> “Numb were the beadman’s Keats, “Eve of St. Agnes” st. “Numb were the Beadsman’s fingers” … “Seemed taking 1 (8742) fingers” … “Seem’d taking flight for heaven, with out a flight for heaven, without a death” death”
-
-Colette (3267, p. 117) “”I didn’t say I wanted it,” I the same line, then Renée
-
-> retorted.” answers
-
-Credit is a currency and Acker pays in loose change: a lost “family”, a shift from eighty to sixty, a Beadsman who loses his “s”. MasterCharge for “much credit” is the one change that names the transaction.
+sixty, a Beadsman who loses his “s”. MasterCharge for “much credit” is the one change that names the transaction.
 
 **Element: excerpt (opening, “I Recall My Childhood”, 79 words)**
 
@@ -165,27 +145,15 @@ Recorded in Author_Weeks Notes for the uncredited-use search (“term” NOT Ack
 
 ## 4. The shadow so far
 
-From Relation To Location
-
-Acker, *Great* Rewrites Dickens, *Great* “I Recall My *Expectations* (1178) *Expectations* (8747) Childhood”; “I
-
-> Journey To Receive My Fortune” / GE chs. I, XIX, XX “I Journey…”, “The Rewrites Dickens, *The* Acker (1178) Underworlds Of The *Mystery of Edwin* World” / *Drood* chs. I, *Drood* (8747) XXIII
-
-Acker (1178) Rewrites Dickens, *Bleak* “Night” (“Portrait In
-
-> *House* (8747) Red”) / *Bleak House* ch. I
-
-Acker (1178) Rewrites Guyotat, *Eden Eden* “I Recall My
-
-> *Eden* (4776) Childhood”
-
-Acker (1178) Rewrites Flaubert, *Letters* “I Journey…” /
-
-> (5751) letters under “Cairo, January 5, 1850” Rewrites Colette, *The Pure* “Inside” / PDF p. 117 Acker (1178) *and the Impure* (3267)
-
-Acker (1178) Quotes Keats, “The Eve of “Day” / stanza 1
-
-> St. Agnes” (8742)
+| From | Relation | To | Location |
+|---|---|---|---|
+| Acker, *Great Expectations* (1178) | Rewrites | Dickens, *Great Expectations* (8747) | “I Recall My Childhood”; “I Journey To Receive My Fortune” / GE chs. I, XIX, XX |
+| Acker (1178) | Rewrites | Dickens, *The Mystery of Edwin Drood* (8747) | “I Journey…”, “The Underworlds Of The World” / *Drood* chs. I, XXIII |
+| Acker (1178) | Rewrites | Dickens, *Bleak House* (8747) | “Night” (“Portrait In Red”) / *Bleak House* ch. I |
+| Acker (1178) | Rewrites | Guyotat, *Eden Eden Eden* (4776) | “I Recall My Childhood” |
+| Acker (1178) | Rewrites | Flaubert, *Letters* (5751) | “I Journey…” / letters under “Cairo, January 5, 1850” |
+| Acker (1178) | Rewrites | Colette, *The Pure and the Impure* (3267) | “Inside” / PDF p. 117 |
+| Acker (1178) | Quotes | Keats, “The Eve of St. Agnes” (8742) | “Day” / stanza 1 |
 
 Mentions captured: **263 books** (245 with the exact string “Kathy Acker”, 18 more found by the surname alone and checked by hand; 4 are her own; 13 are duplicate catalogue records). None of today’s edges come from those 263: on day 1 the arrows point away from her.
 

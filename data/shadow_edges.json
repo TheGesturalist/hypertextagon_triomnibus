@@ -643,5 +643,80 @@
       "Evidence": "TARGET = Blood and Guts (10951), 'The Scorpions' (Campbell cites Blood and Guts in High School Plus Two, London 1984, pp. 35–36). Variants vs EPUB: 'My room'→'My bedroom'; +'kind of'; 'a red sweater'→'a sweater'; 'would know that I'→'would know I'; 'is now, is really'→'is now, really'. 'My cunt used to be a men’s toilet.' and 'I walk out in a leopard coat.' exact. 58 verbatim runs from BG in the book (1,728 words). Also quotes Acker's Don Quixote (not in library), p. 155: 'so, she decided, “catheter” is the glorification of “Kathy”.' — source of the chapter title.",
       "Verified": true
     }
+  },
+  {
+    "id": 44,
+    "fields": {
+      "Week": 1,
+      "Set": 42,
+      "Citing_Calibre_ID": 6623,
+      "Citing_Title": "The Cambridge Introduction to Postmodern Fiction",
+      "Citing_Author": "Bran Nicol",
+      "Relation": "Argues with",
+      "Quote": "But, at the risk of sounding glib, the pointlessness is actually the point.",
+      "Location": "ch. 6 'Postmodern fiction by women: Carter, Atwood, Acker', pp. 159–160 (also p. 162)",
+      "Evidence": "Nicol quotes McHale 1992 (Constructing Postmodernism, not in library): Acker's appropriation of Neuromancer in Empire is 'pointless', 'blank parody' (Jameson), and rebuts it. His own counter-claim that the borrowing is 'almost deliberately clumsy and slapdash' is contradicted by day 1: he says the GE opening differs from Dickens only by Pip→Peter ('family' is also cut, edge 29); writes 'Jenny' for Janey (BG 10951: Janey 314, Jenny 0) and 'Her ‘Pip’' (no Pip in 1178). GE quotation 'I want: every part changes ...' exact. Robbins apology dated 1975 here; Cologne Acker Reading Room places the accusation after Young Lust (1989).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 45,
+    "fields": {
+      "Week": 1,
+      "Set": 42,
+      "Citing_Calibre_ID": 708,
+      "Citing_Title": "The Routledge Companion to Experimental Literature",
+      "Citing_Author": "Brian McHale (ch. 11)",
+      "Relation": "Argues with",
+      "Quote": "However we choose to characterize Acker’s rewriting procedure, as soon as it is recognized, it interrupts the smooth production of a storyworld, introducing an intrusive element of second-handedness, of mediacy.",
+      "Location": "ch. 11 'Postmodernism and Experiment', § III 'The zone of the interior'; § IV",
+      "Evidence": "McHale 2012 returns to the Empire/Neuromancer passage he called 'pointless' in 1992 (per Nicol 6623 p. 160); now asks 'Is this sampling? Plagiarism? Parody? Détournement? ... blank parody?' and answers 'ontological flicker'. Cites McHale 1992: 233–6 but neither repeats nor retracts the verdict. His Gibson quotation is exact against Neuromancer (9341, ch. 5). He says Acker adds 'oddly irrelevant details of her own'; 'A construct.' is Gibson's noun two sentences on ('the Flatline’s construct'); 'left wrist'→'right wrist'; 'Akai' cut. Acker's Empire not in library: her text as McHale prints it unchecked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 46,
+    "fields": {
+      "Week": 1,
+      "Set": 42,
+      "Citing_Calibre_ID": 5612,
+      "Citing_Title": "Shift Linguals: Cut-Up Narratives From William S Burroughs to the Present",
+      "Citing_Author": "Edward S. Robinson",
+      "Relation": "Argues with",
+      "Quote": "(Sometimes a cigar is just a cigar, and the nonconformity of Acker’s novel could just be the consequence of bad writing rather than transgressive writing.) (2000: 33)",
+      "Location": "ch. 'Kathy Acker: Plagiarism and Adaptation – From Cut-Up to Cut-and-Paste', pp. 164–165",
+      "Evidence": "Reported argument: Robinson quotes Niall Lucy, 'Introduction: (On the Way to Genre)', Postmodern Literary Theory: An Anthology (Blackwell 2000; not in library), and replies 'Such criticisms overlook Acker’s extensive knowledge of classical, canonical and avant-garde literature'. Lucy's passage is hypothetical ('To say… would not be to say'). Lucy's Dictionary of Postmodernism (1192) names Acker only in a list. Robinson also records Acker arguing with Burroughs ('now he looks a bit tame', p. 182).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 47,
+    "fields": {
+      "Week": 1,
+      "Set": 42,
+      "Citing_Calibre_ID": 5612,
+      "Citing_Title": "Shift Linguals: Cut-Up Narratives From William S Burroughs to the Present",
+      "Citing_Author": "Edward S. Robinson",
+      "Relation": "Quotes",
+      "Quote": "depended on her father for everything, and regarded her father as boyfriend, brother, sister, money, amusement, father",
+      "Location": "ch. 'Kathy Acker: Plagiarism and Adaptation', p. 166",
+      "Evidence": "TARGET = Blood and Guts (10951, Penguin 2017 EPUB), opening: 'depended on her father for everything and regarded her father as boyfriend, brother, sister, money, amusement, and father.' Comma added, 'and' dropped. Vacation/Sally passage exact. 'to get rid of language' (cited as Acker 1984: 76, p. 185) not found in the EPUB text layer (possibly in a drawn page): unverified.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 48,
+    "fields": {
+      "Week": 1,
+      "Set": 42,
+      "Citing_Calibre_ID": 3591,
+      "Citing_Title": "Appendix Project: Talks and Essays",
+      "Citing_Author": "Kate Zambreno",
+      "Relation": "Argues with",
+      "Quote": "Recently I read a review in the London Review of Books of Chris Kraus’s biography of Kathy Acker, and the reviewer referred, dismissively I thought, to “Ackerish wailing and stamping.”",
+      "Location": "Appendix E 'The Art of Diseuse' (talk, Poetry Project, 27 Oct 2017), section 'Saying Ugly Things'",
+      "Evidence": "Reported argument: the LRB reviewer (unnamed by Zambreno; review not in library) contrasts Acker unfavourably with Kraus; Zambreno objects to setting two women writers against each other, then quotes Acker to Lotringer, 'I act through the novels.' Substring-checked in the EPUB.",
+      "Verified": true
+    }
   }
 ]

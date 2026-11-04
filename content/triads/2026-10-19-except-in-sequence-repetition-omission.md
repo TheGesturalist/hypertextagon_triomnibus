@@ -35,8 +35,7 @@ What the cut does to the original speaker’s intention is where they part. Krau
 
 | From | To | What passes between them |
 |---|---|---|
-|  | Bäcker |  |
-| Kraus |  | The participle as evidence: Kraus’s construction (“compulsorily enlisted” in this translation) becomes Bäcker’s “being emigrated” (Bäcker’s own note 16). Also “holding on to the bitter end” (Kraus IV, 29) becomes TOT HET BITTERE EINDE (transcript, p. 36). |
+| Kraus | Bäcker | The participle as evidence: Kraus’s construction (“compulsorily enlisted” in this translation) becomes Bäcker’s “being emigrated” (Bäcker’s own note 16). Also “holding on to the bitter end” (Kraus IV, 29) becomes TOT HET BITTERE EINDE (transcript, p. 36). |
 | Kraus | Dillard | The disclaimer of authorship as preface: “the most lurid fantasies are quotations” and “I did not write a word of it”. |
 | Bäcker | Dillard | Omission and sequence as the only interventions either admits to. Both use lists, tables and imperatives. Bäcker keeps the source’s intention; Dillard discards it. |
 

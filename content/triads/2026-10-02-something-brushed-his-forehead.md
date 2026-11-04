@@ -75,25 +75,17 @@ chosen.
 
 7. The sanatorium comes back at the moment of the fight: “They’d never have allowed this sort of thing to happen in the sanatorium, he thought.”
 
-**Other: Borges’s “quite another way”, a two-column reading.**
+**Other: Borges’s “quite another way”, a two-column reading.** Borges’s own note (Postscript, 1956): “Of ‘The South,’ which may be my best story, I shall tell
 
-> Read as the fevered man’s
-
-| Cue in the text | Read as events | dream |
+| Cue in the text | Read as events | Read as the fevered man’s dream |
 |---|---|---|
-| Train stops “at a different | railway logistics | the dream cannot reach the |
-| one, a little before it” |  | real ranch |
-| Storekeeper resembles a | coincidence | day-residue from the clinic |
-| sanatorium employee |  |  |
-| “Sr. Dahlmann…”: the | small-town gossip | the dreamer is known to |
-| storekeeper knows his |  | his own dream |
-| name |  |  |
-| “Tomorrow I will wake up | a plan | an irony: he will not wake |
-| at my ranch,” |  | Read as the fevered man’s |
-| Last sentence shifts into | stylistic close | the moment held open, as a |
-| the present tense |  | wish |
+| Train stops “at a different one, a little before it” | railway logistics | the dream cannot reach the real ranch |
+| Storekeeper resembles a sanatorium employee | coincidence | day-residue from the clinic |
+| “Sr. Dahlmann…”: the storekeeper knows his name | small-town gossip | the dreamer is known to his own dream |
+| “Tomorrow I will wake up at my ranch,” | a plan | an irony: he will not wake |
+| Last sentence shifts into the present tense | stylistic close | the moment held open, as a wish |
 
-Borges’s own note (Postscript, 1956): “Of ‘The South,’ which may be my best story, I shall tell the reader only that it is possible to read it both as a forthright narration of novelistic events and in quite another way, as well.” (*Ficciones*, Prologue, ≈23% of the prologue-and-notes section)
+the reader only that it is possible to read it both as a forthright narration of novelistic events and in quite another way, as well.” (*Ficciones*, Prologue, ≈23% of the prologue-and-notes section)
 
 ## 2. An Episode in the Life of a Landscape Painter — César Aira (2000)
 
@@ -213,13 +205,13 @@ In *The Collected Short Stories of Roberto Bolaño*; *El gaucho insufrible* (200
 
 **Other: the Borges-to-Bolaño concordance.**
 
-“The South” “The Insufferable Gaucho”
-
-train from Constitución train out of the city; back in at Constitución unfamiliar station, “a little before it” El Apeadero: “a station or a factory?” store like a steel engraving store “like something from a story by di
-
-> Benedetto”
-
-old gaucho, “outside time” old gaucho “strumming the guitar” Indian-looking thug challenges Pereda spits at the young gauchos dagger thrown at his feet Pereda buys a knife; uses it in the city “steps out into the plains” “he decided to go back”
+| “The South” | “The Insufferable Gaucho” |
+|---|---|
+| train from Constitución | train out of the city; back in at Constitución |
+| unfamiliar station, “a little before it” store like a steel engraving | El Apeadero: “a station or a factory?” store “like something from a story by di Benedetto” |
+| old gaucho, “outside time” | old gaucho “strumming the guitar” |
+| Indian-looking thug challenges dagger thrown at his feet | Pereda spits at the young gauchos Pereda buys a knife; uses it in the city |
+| “steps out into the plains” | “he decided to go back” |
 
 ## Where This Sends You
 

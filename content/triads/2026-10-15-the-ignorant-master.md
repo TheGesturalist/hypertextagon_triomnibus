@@ -165,12 +165,12 @@ sentence before moving on.
 |---|---|---|---|
 | 1800 | South Carolina | Acts and Resolutions, Dec. 1800 | assemblies of slaves and free people of color |
 | 1819 | Virginia | Revised Code of 1819 | any school “for teaching them reading or writing” an unlawful assembly |
-| 1823 | Mississippi Georgia | Code, Art. 3, Sec. 2 | same formula as Virginia |
-| 1829 |  | Act of 1829, Sec. 11 | fine and whipping for Black teachers; fine and jail for white |
+| 1823 | Mississippi | Code, Art. 3, Sec. 2 | same formula as Virginia |
+| 1829 | Georgia | Act of 1829, Sec. 11 | fine and whipping for Black teachers; fine and jail for white |
 | 1830 | Louisiana | Act of Jan. 4, 1830 | teaching a slave to read or write punishable by imprisonment |
 | 1830–31 | North Carolina | Ch. VI | “the use of figures excepted” |
-| 1831 | Alabama Georgia | Thirteenth Annual Session, Sec. 10 | fine of $250–500 extends to |
-| 1833 |  | Penal Code, Secs. 18–19 | typesetting |
+| 1831 | Alabama | Thirteenth Annual Session, Sec. 10 | fine of $250–500 |
+| 1833 | Georgia | Penal Code, Secs. 18–19 | extends to typesetting |
 | 1834 | South Carolina | Ch. 5 | fine and imprisonment |
 | 1847 | Missouri | Act of 1847 | “No person shall keep or teach any school…” |
 | 1849 | Virginia | Acts, sec. 39 | any assembly “for the purpose of instruction in reading or writing” |

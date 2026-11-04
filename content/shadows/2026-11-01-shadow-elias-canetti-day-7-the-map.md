@@ -79,7 +79,7 @@ Mentions: the day-1 capture holds 343 rows (13 own works, 330 others). Of the 33
 
 *Figure 1: Canetti’s shadow in the Scribrarium*
 
-**Element: derived list — degree.**
+**Element: derived list — degree.** Read the shape, not the numbers alone. The memoirs (421, 420, 418) are reached only by
 
 | Node | Arrows in | Arrows out |
 |---|---|---|
@@ -92,7 +92,7 @@ Mentions: the day-1 capture holds 343 rows (13 own works, 330 others). Of the 33
 | Földényi, Carey, Malabou, Steiner, Corngold (each) | 0 | 2 |
 | Kafka’s Other Trial (3246) | 1 | 2 |
 
-Read the shape, not the numbers alone. The memoirs (421, 420, 418) are reached only by quotation; *Crowds and Power* is reached by quotation, argument, mention and suspected borrowing; *Auto-da-Fé* is reached three times out of four by Canetti himself (CP rewrites it; 413 and 418 explain it), once by a reference book’s bibliography. Nobody in the library argues with the novel.
+quotation; *Crowds and Power* is reached by quotation, argument, mention and suspected borrowing; *Auto-da-Fé* is reached three times out of four by Canetti himself (CP rewrites it; 413 and 418 explain it), once by a reference book’s bibliography. Nobody in the library argues with the novel.
 
 **Element: misreading worth attempting.** Read the graph as a crowd diagram in Canetti’s own terms. The hub with many arrows in is a crowd-crystal (“small, rigid groups of men, strictly delimited and of great constancy”, which Malabou’s n. 9 shortened on day 3); the arrows are the crowd’s “direction”. On that reading the week’s two “Uses without credit” edges are not thefts but the moment a crowd forgets the name of the crystal that formed it. The reading is wrong as sociology and useful as a test: it predicts that the more an idea spreads, the fewer arrows will be labelled, and the library’s data (2 unlabelled edges of 27) do not show it.
 
@@ -143,8 +143,8 @@ Read the shape, not the numbers alone. The memoirs (421, 420, 418) are reached o
 | 11 | Malabou (907) | Argues with | 14938 | ch. 8, p. 117 |
 | 12 | Malabou (907) | Quotes | 14938; 421 | ch. 8, pp. 115–118, n. 9 |
 | 13 | Steiner (4026) | Argues with | 14938 and the oeuvre | ‘A Tale of Three Cities’ |
-| 14 | Steiner (4026) | Quotes Quotes | 421 Kafka, Diaries | same p. 5 and passim |
-| 15 | Canetti, Kafka’s Other Trial (3246) |  | (3169) |  |
+| 14 | Steiner (4026) | Quotes | 421 | same |
+| 15 | Canetti, Kafka’s Other Trial (3246) | Quotes | Kafka, Diaries (3169) | p. 5 and passim |
 | 16 | 3246 | Edits/introduces | 3169 | p. 99; n. 50 |
 | 17 | Corngold (6272) | Translates | 3246 | Intro n. 8 and five more |
 | 18 | Corngold (6272) | Quotes | 413 | ch. 6, n. 22 |

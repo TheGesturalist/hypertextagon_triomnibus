@@ -97,15 +97,11 @@ The novel’s crowd has a known goal, is cheated of it, and takes the nearest bo
 
 **Element 3 — The two brothers on the mass** (verified quotations).
 
-Peter Kien (sinologist) Georges Kien (psychiatrist)
-
-“’Always and without exception, the master “Of that far deeper and most special motive tells us in these words, we must beware of force of history, the desire of men to rise these people of the masses.” (I.VII into a higher type of animal, in to the mass, “Mobilization”, citing Mencius) and to lose themselves in it so completely
-
-> as to forget that one man ever existed, they had no idea.” (III.III “A Madhouse”)
-
-“The democratization of the army will be “For they were educated men, and practically expressed in the following form: education is in itself a cordon sanitaire for from to-day onwards each single volume the individual against the mass in his own will stand with its back to the wall.” (I.VII soul.” (III.III) — the books as his crowd) “But he had an indestructible memory and “There will come a time when it will not be could carry the entire new library in his scattered again, possibly in a single head.” (II.I) country at first, eating its way out from
-
-> there, until no one can doubt any more, for there will be no I, you, he, but only it, the mass.” (III.III)
+| Peter Kien (sinologist) | Georges Kien (psychiatrist) |
+|---|---|
+| “’Always and without exception, the master tells us in these words, we must beware of these people of the masses.” (I.VII “Mobilization”, citing Mencius) | “Of that far deeper and most special motive force of history, the desire of men to rise into a higher type of animal, in to the mass, and to lose themselves in it so completely as to forget that one man ever existed, they had no idea.” (III.III “A Madhouse”) |
+| “The democratization of the army will be practically expressed in the following form: from to-day onwards each single volume will stand with its back to the wall.” (I.VII — the books as his crowd) | “For they were educated men, and education is in itself a cordon sanitaire for the individual against the mass in his own soul.” (III.III) |
+| “But he had an indestructible memory and could carry the entire new library in his head.” (II.I) | “There will come a time when it will not be scattered again, possibly in a single country at first, eating its way out from there, until no one can doubt any more, for there will be no I, you, he, but only it, the mass.” (III.III) |
 
 Peter’s only crowd is his books, which he mobilises as an army. Georges’s patients are crowds in one body. Carey’s charge of intellectual contempt fits Peter; his charge of mass-salvation fits Georges; the novel lets each be wrong in his own way.
 
@@ -137,23 +133,21 @@ Peter’s only crowd is his books, which he mobilises as an army. Georges’s pa
 
 | # | From | Relation | To | Location |
 |---|---|---|---|---|
-| 1 | Conscience of Words (413) | Quotes Argues with | Ibn Battuta (13883) Freud, | pp. 24 p. 25 |
-| 2 | Conscience of Words (413) |  | Schreber case |  |
+| 1 | Conscience of Words (413) | Quotes | Ibn Battuta (13883) | pp. 24 |
+| 2 | Conscience of Words (413) | Argues with | Freud, Schreber case | p. 25 |
 | 3–4 | Földényi (3123) | Quotes | Crowds and Power; Notes from Hampstead | ‘A Capacity for Amazement’ |
 | 5–8 | Gass (926) | Quotes | Torch; Tongue; Play of the Eyes; Conscience of Words | ‘Road to the True Book’; ‘Influence’ |
 | 9–10 | Carey (3632) | Argues with; Quotes | Crowds and Power; Torch | ch. 1 |
 | 11–12 | Malabou (907) | Argues with; Quotes | Crowds and Power | ch. 8 |
 | 13–14 | Steiner (4026) | Argues with; Quotes | oeuvre; Torch | ‘A Tale of Three Cities’ |
-| 15–16 | Kafka’s Other Trial (3246) | Quotes; Edits/introduces | Kafka, Diaries (3169) | pp. 5–99 Intro; ch. 6 |
-| 17–18 | Corngold (6272) | Translates; Quotes | Kafka’s Other Trial; Conscience of Words | n. 14 |
-| 19 | Kraus Project (401) | Edits/introduces | Conscience of Words (Kraus essay) |  |
-| 20 | Conscience of Words (413) | Argues with | Kraus Crowds and | pp. 35–36 ch. 15, p. 93 |
-| 21 | Girard, Job (8264) | Uses without credit (suspected) Mentions | Power Crowds and | p. 131 n. 3 |
-| 22 | Girard, Violence and the Sacred (7959) |  | Power Crowds and | pp. 116–17 |
-| 23 | Abbott (6002) | Uses without credit (suspected; allusion) | Power (title) |  |
-| **24** | **Crowds and Power (14938)** | **Rewrites (interpretive)** | **Auto-da-Fé (14962)** | **‘Baiting Crowds’ vs II.X** |
-| **25** | **Conscience of Words (413)** | **Edits/introducesAuto-da-Fé** |  | **pp. 124–34** |
-| **26** | **Play of the Eyes (418)** | **Edits/introducesAuto-da-Fé** |  | **‘Büchner in the Desert’** |
+| 15–16 | Kafka’s Other Trial (3246) | Quotes; Edits/introduces | Kafka, Diaries (3169) | pp. 5–99 |
+| 17–18 | Corngold (6272) | Translates; Quotes | Kafka’s Other Trial; Conscience of Words | Intro; ch. 6 |
+| 19 | Kraus Project (401) | Edits/introduces | Conscience of Words (Kraus essay) | n. 14 |
+| 20 | Conscience of Words (413) | Argues with | Kraus | pp. 35–36 |
+| 21 | Girard, Job (8264) | Uses without credit (suspected) | Crowds and Power | ch. 15, p. 93 |
+| 22 | Girard, Violence and the Sacred (7959) | Mentions | Crowds and Power | p. 131 n. 3 |
+| 23 | Abbott (6002) | Uses without credit (suspected; allusion) | Crowds and Power (title) | pp. 116–17 |
+| **24 25 26** | **Crowds and Power (14938) Conscience of Words (413) Play of the Eyes (418)** | **Rewrites (interpretive) Edits/introducesAuto-da-Fé Edits/introducesAuto-da-Fé** | **Auto-da-Fé (14962)** | **‘Baiting Crowds’ vs II.X pp. 124–34 ‘Büchner in the Desert’** |
 | **27** | **Companion (3312)** | **Mentions** | **Auto-da-Fé (translator)** | **front matter; p. 83** |
 
 Tomorrow this becomes the graph.

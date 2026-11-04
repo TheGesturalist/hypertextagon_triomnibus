@@ -4245,5 +4245,149 @@
       "WN_Gloss": "a staff surmounted by a crook or cross carried by bishops as a symbol of pastoral office",
       "WN_Hypernyms": "staff"
     }
+  },
+  {
+    "id": 145,
+    "fields": {
+      "Term": "Transclude",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "In hypertext, the inclusion of part or all of one document inside another by reference rather than by copying, so that the same content appears, knowably, in more than one place while the original stays intact at its source. Coined by Ted Nelson in Literary Machines (1980) as a core principle of Project Xanadu; to transclude is to perform this inclusion.",
+      "Etymology": "Latin trans- (across) + -clude, on the model of include / exclude (Latin claudere, to shut). Coined by Ted Nelson in Literary Machines (1980); he applied it to what he had earlier called 'xanalogical storage'.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 2,
+      "Gravity": 0.35,
+      "Lineages": [
+        "L",
+        164,
+        35,
+        63
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Nelson distinguishes transclusion from transquotation (an explicit quotation kept connected to its origin) and transdelivery (fetching content from another location); everyday web and wiki usage collapses all three into 'embedding'.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 146,
+    "fields": {
+      "Term": "Hyperbaton",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "A figure of disorder: the departure from normal word order for emphasis or effect. In its original classical sense, a phrase made discontinuous by inserting other words between elements that belong together (frequent in Latin prose and verse); in broader modern usage, any inversion of natural order, often treated as a synonym or umbrella for anastrophe.",
+      "Etymology": "From Greek hyperbaton (ὑπέρβατον), 'stepping over', from hyper (over) + bainein (to step). Latin equivalent: transgressio.",
+      "Original_Script": "ὑπέρβατον",
+      "Pronunciation": "",
+      "Language": "Ancient Greek",
+      "Category": 0,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        72
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Silva Rhetoricae gives a second, rarer sense: adding a word or thought to a sentence already semantically complete, to throw emphasis on the addition. Whether anastrophe is a species of hyperbaton or a synonym for it varies by authority.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-07118468-n",
+      "WN_Lexname": "noun.communication",
+      "WN_Gloss": "reversal of normal word order (as in ‘cheese I love’)",
+      "WN_Hypernyms": "rhetorical device"
+    }
+  },
+  {
+    "id": 147,
+    "fields": {
+      "Term": "antimetabole",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "A figure of repetition and order in which words from one clause are repeated in the next in reverse order (A-B / B-A), as in 'eat to live, not live to eat'. Also called commutatio or the counterchange.",
+      "Etymology": "From Greek antimetabolē, from anti (opposite, in the opposite direction) + metabolē (turning about, change). In English from the 1590s.",
+      "Original_Script": "ἀντιμεταβολή",
+      "Pronunciation": "",
+      "Language": "Ancient Greek",
+      "Category": 0,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        72
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Silva Rhetoricae says it is sometimes known as chiasmus; the two are often conflated. The Wikipedia claim in the attestation (anastrophe as a hyponym of antimetabole) sits awkwardly with the received definition: anastrophe inverts order without any repetition.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 148,
+    "fields": {
+      "Term": "metathesis",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "The transposition of sounds, letters or syllables within a word (or, less commonly, of words within a sentence), whether as historical sound change (Old English bridd > bird), regional variation (ask / aks), or deliberate wordplay. Linguists distinguish local (adjacent) metathesis from distant metathesis, also called hyperthesis (Latin parabola > Spanish palabra).",
+      "Etymology": "From Greek metathesis (change of position, transposition, change of opinion), from metatithenai (to transpose), meta- (change) + tithenai (to place, set), from PIE *dhe- (to set, put). In English from the 1570s in grammar for transposition of letters; c.1600 for rhetorical transposition of words.",
+      "Original_Script": "μετάθεσις",
+      "Pronunciation": "",
+      "Language": "Ancient Greek",
+      "Category": 0,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        137,
+        72
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "In rhetoric it is a metaplasm (a change to a word's form) and sometimes a kind of paronomasia; in chemistry the same word names a double-displacement reaction (AB + CD → AD + CB).",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-13536723-n",
+      "WN_Lexname": "noun.process",
+      "WN_Gloss": "a linguistic process of transposition of sounds or syllables within a word or words within a sentence",
+      "WN_Hypernyms": "linguistic process"
+    }
+  },
+  {
+    "id": 149,
+    "fields": {
+      "Term": "gematria",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "The practice of assigning numerical values to the letters of the Hebrew alphabet and reading words or phrases as numbers, so that terms of equal value can be connected interpretively. One of the 32 hermeneutical rules of the Talmudic rabbis, and a favoured method of medieval Kabbalistic exegesis; it has a Greek predecessor in isopsephy.",
+      "Etymology": "Hebrew gimatriyyā (גימטריה / גמטריא), borrowed via Aramaic from Greek. The Greek source is disputed: geōmetria (geometry; Lieberman), grammateia (play upon letters; Klein), grammateus (scribe; Bacher), or gamma + tria. The word appears in Pirkei Avot, paired with calculating the equinoxes.",
+      "Original_Script": "גימטריה",
+      "Pronunciation": "/ɡəˈmeɪtriə/",
+      "Language": "Hebrew (via Aramaic, from Greek)",
+      "Category": 0,
+      "Gravity": 0.1,
+      "Lineages": [
+        "L",
+        166,
+        165
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Received both as legitimate exegesis and as 'mere toying with numbers' (Britannica). Not identical to numerology at large: gematria is tied to a script whose letters double as numerals.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
   }
 ]

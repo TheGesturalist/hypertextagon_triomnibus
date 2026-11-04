@@ -100,12 +100,10 @@ Her worked example is Dostoevsky. Kafka appears nowhere in her hypergraphia chap
 
 **Other: Kafka in the clinic, a source audit.** These are Flaherty’s Kafka citations, checked against your copies.
 
-> Check against your
-
-| Where in Flaherty | What she quotes | Her source | library |
+| Where in Flaherty | What she quotes | Her source | Check against your library |
 |---|---|---|---|
 | ch. 3, epigraph | “June 7. Bad. Wrote nothing today. Tomorrow no time.” | *Diaries* (no year given) | Matches Kresh’s text word for word; the entry is 7 June **1912**. |
-| ch. 3 | “to see the pages being covered endlessly with things one hates…” | Letter to Felice, 29 Nov 1912, quoted *via* Leader, *Writer’s Block* | Second-hand by her own note; not in the *Diaries*. Check against your |
+| ch. 3 | “to see the pages being covered endlessly with things one hates…” | Letter to Felice, 29 Nov 1912, quoted *via* Leader, *Writer’s Block* | Second-hand by her own note; not in the *Diaries*. |
 | ch. 4 | “This inescapable duty to observe oneself…” | *Diaries*, 7 Nov 1921 | Matches except one word: hers has “if none observe me”, while Greenberg’s has “if none observes me”. |
 | ch. 4 | Wieseltier: “what sort of dejection is this, that leaves one the strength to write, and write, and write?” | Wieseltier, *Kaddish* (1998) | Kafka used as the counterexample to total depression. |
 | ch. 6 | “I write in order to shut my eyes.” | No Kafka source given | Not in the *Diaries*. The closest match is in Janouch, *Conversations with Kafka* (Calibre 1148): “My stories are a kind of closing one’s eyes.” That is a reported remark, and its reliability is disputed. |
@@ -130,13 +128,10 @@ The office, the diary, the “Apart from that, I am happy”: the narrator is dr
 
 **Other: one Sunday, twice.** Vila-Matas’s note 24 quotes Kafka’s diary for 7 January 1912 (a Sunday). His English reaches Kafka through Spanish, so you can lay it beside Kresh’s version from the German:
 
-> Vila-Matas, note 24 (Dunne, from
-
-Kafka, *Diaries* (Kresh, from the German) Vila-Matas’s Spanish)
-
-“I have been staring at my fingers for quite “for a while now I’ve been staring at my a while. This week I think I have been fingers. I think this week I’ve been totally completely influenced by Goethe, have under the influence of Goethe, I think I really exhausted the strength of this have exhausted the energy of this influence influence and have therefore become and that is why I’ve become useless.” useless.”
-
-> “the uninterrupted enthusiasm with which I 4 Feb 1912: “The zeal, permeating every read things about Goethe (conversadons part of me, with which I read about Goethe [*sic*] with Goethe, years as a student, hours (Goethe’s conversations, student days, with Goethe, a visit by Goethe to Frankfurt) hours with Goethe, a visit of Goethe’s to and which prevents me from doing any Frankfort) and which keeps me from all writing” writing.”
+| Kafka, Diaries (Kresh, from the German) | Vila-Matas, note 24 (Dunne, from Vila-Matas’s Spanish) |
+|---|---|
+| “I have been staring at my fingers for quite a while. This week I think I have been completely influenced by Goethe, have really exhausted the strength of this influence and have therefore become useless.” | “for a while now I’ve been staring at my fingers. I think this week I’ve been totally under the influence of Goethe, I think I have exhausted the energy of this influence and that is why I’ve become useless.” |
+| 4 Feb 1912: “The zeal, permeating every part of me, with which I read about Goethe (Goethe’s conversations, student days, hours with Goethe, a visit of Goethe’s to Frankfort) and which keeps me from all writing.” | “the uninterrupted enthusiasm with which I read things about Goethe (conversadons [*sic*] with Goethe, years as a student, hours with Goethe, a visit by Goethe to Frankfurt) and which prevents me from doing any writing” |
 
 His conclusion: “There is the proof, if anyone was in doubt, that Kafka suffered from Bartleby’s syndrome.” The proof is a day on which Kafka *read* intensely. Flaherty would ask whether he suffered. The entry says he felt “useless”, which by her definition makes this block and not Bartleby.
 

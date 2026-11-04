@@ -156,13 +156,20 @@ EPUB · Calibre ID 2800 · NYRB Classics; “The Steel Flea” trans. William Ed
 
 **Glossary of the teller’s words** (Edgerton’s coinages as found in the text; the glosses are readings, not the translator’s):
 
-Word in the text Probably
-
-nymphusoria infusoria (microscopic animalcules), with a nymph in it nitroscope microscope Apollo Velvet Ear the Apollo Belvedere hobble lists obelisks nautical whether-meters barometers dansez / fairiations / cod drill dance / variations / quadrille Word in the text
-
-> Probably
-
-calumnist on the *Daily Telegraft* columnist on the *Daily Telegraph* impressed air / symphonied compressed (soda) air / siphoned thirst mate first mate grasp port passport depravement pavement apple plexy apoplexy
+| Word in the text | Probably |
+|---|---|
+| nymphusoria | infusoria (microscopic animalcules), with a nymph in it |
+| nitroscope | microscope |
+| Apollo Velvet Ear | the Apollo Belvedere |
+| hobble lists | obelisks |
+| nautical whether-meters | barometers |
+| dansez / fairiations / cod drill | dance / variations / quadrille |
+| calumnist on the *Daily Telegraft* | columnist on the *Daily Telegraph* |
+| impressed air / symphonied | compressed (soda) air / siphoned |
+| thirst mate | first mate |
+| grasp port | passport |
+| depravement | pavement |
+| apple plexy | apoplexy |
 
 The two words for the instrument and its object (“nitroscope”, “nymphusoria”) are the story’s whole argument in miniature: the teller cannot say the scientific word correctly, and the smith does not need the thing it names.
 

@@ -148,14 +148,11 @@ PDF · Calibre ID 12603 · ed. and trans. Howard Eiland (Belknap/Harvard, 2006),
 | # | Date | Recorder / subject | Printed page |
 |---|---|---|---|
 | 1 | Dec. 18, 1927 | Benjamin, “first impression of hashish” | 19 |
-| 2 | Jan. 15, 1928 | Benjamin, “second impression” | 23 |
-| 3 | May 11, 1928 | hashish; test subject Joël | 36 |
-| 4 | Sept. 29, 1928 | Benjamin alone, Marseilles | 47 |
-| 5 | March 1930 | hashish | 57 |
+| 2 3 | Jan. 15, 1928 May 11, 1928 | Benjamin, “second impression” hashish; test subject Joël | 23 36 |
+| 4 5 | Sept. 29, 1928 March 1930 | Benjamin alone, Marseilles hashish | 47 57 |
 | 6 | June 7–8, 1930 | hashish | 62 |
 | 7 | March 7, 1931 | protocol by Egon Wissing | 65 |
-| 8 | April 12, 1931 | protocol by Fritz Fränkel (fragment) | 71 |
-| 9 | April 18, 1931 | protocol by Fritz Fränkel | 73 |
+| 8 9 | April 12, 1931 April 18, 1931 | protocol by Fritz Fränkel (fragment) protocol by Fritz Fränkel | 71 73 |
 | 10 | ca. June 1933 | “Crock Notes” (opium) | 81 |
 | 11 | May 22, 1934 | Fränkel, mescaline | 86 |
 | 12 | undated | notes | 98 |

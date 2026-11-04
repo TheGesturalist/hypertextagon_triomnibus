@@ -107,55 +107,34 @@ The scope of the shadow: the full text shows **339 books containing “Canetti�
 
 **Element 3 — Concordance: Canetti’s Delhi against the library’s Ibn Battuta** Canetti says he has the sultan’s words “from a good source” (the scan reads “froma”): “the famous Arab traveller Ibn Batuta, who spent seven years at the sultan’s court and knew him very thoroughly.” (p. 24) Here is what the library’s copy says. *The Travels of Ibn Battuta*, tr. Samuel Lee (1829), Chapter XVI, Calibre 13883, read from its EPUB.
 
-Detail in Canetti (pp. 24–25) Lee, ch. XVI
-
-Letters thrown over the walls of the One letter “consisting of several pages”, audience hall thrown “over the gate of the palace” The sultan buys every house at full price Absent Herald: no one in the city after three days A proclamation; no number of days The cripple shot from a catapult The bed-ridden man “projected from a”
-
-> ballista (OCR: “obalista”)
-
-Detail in Canetti (pp. 24–25) Lee, ch. XVI
-
-> “which is at the distance of ten days” The blind man dragged “a voyage of forty
-
-days” “all that arrived in Daulatabad was a leg” “only one of his legs was brought to the
-
-> place intended”
-
-Not a cat, not a dog left; the sultan on the Absent roof at night “ ‘Now my heart is tranquil and my wrath Absent. Instead: “When I entered Dehli it appeased.’ ” was almost a desert.”
+| Detail in Canetti (pp. 24–25) | Lee, ch. XVI |
+|---|---|
+| Letters thrown over the walls of the audience hall | One letter “consisting of several pages”, thrown “over the gate of the palace” |
+| The sultan buys every house at full price | Absent |
+| Herald: no one in the city after three days | A proclamation; no number of days |
+| The cripple shot from a catapult | The bed-ridden man “projected from a” ballista (OCR: “obalista”) |
+| The blind man dragged “a voyage of forty days” | “which is at the distance of ten days” |
+| “all that arrived in Daulatabad was a leg” | “only one of his legs was brought to the place intended” |
+| Not a cat, not a dog left; the sultan on the roof at night | Absent |
+| “ ‘Now my heart is tranquil and my wrath appeased.’ ” | Absent. Instead: “When I entered Dehli it was almost a desert.” |
 
 Lee worked from abridged Arabic manuscripts, and the fuller text was published later (De-frémery and Sanguinetti’s French edition; Gibb’s English). So the gaps are Lee’s, not proof that Canetti invented anything. Still, the sentence that makes the essay, the ruler’s peace in an empty world, cannot be checked against these shelves. The one line Lee has that Canetti did not use is perhaps the better epitaph: “the greatest city in the world had the fewest inhabitants.”
 
 **Element 4 — A derived glossary: the week’s search terms** The right-hand column comes from a substring pass over the library’s whole indexed text (12,526 text records). It counts books containing each term with and without “Canetti” anywhere in them. These are leads for day 5, not findings.
 
-Term (Canetti’s) Where he puts it Books with “Canetti” Books without
-
-onlyness p. 24, the sultan 1 4 (incl. *The*
-
-> *Weirdness of Being*, 27×; Witkiewicz, *Insatiability*)
-
-reverse lottery p. 21, war 1 0 crowd crystal(s) p. 68; *Crowds and* 7 0
-
-> *Power*
-
-slow crowd p. 68 2 7 (mostly literal
-
-> uses)
-
-double crowd *Crowds and Power* 4 1 (Girard, *Job: The*
-
-> *Victim of His People*)
-
-invisible crowd *Crowds and Power* 4 19 (many literal) baiting crowd / *Crowds and Power* 3 / 2 0 / 0 lamenting pack power-wielder p. 22 (translator’s 2 3
-
-> word)
-
-keeper of p. 163 1 0 metamorphoses “Crowds and Power” — 82 3 (to be checked: (title) OCR may have split
-
-> the name)
-
-sting of command *Crowds and Power* 1 4: **false positives**,
-
-> the string sits inside “consisting of commands”
+| Term (Canetti’s) | Where he puts it | Books with “Canetti” | Books without |
+|---|---|---|---|
+| onlyness | p. 24, the sultan | 1 | 4 (incl. *The Weirdness of Being*, 27×; Witkiewicz, *Insatiability*) |
+| reverse lottery | p. 21, war | 1 | 0 |
+| crowd crystal(s) | p. 68; *Crowds and Power* | 7 | 0 |
+| slow crowd | p. 68 | 2 | 7 (mostly literal uses) |
+| double crowd | *Crowds and Power* | 4 | 1 (Girard, *Job: The Victim of His People*) |
+| invisible crowd | *Crowds and Power* | 4 | 19 (many literal) |
+| baiting crowd / lamenting pack | *Crowds and Power* | 3 / 2 | 0 / 0 |
+| power-wielder | p. 22 (translator’s word) | 2 | 3 |
+| keeper of metamorphoses | p. 163 | 1 | 0 |
+| “Crowds and Power” (title) | — | 82 | 3 (to be checked: OCR may have split the name) |
+| sting of command | *Crowds and Power* | 1 | 4: **false positives**, the string sits inside “consisting of commands” |
 
 ![](images/2026-10-26-2.png)
 
@@ -165,11 +144,10 @@ sting of command *Crowds and Power* 1 4: **false positives**,
 
 ## 4. The shadow so far
 
-From Relation To Location
-
-Canetti, *The* Quotes (via a fuller Ibn Battuta, *Travels*, p. 24 *Conscience of Words* translation) tr. Lee (13883), (413) ch. XVI Canetti, *The* Argues with Freud, p. 25 *Conscience of Words* “Psychoanalytical (413) Remarks on an
-
-> Autobiographically Described Case of Paranoia” (1911; not in the library)
+| From | Relation | To | Location |
+|---|---|---|---|
+| Canetti, *The Conscience of Words* (413) | Quotes (via a fuller translation) | Ibn Battuta, *Travels*, tr. Lee (13883), ch. XVI | p. 24 |
+| Canetti, *The Conscience of Words* (413) | Argues with | Freud, “Psychoanalytical Remarks on an Autobiographically Described Case of Paranoia” (1911; not in the library) | p. 25 |
 
 Day 1’s edges run outward from the author. From day 2 on they run inward, toward him.
 

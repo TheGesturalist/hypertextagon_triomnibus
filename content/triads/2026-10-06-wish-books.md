@@ -156,8 +156,7 @@ and small towns,” Preface). The mapping, with its basis:
 | Cotton Tenants (1936) | Famous Men / Maharidge | Basis |
 |---|---|---|
 | Floyd Burroughs | George Gudger | Encyclopedia of Alabama |
-| Lucile (Maggie Lucile) | Maggie Louise Gudger | the same third-grade |
-| Burroughs |  | geography reader in both books; Wikipedia’s table |
+| Lucile (Maggie Lucile) Burroughs | Maggie Louise Gudger | the same third-grade geography reader in both books; Wikipedia’s table |
 | Bud Fields | Bud Woods | Wikipedia’s table (Fields = Woods) |
 | Frank Tingle | Fred Ricketts | Wikipedia’s table (Ricketts = Tengle, its spelling) |
 | Floyd Junior Burroughs | Junior Gudger | inferred from family position; not separately confirmed |

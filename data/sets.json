@@ -2032,5 +2032,52 @@
       "Author_Week": 1,
       "Week_Day": 2
     }
+  },
+  {
+    "id": 42,
+    "fields": {
+      "Date": 1793750400,
+      "Set_Title": "Shadow — Kathy Acker, day 3: The Dissent Is Absent",
+      "Thread": "Day 3 (who argues with her). No book in the library argues against Acker in its own voice; the dissent survives only as quotation inside her defenders, each objection quoted in order to be refuted, and none of the source texts is in the catalogue: McHale 1992 ('pointless', Jameson's 'blank parody') in Nicol, Cambridge Introduction to Postmodern Fiction (6623, pp. 158–162); Niall Lucy 2000 ('bad writing rather than transgressive writing') in Robinson, Shift Linguals (5612, p. 165); an unnamed LRB reviewer ('Ackerish wailing and stamping') in Zambreno, Appendix Project (3591). McHale himself is on the shelf in the Routledge Companion to Experimental Literature (708, 2012, ch. 11 § III): the same Gibson/Acker passage is now 'an ontological flicker'; the 1992 verdict is neither repeated nor retracted. The defence is weakest where day 1 was strongest: Nicol calls the borrowing 'almost deliberately clumsy and slapdash' and says the GE opening differs from Dickens only by Pip→Peter ('family' is also cut); writes 'Jenny' for Janey and 'Her Pip' (no Pip in Acker's GE). McHale says Acker adds 'oddly irrelevant details of her own', but 'A construct.' is Gibson's noun from two sentences later (Neuromancer 9341, ch. 5), and left wrist→right wrist is again the smallest unit. Robinson's BG quotation drifts (comma added, 'and' dropped). Jameson's 'sense of humour' (Cultural Turn 22) → 'sense of humor' (Norton 3266) → 'its humor' (Butler in Norton). Edges 44–48.",
+      "Connection_Kind": [
+        "L",
+        "Conflict",
+        "Genealogy/influence"
+      ],
+      "Difficulty": 3,
+      "Themes": "argument; dissent; refutation; plagiarism; pastiche; blank parody; Jameson; McHale; Gibson; Neuromancer; Empire of the Senseless; Burroughs; cut-up; bad writing; Niall Lucy; Harold Robbins; LRB; Zambreno; Chris Kraus; collation; obelism; textual drift",
+      "Notebook_Prompts": "1. Nicol says the borrowing is 'almost deliberately clumsy and slapdash'; day 1 found eighty changed to sixty. Write a page on the difference between a careless copy and a copy that wants to look careless. What would count as evidence for either?\n2. McHale moved from 'pointless' to 'an ontological flicker' without repeating or retracting the first verdict. Pick a judgement you once wrote and later reversed. Write the paragraph in which the reversal is visible only to someone who has read both.\n3. The dissent against Acker on these shelves exists only inside her defenders. Choose a writer you admire and list the objections to them you know only from the people who answered them. Which of those objections have you never read in their own words?",
+      "Rabbit_Holes": "https://www.routledge.com/products/9780415060141\nhttps://www.depauw.edu/sfs/backissues/73/dezwaan73.htm\nhttps://www.monoskop.org/images/5/59/Jameson_Fredric_Cultural_Turn_Selected_Writings_on_the_Postmodern_1983-1998.pdf\nhttps://gov.wiley.com/WileyCDA/WileyTitle/productCd-063121027X.html\nhttps://anglistik1.phil-fak.uni-koeln.de/en/abteilungen-lehrende/literaturwissenschaft/juniorprofessur-amerikanistik-prof-rauscher/research/kathy-acker-reading-room/biography",
+      "Carry_Quote": "“But, at the risk of sounding glib, the pointlessness is actually the point.” — Bran Nicol, The Cambridge Introduction to Postmodern Fiction, ch. 6, p. 160",
+      "Status": "New",
+      "Theme_Links": [
+        "L",
+        1292,
+        1293,
+        1294,
+        1192,
+        210,
+        1295,
+        1296,
+        1297,
+        1298,
+        1299,
+        1283,
+        1300,
+        1301,
+        1302,
+        1303,
+        1304,
+        1305,
+        1306,
+        1307,
+        1267,
+        1130,
+        1269
+      ],
+      "Method": 2,
+      "Author_Week": 1,
+      "Week_Day": 3
+    }
   }
 ]

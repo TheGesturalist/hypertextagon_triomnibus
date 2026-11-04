@@ -5021,7 +5021,7 @@
       "Query": "scan:exact",
       "Own_Work": false,
       "Captured_On": 1793577600,
-      "Promoted": false,
+      "Promoted": true,
       "Note": "'Kathy Acker' x11; 'Acker' x28"
     }
   },
@@ -5595,7 +5595,7 @@
       "Query": "scan:exact",
       "Own_Work": false,
       "Captured_On": 1793577600,
-      "Promoted": false,
+      "Promoted": true,
       "Note": "'Kathy Acker' x2; 'Acker' x6"
     }
   },
@@ -6407,7 +6407,7 @@
       "Query": "scan:exact",
       "Own_Work": false,
       "Captured_On": 1793577600,
-      "Promoted": false,
+      "Promoted": true,
       "Note": "'Kathy Acker' x61; 'Acker' x339"
     }
   },
@@ -6645,7 +6645,7 @@
       "Query": "scan:exact",
       "Own_Work": false,
       "Captured_On": 1793577600,
-      "Promoted": false,
+      "Promoted": true,
       "Note": "'Kathy Acker' x15; 'Acker' x58"
     }
   },

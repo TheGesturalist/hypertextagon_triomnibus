@@ -55,47 +55,20 @@ A comparison of 7-word runs between every one of the 259 books that mention Acke
 
 The second finding concerns the smallest unit, which day 1 found in Acker’s hands. Each of the three critics, quoting her, changes something small. The variants against the library’s editions are:
 
-Critic Acker (library edition) As quoted
-
-McCarthy sexual relations in **this** world sexual relations in **the** world McCarthy **We all** live in prison. **We** live in prison McCarthy I can see **anything** in a set I can see **everything** in a set
-
-> of shifting frameworks. of shifting frameworks.
-
-McCarthy I look at my body **as if** it I look at my body **as though**
-
-> were a web it were a web
-
-McCarthy Murder for Profit by W . MURDER FOR PROFIT by W.
-
-> **Bolitho Boitho**
-
-Critic Acker (library edition) As quoted
-
-> The threshold is **there**. McCarthy The threshold is **here**. (*Great Expectations*) (attributed to *Empire of the Senseless*)
-
-Bal the only **real** way I can tell the only way I can tell you
-
-> you
-
-Bal If I stopped work **for just** a If I stopped work **just for** a
-
-> second second
-
-Campbell **My room** is the room no one **My bedroom** is the room no
-
-> else in the world wants. one else in the world wants.
-
-Campbell or **any** architectural or **any kind of** architectural
-
-> regularity regularity
-
-Campbell I bought a **red** sweater … I bought a sweater … would
-
-> would know **that** I wasn’t a know I wasn’t a thief. thief.
-
-Campbell The hotel is now, **is** really The hotel is now, really large
-
-> large transparent squares. transparent squares.
+| Critic | Acker (library edition) | As quoted |
+|---|---|---|
+| McCarthy | sexual relations in **this** world | sexual relations in **the** world |
+| McCarthy | **We all** live in prison. | **We** live in prison |
+| McCarthy | I can see **anything** in a set of shifting frameworks. | I can see **everything** in a set of shifting frameworks. |
+| McCarthy | I look at my body **as if** it were a web | I look at my body **as though** it were a web |
+| McCarthy | Murder for Profit by W . **Bolitho** | MURDER FOR PROFIT by W. **Boitho** |
+| McCarthy | The threshold is **here**. (*Great Expectations*) | The threshold is **there**. (attributed to *Empire of the Senseless*) |
+| Bal | the only **real** way I can tell you | the only way I can tell you |
+| Bal | If I stopped work **for just** a second | If I stopped work **just for** a second |
+| Campbell | **My room** is the room no one else in the world wants. | **My bedroom** is the room no one else in the world wants. |
+| Campbell | or **any** architectural regularity | or **any kind of** architectural regularity |
+| Campbell | I bought a **red** sweater … would know **that** I wasn’t a thief. | I bought a sweater … would know I wasn’t a thief. |
+| Campbell | The hotel is now, **is** really large transparent squares. | The hotel is now, really large transparent squares. |
 
 Two cautions before reading anything into this. First, the base texts are the library’s editions (Penguin Classics 2017 *Blood and Guts*; the EPUBs of *Great Expectations*, *Portrait of an Eye* and *Literal Madness*), not the Grove and Picador editions the critics cite. Edition difference cannot be ruled out everywhere, but where two critics quote the same sentence they check each other: McCarthy has “only real way”, as the EPUB does, against Bal’s “only way”; Bal has “this world”, as the EPUB does, against McCarthy’s “the world”; Bal’s hexagon passage, from the 1984 Grove text, matches the EPUB word for word, against Campbell’s four changes. Second, these are ordinary transcription slips, not methods. The point is narrower: quotation drifts at exactly the scale Acker chose to work at, and in her case the drift is hard to tell from her method. Campbell’s “My bedroom is the room” brings forward a word Acker holds back until the next sentence. A page later, Campbell reads the passage through one word (“Acker does not call the coat a ‘leopard skin coat’ but a ‘leopard coat’ ”). The critic who changes one word in transcribing builds an argument on another word Acker chose.
 
@@ -117,19 +90,21 @@ The largest single change is McCarthy’s. He quotes as *Empire of the Senseless
 
 Collated with *Great Expectations* (1178), Part One, ‘I Journey To Receive My Fortune’: exact. So are his other two *Great Expectations* quotations (the jellyfish nightmare and “so they could do whatever they want with her … This identity doesn’t exist.”, ‘The Underworlds Of The World’), and his quotation of *My Death My Life by Pier Paolo Pasolini* (1176), where Acker is “plagiarizing the magnificent climax of Flaubert’s The Temptation of Saint Anthony”. McCarthy stops at “To be matter.”; Acker goes on: “To be matter to matter.”
 
-**Element 1: a concordance of McCarthy’s Acker quotations (library texts only).**
+**Element 1: a concordance of McCarthy’s Acker quotations (library texts only). Element 2: verified quotations.**
 
-McCarthy quotes Source in library Result
-
-jellyfish mother; jellyfish *GE* (1178), Part One exact nightmare; “unnameable dirt” “Sex is public … Go over this *GE*, Part Three, ‘Inside’ attributed to *Empire*; here → threshold with me.” there “tough, rotted, putrid beef” *BG* (10951), ‘Parents stink’ exact “rotgut weird parts … made *BG*, ‘The Scorpions’ this →the me know” “We live in prison” *BG*, ‘A book report’ “We all” cut Scarlet Letter; “There’s *BG*, ‘A book report’ exact going to be a world …” “as though it were a web”; *Portrait of an Eye* (1177), as if →as though; anything → “set of shifting frameworks” *Childlike Life* ch. 4 everything “All the above events are 1177, ch. 1 capitals; Bolitho →Boitho taken from myself …” “I MOVE TO SAN 1177, ch. 3 printed lower case in the FRANCISCO …” EPUB; “favorite” → McCarthy quotes
-
-> “FAVOURITE”
-
-> Source in library Result
-
-“I’ve remade the outside 1177, *Childlike Life* exact prison …”; “I’m trying to get away from self-expression …” Flaubert passage; Juliet and *Literal Madness* (1176), *My* exact (cut before “To be Romeo *Death My Life* matter to matter.”)
-
-**Element 2: verified quotations.**
+| McCarthy quotes | Source in library | Result |
+|---|---|---|
+| jellyfish mother; jellyfish nightmare; “unnameable dirt” | *GE* (1178), Part One | exact |
+| “Sex is public … Go over this threshold with me.” | *GE*, Part Three, ‘Inside’ | attributed to *Empire*; here → there |
+| “tough, rotted, putrid beef” | *BG* (10951), ‘Parents stink’ | exact |
+| “rotgut weird parts … made me know” | *BG*, ‘The Scorpions’ | this →the |
+| “We live in prison” | *BG*, ‘A book report’ | “We all” cut |
+| Scarlet Letter; “There’s going to be a world …” | *BG*, ‘A book report’ | exact |
+| “as though it were a web”; “set of shifting frameworks” | *Portrait of an Eye* (1177), *Childlike Life* ch. 4 | as if →as though; anything → everything |
+| “All the above events are taken from myself …” | 1177, ch. 1 | capitals; Bolitho →Boitho |
+| “I MOVE TO SAN FRANCISCO …” | 1177, ch. 3 | printed lower case in the EPUB; “favorite” → “FAVOURITE” |
+| “I’ve remade the outside prison …”; “I’m trying to get away from self-expression …” | 1177, *Childlike Life* | exact |
+| Flaubert passage; Juliet and Romeo | *Literal Madness* (1176), *My Death My Life* | exact (cut before “To be matter to matter.”) |
 
 - “an Acker plagiarism is instantly distinguishable from one by, say, her early mentor Burroughs or her younger admirer Stewart Home” (§ I). The day-1 claim, made by a novelist.
 
@@ -145,7 +120,7 @@ jellyfish mother; jellyfish *GE* (1178), Part One exact nightmare; “unnameable
 
 **Selection logic.** The most telling quotation in the scan: a 154-word run, Acker’s longest in any book that is not an anthology reprint, sits in a standard textbook. Mentions row 515.
 
-**Overview.** Bal uses *Blood and Guts* twice in chapter 2, ‘Story: Aspects’, as the postmodern case that breaks the categories she has just set out. Under Rhythm (p. 98): “With postmod-ernism, the question of narrative rhythm along these lines loses its meaning altogether.” She quotes the bakery passage, “I am nobody because I work” (37), and then, at second hand, the abortions:
+**Overview.** Bal uses *Blood and Guts* twice in chapter 2, ‘Story: Aspects’, as the postmodern case that breaks the categories she has just set out. Under Rhythm (p. 98): “With postmodernism, the question of narrative rhythm along these lines loses its meaning altogether.” She quotes the bakery passage, “I am nobody because I work” (37), and then, at second hand, the abortions:
 
 > As one critic wrote: “When Janey tells about the abortions in her life, she immediately makes clear that they should not be seen as dramatic moments in a life story. She tells about her abortions because they have for her symbolic value.” (p. 99)
 
@@ -181,61 +156,22 @@ The critic goes unnamed in the text. The only essay on Acker in Bal’s bibliogr
 
 ## 4. The shadow so far
 
-From Relation To Location
-
-> Rewrites Dickens, *GE*, *Drood*, Part One; Part Two, Acker, *Great*
-
-*Expectations* (1178) *Bleak House* (8747) ‘Night’ 1178 Rewrites Guyotat, *Eden Eden* Part One, ‘I Recall
-
-> *Eden* (4776) My Childhood’
-
-1178 Rewrites Flaubert, *Letters* Part One, ‘I Journey
-
-> (5751) …’
-
-1178 Rewrites Colette, *The Pure* Part Three, ‘Inside’
-
-> *and the Impure* (3267)
-
-1178 Quotes Keats, ‘Eve of Part Two, ‘Day’
-
-> St. Agnes’ (8742)
-
-McCarthy (4206) Quotes Acker, *GE* (1178) “Infidel
-
-> Heteroglossia” § I
-
-4206 Quotes *GE*, ‘Inside’, as § I, end
-
-> (misattributed?) *Empire*
-
-4206 Quotes *Blood and Guts* §§ I–III
-
-> (10951)
-
-4206 Quotes *Portrait of an Eye* §§ I–II
-
-> (1177)
-
-4206 Quotes *Literal Madness* §§ I, III
-
-> (1176)
-
-Bal (9197) Quotes *Blood and Guts*, ch. 2 § 5, p. 102
-
-> hexagon
-
-9197 Quotes *Blood and Guts*, ch. 2 § 4, pp. 98–99
-
-> abortions, bakery
-
-Campbell (5541) Quotes *Blood and Guts*, ch. 4, pp. 167–168
-
-> hotel dream
-
-5541 Quotes *Don Quixote* (not in ch. 4, p. 155
-
-> library)
+| From | Relation | To | Location |
+|---|---|---|---|
+| Acker, *Great Expectations* (1178) | Rewrites | Dickens, *GE*, *Drood*, *Bleak House* (8747) | Part One; Part Two, ‘Night’ |
+| 1178 | Rewrites | Guyotat, *Eden Eden Eden* (4776) | Part One, ‘I Recall My Childhood’ |
+| 1178 | Rewrites | Flaubert, *Letters* (5751) | Part One, ‘I Journey …’ |
+| 1178 | Rewrites | Colette, *The Pure and the Impure* (3267) | Part Three, ‘Inside’ |
+| 1178 | Quotes | Keats, ‘Eve of St. Agnes’ (8742) | Part Two, ‘Day’ |
+| McCarthy (4206) | Quotes | Acker, *GE* (1178) | “Infidel Heteroglossia” § I |
+| 4206 | Quotes (misattributed?) | *GE*, ‘Inside’, as *Empire* | § I, end |
+| 4206 | Quotes | *Blood and Guts* (10951) | §§ I–III |
+| 4206 | Quotes | *Portrait of an Eye* (1177) | §§ I–II |
+| 4206 | Quotes | *Literal Madness* (1176) | §§ I, III |
+| Bal (9197) | Quotes | *Blood and Guts*, hexagon | ch. 2 § 5, p. 102 |
+| 9197 | Quotes | *Blood and Guts*, abortions, bakery | ch. 2 § 4, pp. 98–99 |
+| Campbell (5541) | Quotes | *Blood and Guts*, hotel dream | ch. 4, pp. 167–168 |
+| 5541 | Quotes | *Don Quixote* (not in library) | ch. 4, p. 155 |
 
 The arrows have turned: on day 1 all seven ran outward from Acker; today all eight run in.
 
@@ -306,4 +242,4 @@ Not found in the library and worth a search: Ernst van Alphen, “Excess and Sub
 ---
 
 Previous: [[shadows/2026-11-02-shadow-kathy-acker-day-1-the-card-says-alexandria|Shadow — Kathy Acker, day 1: The Card Says Alexandria]]  
-Next: —
+Next: [[shadows/2026-11-04-shadow-kathy-acker-day-3-the-dissent-is-absent|Shadow — Kathy Acker, day 3: The Dissent Is Absent]]

@@ -183,6 +183,13 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “There was something in its sorry architecture that reminded Dahlmann of a steel engraving, perhaps from an old edition of Paulet Virginie.” (≈65%)
 - “It was as though the South itself had decided that Dahlmann should accept the challenge.” (≈92%)
 
+### [[books/708-the-routledge-companion-to-experimental-literature|The Routledge Companion to Experimental Literature]]
+
+- “Acker rewrites Gibson, deleting some (but not all) of Gibson’s techno-speak, and adding oddly irrelevant details of her own:” (ch. 11, § III)
+- “However we choose to characterize Acker’s rewriting procedure, as soon as it is recognized, it interrupts the smooth production of a storyworld, introducing an intrusive element of second-handedness, of mediacy.” (ch. 11, § III)
+- “an effect of vacillation between two worlds – an ontological flicker.” (ch. 11, § III)
+- “Despite the polemical derision that each directed at the other, it seems as though Jencks and Lyotard – postmodern eclecticism and postmodern experiment – might be reconcilable after all, even on Lyotard’s terms.” (ch. 11, § IV)
+
 ### [[books/13964-machines-of-the-mind-personification-in-medieval-l|Machines of the Mind: Personification in Medieval Literature]]
 
 - “personification is as personification does” (Intro, p. 9)
@@ -773,6 +780,14 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "This is nice! Had quite forgotten this when inventing Ardis. March 4, 1968" (Part 2, record 2)
 - "Dreamt of Cyr. first time since his death in April." (card of Dec. 29, 1964, Part 2)
 
+### [[books/6623-the-cambridge-introduction-to-postmodern-fiction|The Cambridge Introduction to Postmodern Fiction]]
+
+- “Acker’s plagiarism is blatant. But this is what makes it hard to see in terms of the definition of plagiarism, as a devious attempt to pass off the work of others as one’s own.” (ch. 6, p. 159)
+- “her insertion of other texts seems random, free-associative, almost deliberately clumsy and slapdash, as if to make what she is doing as obvious as possible.” (ch. 6, p. 159)
+- “These two sentences are identical to the two which begin Dickens’s Great Expectations, except for the change of the name ‘Pip’ to ‘Peter’.” (ch. 6, p. 160)
+- “But, at the risk of sounding glib, the pointlessness is actually the point.” (ch. 6, p. 160)
+- “for Acker demonstrates that pastiche has a powerful critical edge when it becomes too faithful, as it were, moving from homage into outright theft.” (ch. 6, p. 160)
+
 ### [[books/7415-the-coming|The Coming]]
 
 - "The non-occurrence of the catastrophe was a catastrophe which ultimately made the world impossible to live in." (ch. 9) | "Truth always appears as a fiction and takes the form of a story. I am a storyteller." (ch. 1) | "The third was now dug out of its tomb: the Messiah could come again." (ch. 6) | "He died in Ulcinj on 30 September 1676. That was Yom Kippur." (ch. 6) | "When a good sleuth and God are finished, no further interpretation is possible, there’s only applause" (ch. 8) | "The Apocalypse had been a kind of solution, after all." (ch. 9) | "The Messiah will come only when he is no longer necessary; he will come only on the day after his arrival" (Kafka, epigraph)
@@ -854,6 +869,13 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 ### [[books/8939-the-ignorant-schoolmaster-five-lessons-in-intellec|The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation]]
 
 - "There is stultification whenever one intelligence is subordinated to another." (p. 13) | "There is no one on earth who hasn't learned something by himself and without a master explicator." (p. 16) | "Whoever teaches without emancipating stultifies." (p. 18) | "To teach what one doesn't know is simply to ask questions about what one doesn't know." (p. 30) | "Universal teaching is the poor's method. But it isn't a method of the poor." (p. 106) | "It's the disciple that makes the master." (p. 19) | Excerpt pp. 29–30 (Meno's slave)
+
+### [[books/5612-shift-linguals-cut-up-narratives-from-william-s-bu|Shift Linguals: Cut-Up Narratives From William S Burroughs to the Present]]
+
+- “Even now, her work remains extremely divisive.” (Kathy Acker chapter, p. 164)
+- “(Sometimes a cigar is just a cigar, and the nonconformity of Acker’s novel could just be the consequence of bad writing rather than transgressive writing.) (2000: 33)” (Kathy Acker chapter, p. 165, quoting Niall Lucy)
+- “Such criticisms overlook Acker’s extensive knowledge of classical, canonical and avant-garde literature, and in this context it is less problematic to accept Blood and Guts as transgressive.” (Kathy Acker chapter, p. 165)
+- “We all come out of MTV, so what’s the problem?” (Kathy Acker chapter, p. 182, quoting Acker)
 
 ### [[books/4232-technical-ekphrasis-in-greek-and-roman-science-and|Technical Ekphrasis in Greek and Roman Science and Literature]]
 

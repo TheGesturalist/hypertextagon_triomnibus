@@ -57,8 +57,7 @@ EPUB · Calibre ID 6182 · Faber edition → [[books/6182-translations|book page
 |---|---|---|
 | Bun na hAbhann | where the little stream enters the sea | “Burnfoot it is then.” |
 | Lis na Muc | “the Fort of the Pigs” | Swinefort |
-| Poll na gCaorach | — | Sheepsrock |
-| Cnoc Ban | (stage direction’s example) | “Knockban or – directly translated – Fair Hill” |
+| Poll na gCaorach Cnoc Ban | — (stage direction’s example) | Sheepsrock “Knockban or – directly translated – Fair Hill” |
 | Druim Luachra | — | undecided: “D-r-u-m or D-r-o-m?” |
 | Tobair Bhriain | Brian’s well; “Vree” is “a corruption of Brian” | Tobair Vree, kept at Yolland’s insistence |
 | Termon | “from Terminus, the god of boundaries” | admired by Yolland; no entry shown |
@@ -68,13 +67,11 @@ The list has two methods, sound (Knockban) and sense (Fair Hill), one name left 
 
 **Element: a translation ledger (Act One)** — Lancey’s speech and Owen’s rendering, verbatim:
 
-Lancey says Owen tells the class
-
-“His Majesty’s government has ordered the “A new map is being made of the whole first ever comprehensive survey of this country.” entire country – a general triangulation which will embrace detailed hydrographic and topographic information and which will be executed to a scale of six inches to the English mile.”
-
-Lancey says Owen tells the class
-
-“This enormous task has been embarked on “The job is being done by soldiers because so that the military authorities will be they are skilled in this work.” equipped with up-to-date and accurate information on every corner of this part of the Empire.” “And also so that the entire basis of land “This new map will take the place of the valuation can be reassessed for purposes estate-agent’s map so that from now on of more equitable taxation.” you will know exactly what is yours in law.”
+| Lancey says | Owen tells the class |
+|---|---|
+| “His Majesty’s government has ordered the first ever comprehensive survey of this entire country – a general triangulation which will embrace detailed hydrographic and topographic information and which will be executed to a scale of six inches to the English mile.” | “A new map is being made of the whole country.” |
+| “This enormous task has been embarked on so that the military authorities will be equipped with up-to-date and accurate information on every corner of this part of the Empire.” | “The job is being done by soldiers because they are skilled in this work.” |
+| “And also so that the entire basis of land valuation can be reassessed for purposes of more equitable taxation.” | “This new map will take the place of the estate-agent’s map so that from now on you will know exactly what is yours in law.” |
 
 Owen’s translations are not errors; they are a censor’s work. He removes the military purpose and the tax and adds a promise. The interpreter keeps a private core of his own.
 
@@ -102,25 +99,15 @@ of language comes from. It also gives the third book a frame: Steiner says secre
 
 **Element: a borrowing concordance** (each pair checked against both files)
 
-Friel, *Translations* Steiner, *After Babel*
-
-“words are signals, counters” (Hugh, II.i) “Languages are wholly arbitrary sets of
-
-> signals and conventionalized counters.” (Ch. 1) “A civilization is imprisoned in a linguistic “a civilisation can be imprisoned in a contour which no longer matches, or linguistic contour which no longer matches matches only at certain ritual, arbitrary the landscape of … fact” (Hugh, II.i) points, the changing landscape of fact.” (Ch. 1) “Often, cultures seem to expend on their “certain cultures expend on their vocabulary and syntax acquisitive energies vocabularies and syntax acquisitive
-
-energies and ostentations entirely lacking and ostentations entirely lacking in their in their material lives” (Hugh, II.i) material lives.” (Ch. 2) “the password … The private core will “hermetic and creative functions … All always be … hermetic” (Yolland, II.i) developed language has a private core …
-
-> the word was largely a pass-word” (Ch. 3)
-
-“interpret between privacies” (Hugh, III) “The element of privacy in language makes
-
-> possible a crucial, though little understood, linguistic function.” (Ch. 1)
-
-“And the word exogamein means to marry “ ‘Linguistic exogamy’ comes later, under outside the tribe.” (Jimmy, III) compulsion of hostile or collaborative
-
-> contact with other small groups.” (Ch. 3)
-
-“Something is being eroded.” (Yolland, II.i) “particularities of material substance which — *loose echo only* escape us, which our words erode” (Ch. 3)
+| Friel, Translations | Steiner, After Babel |
+|---|---|
+| “words are signals, counters” (Hugh, II.i) | “Languages are wholly arbitrary sets of signals and conventionalized counters.” (Ch. 1) |
+| “a civilisation can be imprisoned in a linguistic contour which no longer matches the landscape of … fact” (Hugh, II.i) | “A civilization is imprisoned in a linguistic contour which no longer matches, or matches only at certain ritual, arbitrary points, the changing landscape of fact.” (Ch. 1) |
+| “certain cultures expend on their vocabularies and syntax acquisitive energies and ostentations entirely lacking in their material lives” (Hugh, II.i) | “Often, cultures seem to expend on their vocabulary and syntax acquisitive energies and ostentations entirely lacking in their material lives.” (Ch. 2) |
+| “the password … The private core will always be … hermetic” (Yolland, II.i) | “hermetic and creative functions … All developed language has a private core … the word was largely a pass-word” (Ch. 3) |
+| “interpret between privacies” (Hugh, III) | “The element of privacy in language makes possible a crucial, though little understood, linguistic function.” (Ch. 1) |
+| “And the word exogamein means to marry outside the tribe.” (Jimmy, III) | “ ‘Linguistic exogamy’ comes later, under compulsion of hostile or collaborative contact with other small groups.” (Ch. 3) |
+| “Something is being eroded.” (Yolland, II.i) — *loose echo only* | “particularities of material substance which escape us, which our words erode” (Ch. 3) |
 
 Friel kept the content and dropped the qualifications. Steiner’s “or matches only at certain ritual, arbitrary points” is gone, and “seem to” becomes plain assertion. In Hugh’s mouth
 

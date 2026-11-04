@@ -29,21 +29,11 @@ Connection kinds: **Shared form or method**, **Same subject**, **Conflict**. The
 
 ## Constellation
 
-From To What passes between them
-
-Perec Moretti “Time turned into space”:
-
-> Moretti flattens four hours of a play into one network; Perec freezes one moment (23 June 1975, 8 p.m.) into a building’s cross-section.
-
-From To What passes between them
-
-Perec Hage & Harary The single line: sand
-
-> drawings traced without lifting the finger (an eulerian circuit, every line once) vs. a novel that visits each room once by knight’s moves (a hamiltonian walk, every point once, minus one).
-
-Moretti Hage & Harary Removal as method: with
-
-> Hamlet gone, Horatio behaves as what H&H define as a cutpoint. Moretti borrows mathematics he says he lacks; H&H insist it must be made explicit.
+| From | To | What passes between them |
+|---|---|---|
+| Perec | Moretti | “Time turned into space”: Moretti flattens four hours of a play into one network; Perec freezes one moment (23 June 1975, 8 p.m.) into a building’s cross-section. |
+| Perec | Hage & Harary | The single line: sand drawings traced without lifting the finger (an eulerian circuit, every line once) vs. a novel that visits each room once by knight’s moves (a hamiltonian walk, every point once, minus one). |
+| Moretti | Hage & Harary | Removal as method: with Hamlet gone, Horatio behaves as what H&H define as a cutpoint. Moretti borrows mathematics he says he lacks; H&H insist it must be made explicit. |
 
 ## 1. Life A User’s Manual — Georges Perec (1978; trans. David Bellos, 1987)
 

@@ -4,7 +4,7 @@ tags:
   - apparatus
 ---
 
-All 124 distinct books resurfaced across 41 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
+All 127 distinct books resurfaced across 42 daily readings, alphabetical by first credited name. Calibre IDs refer to the Scribrarium catalogue.
 
 - [[people/kathy-acker|Kathy Acker]]. *[[books/10951-blood-and-guts-in-high-school|Blood and Guts in High School]]*. 1978/1984 (Penguin Classics EPUB 2017). Calibre ID 10951.
 - [[people/kathy-acker|Kathy Acker]]. *[[books/1178-great-expectations|Great Expectations]]*. 1982 (Penguin Modern Classics EPUB 2018). Calibre ID 1178.
@@ -25,6 +25,7 @@ All 124 distinct books resurfaced across 41 daily readings, alphabetical by firs
 - [[people/maurice-blanchot|Maurice Blanchot]], [[people/charlotte-mandell|Charlotte Mandell]] (translator). *[[books/3315-the-book-to-come|The Book to Come]]*. 1959. Calibre ID 3315.
 - [[people/roberto-bolano|Roberto Bolaño]], [[people/chris-andrews|Chris Andrews]] (translator). *[[books/14390-the-collected-short-stories-of-roberto-bolano-the|The Collected Short Stories of Roberto Bolaño ('The Insufferable Gaucho')]]*. 2003 (El gaucho insufrible); Eng. 2010. Calibre ID 14390.
 - [[people/jorge-luis-borges|Jorge Luis Borges]], [[people/andrew-hurley|Andrew Hurley]] (translator). *[[books/7517-collected-fictions-the-south|Collected Fictions ('The South')]]*. 1953 (story); added to Ficciones 1956; Hurley trans. 1998. Calibre ID 7517.
+- [[people/joe-bray|Joe Bray]] (editor), [[people/alison-gibbons|Alison Gibbons]] (editor), [[people/brian-mchale|Brian McHale]] (editor). *[[books/708-the-routledge-companion-to-experimental-literature|The Routledge Companion to Experimental Literature]]*. 2012 (Routledge). Calibre ID 708.
 - [[people/katharine-breen|Katharine Breen]]. *[[books/13964-machines-of-the-mind-personification-in-medieval-l|Machines of the Mind: Personification in Medieval Literature]]*. 2021. Calibre ID 13964.
 - [[people/sir-thomas-browne|Sir Thomas Browne]]. *[[books/149-religio-medici-and-urne-buriall|Religio Medici and Urne-Buriall]]*. 1658. Calibre ID 149.
 - [[people/robert-burton|Robert Burton]]. *[[books/8773-the-anatomy-of-melancholy|The Anatomy of Melancholy]]*. 1621. Calibre ID 8773.
@@ -97,6 +98,7 @@ All 124 distinct books resurfaced across 41 daily readings, alphabetical by firs
 - [[people/harryette-mullen|Harryette Mullen]]. *[[books/5096-sleeping-with-the-dictionary|Sleeping with the Dictionary]]*. 2002. Calibre ID 5096.
 - [[people/iris-murdoch|Iris Murdoch]]. *[[books/2455-the-sovereignty-of-good|The Sovereignty of Good]]*. 1970. Calibre ID 2455.
 - [[people/vladimir-nabokov|Vladimir Nabokov]], [[people/gennady-barabtarlo|Gennady Barabtarlo]] (editor). *[[books/2515-insomniac-dreams-experiments-with-time-by-vladimir|Insomniac Dreams: Experiments With Time by Vladimir Nabokov]]*. 1964-65 (cards); 2017 (book). Calibre ID 2515.
+- [[people/bran-nicol|Bran Nicol]]. *[[books/6623-the-cambridge-introduction-to-postmodern-fiction|The Cambridge Introduction to Postmodern Fiction]]*. 2009 (Cambridge University Press). Calibre ID 6623.
 - [[people/andrej-nikolaidis|Andrej Nikolaidis]], [[people/will-firth|Will Firth]] (translator). *[[books/7415-the-coming|The Coming]]*. 2009. Calibre ID 7415.
 - [[people/gananath-obeyesekere|Gananath Obeyesekere]]. *[[books/8381-cannibal-talk-the-man-eating-myth-and-human-sacrif|Cannibal Talk: The Man-Eating Myth and Human Sacrifice in the South Seas]]*. 2005. Calibre ID 8381.
 - [[people/m-b-parkes|M. B. Parkes]]. *[[books/13526-pause-and-effect-an-introduction-to-the-history-of|Pause and Effect: An Introduction to the History of Punctuation in the West]]*. 1992 (UC Press ed. 1993). Calibre ID 13526.
@@ -107,6 +109,7 @@ All 124 distinct books resurfaced across 41 daily readings, alphabetical by firs
 - [[people/scott-abbott-zarko-radakovic|Scott Abbott; Žarko Radaković]]. *[[books/6002-vampires-a-reasonable-dictionary|Vampires & a Reasonable Dictionary]]*. 2014. Calibre ID 6002.
 - [[people/jacques-ranciere|Jacques Rancière]], [[people/steven-corcoran|Steven Corcoran]] (translator). *[[books/8698-mallarme-the-politics-of-the-siren|Mallarmé: The Politics of the Siren]]*. 1996. Calibre ID 8698.
 - [[people/jacques-ranciere|Jacques Rancière]], [[people/kristin-ross|Kristin Ross]] (translator). *[[books/8939-the-ignorant-schoolmaster-five-lessons-in-intellec|The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation]]*. 1987. Calibre ID 8939.
+- [[people/edward-s-robinson|Edward S. Robinson]]. *[[books/5612-shift-linguals-cut-up-narratives-from-william-s-bu|Shift Linguals: Cut-Up Narratives From William S Burroughs to the Present]]*. 2011 (Rodopi). Calibre ID 5612.
 - [[people/courtney-roby|Courtney Roby]]. *[[books/4232-technical-ekphrasis-in-greek-and-roman-science-and|Technical Ekphrasis in Greek and Roman Science and Literature]]*. 2016. Calibre ID 4232.
 - [[people/raymond-roussel|Raymond Roussel]], [[people/mark-polizzotti|Mark Polizzotti]] (translator). *[[books/772-impressions-of-africa|Impressions of Africa]]*. 1910. Calibre ID 772.
 - [[people/john-ruskin|John Ruskin]]. *[[books/4017-the-lamp-of-memory|The Lamp of Memory]]*. 1849. Calibre ID 4017.

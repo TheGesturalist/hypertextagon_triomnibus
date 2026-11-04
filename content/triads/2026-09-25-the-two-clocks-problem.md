@@ -136,15 +136,12 @@ EPUB · Calibre ID 389 · re.press, Melbourne (Anamnesis series; open access). P
 
 | System | What separates things | Who or what connects them |
 |---|---|---|
-| Ash’arite occasionalism | every created thing, from | God, for every event |
-| (al-Ash’ari) | moment to moment |  |
-| Malebranche (Geulincx too, | body from body, mind from | God |
-| for mind and body) | body |  |
+| Ash’arite occasionalism (al-Ash’ari) | every created thing, from moment to moment | God, for every event |
+| Malebranche (Geulincx too, for mind and body) | body from body, mind from body | God |
 | Hume | qualities | custom (“Custom is to Hume what God is to the occasionalists: the only genuine link between separate realities”) |
 | Kant | things-in-themselves from phenomena | the categories of the human mind |
 | Whitehead | actual entities | “eternal objects” located in God |
-| Latour, as Harman reads | every actor from every | any actor: a local mediator, |
-| him | other | who may fail |
+| Latour, as Harman reads him | every actor from every other | any actor: a local mediator, who may fail |
 
 chapter, taken from the EPUB text. The concept is almost absent from the Latour exposition in Part I and concentrated in “Contributions” (25 of 53), where Harman claims local occasionalism as Latour’s “greatest achievement.” It comes back in the object-oriented chapter where Harman speaks in his own name (13).
 

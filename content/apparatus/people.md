@@ -37,6 +37,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/marcus-boon|Marcus Boon]] — contributor
 - [[people/jorge-luis-borges|Jorge Luis Borges]] — author
 - [[people/robert-boyers|Robert Boyers]] — editor
+- [[people/joe-bray|Joe Bray]] — editor
 - [[people/katharine-breen|Katharine Breen]] — author
 - [[people/fred-bridgham|Fred Bridgham]] — translator
 - [[people/max-brod|Max Brod]] — editor
@@ -82,6 +83,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/marina-galletti|Marina Galletti]] — editor
 - [[people/william-h-gass|William H. Gass]] — author
 - [[people/arnold-geulincx|Arnold Geulincx]] — author
+- [[people/alison-gibbons|Alison Gibbons]] — editor
 - [[people/rene-girard|René Girard]] — author
 - [[people/jody-gladding|Jody Gladding]] — translator
 - [[people/klara-glowczewska|Klara Glowczewska]] — translator
@@ -138,6 +140,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/paul-mattick|Paul Mattick]] — author
 - [[people/tom-mccarthy|Tom McCarthy]] — author
 - [[people/alastair-mcewen|Alastair McEwen]] — translator
+- [[people/brian-mchale|Brian McHale]] — editor
 - [[people/henri-michaux|Henri Michaux]] — author
 - [[people/christopher-middleton|Christopher Middleton]] — translator
 - [[people/joseph-mitchell|Joseph Mitchell]] — author
@@ -149,6 +152,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/iris-murdoch|Iris Murdoch]] — author
 - [[people/vladimir-nabokov|Vladimir Nabokov]] — author
 - [[people/joachim-neugroschel|Joachim Neugroschel]] — translator
+- [[people/bran-nicol|Bran Nicol]] — author
 - [[people/andrej-nikolaidis|Andrej Nikolaidis]] — author
 - [[people/ojiu-norinaga|Ojiu Norinaga]] — translator
 - [[people/gananath-obeyesekere|Gananath Obeyesekere]] — author
@@ -163,6 +167,7 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/betty-radice|Betty Radice]] — translator
 - [[people/jacques-ranciere|Jacques Rancière]] — author
 - [[people/paul-reitter|Paul Reitter]] — contributor
+- [[people/edward-s-robinson|Edward S. Robinson]] — author
 - [[people/courtney-roby|Courtney Roby]] — author
 - [[people/kristin-ross|Kristin Ross]] — translator
 - [[people/jon-rothschild|Jon Rothschild]] — translator

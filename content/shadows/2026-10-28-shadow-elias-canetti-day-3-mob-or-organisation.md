@@ -83,35 +83,17 @@ brackets.
 
 (Ch. 1, “The Revolt of the Masses”; note 11 cites Stewart’s translation, Gollancz 1962, pp. 15– 22, 48–52, 306–26, 468.)
 
-**Element 2 — Carey’s quotations checked against Canetti’s books.**
+**Element 2 — Carey’s quotations checked against Canetti’s books. Element 3 — a misreading worth attempting.** Take Carey’s fourth step literally. If the
 
-> Canetti’s text (library
+| Carey quotes | Canetti’s text (library edition) | Verdict |
+|---|---|---|
+| “experience for itself the strongest possible feeling of its animal force and passion” | “It wants to experience for itself the strongest possible feeling of its **own** animal force and passion” (CP 14938, “The Eruption”) | *own* silently dropped |
+| “Today everyone takes part in public executions through the newspapers.” | identical (CP, “Baiting Crowds”) | verbatim |
+| “most despicable” | “One is tempted to say that it is the most despicable and, at the same time, most stable form of such a crowd.” | fragment; Canetti’s “tempted to say” hedge and “most stable” dropped |
+| “biological state”; “first and supreme attribute” | “in what one might call its biological state”; “the urge to grow is the first and supreme attribute of the crowd.” | verbatim fragments (“The Eruption”; “The Open and the Closed Crowd”); “one might call” dropped |
+| “I became part of the crowd. I dissolved into it fully.” | “I became a part of the crowd, I fully dissolved in it, I did not feel the slightest resistance to what the crowd was doing.” (*Torch in My Ear* 421, “The Fifteenth of July”) | not Neugroschel’s wording; Carey either translates afresh or quotes another source, and no note says which |
 
-Carey quotes edition) Verdict
-
-> *own* silently dropped “It wants to experience for “experience for itself the itself the strongest possible strongest possible feeling of
-
-its animal force and passion” feeling of its **own** animal
-
-> force and passion” (CP 14938, “The Eruption”)
-
-“Today everyone takes part identical (CP, “Baiting verbatim in public executions through Crowds”) the newspapers.” “most despicable” “One is tempted to say that fragment; Canetti’s
-
-> it is the most despicable and, “tempted to say” hedge and at the same time, most “most stable” dropped stable form of such a crowd.”
-
-“biological state”; “first and “in what one might call its verbatim fragments (“The supreme attribute” biological state”; “the urge Eruption”; “The Open and
-
-> to grow is the first and the Closed Crowd”); “one supreme attribute of the might call” dropped crowd.”
-
-> Canetti’s text (library
-
-Carey quotes edition) Verdict
-
-“I became part of the crowd. “I became a part of the not Neugroschel’s wording; I dissolved into it fully.” crowd, I fully dissolved in it, Carey either translates
-
-> I did not feel the slightest afresh or quotes another resistance to what the crowd source, and no note says was doing.” (*Torch in My Ear* which 421, “The Fifteenth of July”)
-
-**Element 3 — a misreading worth attempting.** Take Carey’s fourth step literally. If the newspaper reader is “the most despicable … form” of the baiting crowd, then Canetti, a reader of newspapers, is condemning himself as well, not looking down from above. The “tempted to say” Carey omits supports this reading: it is the sentence of someone who is himself in the crowd he describes. Try reading every hedge Carey drops as a confession.
+newspaper reader is “the most despicable … form” of the baiting crowd, then Canetti, a reader of newspapers, is condemning himself as well, not looking down from above. The “tempted to say” Carey omits supports this reading: it is the sentence of someone who is himself in the crowd he describes. Try reading every hedge Carey drops as a confession.
 
 ## 3.2 Plasticity: The Promise of Explosion — Catherine Malabou, ed. Tyler M. Williams, 2022 (PDF; Calibre 907)
 
@@ -131,15 +113,14 @@ Carey quotes edition) Verdict
 
 **Element 2 — the translation chain, as a derived list.** Malabou cites Stewart’s English (Canetti 1984; FSG) and Neugroschel’s memoir (1990). Her own quotations, however, were made in French and then put back into English by her translator. Checked against the library’s Stewart (14938) and Neugroschel (421):
 
-Malabou’s English (p.) Stewart / Neugroschel What moved
-
-> French *noir* restored in “Suddenly everything is “Suddenly everywhere is
-
-swarming with people black with people” brackets, English made [Soudain tout est noir de figurative monde]” (115) “The goal is the most intense “This goal is the blackest *blackest spot* becomes *most* darkness where the most spot where most people are *intense darkness* people are gathered.” (115) gathered.” “The crowd he needs is the “The crowd he needs is the *dense* becomes *compact* compact crowd” (116) dense crowd” “a drastic and enigmatic “a total alteration of *alteration* becomes modification of consciousness, was both *modification*; *total* lost consciousness” (1990: 353, drastic and enigmatic” cited p. 118) (*Torch*, “The Buddhist”) “Crowd crystals are the “CROWD CRYSTALS are the ***rigid* dropped** small groups of men, strictly small, rigid groups of men, delimited and of great strictly delimited and of constancy” (n. 9, p. 129) great constancy”
-
-> “SECRECY LIES at the very verbatim “ ‘Secrecy’, writes Canetti, core of power” ‘lies at the very core of
-
-power…’ ” (1984: 290)
+| Malabou’s English (p.) | Stewart / Neugroschel | What moved |
+|---|---|---|
+| “Suddenly everything is swarming with people [Soudain tout est noir de monde]” (115) | “Suddenly everywhere is black with people” | French *noir* restored in brackets, English made figurative |
+| “The goal is the most intense darkness where the most people are gathered.” (115) | “This goal is the blackest spot where most people are gathered.” | *blackest spot* becomes *most intense darkness* |
+| “The crowd he needs is the compact crowd” (116) | “The crowd he needs is the dense crowd” | *dense* becomes *compact* |
+| “a drastic and enigmatic modification of consciousness” (1990: 353, cited p. 118) | “a total alteration of consciousness, was both drastic and enigmatic” (*Torch*, “The Buddhist”) | *alteration* becomes *modification*; *total* lost |
+| “Crowd crystals are the small groups of men, strictly delimited and of great constancy” (n. 9, p. 129) | “CROWD CRYSTALS are the small, rigid groups of men, strictly delimited and of great constancy” | ***rigid* dropped** |
+| “ ‘Secrecy’, writes Canetti, ‘lies at the very core of power…’ ” (1984: 290) | “SECRECY LIES at the very core of power” | verbatim |
 
 The translator’s note 1 says Stewart renders *Masse* as “crowd” while Malabou keeps “la masse”. That is the visible part of the chain. The rewordings in the table are the invisible part. One of them bears on her thesis: an argument for the organised mass quotes the definition of the crowd crystal with *rigid* removed. That supports her case, since her organisation is supple (“tact”), not rigid. It should not be cited as if it were Stewart’s text.
 
@@ -165,53 +146,22 @@ The translator’s note 1 says Stewart renders *Masse* as “crowd” while Mala
 
 ## 4. The shadow so far
 
-# From Relation To Location
-
-> Quotes Ibn Battuta p. 24 1 Canetti, (13883) *Conscience of Words* (413)
-
-2 Canetti (413) Argues with Freud, Schreber p. 25
-
-> case
-
-3 Földényi (3123) Quotes *Crowds and* “A Capacity for
-
-> *Power* (14938) Amazement”, n. 3 ibid., n. 1 4 Földényi (3123) Quotes *Notes from Hampstead* (415)
-
-5 Gass (926) Quotes *Torch in My Ear* “The Road to
-
-> (421) the True Book”
-
-6 Gass (926) Quotes *Tongue Set Free* ibid.
-
-> (420)
-
-7 Gass (926) Quotes *Play of the Eyes* “Influence”
-
-> (418)
-
-8 Gass (926) Quotes *Conscience of* “Influence”
-
-> *Words* (413)
-
-9 **Carey (3632) Argues with** *Crowds and* ch. 1, “The
-
-> *Power* Revolt of the Masses”
-
-10 **Carey (3632) Quotes** *CP*; *Torch* ch. 1, n. 11 11 **Malabou (907) Argues with** *Crowds and* ch. 8, p. 117
-
-> *Power* (and Negri’s reading)
-
-12 **Malabou (907) Quotes** *CP*; *Torch* (via ch. 8, #
-
-> French) pp. 115–129
-
-> From Relation To Location
-
-> “A Tale of Three 13 **Steiner (4026) Argues with** Canetti’s rank; *CP* Cities”
-
-14 **Steiner (4026) Quotes** *Torch in My Ear* ibid.
-
-> (421)
+| # | From | Relation | To | Location |
+|---|---|---|---|---|
+| 1 | Canetti, *Conscience of Words* (413) | Quotes | Ibn Battuta (13883) | p. 24 |
+| 2 | Canetti (413) | Argues with | Freud, Schreber case | p. 25 |
+| 3 | Földényi (3123) | Quotes | *Crowds and Power* (14938) | “A Capacity for Amazement”, n. 3 |
+| 4 | Földényi (3123) | Quotes | *Notes from Hampstead* (415) | ibid., n. 1 |
+| 5 | Gass (926) | Quotes | *Torch in My Ear* (421) | “The Road to the True Book” |
+| 6 | Gass (926) | Quotes | *Tongue Set Free* (420) | ibid. |
+| 7 | Gass (926) | Quotes | *Play of the Eyes* (418) | “Influence” |
+| 8 | Gass (926) | Quotes | *Conscience of Words* (413) | “Influence” |
+| 9 | **Carey (3632)** | **Argues with** | *Crowds and Power* | ch. 1, “The Revolt of the Masses” |
+| 10 | **Carey (3632)** | **Quotes** | *CP*; *Torch* | ch. 1, n. 11 |
+| 11 | **Malabou (907)** | **Argues with** | *Crowds and Power* (and Negri’s reading) | ch. 8, p. 117 |
+| 12 | **Malabou (907)** | **Quotes** | *CP*; *Torch* (via French) | ch. 8, pp. 115–129 |
+| 13 | **Steiner (4026)** | **Argues with** | Canetti’s rank; *CP* | “A Tale of Three Cities” |
+| 14 | **Steiner (4026)** | **Quotes** | *Torch in My Ear* (421) | ibid. |
 
 Running count: 14 edges from 7 books. Mentions promoted to edges so far: 3123, 926, 3632, 907, 4026.
 

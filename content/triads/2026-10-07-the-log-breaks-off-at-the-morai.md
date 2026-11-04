@@ -58,13 +58,17 @@ Edwards, opening the Postscript: “Whatever else Cook wrote has not survived. H
 
 The same entry goes on, and this is the part neither anthropologist dwells on. Cook doubts his informants’ number (“they counted to me fifty a number which exceeded all probabillity by reason of the smallness of their own number”), and he says why he staged the scene: “I have often been asked, after relateing all the circumstance, if I had actualy seen them eat human flesh my self, such a queston was sufficient to convence me that they either disbelieved all I had said or formed a very different opinion from it”.
 
-**Concordance (derived from the EPUB text, by section).**
+**Concordance (derived from the EPUB text, by section).** In his own hand Cook never names the god he is supposed to have become. The only one who
 
-Section *Lono / Orono / Erono cannibal / canibal / anthropophag-*
+| Section | Lono / Orono / Erono | cannibal / canibal / anthropophag- |
+|---|---|---|
+| General Introduction (Edwards) | 0 | 0 |
+| Journal, first voyage | 0 | 1 |
+| Journal, second voyage | 0 | 6 |
+| Journal, third voyage | 0 | 1 |
+| Postscript: the Death of Cook (Edwards) | 11 | 0 |
 
-General Introduction (Edwards) 0 0 Journal, first voyage 0 1 Journal, second voyage 0 6 Journal, third voyage 0 1 Postscript: the Death of Cook (Edwards) 11 0
-
-In his own hand Cook never names the god he is supposed to have become. The only one who names Lono is the editor, writing after the log ends. (These counts are for this selection, not the full Beaglehole edition.)
+names Lono is the editor, writing after the log ends. (These counts are for this selection, not the full Beaglehole edition.)
 
 **Timeline: where the journal stops.** Edwards’s own answer comes at the very end of the book, and it is neither Sahlins’s nor
 

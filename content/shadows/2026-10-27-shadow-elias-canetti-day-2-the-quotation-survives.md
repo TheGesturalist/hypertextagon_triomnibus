@@ -59,40 +59,18 @@ The author is Elias Canetti, and this is day 2 of 7. On day 1, Crowds and Power 
 
 **Overview.** Földényi does not read *Crowds and Power* as anthropology or political science. He reads it as a vision of power, comparable to Nietzsche at Sils Maria, and sets it against Hegel’s Africa lectures. Where Hegel turns away from African kingship (“an unhistorical continent”), Canetti returns to it chapter after chapter. Földényi also openly concedes the book’s academic weaknesses: “His citation apparatus, for example, is, to put it mildly, unusual.” His own conclusion is that he “would not compare his work with that of Hannah Arendt, but with Kafka’s.”
 
-**Element 1 — Concordance of his quotations against the Stewart translation (Calibre 14938, EPUB)**
+**Element 1 — Concordance of his quotations against the Stewart translation (Calibre 14938, EPUB)** The one passage he paraphrases rather than quotes is the one with the moral turn in it.
 
-> Quoted words Found in *Crowds and*
+| Földényi’s note | Quoted words (opening) | Found in Crowds and Power (section) | Result |
+|---|---|---|---|
+| n. 2 and n. 8 (Stewart p. 277) | “He thought much, but his thoughts were never cold.” | The Survivor: Immortality (Stendhal) | verbatim |
+| n. 3 (p. 411) | “his despots may use more effective means…” | Rulers and Paranoiacs: African Kings | verbatim; capital *H* lowered; preceding sentence paraphrased |
+| n. 10 (p. 15) | “As soon as a man has surrendered himself to the crowd…” | The Crowd: The Fear of being Touched | verbatim (cut at “there”) |
+| n. 12 (p. 210) | “Nothing has been so much part of one…” / “Something alien is seized…” | The Entrails of Power | verbatim |
+| n. 13 (p. 306) | “Those most beset by commands are children…” | The Command | verbatim, with ellipsis |
+| n. 14 (p. 333) | “We must have the courage to stand against [the command]…” | The Command: Commands and Irresponsibility | verbatim; “[the command]” replaces “it” |
 
-Földényi’s note (opening) *Power* (section) Result
-
-n. 2 and n. 8 “He thought much, The Survivor: verbatim (Stewart p. 277) but his thoughts Immortality
-
-> were never cold.” (Stendhal)
-
-n. 3 (p. 411) “his despots may use Rulers and verbatim; capital *H*
-
-| more effective | Paranoiacs: African | lowered; preceding |
-|---|---|---|
-| means…” | Kings | sentence paraphrased |
-
-n. 10 (p. 15) “As soon as a man The Crowd: The Fear verbatim (cut at
-
-| has surrendered | of being Touched | “there”) |
-|---|---|---|
-| himself to the |  |  |
-| crowd…” | The Entrails of | verbatim |
-
-n. 12 (p. 210) “Nothing has been
-
-> Power so much part of one…” / “Something alien is seized…” The Command verbatim, with n. 13 (p. 306) “Those most beset by ellipsis commands are children…” verbatim; “[the The Command: n. 14 (p. 333) “We must have the
-
-| courage to stand | Commands and | command]” replaces |
-|---|---|---|
-|  | Irresponsibility | “it” |
-| against [the |  |  |
-| command]…” |  |  |
-
-The one passage he paraphrases rather than quotes is the one with the moral turn in it. Canetti: “It is not for a European of the 20th century to regard himself as above savagery. His despots may use more effective means, but their ends often differ in nothing from those of these African Kings.” (Rulers and Paranoiacs: African Kings). Földényi: “As Canetti puts it in the book: the European bourgeois of the twentieth century thinks that he stands above the African king, yet ‘his despots may use more effective means, but their ends often differ in nothing from those of these African Kings.’ ” (“A Capacity for Amazement”). Canetti’s “European of the 20th century” has become “the European bourgeois”. That is a class Canetti does not name in this passage.
+Canetti: “It is not for a European of the 20th century to regard himself as above savagery. His despots may use more effective means, but their ends often differ in nothing from those of these African Kings.” (Rulers and Paranoiacs: African Kings). Földényi: “As Canetti puts it in the book: the European bourgeois of the twentieth century thinks that he stands above the African king, yet ‘his despots may use more effective means, but their ends often differ in nothing from those of these African Kings.’ ” (“A Capacity for Amazement”). Canetti’s “European of the 20th century” has become “the European bourgeois”. That is a class Canetti does not name in this passage.
 
 **Element 2 — Two claims tested against the text**
 
@@ -108,29 +86,18 @@ The one passage he paraphrases rather than quotes is the one with the moral turn
 
 **Overview.** Gass begins with his own non-meeting with Canetti at a Berlin party with three bands playing, where nothing could be heard. He then turns the anecdote on himself: “Then the word I—that moist reedlike letter that makes the winds sing, that wonderful word for me—takes ten typical bows in our specimen paragraph”. His subject is autobiography and the honesty of memory (“Well … to remember is to give limbs to a new lie.”). He praises Canetti for keeping what the adult knows separate from what the child knew: “Canetti’s tact with time and knowledge is one of the artistic triumphs of these memoirs.” In “Influence”, Gass tells the night of Büchner from *The Play of the Eyes* and the burning of the Palace of Justice on 15 July 1927.
 
-**Element 1 — His quotations, checked**
+**Element 1 — His quotations, checked Element 2 — A derived list: the hero’s three names**
 
-Gass quotes Source in the library Result
-
-“I bow to memory, every *The Torch in My Ear* (421), verbatim except “beat person’s memory…” (block) ch. “Escape” alongn” (Gass) for “beat
-
-> along” (Canetti)
-
-“The threat with the knife *The Tongue Set Free* (420), verbatim; Gass inserts worked,” … “the child quite “My Earliest Memory” “Canetti writes” where the literally held his tongue for source has a comma ten years.” “a coward who refused to *Torch* (421), “The Pension verbatim look life in the face because Charlotte” of mere books…”
-
-Gass quotes Source in the library Result
-
-“I did not realize how much I *Torch* (421), “The Letters in verbatim learned in the laboratory…” the Tree” ending “each individual human being, bound in himself.” “the last common property” *Conscience of Words* (413), verbatim
-
-> “Hermann Broch”, p. 13 (“Air is the last common property.”)
-
-“… everything it contains *Conscience of Words* (413), verbatim (the OCR splits and indeed everything it “Confucius in His “every- thing” and reads the lacks is important.” Conversations”, p. 94 italic *lacks* as “/acks”) “I had lost my right to *The Play of the Eyes* (418), verbatim books”; “It was as if I had “Büchner in the Desert” been struck by lightning.”; “My novel that I’d been so proud of crumbled into dust and ashes.”
-
-> one tense slip *Play of the Eyes* (418) reads Büchner block: “which had “which I **had** never touched.” long been on my shelf but
-
-which I have never touched.”
-
-**Element 2 — A derived list: the hero’s three names**
+| Gass quotes | Source in the library | Result |
+|---|---|---|
+| “I bow to memory, every person’s memory…” (block) | *The Torch in My Ear* (421), ch. “Escape” | verbatim except “beat alongn” (Gass) for “beat along” (Canetti) |
+| “The threat with the knife worked,” … “the child quite literally held his tongue for ten years.” | *The Tongue Set Free* (420), “My Earliest Memory” | verbatim; Gass inserts “Canetti writes” where the source has a comma |
+| “a coward who refused to look life in the face because of mere books…” | *Torch* (421), “The Pension Charlotte” | verbatim |
+| “I did not realize how much I learned in the laboratory…” ending “each individual human being, bound in himself.” | *Torch* (421), “The Letters in the Tree” | verbatim |
+| “the last common property” | *Conscience of Words* (413), “Hermann Broch”, p. 13 (“Air is the last common property.”) | verbatim |
+| “… everything it contains and indeed everything it | *Conscience of Words* (413), “Confucius in His | verbatim (the OCR splits “every- thing” and reads the |
+| lacks is important.” “I had lost my right to books”; “It was as if I had been struck by lightning.”; “My novel that I’d been so proud of crumbled into dust and ashes.” | Conversations”, p. 94 *The Play of the Eyes* (418), “Büchner in the Desert” | italic *lacks* as “/acks”) verbatim |
+| Büchner block: “which had long been on my shelf but which I have never touched.” | *Play of the Eyes* (418) reads “which I **had** never touched.” | one tense slip |
 
 Gass: “Moreover, after at first naming the character Kant, he called him Kien, meaning ‘kindling,’ so what was possible for that person but ignition?” (“Influence”).
 
@@ -148,35 +115,16 @@ So the first name was not Kant. It was already *fire*. Gass’s ignition joke wo
 
 ## 4. The shadow so far
 
-From Relation To Location
-
-> pp. 24, “Power and Canetti, *The* Quotes Ibn Battuta, *Travels*
-
-*Conscience of Words* (13883) Survival” (day 1) (413) Canetti, *The* Argues with Freud on Schreber p. 25 (day 1) *Conscience of Words* (not in library) (413) Földényi (3123) Quotes *Crowds and Power* “A Capacity for
-
-> (14938) Amazement”, nn. 2–3, 8, 10, 12–14
-
-Földényi (3123) Quotes *Notes from* “A Capacity for
-
-| (retranslated) | Hampstead (415) | Amazement”, n. 1; |
-|---|---|---|
-|  |  | 415: 1960 |
-
-Gass (926) Quotes *The Torch in My Ear* “The Road to the
-
-> (421) True Book”
-
-Gass (926) Quotes *The Play of the Eyes* “Influence”
-
-> (418)
-
-Gass (926) Quotes *The Tongue Set Free* “The Road to the
-
-> (420) True Book” *The Conscience of* “Influence”; “The Gass (926) Quotes /
-
-| misremembers | Words (413) | Road to the True |
-|---|---|---|
-|  |  | Book” |
+| From | Relation | To | Location |
+|---|---|---|---|
+| Canetti, *The Conscience of Words* (413) | Quotes | Ibn Battuta, *Travels* (13883) | pp. 24, “Power and Survival” (day 1) |
+| Canetti, *The Conscience of Words* (413) | Argues with | Freud on Schreber (not in library) | p. 25 (day 1) |
+| Földényi (3123) | Quotes | *Crowds and Power* (14938) | “A Capacity for Amazement”, nn. 2–3, 8, 10, 12–14 |
+| Földényi (3123) | Quotes (retranslated) | *Notes from Hampstead* (415) | “A Capacity for Amazement”, n. 1; 415: 1960 |
+| Gass (926) | Quotes | *The Torch in My Ear* (421) | “The Road to the True Book” |
+| Gass (926) | Quotes | *The Play of the Eyes* (418) | “Influence” |
+| Gass (926) | Quotes | *The Tongue Set Free* (420) | “The Road to the True Book” |
+| Gass (926) | Quotes / misremembers | *The Conscience of Words* (413) | “Influence”; “The Road to the True Book” |
 
 ## 5. Where this sends you
 

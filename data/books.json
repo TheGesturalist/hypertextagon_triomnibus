@@ -4477,5 +4477,114 @@
       ],
       "Date": 1793664000
     }
+  },
+  {
+    "id": 129,
+    "fields": {
+      "Set": 42,
+      "Calibre_ID": 6623,
+      "Title": "The Cambridge Introduction to Postmodern Fiction",
+      "Author": "Bran Nicol",
+      "Year": "2009 (Cambridge University Press)",
+      "File_Format": "PDF",
+      "Role_in_Set": "Day 3 primary (argues with Acker): ch. 6 'Postmodern fiction by women: Carter, Atwood, Acker', the Acker section on plagiarism (printed pp. 158–162), read and collated against GE (1178) and BG (10951).",
+      "Selection_Logic": "Day-2 lead in Author_Weeks notes; the only book in the library that quotes McHale's 1992 'pointless' verdict and answers it. Mentions row 475.",
+      "Elements": [
+        "L",
+        "Verified quotation",
+        "Concordance",
+        "Misreading worth attempting"
+      ],
+      "Quotes": "“Acker’s plagiarism is blatant. But this is what makes it hard to see in terms of the definition of plagiarism, as a devious attempt to pass off the work of others as one’s own.” (ch. 6, p. 159)\n“her insertion of other texts seems random, free-associative, almost deliberately clumsy and slapdash, as if to make what she is doing as obvious as possible.” (ch. 6, p. 159)\n“These two sentences are identical to the two which begin Dickens’s Great Expectations, except for the change of the name ‘Pip’ to ‘Peter’.” (ch. 6, p. 160)\n“But, at the risk of sounding glib, the pointlessness is actually the point.” (ch. 6, p. 160)\n“for Acker demonstrates that pastiche has a powerful critical edge when it becomes too faithful, as it were, moving from homage into outright theft.” (ch. 6, p. 160)",
+      "Themes": "plagiarism; pastiche; blank parody; McHale; Jameson; Harold Robbins; bricolage; Bildungsroman; Pierre Menard; collation",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1192,
+        210,
+        1295,
+        1297,
+        1296,
+        1304,
+        1308,
+        1309,
+        1310,
+        1267
+      ],
+      "Date": 1793750400
+    }
+  },
+  {
+    "id": 130,
+    "fields": {
+      "Set": 42,
+      "Calibre_ID": 708,
+      "Title": "The Routledge Companion to Experimental Literature",
+      "Author": "Joe Bray, Alison Gibbons, Brian McHale (eds.)",
+      "Year": "2012 (Routledge)",
+      "File_Format": "EPUB",
+      "Role_in_Set": "Day 3 primary (argues with Acker): McHale, ch. 11 'Postmodernism and Experiment', § III 'The zone of the interior' and § IV; the Gibson/Acker passage collated against Neuromancer (9341, ch. 5).",
+      "Selection_Logic": "The arguer himself: Nicol rebuts McHale 1992 (not in catalogue); this Gestext-flagged volume holds McHale's 2012 return to the same passage. Mentions row 359.",
+      "Elements": [
+        "L",
+        "Verified quotation",
+        "Excerpt",
+        "Derived list"
+      ],
+      "Quotes": "“Acker rewrites Gibson, deleting some (but not all) of Gibson’s techno-speak, and adding oddly irrelevant details of her own:” (ch. 11, § III)\n“However we choose to characterize Acker’s rewriting procedure, as soon as it is recognized, it interrupts the smooth production of a storyworld, introducing an intrusive element of second-handedness, of mediacy.” (ch. 11, § III)\n“an effect of vacillation between two worlds – an ontological flicker.” (ch. 11, § III)\n“Despite the polemical derision that each directed at the other, it seems as though Jencks and Lyotard – postmodern eclecticism and postmodern experiment – might be reconcilable after all, even on Lyotard’s terms.” (ch. 11, § IV)",
+      "Themes": "experiment; Avant-Pop; Gibson; Neuromancer; Empire of the Senseless; blank parody; ontological flicker; Lyotard; Jencks; double-coding; self-revision",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        356,
+        1311,
+        1298,
+        1299,
+        1283,
+        1295,
+        1312,
+        1313,
+        1314,
+        1315,
+        1316
+      ],
+      "Date": 1793750400
+    }
+  },
+  {
+    "id": 131,
+    "fields": {
+      "Set": 42,
+      "Calibre_ID": 5612,
+      "Title": "Shift Linguals: Cut-Up Narratives From William S Burroughs to the Present",
+      "Author": "Edward S. Robinson",
+      "Year": "2011 (Rodopi)",
+      "File_Format": "PDF",
+      "Role_in_Set": "Day 3 primary (argues with Acker): ch. 'Kathy Acker: Plagiarism and Adaptation – From Cut-Up to Cut-and-Paste' (printed pp. 164–166, 182), read and collated against BG (10951).",
+      "Selection_Logic": "Day-2 note ('Robinson on cut-up vs plagiarism'); densest Acker book among the Mentions (340 'Acker'); quotes the library's sharpest objection (Lucy). Mentions row 458 (duplicate 6174, row 465).",
+      "Elements": [
+        "L",
+        "Verified quotation",
+        "Concordance",
+        "Excerpt"
+      ],
+      "Quotes": "“Even now, her work remains extremely divisive.” (Kathy Acker chapter, p. 164)\n“(Sometimes a cigar is just a cigar, and the nonconformity of Acker’s novel could just be the consequence of bad writing rather than transgressive writing.) (2000: 33)” (Kathy Acker chapter, p. 165, quoting Niall Lucy)\n“Such criticisms overlook Acker’s extensive knowledge of classical, canonical and avant-garde literature, and in this context it is less problematic to accept Blood and Guts as transgressive.” (Kathy Acker chapter, p. 165)\n“We all come out of MTV, so what’s the problem?” (Kathy Acker chapter, p. 182, quoting Acker)",
+      "Themes": "cut-up; Burroughs; plagiarism; bad writing; Niall Lucy; transgression; influence; Genet; MTV; divisiveness",
+      "Followed_Up": false,
+      "Theme_Links": [
+        "L",
+        1301,
+        1300,
+        1192,
+        1302,
+        1303,
+        1317,
+        1318,
+        1276,
+        1319,
+        1320
+      ],
+      "Date": 1793750400
+    }
   }
 ]
