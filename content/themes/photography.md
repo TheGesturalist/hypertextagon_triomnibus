@@ -12,6 +12,7 @@ tags:
 
 ## Books
 
+- [[books/2269-the-book-of-emotions|The Book of Emotions]]
 - [[books/4214-jottings-under-lamplight|Jottings Under Lamplight]]
 - [[books/10207-and-their-children-after-them|And Their Children After Them]]
 - [[books/10998-a-childhood-the-biography-of-a-place|A Childhood: The Biography of a Place]]

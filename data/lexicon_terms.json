@@ -2,7 +2,7 @@
   {
     "id": 1,
     "fields": {
-      "Term": "Nothos",
+      "Term": "nothos",
       "Status": "Working",
       "My_Definition": "The foundational archetype of exilic identity and unsanctioned existence; an entity stripped of lineage whose structural displacement illuminates systemic boundaries.",
       "Received_Definition": "Homeric: child of concubine acknowledged in household. Classical Athens: child of unformalized union or non-citizen parent, legally excluded from citizenship, phratry, and inheritance.",
@@ -31,7 +31,7 @@
   {
     "id": 2,
     "fields": {
-      "Term": "Gnesios",
+      "Term": "gnesios",
       "Status": "Working",
       "My_Definition": "The sanctioned standard of institutional authenticity against which bastardization is defined.",
       "Received_Definition": "Legitimate child born of formal marriage, eligible for full civic inheritance and political inclusion. Adjectivally: genuine, authentic, true.",
@@ -59,7 +59,7 @@
   {
     "id": 3,
     "fields": {
-      "Term": "Hypomnēmata",
+      "Term": "hypomnēmata",
       "Status": "Settled",
       "My_Definition": "An intentional external memory apparatus and spiritual technology used to gather, curate, and digest disparate fragments of established wisdom to fortify character.",
       "Received_Definition": "Classical Greek administrative copybooks, public account ledgers, and notebooks used to record business and daily affairs.",
@@ -88,7 +88,7 @@
   {
     "id": 4,
     "fields": {
-      "Term": "Architextuality",
+      "Term": "architextuality",
       "Status": "Settled",
       "My_Definition": "Architecture of displacement: how a text structurally signals its deliberate refusal of orthodox generic containment from within.",
       "Received_Definition": "The silent, transcendent relationship binding an individual text to a taxonomy of discourse (genre, mode, narrative perspective) that conditions reader expectations.",
@@ -117,7 +117,7 @@
   {
     "id": 5,
     "fields": {
-      "Term": "The Law of the Good Neighbor",
+      "Term": "the law of the good neighbor",
       "Status": "Settled",
       "My_Definition": "Meaning and abductive friction generated through the unsanctioned proximity and collision of adjacent, displaced concepts.",
       "Received_Definition": "Aby Warburg's library arrangement rule: the book you are looking for is rarely the one you need; the essential insight sits beside it on the shelf.",
@@ -146,7 +146,7 @@
   {
     "id": 6,
     "fields": {
-      "Term": "Techne",
+      "Term": "techne",
       "Status": "Settled",
       "My_Definition": "Applied mechanical construction of the eco-cognitive workspace (coding, architectural scaffolding, note systems) as an epistemological disclosure.",
       "Received_Definition": "A guided, rational capacity (poietike episteme) to bring forth into being that which does not bring itself forth naturally; craft and art opposed to chance (tyche).",
@@ -175,7 +175,7 @@
   {
     "id": 7,
     "fields": {
-      "Term": "Graphesis",
+      "Term": "graphesis",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The study of visual knowledge production and the graphical forms used to embody information through non-linear representation. It treats the graph as an instrument of research and a dynamic, subjective process of knowledge production rather than just a final display.",
@@ -210,7 +210,7 @@
   {
     "id": 8,
     "fields": {
-      "Term": "Visual Knowledge Production",
+      "Term": "visual knowledge production",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The process by which information is transformed into visual formats, interfaces, and spatial arrangements to generate new insights and systematic meaning rather than simply displaying pre-existing data. It operates on the principle that \"seeing\" is a form of \"thinking.\"",
@@ -218,7 +218,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 1,
       "Lineages": [
         "L",
@@ -245,7 +245,7 @@
   {
     "id": 9,
     "fields": {
-      "Term": "Rhizomatic Mapping",
+      "Term": "rhizomatic mapping",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A non-linear, non-hierarchical method of data organization and visualization that allows for multiple, heterogeneous entry and exit points. It emphasizes connectivity, resisting a single center or tree structure to allow structure to emerge from content.",
@@ -253,7 +253,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 3,
       "Gravity": 0.9,
       "Lineages": [
         "L",
@@ -279,7 +279,7 @@
   {
     "id": 10,
     "fields": {
-      "Term": "Force-Directed Graph",
+      "Term": "force-directed graph",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "An algorithm and interactive visualization technique that uses physical simulations (like spring forces) to position nodes, minimizing edge crossings while highlighting clusters through attraction and repulsion.",
@@ -287,7 +287,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 3,
       "Gravity": 1,
       "Lineages": [
         "L",
@@ -312,7 +312,7 @@
   {
     "id": 11,
     "fields": {
-      "Term": "Graphic Variables",
+      "Term": "graphic variables",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The fundamental visual properties (shape, texture, color, size, orientation, value) used to encode information.",
@@ -344,7 +344,7 @@
   {
     "id": 12,
     "fields": {
-      "Term": "Data-Ink Ratio",
+      "Term": "data-ink ratio",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The proportion of a graphic's ink devoted to the non-redundant display of data-information.",
@@ -352,7 +352,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 2,
       "Gravity": 0.95,
       "Lineages": [
         "L",
@@ -375,7 +375,7 @@
   {
     "id": 13,
     "fields": {
-      "Term": "Conceptual Graph",
+      "Term": "conceptual graph",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A visual illustration of how terms or concepts are connected in a network, using nodes for keywords and edges for co-occurrence relationships.",
@@ -408,7 +408,7 @@
   {
     "id": 14,
     "fields": {
-      "Term": "Knowledge Graph",
+      "Term": "knowledge graph",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A structured representation of knowledge consisting of entities and the relationships between them, used to map domains and find hidden connections across documents.",
@@ -416,7 +416,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.95,
       "Lineages": [
         "L",
@@ -441,7 +441,7 @@
   {
     "id": 15,
     "fields": {
-      "Term": "Designerly Visual Knowledge",
+      "Term": "designerly visual knowledge",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Knowledge articulated and structured as a network of associations and interrelations between users, space, and visual assemblies like diagrams and plans.",
@@ -481,7 +481,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 4,
       "Gravity": 0.95,
       "Lineages": [
         "L",
@@ -505,7 +505,7 @@
   {
     "id": 17,
     "fields": {
-      "Term": "Diagramming",
+      "Term": "diagramming",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A tool for research and a device for investigating the evolution of systems (like architecture or urbanism) through spatial representation.",
@@ -538,7 +538,7 @@
   {
     "id": 18,
     "fields": {
-      "Term": "Sankey Diagram",
+      "Term": "Sankey diagram",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A type of flow diagram in which the width of the arrows is proportional to the flow rate.",
@@ -546,7 +546,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 4,
       "Gravity": 0.95,
       "Lineages": [
         "L",
@@ -570,7 +570,7 @@
   {
     "id": 19,
     "fields": {
-      "Term": "Space View (Graph View)",
+      "Term": "space view (graph view)",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A mode of representation using nodes and links to visualize relational data spatially, often using force-directed algorithms.",
@@ -578,7 +578,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.9,
       "Lineages": [
         "L",
@@ -603,7 +603,7 @@
   {
     "id": 20,
     "fields": {
-      "Term": "Operative images",
+      "Term": "operative images",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Images or diagrams that function as practical devices or technical systems (such as alchemical sequences) rather than merely decorative representations.",
@@ -636,7 +636,7 @@
   {
     "id": 21,
     "fields": {
-      "Term": "Gestalt Principles",
+      "Term": "Gestalt principles",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Rules of proximity, closure, similarity, and continuity that govern how the human eye groups objects into patterns.",
@@ -644,7 +644,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 1,
       "Gravity": 0.9,
       "Lineages": [
         "L",
@@ -668,7 +668,7 @@
   {
     "id": 22,
     "fields": {
-      "Term": "Nodes",
+      "Term": "nodes",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Points representing key terms, entities, or concepts within a network or Graphesis model, where size often indicates importance or degree.",
@@ -676,7 +676,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.9,
       "Lineages": [
         "L",
@@ -700,7 +700,7 @@
   {
     "id": 23,
     "fields": {
-      "Term": "Edges/Links",
+      "Term": "edges/links",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Lines or arrows connecting nodes that represent relationships, flows, dependencies, or the frequency of co-occurrence.",
@@ -708,7 +708,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.9,
       "Lineages": [
         "L",
@@ -733,7 +733,7 @@
   {
     "id": 24,
     "fields": {
-      "Term": "Capta",
+      "Term": "capta",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Information that is captured based on rules, hypotheses, or situated interpretation, contrasted with \"data\" as given facts.",
@@ -765,7 +765,7 @@
   {
     "id": 25,
     "fields": {
-      "Term": "Design Structure Matrix (DSM)",
+      "Term": "design structure matrix (DSM)",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A systems modeling framework using a square adjacency matrix to represent relationships within elements of a system.",
@@ -797,7 +797,7 @@
   {
     "id": 26,
     "fields": {
-      "Term": "Small Multiples",
+      "Term": "small multiples",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Series of graphics showing the same combination of variables, indexed by changes in a third variable to allow comparative visual arrays.",
@@ -829,7 +829,7 @@
   {
     "id": 27,
     "fields": {
-      "Term": "Diagrammatic Imagination",
+      "Term": "diagrammatic imagination",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A cognitive faculty where scientific and artistic modes of research interact through visualization to mediate between different cognitive systems.",
@@ -837,7 +837,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.9,
       "Lineages": [
         "L",
@@ -861,7 +861,7 @@
   {
     "id": 28,
     "fields": {
-      "Term": "Meaning from adjacency",
+      "Term": "meaning from adjacency",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The principle that the interpretation of data points emerges from their horizontal and vertical neighbors in a layout.",
@@ -869,7 +869,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.9,
       "Lineages": [
         "L",
@@ -893,7 +893,7 @@
   {
     "id": 29,
     "fields": {
-      "Term": "Renderer (Dagre/ELK)",
+      "Term": "renderer (Dagre/ELK)",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The underlying algorithm that determines the spatial layout and positioning of nodes and edges in a visualization.",
@@ -901,7 +901,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.9,
       "Lineages": [
         "L",
@@ -925,7 +925,7 @@
   {
     "id": 30,
     "fields": {
-      "Term": "Diagrams As Code",
+      "Term": "diagrams as code",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A methodology where visual diagrams are generated through written code and scripts rather than manual drag-and-drop tools.",
@@ -933,7 +933,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.9,
       "Lineages": [
         "L",
@@ -957,7 +957,7 @@
   {
     "id": 31,
     "fields": {
-      "Term": "Flowchart",
+      "Term": "flowchart",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A diagrammatic representation of a sequence of operations or movements within a system.",
@@ -965,7 +965,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.9,
       "Lineages": [
         "L",
@@ -997,7 +997,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.85,
       "Lineages": [
         "L",
@@ -1021,7 +1021,7 @@
   {
     "id": 33,
     "fields": {
-      "Term": "Engineering Systems Matrix (ESM)",
+      "Term": "engineering systems matrix (ESM)",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A square matrix framework consisting of six classes of nodes (Drivers, Stakeholders, Objectives, Functions, Objects, Activities) to model complex systems.",
@@ -1029,7 +1029,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 2,
       "Gravity": 0.85,
       "Lineages": [
         "L",
@@ -1052,7 +1052,7 @@
   {
     "id": 34,
     "fields": {
-      "Term": "Metaphysical geometry",
+      "Term": "metaphysical geometry",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The application of geometric principles to pictorial grammar to express non-mimetic, higher-dimensional realities.",
@@ -1060,7 +1060,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.85,
       "Lineages": [
         "L",
@@ -1085,7 +1085,7 @@
   {
     "id": 35,
     "fields": {
-      "Term": "Dynamic Conceptual Graphs Model",
+      "Term": "dynamic conceptual graphs model",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A model that generates visual maps of interconnected ideas to enhance content strategy and SEO.",
@@ -1093,7 +1093,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.85,
       "Lineages": [
         "L",
@@ -1125,7 +1125,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 4,
       "Gravity": 0.85,
       "Lineages": [
         "L",
@@ -1149,7 +1149,7 @@
   {
     "id": 37,
     "fields": {
-      "Term": "Relational Meaning",
+      "Term": "relational meaning",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The principle that individual data points derive significance from their position relative to others in a network.",
@@ -1157,7 +1157,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.85,
       "Lineages": [
         "L",
@@ -1181,7 +1181,7 @@
   {
     "id": 38,
     "fields": {
-      "Term": "Semantic Meaning (Shapes)",
+      "Term": "semantic meaning (shapes)",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The assignment of specific logical functions (e.g., \"Decision\") to specific geometric forms to improve diagrammatic clarity.",
@@ -1189,7 +1189,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.85,
       "Lineages": [
         "L",
@@ -1213,7 +1213,7 @@
   {
     "id": 39,
     "fields": {
-      "Term": "Spring Layout",
+      "Term": "spring layout",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A visualization technique used to arrange nodes and edges clearly by simulating physical forces.",
@@ -1221,7 +1221,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 3,
       "Gravity": 0.85,
       "Lineages": [
         "L",
@@ -1244,7 +1244,7 @@
   {
     "id": 40,
     "fields": {
-      "Term": "Ego Graph (Neighborhood)",
+      "Term": "ego graph (neighborhood)",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A visualization focusing on a single central node (the ego) and its immediate connections (the alters).",
@@ -1308,7 +1308,7 @@
   {
     "id": 42,
     "fields": {
-      "Term": "Domain Mapping Matrix (DMM)",
+      "Term": "domain mapping matrix (DMM)",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A rectangular matrix that models interactions between elements of different domains in product development.",
@@ -1316,7 +1316,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 2,
       "Gravity": 0.8,
       "Lineages": [
         "L",
@@ -1339,7 +1339,7 @@
   {
     "id": 43,
     "fields": {
-      "Term": "Visual Formalism",
+      "Term": "visual formalism",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A system where visual arrangements are governed by strict syntax to articulate semantic meaning.",
@@ -1372,7 +1372,7 @@
   {
     "id": 44,
     "fields": {
-      "Term": "Constellations",
+      "Term": "constellations",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A method of arranging visual data and motifs in a non-linear layout to reveal transfers of knowledge.",
@@ -1380,7 +1380,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 3,
       "Gravity": 0.8,
       "Lineages": [
         "L",
@@ -1404,7 +1404,7 @@
   {
     "id": 45,
     "fields": {
-      "Term": "Weight",
+      "Term": "weight",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The measure of relationship strength between two terms, often represented visually by line thickness.",
@@ -1412,7 +1412,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.8,
       "Lineages": [
         "L",
@@ -1436,7 +1436,7 @@
   {
     "id": 46,
     "fields": {
-      "Term": "Community Regions",
+      "Term": "community regions",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Colored convex hulls grouping related entities to show high-level graph structure without label clutter.",
@@ -1444,7 +1444,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.8,
       "Lineages": [
         "L",
@@ -1468,7 +1468,7 @@
   {
     "id": 47,
     "fields": {
-      "Term": "Apothegm",
+      "Term": "apothegm",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A short, pithy, instructive saying, usually attributed to a named speaker. Near-synonym of aphorism and maxim; the apothegm stresses terse, pointed utterance.",
@@ -1476,7 +1476,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˈæp.ə.θɛm/",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -1496,7 +1496,7 @@
   {
     "id": 48,
     "fields": {
-      "Term": "Colophon",
+      "Term": "colophon",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "An inscription at the end of a book or manuscript recording production details: scribe or printer, place, date. In early books it carried the information now found on the title page. By extension, a publisher's emblem or device.",
@@ -1532,7 +1532,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "Latin",
-      "Category": 0,
+      "Category": 2,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -1553,7 +1553,7 @@
   {
     "id": 50,
     "fields": {
-      "Term": "Gnomic Verse",
+      "Term": "gnomic verse",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Verse made of sententious sayings (gnomes) set in meter so they can be remembered; a branch of wisdom literature. Greek examples: Hesiod's Works and Days, Theognis, Solon, Phocylides; Old English: Maxims I and II.",
@@ -1561,7 +1561,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -1582,7 +1582,7 @@
   {
     "id": 51,
     "fields": {
-      "Term": "Koan",
+      "Term": "koan",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "In Zen (Chan) Buddhism, especially Rinzai, a paradoxical anecdote, question or exchange drawn from the sayings of masters, used in meditation to exhaust analytical thought and test a student's insight. Major collections: the Blue Cliff Record (1125) and the Gateless Gate (Wumen guan, 1228).",
@@ -1590,7 +1590,7 @@
       "Original_Script": "公案",
       "Pronunciation": "[koːaɴ]; English /ˈkoʊ.ɑːn/",
       "Language": "Japanese (from Chinese)",
-      "Category": 0,
+      "Category": 1,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -1610,7 +1610,7 @@
   {
     "id": 52,
     "fields": {
-      "Term": "Found Language",
+      "Term": "found language",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Pre-existing, usually non-literary language (documents, reports, letters, ads) lifted and reframed as poetic material, as in the found poem: prose reshaped by a poet into quasi-metrical lines. Pound's Cantos and Olson's poem built from Bradford's History of Plymouth Plantation are standard examples.",
@@ -1618,7 +1618,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -1638,7 +1638,7 @@
   {
     "id": 54,
     "fields": {
-      "Term": "Marginalia",
+      "Term": "marginalia",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Notes, glosses and marks written in the margins of a text; by extension, the reader's annotations as a body of commentary in their own right.",
@@ -1646,7 +1646,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˌmɑːr.dʒɪˈneɪ.li.ə/",
       "Language": "",
-      "Category": 0,
+      "Category": 5,
       "Gravity": 0.25,
       "Lineages": [
         "L",
@@ -1666,7 +1666,7 @@
   {
     "id": 55,
     "fields": {
-      "Term": "Maxim",
+      "Term": "maxim",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A concise statement of a general principle or rule of conduct, accepted on its own merits. Originally logical: a self-evident premise; from the 1590s, a practical rule or guide.",
@@ -1674,7 +1674,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -1694,7 +1694,7 @@
   {
     "id": 56,
     "fields": {
-      "Term": "Onomastic",
+      "Term": "onomastic",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Of or relating to names and naming, or to onomastics, the branch of lexicology that studies the forms, origins and use of proper names.",
@@ -1702,7 +1702,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˌɒn.əˈmæs.tɪk/",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -1722,7 +1722,7 @@
   {
     "id": 57,
     "fields": {
-      "Term": "Prodigal",
+      "Term": "prodigal",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Recklessly wasteful, lavish in spending; as a noun, a spendthrift. Its dominant use comes from the parable of the prodigal son (Luke 15:11–32), so it also carries the sense of one who squanders and returns.",
@@ -1750,7 +1750,7 @@
   {
     "id": 58,
     "fields": {
-      "Term": "Gesture",
+      "Term": "gesture",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A movement of the body or a part of it that expresses a thought or feeling; figuratively, an act performed to signal intention or goodwill rather than for its practical effect.",
@@ -1758,7 +1758,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.2,
       "Lineages": [
         "L",
@@ -1778,7 +1778,7 @@
   {
     "id": 59,
     "fields": {
-      "Term": "Bastard",
+      "Term": "bastard",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A child born outside marriage; illegitimate offspring. From the late 14th century, figuratively, anything impure, spurious, mixed or of irregular shape or size (as in 'bastard type'), the sense behind bastardize.",
@@ -1786,7 +1786,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0,
       "Lineages": null,
       "Bastardization_Op": "faithful",
@@ -1803,7 +1803,7 @@
   {
     "id": 60,
     "fields": {
-      "Term": "Proverb",
+      "Term": "proverb",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A short, traditional, widely repeated saying that states a commonly held truth or practical lesson, often metaphorical or rhymed. In scriptural usage, an enigmatic saying needing interpretation. Studied by paremiology.",
@@ -1811,7 +1811,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0,
       "Lineages": [
         "L",
@@ -1832,7 +1832,7 @@
   {
     "id": 61,
     "fields": {
-      "Term": "Protocol",
+      "Term": "protocol",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A code of correct conduct or formal procedure: diplomatic etiquette, the record or draft of an agreement, a supplementary treaty instrument, and in computing the rules that govern the format and exchange of data.",
@@ -1861,7 +1861,7 @@
   {
     "id": 62,
     "fields": {
-      "Term": "Anathema",
+      "Term": "anathema",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A formal ecclesiastical curse, with excommunication; by extension, a thing or person detested or wholly shunned ('X is anathema to Y').",
@@ -1869,7 +1869,7 @@
       "Original_Script": "",
       "Pronunciation": "/əˈnæθ.ə.mə/",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0,
       "Lineages": [
         "L",
@@ -1889,7 +1889,7 @@
   {
     "id": 63,
     "fields": {
-      "Term": "Redaction",
+      "Term": "redaction",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The editing or arranging of material into publishable form, or a revised version so produced; in current usage, the blacking-out or deletion of passages from a document before release.",
@@ -1897,7 +1897,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.2,
       "Lineages": [
         "L",
@@ -1917,7 +1917,7 @@
   {
     "id": 64,
     "fields": {
-      "Term": "Sententia",
+      "Term": "sententia",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "In Latin rhetoric, a short, pointed saying that states a judgment or general truth; kin to the Greek gnome and the maxim. Treated in the Rhetorica ad Herennium (4.17.24) and in Quintilian's Institutio Oratoria (8.5).",
@@ -1946,7 +1946,7 @@
   {
     "id": 65,
     "fields": {
-      "Term": "Stigma",
+      "Term": "stigma",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A mark of disgrace attached to a person or attribute. In Erving Goffman's sociology (Stigma: Notes on the Management of Spoiled Identity, 1963), a deeply discrediting attribute that opens a gap between virtual and actual social identity and spoils the bearer's identity.",
@@ -1954,7 +1954,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 5,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -1982,7 +1982,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0,
       "Lineages": [
         "L",
@@ -2002,7 +2002,7 @@
   {
     "id": 67,
     "fields": {
-      "Term": "Priapism",
+      "Term": "priapism",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A persistent, usually painful erection of the penis not accompanied by sexual arousal; a medical condition. The Greek word also meant lewdness.",
@@ -2010,7 +2010,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˈpraɪ.ə.pɪ.zəm/",
       "Language": "",
-      "Category": 0,
+      "Category": 4,
       "Gravity": 0,
       "Lineages": [
         "L",
@@ -2030,7 +2030,7 @@
   {
     "id": 68,
     "fields": {
-      "Term": "Speculative Realism",
+      "Term": "speculative realism",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Label for a loose current in continental-inflected philosophy that rejects correlationism, the view (Meillassoux's term) that we only ever access the correlation of thinking and being, never either alone, and seeks to think reality independent of human access. Core figures: Ray Brassier, Iain Hamilton Grant, Graham Harman, Quentin Meillassoux.",
@@ -2038,7 +2038,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 2,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -2069,7 +2069,7 @@
       "Original_Script": "Spiralisme",
       "Pronunciation": "",
       "Language": "French",
-      "Category": 0,
+      "Category": 2,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -2091,7 +2091,7 @@
   {
     "id": 70,
     "fields": {
-      "Term": "Abductive Friction",
+      "Term": "abductive friction",
       "Status": "Working",
       "My_Definition": "The internal tension of complex, friction-retaining ideas before they are pre-structured into cleaner, more broadly acceptable, both socio-culturally and ideologically.",
       "Received_Definition": "",
@@ -2116,7 +2116,7 @@
   {
     "id": 71,
     "fields": {
-      "Term": "Episteme",
+      "Term": "episteme",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Greek for knowledge or science. In Foucault's The Order of Things (1966), the rule-governed system of thought, operating beneath individual consciousness, that sets what can count as knowledge in a period: the Renaissance (resemblance), the Classical age (representation), the modern (centered on 'man').",
@@ -2124,7 +2124,7 @@
       "Original_Script": "ἐπιστήμη",
       "Pronunciation": "[e.pis.tɛ̌ː.mɛː]",
       "Language": "Ancient Greek",
-      "Category": 0,
+      "Category": 1,
       "Gravity": 0.4,
       "Lineages": [
         "L",
@@ -2145,7 +2145,7 @@
   {
     "id": 72,
     "fields": {
-      "Term": "Sophrosyne",
+      "Term": "sophrosyne",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Ancient Greek ideal of soundness of mind: self-knowledge, moderation and self-control, by which the parts of the soul are held in harmony. Plato's Charmides tests several definitions without settling one; Aristotle (Nicomachean Ethics III.10–12) narrows it to the virtue that is the mean with respect to bodily pleasures, as courage is with respect to fear.",
@@ -2153,7 +2153,7 @@
       "Original_Script": "σωφροσύνη",
       "Pronunciation": "[sɔː.pʰro.sý.nɛː]",
       "Language": "Ancient Greek",
-      "Category": 0,
+      "Category": 1,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -2176,7 +2176,7 @@
   {
     "id": 73,
     "fields": {
-      "Term": "Phronesis",
+      "Term": "phronesis",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Practical wisdom: the intellectual virtue of deliberating well about what to do in particular circumstances. In Aristotle (Nicomachean Ethics VI), ethical virtue makes the goal right and phronesis finds what leads to it; it cannot be reduced to general rules and comes only with experience of particulars.",
@@ -2184,7 +2184,7 @@
       "Original_Script": "φρόνησις",
       "Pronunciation": "[pʰró.nɛː.sis]",
       "Language": "Ancient Greek",
-      "Category": 0,
+      "Category": 1,
       "Gravity": 0.15,
       "Lineages": [
         "L",
@@ -2206,7 +2206,7 @@
   {
     "id": 74,
     "fields": {
-      "Term": "Modality",
+      "Term": "modality",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The way a proposition stands to truth or reality: as necessary, possible, impossible, obligatory, permitted, likely. In logic, the classification of propositions by necessity and possibility (formalized as quantification over possible worlds); in linguistics, the grammatical and lexical means (modal verbs, adverbs, mood) by which a speaker marks such stances, chiefly epistemic (what the evidence allows) and deontic (what norms require), refined by Angelika Kratzer's modal base and ordering source.",
@@ -2214,7 +2214,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.2,
       "Lineages": [
         "L",
@@ -2236,7 +2236,7 @@
   {
     "id": 75,
     "fields": {
-      "Term": "Subject",
+      "Term": "subject",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "In philosophy, the being that knows, experiences and acts, set against the object it perceives or works on. The term inverts Aristotle's hypokeimenon (the underlying bearer of predicates): from Descartes onward it names the thinking self, which German Idealism tried to account for as unified; Heidegger, Lacan (the split subject), Althusser (interpellation) and Foucault (the subject as an effect of power) treat it as constituted rather than given.",
@@ -2276,7 +2276,7 @@
       "Original_Script": "",
       "Pronunciation": "[tʃi.maˈru.ta]; pl. cimarute",
       "Language": "Neapolitan / Italian",
-      "Category": 0,
+      "Category": 6,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -2334,7 +2334,7 @@
       "Original_Script": "Σειρήν (Greek); Sīrēn (Latin)",
       "Pronunciation": "[ˈsiː.reːn] (Classical Latin)",
       "Language": "Latin, from Greek",
-      "Category": 0,
+      "Category": 4,
       "Gravity": 0.03,
       "Lineages": [
         "L",
@@ -2355,7 +2355,7 @@
   {
     "id": 79,
     "fields": {
-      "Term": "Livre",
+      "Term": "livre",
       "Status": "Auto",
       "My_Definition": "The livre was the currency of Kingdom of France and its predecessor states of Francia and West Francia from 781 to 1794. Several different livres existed, some concurrently. The livre was the name of coins and of units of account.",
       "Received_Definition": "The money of account (and, at times, coin) of France from Charlemagne's reform (c. 781) until 1794, nominally a pound of silver divided into 20 sous of 12 deniers (240 deniers). The livre tournois displaced the livre parisis (abolished 1667); the franc replaced the livre in 1795.",
@@ -2363,7 +2363,7 @@
       "Original_Script": "",
       "Pronunciation": "[livʁ]",
       "Language": "French",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.08,
       "Lineages": [
         "L",
@@ -2384,7 +2384,7 @@
   {
     "id": 80,
     "fields": {
-      "Term": "Taciturn",
+      "Term": "taciturn",
       "Status": "Auto",
       "My_Definition": "habitually reserved and uncommunicative",
       "Received_Definition": "Habitually silent or reserved in speech; disposed to say little. Describes a settled disposition, not a single episode of silence.",
@@ -2392,7 +2392,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˈtæsɪtɜːrn/",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.05,
       "Lineages": null,
       "Bastardization_Op": "faithful",
@@ -2409,7 +2409,7 @@
   {
     "id": 81,
     "fields": {
-      "Term": "Agnatic",
+      "Term": "agnatic",
       "Status": "Auto",
       "My_Definition": "ag·nate  (ăg′nāt′)\nadj.\n1. Related on or descended from the father's or male side.\n2. Coming from a common source; akin.\nn.\nA relative on the father's or male side only.\n[Latin agnātus, past participle of agnāscī, to become an agnate : ad-, ad- + nāscī, to be born; see genə- in Indo-European roots.]\nag·nat′ic (ăg-năt′ĭk) adj.\nag·nat′i·cal·ly adv.\nag·na′tion n.",
       "Received_Definition": "Related through the male line: descended from a common male ancestor by links that pass only through males. Originally a technical category of Roman civil law (agnatio), defining family membership and inheritance through the paterfamilias; by extension, loosely, 'akin'.",
@@ -2417,7 +2417,7 @@
       "Original_Script": "",
       "Pronunciation": "/æɡˈnætɪk/",
       "Language": "Latin (via English)",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -2438,7 +2438,7 @@
   {
     "id": 82,
     "fields": {
-      "Term": "Hypostasis",
+      "Term": "hypostasis",
       "Status": "Auto",
       "My_Definition": "hy·pos·ta·sis  (hī-pŏs′tə-sĭs)\nn. pl. hy·pos·ta·ses (-sēz′)\n1. Philosophy The substance, essence, or underlying reality.\n2. Christianity\na. Any of the persons of the Trinity.\nb. The essential person of Jesus in which his human and divine natures are united.\n3. Something that has been hypostatized.\n4.\na. A settling of solid particles in a fluid.\nb. Something that settles to the bottom of a fluid; sediment.\n5. Medicine The settling of blood in the lower part of an organ or the body as a result of decreased blood flow.\n6. Genetics A condition in which the action of one gene is concealed or suppressed by the action of an allele of a different gene that affects the same part or biochemical process in an organism.",
       "Received_Definition": "In metaphysics, the underlying reality or concrete subsistence of a thing, what 'stands under' its appearances. Plotinus organized reality into three hypostases (the One, Intellect, Soul); in Christian theology after Basil of Caesarea and the Cappadocians, hypostasis names the particular individual (a 'person' of the Trinity) as against ousia, the shared essence, fixed at Chalcedon (451) and in the 'hypostatic union' of Christ's two natures. Derivatively, to hypostatize is to treat an abstraction as a self-standing entity.",
@@ -2468,7 +2468,7 @@
   {
     "id": 83,
     "fields": {
-      "Term": "Tzimtzum",
+      "Term": "tzimtzum",
       "Status": "Working",
       "My_Definition": "The paradigmatic figure of productive absence: the ontological gesture by which something withdraws so that something else may be. The absent father-God who makes creation possible by not-being-there.",
       "Received_Definition": "In Lurianic Kabbalah, the primordial act by which the Ein Sof (the Infinite) contracts or withdraws itself from a central point in order to create a vacated space (chalal panuy) within which finite creation can come into being.",
@@ -2497,7 +2497,7 @@
   {
     "id": 84,
     "fields": {
-      "Term": "Reshimu",
+      "Term": "reshimu",
       "Status": "Auto",
       "My_Definition": "In Lurianic Kabbalah, Reshimu is the residual impression or trace of infinite Divine light that remained in the vacated space after God initiated the process of tzimtzum (contraction). Derived from a root meaning to mark or inscribe, it acts as a cosmic memory or blueprint that serves as the background allowing for independent, finite creation.\n",
       "Received_Definition": "In Lurianic Kabbalah, the trace or impression (reshimu min ha-or) of the infinite light that remains in the vacated space (chalal) after tzimtzum, and from which the kav, the thin line of renewed emanation, is drawn. Absent from Chaim Vital's Etz Chayim account, it was introduced as a qualifying clause by Moshe Zacuto (the void is not wholly empty) and became the linchpin of Schneur Zalman of Liadi's reading of tzimtzum, who likened it to the trace on a builder's blueprint.",
@@ -2505,7 +2505,7 @@
       "Original_Script": "רשימו",
       "Pronunciation": "",
       "Language": "Hebrew (Lurianic Kabbalah)",
-      "Category": 0,
+      "Category": 5,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -2526,7 +2526,7 @@
   {
     "id": 85,
     "fields": {
-      "Term": "Kenosis",
+      "Term": "kenosis",
       "Status": "Auto",
       "My_Definition": "kenosis (kɪˈnəʊsɪs)\nn\n(Ecclesiastical Terms) Christianity Christ's voluntary renunciation of certain divine attributes, in order to identify himself with mankind (Philippians 2:6–7)\n[C19: from Greek: an emptying, from kenoun to empty from kenos empty]\nkenotic adj, n\n",
       "Received_Definition": "In Christian theology, Christ's 'self-emptying' in the Incarnation, from Paul's ekenosen ('he emptied himself') in Philippians 2:7, where he takes 'the form of a servant'. Kenotic Christology, first expounded by name by Gottfried Thomasius and later associated with Charles Gore, disputes how far this emptying went: renunciation of all divine attributes, only relative ones, or only their exercise. In mystical and Orthodox usage it extends to the believer's emptying of self-will to receive God (John of the Cross).",
@@ -2556,7 +2556,7 @@
   {
     "id": 86,
     "fields": {
-      "Term": "Sigil",
+      "Term": "sigil",
       "Status": "Auto",
       "My_Definition": "sigil(n.)\n\"a sign, mark, or seal,\" mid-15c., sigille, from Late Latin sigillum, from Latin sigilla (neuter plural) \"statuettes, little images, seal,\" diminutive of signum \"identifying mark, sign\" (see sign (n.)). In astrology, an occult device supposed to have great power (1650s).\n\n",
       "Received_Definition": "A sign, seal or signet mark used to authenticate or close; by extension, an occult device: an inscribed symbol (in astrology and talismanic magic, one tied to a planet or spirit) held to carry or concentrate power.",
@@ -2564,7 +2564,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˈsɪdʒɪl/",
       "Language": "",
-      "Category": 0,
+      "Category": 5,
       "Gravity": 0.25,
       "Lineages": [
         "L",
@@ -2584,7 +2584,7 @@
   {
     "id": 87,
     "fields": {
-      "Term": "Anagnōsis",
+      "Term": "anagnōsis",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Reading, specifically reading aloud, as in the public reading of a text (the NT uses it for the synagogue and church reading of Scripture). An older Greek sense is 'recognition, knowing again'. In the ancient practice of the self, reading is the counterpart of note-taking: Foucault's 'Self Writing' (1983) insists reading and writing must not be separated.",
@@ -2592,7 +2592,7 @@
       "Original_Script": "ἀνάγνωσις",
       "Pronunciation": "[a.ná.ɡnɔː.sis]",
       "Language": "Ancient Greek",
-      "Category": 0,
+      "Category": 1,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -2613,7 +2613,7 @@
   {
     "id": 88,
     "fields": {
-      "Term": "Eklogē ",
+      "Term": "eklogē",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Selection, choice: the act of picking out, or the thing picked. In classical Greek (Plato to Polybius) a general term for choice; in the NT, God's election (Rom. 9–11); in literary use, a selection of excerpts, giving the title Eklogai/Eclogae to anthologies and, via Latin, the eclogue. In the practice Foucault describes in 'Self Writing', it is the deliberate selection of heterogeneous passages for one's notebooks.",
@@ -2642,7 +2642,7 @@
   {
     "id": 89,
     "fields": {
-      "Term": "Hypomnēmatismos",
+      "Term": "hypomnēmatismos",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The making of a written record, and the record made: a memorandum or minute, an official day-book (e.g. of a stratēgos in Roman Egypt), a decree kept on record, note-taking; also memoirs, a treatise, or a commentary on an author (LSJ). It names the act and genre behind the hypomnēmata.",
@@ -2670,7 +2670,7 @@
   {
     "id": 90,
     "fields": {
-      "Term": "Ethopoiesis",
+      "Term": "ethopoiesis",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The making of ēthos: the forming of character or a way of life. Foucault, taking Plutarch's adjective ēthopoios, says writing in Greco-Roman self-practice has an 'ethopoietic' function, turning truths that have been read and copied into ēthos ('Self Writing', 1983). Later commentators speak of ethopoietic knowledge: knowledge valued for its power to shape a life rather than for its own sake.",
@@ -2700,7 +2700,7 @@
   {
     "id": 91,
     "fields": {
-      "Term": "Paradigm",
+      "Term": "paradigm",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A model, pattern or exemplar. In grammar, the set of inflected forms of a word; in Saussurean linguistics, the class of elements that can substitute in one position (opposed to the syntagm). Since Thomas Kuhn's The Structure of Scientific Revolutions (1962), the shared framework of concepts, exemplary problems and practices that defines a scientific community's normal science, until accumulated anomalies force a paradigm shift.",
@@ -2708,7 +2708,7 @@
       "Original_Script": "παράδειγμα",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.3,
       "Lineages": [
         "L",
@@ -2731,7 +2731,7 @@
   {
     "id": 92,
     "fields": {
-      "Term": "Ousiometrics",
+      "Term": "ousiometrics",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The quantitative study of the essential meaningful components of an entity, however represented and perceived. Coined by Peter Sheridan Dodds and colleagues (Vermont Complex Systems Center) in \"Ousiometrics\" (2021), which finds that word meaning reduces most compactly to power, danger and structure, and builds a prototype 'ousiometer' for measuring essential meaning in texts.",
@@ -2739,7 +2739,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 2,
       "Gravity": 0.35,
       "Lineages": [
         "L",
@@ -2762,7 +2762,7 @@
   {
     "id": 93,
     "fields": {
-      "Term": "Vernacular",
+      "Term": "vernacular",
       "Status": "Auto",
       "My_Definition": "The language of the local, distinct alignment of speech codes with sociocultural identifiers",
       "Received_Definition": "As a noun: the native, everyday language or idiom of a place or people, as distinguished from a literary, learned or standard language; by extension, the characteristic speech of a particular group, and the native style of a place in other domains (as in 'vernacular architecture').",
@@ -2770,7 +2770,7 @@
       "Original_Script": "",
       "Pronunciation": "/vəˈnækjələ/",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -2805,7 +2805,7 @@
       "Original_Script": "Ἄτροπος",
       "Pronunciation": "/ˈætrəpɒs/",
       "Language": "Ancient Greek",
-      "Category": 0,
+      "Category": 4,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -2826,7 +2826,7 @@
   {
     "id": 95,
     "fields": {
-      "Term": "Ossuary",
+      "Term": "ossuary",
       "Status": "Auto",
       "My_Definition": "ossuary\n\nnoun\nany receptacle for the burial of human bones\nhypernym\nreceptacle\n\nOssuary\n\n\nOssuary at the Gallipoli battlefield; contains the remains of French soldiers\nAn ossuary is a chest, box, building, well, or site made to serve as the final resting place of human skeletal remains. They are frequently used where burial space is scarce. A body is first buried in a temporary grave, then after some years the skeletal remains are removed and placed in an ossuary (\"os\" is \"bone\" in Latin[1]). The greatly reduced space taken up by an ossuary means that it is possible to store the remains of many more people in a single tomb than possible in coffins. The practice is sometimes known as grave recycling",
       "Received_Definition": "A chest, box, urn, building or site that serves as the final resting place of human skeletal remains, typically after a body has first decomposed in a temporary grave; used especially where burial space is scarce.",
@@ -2834,7 +2834,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 6,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -2865,7 +2865,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˈɒbəˌlɪzəm/",
       "Language": "",
-      "Category": 0,
+      "Category": 5,
       "Gravity": 0.3,
       "Lineages": [
         "L",
@@ -2895,7 +2895,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˈdɑːzaɪn/ (German [ˈdaːzaɪn])",
       "Language": "German",
-      "Category": 0,
+      "Category": 1,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -2925,7 +2925,7 @@
       "Original_Script": "παράταξις",
       "Pronunciation": "",
       "Language": "Greek (via New Latin/English)",
-      "Category": 0,
+      "Category": 8,
       "Gravity": 0.35,
       "Lineages": [
         "L",
@@ -2976,7 +2976,7 @@
   {
     "id": 100,
     "fields": {
-      "Term": "Sinthome",
+      "Term": "sinthome",
       "Status": "Auto",
       "My_Definition": "The fourth, corrective loop, of Lacan's Borromean Knot",
       "Received_Definition": "Lacan's term, from Seminar XXIII Le sinthome (1975–76), for a subject's singular way of organizing jouissance: a fourth ring added to the Borromean knot of Real, Symbolic and Imaginary that holds the knot together where one register fails. Lacan's paradigm is James Joyce, whose writing he reads as a supplement (suppléance) for a deficient Name-of-the-Father.",
@@ -2984,7 +2984,7 @@
       "Original_Script": "sinthome",
       "Pronunciation": "/sɛ̃.tom/",
       "Language": "French",
-      "Category": 0,
+      "Category": 2,
       "Gravity": 0.3,
       "Lineages": [
         "L",
@@ -3015,7 +3015,7 @@
       "Original_Script": "χθόνιος",
       "Pronunciation": "/ˈθɒnɪk/",
       "Language": "Greek (via English)",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -3043,7 +3043,7 @@
       "Original_Script": "χιλιασμός",
       "Pronunciation": "/ˈkɪliˌæzəm/",
       "Language": "Greek (via Latin)",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -3073,7 +3073,7 @@
       "Original_Script": "Táborité",
       "Pronunciation": "/ˈtæbəˌraɪts/; Czech [ˈtaːbɔrɪtɛː]",
       "Language": "Czech",
-      "Category": 0,
+      "Category": 4,
       "Gravity": 0.02,
       "Lineages": [
         "L",
@@ -3103,7 +3103,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˈdʒoʊəˌkaɪts/ (Joachimite: /ˈdʒoʊəkɪˌmaɪt/)",
       "Language": "",
-      "Category": 0,
+      "Category": 4,
       "Gravity": 0.15,
       "Lineages": [
         "L",
@@ -3134,7 +3134,7 @@
       "Original_Script": "ἀποστασία",
       "Pronunciation": "",
       "Language": "Greek (via Latin)",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.02,
       "Lineages": [
         "L",
@@ -3156,7 +3156,7 @@
   {
     "id": 106,
     "fields": {
-      "Term": "Samekh",
+      "Term": "samekh",
       "Status": "Auto",
       "My_Definition": "sa•mekh or sa•mech (ˈsɑ məx)\n\nn.\nthe 15th letter of the Hebrew alphabet.\n[1820–30; < Hebrew sāmekh, akin to sāmakh he supported]",
       "Received_Definition": "The fifteenth letter of the Hebrew alphabet (ס), representing /s/ and carrying the numerical value 60. It continues Phoenician sāmek, which also gave rise to Greek xi (Ξ); it is the only letter of the Semitic abjad with no surviving descendant in the Arabic alphabet.",
@@ -3164,7 +3164,7 @@
       "Original_Script": "ס",
       "Pronunciation": "/ˈsɑːməx/",
       "Language": "Hebrew",
-      "Category": 0,
+      "Category": 5,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -3193,7 +3193,7 @@
       "Original_Script": "",
       "Pronunciation": "/pɔːrtˈmæntoʊ/",
       "Language": "",
-      "Category": 0,
+      "Category": 3,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -3250,7 +3250,7 @@
       "Original_Script": "ἐμφύτευσις",
       "Pronunciation": "/ˌɛmfɪˈtjuːsɪs/",
       "Language": "Greek (via Late Latin)",
-      "Category": 0,
+      "Category": 8,
       "Gravity": 0,
       "Lineages": [
         "L",
@@ -3270,7 +3270,7 @@
   {
     "id": 110,
     "fields": {
-      "Term": "Cognates",
+      "Term": "cognates",
       "Status": "Auto",
       "My_Definition": "cog·nate  (kŏg′nāt′)\nadj.\n1. Related by blood; having a common ancestor.\n2. Related in origin, as certain words in genetically related languages descended from the same ancestral root; for example, English name and Latin nōmen from Indo-European *nō̆-men-.\n3. Related or analogous in nature, character, or function.\nn.\n1. One related by blood or origin with another, especially a person sharing an ancestor with another.\n2. A word related to one in another language.\n3. A sequence of university courses taken as an adjunct to a graduate degree program: earned an MA in linguistics with a cognate in computer science.\n[Latin cognātus : co-, co- + gnātus, born, past participle of nāscī, to be born; see genə- in Indo-European roots.]",
       "Received_Definition": "In historical linguistics, words in different languages (or in one language) that descend from the same ancestral word, e.g. English night, German Nacht, Latin nox from PIE *nókʷts. Cognacy is established by the comparative method, through regular sound correspondences rather than surface resemblance. The older and broader sense is kinship: persons related by blood or common descent.",
@@ -3278,7 +3278,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 3,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -3307,7 +3307,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˈbɪb.li.əˌmæn.si/",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -3337,7 +3337,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˈtɛf.rəˌmæn.si/",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -3357,7 +3357,7 @@
   {
     "id": 113,
     "fields": {
-      "Term": "Onliness",
+      "Term": "onliness",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The quality or state of being the only one of a given kind or category; by extension, the state of being alone. A rare abstract noun formed on the adjective 'only' and listed by Merriam-Webster; not a coined term of art.",
@@ -3365,7 +3365,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˈoʊn.li.nəs/",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.02,
       "Lineages": [
         "L",
@@ -3421,7 +3421,7 @@
       "Original_Script": "",
       "Pronunciation": "/soʊˈdæl.ɪ.ti/",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.03,
       "Lineages": [
         "L",
@@ -3482,7 +3482,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˌhoʊmoʊ ˌɛkəˈnɒmɪkəs/",
       "Language": "New Latin",
-      "Category": 0,
+      "Category": 4,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -3512,7 +3512,7 @@
       "Original_Script": "ὀβολός",
       "Pronunciation": "/ˈɒbələs/",
       "Language": "Latin (from Ancient Greek)",
-      "Category": 0,
+      "Category": 6,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -3570,7 +3570,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 8,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -3599,7 +3599,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -3628,7 +3628,7 @@
       "Original_Script": "",
       "Pronunciation": "/eɪˈkɔːzəl/",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -3648,7 +3648,7 @@
   {
     "id": 123,
     "fields": {
-      "Term": "Inflection",
+      "Term": "inflection",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "In grammar, a change in the form of a word (usually an ending) that marks a grammatical category such as tense, case, number or person; more broadly, a bending or modulation (of a line, or of the voice). In Deleuze's The Fold: Leibniz and the Baroque (1988), inflection is the genetic element of the fold: the point at which a curve changes direction, from which series, the objectile and the point of view are derived.",
@@ -3656,7 +3656,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.25,
       "Lineages": [
         "L",
@@ -3677,7 +3677,7 @@
   {
     "id": 124,
     "fields": {
-      "Term": "Fenestrated",
+      "Term": "fenestrated",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Having windows, or perforated with one or more small openings or pores; used in architecture (fenestration, the arrangement of windows) and in anatomy and medicine (fenestrated capillaries, a fenestrated catheter).",
@@ -3685,7 +3685,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˈfɛnɪˌstreɪtɪd/",
       "Language": "",
-      "Category": 0,
+      "Category": 3,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -3714,7 +3714,7 @@
       "Original_Script": "",
       "Pronunciation": "/moʊˈnædɪk/",
       "Language": "",
-      "Category": 0,
+      "Category": 8,
       "Gravity": 0.15,
       "Lineages": [
         "L",
@@ -3735,7 +3735,7 @@
   {
     "id": 126,
     "fields": {
-      "Term": "PROSCENIUM",
+      "Term": "proscenium",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "The frame through which an audience views a stage: in the modern theatre, the wall and arch separating stage from auditorium (or the apron in front of the curtain); in Hellenistic Greek theatres, the proskenion, a narrow raised stage for actors. The proscenium plane is effectively the 'fourth wall'.",
@@ -3743,7 +3743,7 @@
       "Original_Script": "",
       "Pronunciation": "/proʊˈsiːniəm/",
       "Language": "",
-      "Category": 0,
+      "Category": 3,
       "Gravity": 0.2,
       "Lineages": [
         "L",
@@ -3763,7 +3763,7 @@
   {
     "id": 127,
     "fields": {
-      "Term": "Lemma",
+      "Term": "lemma",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "In lexicography and morphology, the canonical or citation form chosen to represent a lexeme, and the headword under which a dictionary entry is filed (break for breaks, broke, broken). In mathematics and logic, a subsidiary proposition proved or assumed in order to prove another.",
@@ -3771,7 +3771,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 8,
       "Gravity": 0.15,
       "Lineages": [
         "L",
@@ -3828,7 +3828,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 6,
       "Gravity": 0.35,
       "Lineages": [
         "L",
@@ -3858,7 +3858,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -3937,7 +3937,7 @@
   {
     "id": 134,
     "fields": {
-      "Term": "Clandestine",
+      "Term": "clandestine",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Kept secret or done covertly, typically because the action is illicit or would meet opposition: conducted with hidden aims or by hidden methods.",
@@ -3945,7 +3945,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.05,
       "Lineages": null,
       "Bastardization_Op": "faithful",
@@ -3995,7 +3995,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "",
-      "Category": 0,
+      "Category": 7,
       "Gravity": 0.05,
       "Lineages": null,
       "Bastardization_Op": "faithful",
@@ -4020,7 +4020,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˌɒnəˈmæstɪks/ (UK), /ˌɑːnəˈmæstɪks/ (US)",
       "Language": "",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -4049,7 +4049,7 @@
       "Original_Script": "Δαίδαλος",
       "Pronunciation": "/ˈdiːdələs/, /ˈdɛdələs/",
       "Language": "Ancient Greek",
-      "Category": 0,
+      "Category": 4,
       "Gravity": 0.15,
       "Lineages": [
         "L",
@@ -4078,7 +4078,7 @@
       "Original_Script": "",
       "Pronunciation": "",
       "Language": "Neo-Latin",
-      "Category": 0,
+      "Category": 2,
       "Gravity": 0.35,
       "Lineages": [
         "L",
@@ -4108,7 +4108,7 @@
       "Original_Script": "",
       "Pronunciation": "/ˌɹætiˈosəˌneɪt/",
       "Language": "English (from Latin)",
-      "Category": 0,
+      "Category": 9,
       "Gravity": 0.1,
       "Lineages": [
         "L",
@@ -4133,7 +4133,7 @@
   {
     "id": 141,
     "fields": {
-      "Term": "Mam­mon",
+      "Term": "Mammon",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "Wealth or material gain personified as a false god or corrupting power that competes with God for devotion (\"Ye cannot serve God and mammon\"); by extension, riches regarded as an evil influence. Medieval readers took the word for the name of a demon of avarice.",
@@ -4191,7 +4191,7 @@
   {
     "id": 143,
     "fields": {
-      "Term": "Cohomology",
+      "Term": "cohomology",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "In algebraic topology and beyond, a sequence of abelian groups (often rings) attached to a space or other object, usually defined from a cochain complex dual to the chain complex of homology. Its classes measure whether locally consistent data (cocycles) can be glued into global data, modulo data arising trivially (coboundaries). The cup product gives it a ring structure, making it usually a stronger invariant than homology. Term introduced by Hassler Whitney (1937).",
@@ -4249,7 +4249,7 @@
   {
     "id": 145,
     "fields": {
-      "Term": "Transclude",
+      "Term": "transclude",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "In hypertext, the inclusion of part or all of one document inside another by reference rather than by copying, so that the same content appears, knowably, in more than one place while the original stays intact at its source. Coined by Ted Nelson in Literary Machines (1980) as a core principle of Project Xanadu; to transclude is to perform this inclusion.",
@@ -4279,7 +4279,7 @@
   {
     "id": 146,
     "fields": {
-      "Term": "Hyperbaton",
+      "Term": "hyperbaton",
       "Status": "Auto",
       "My_Definition": "",
       "Received_Definition": "A figure of disorder: the departure from normal word order for emphasis or effect. In its original classical sense, a phrase made discontinuous by inserting other words between elements that belong together (frequent in Latin prose and verse); in broader modern usage, any inversion of natural order, often treated as a synonym or umbrella for anastrophe.",
@@ -4287,7 +4287,7 @@
       "Original_Script": "ὑπέρβατον",
       "Pronunciation": "",
       "Language": "Ancient Greek",
-      "Category": 0,
+      "Category": 8,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -4315,7 +4315,7 @@
       "Original_Script": "ἀντιμεταβολή",
       "Pronunciation": "",
       "Language": "Ancient Greek",
-      "Category": 0,
+      "Category": 8,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -4343,7 +4343,7 @@
       "Original_Script": "μετάθεσις",
       "Pronunciation": "",
       "Language": "Ancient Greek",
-      "Category": 0,
+      "Category": 8,
       "Gravity": 0.05,
       "Lineages": [
         "L",
@@ -4383,6 +4383,1135 @@
       "Projects": null,
       "Portable_Axiom": "",
       "Boundary_Tensions": "Received both as legitimate exegesis and as 'mere toying with numbers' (Britannica). Not identical to numerology at large: gematria is tied to a script whose letters double as numerals.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 150,
+    "fields": {
+      "Term": "xaipe",
+      "Status": "Auto",
+      "My_Definition": "Greek for \"rejoice\", title of a book of poetry by e.e. cummings",
+      "Received_Definition": "Ancient Greek imperative \"rejoice!\" / \"be glad!\", used as the everyday salutation both on meeting (\"hail\", \"hello\") and on parting (\"farewell\"). In English it is chiefly known as the title of E. E. Cummings's XAIPE: Seventy-One Poems (Oxford University Press, 1950), set in Greek capitals.",
+      "Etymology": "Ancient Greek χαῖρε (khaîre), 2nd-person singular present active imperative of χαίρω (khaírō, \"rejoice, be glad\"), from Proto-Hellenic *kʰəřřō, from PIE *ǵʰer- (\"yearn\"). The imperative hardened into a greeting and a farewell. Cummings used it in capitals, XAIPE, as a book title (1950).",
+      "Original_Script": "χαῖρε (ΧΑΙΡΕ)",
+      "Pronunciation": "/kʰâi̯.re/ (Attic); /ˈçe.re/ (Modern)",
+      "Language": "Ancient Greek",
+      "Category": 1,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        167
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "One word covers greeting and leave-taking, so any single English gloss (\"rejoice\", \"hail\", \"farewell\") drops a sense. The capitals ΧΑΙΡΕ coincide with Latin letterforms, so the title is easily misread as an English-letter word (\"x-a-i-p-e\") rather than khaire.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 151,
+    "fields": {
+      "Term": "jurisprudence",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "The theory and philosophy of law: the systematic study of what law is, its sources and principles, and the reasoning by which courts reach their decisions. The earlier English sense (1620s) is simply systematic knowledge of law; the 'philosophy of law' sense is attested from 1756.",
+      "Etymology": "From French jurisprudence and Late Latin iurisprudentia 'knowledge of law', from iuris (genitive of ius, 'right, law') + prudentia ('knowledge, foresight', contracted from providentia). In English from the 1620s; 'philosophy of law' from 1756. The old 'knowledge, science' sense of prudence survives only in this compound.",
+      "Original_Script": "",
+      "Pronunciation": "/ˈdʒʊəɹɪsˌpɹuːdəns/",
+      "Language": "",
+      "Category": 9,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        110,
+        168
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "English usage splits between the theory of law and the systematic body of law itself; WordNet keeps both senses (philosophy of law vs. 'the collection of rules imposed by authority').",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-06171434-n",
+      "WN_Lexname": "noun.cognition",
+      "WN_Gloss": "the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do",
+      "WN_Hypernyms": "philosophy"
+    }
+  },
+  {
+    "id": 152,
+    "fields": {
+      "Term": "clinamen",
+      "Status": "Auto",
+      "My_Definition": "Clinamen is the unpredictable swerve of atoms in the atomistic doctrine of Epicurus. This swerving, according to Lucretius, provides the \"free will which living things throughout the world have\". Lucretius never gives the primary cause of the deflections.",
+      "Received_Definition": "In Epicurean atomism as presented by Lucretius (De rerum natura II.216–224, 251), the minimal, unpredictable swerve of atoms from their straight downward fall 'at no fixed place or time'. Without it atoms would never collide and nature would produce nothing; Lucretius also makes it the ground of free will in living things. Harold Bloom (The Anxiety of Influence, 1973) repurposed it as the first revisionary ratio: a poet's corrective swerve, or misprision, away from a precursor.",
+      "Etymology": "Latin clinamen, from clinare 'to incline'; plural clinamina. Lucretius's term (1st c. BCE) for the Epicurean atomic swerve, which is known mainly from his account rather than from Epicurus's surviving writings. Carried into literary theory by Harold Bloom (1973).",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "Latin",
+      "Category": 0,
+      "Gravity": 0.1,
+      "Lineages": [
+        "L",
+        169,
+        170,
+        171
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Two distinct senses travel under one word: the physical swerve of atomism and Bloom's poetics of misreading. Lucretius never names a cause for the swerve, which is the long-running objection to it.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 153,
+    "fields": {
+      "Term": "tosafists",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "The medieval Talmudic scholars, chiefly of northern France and Germany (12th–14th c.), who wrote the Tosafot ('additions'): critical and explanatory glosses on selected Talmud passages, often disputing Rashi's commentary. The first were Rashi's sons-in-law and grandsons; Rabbenu Tam (Jacob ben Meir) is regarded as the movement's chief figure. Printed Talmuds set the Tosafot in the outer margin, opposite Rashi in the inner.",
+      "Etymology": "English agent noun (-ist) formed on Hebrew tosafot (תוספות), 'additions'.",
+      "Original_Script": "תוספות",
+      "Pronunciation": "",
+      "Language": "Hebrew",
+      "Category": 8,
+      "Gravity": 0.2,
+      "Lineages": [
+        "L",
+        172,
+        166,
+        173
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "What the 'additions' are added to is disputed: Rashi's commentary, or the Talmud itself (I. H. Weiss, noting the term was first used of the Tosefta). Most tosafists are anonymous.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 154,
+    "fields": {
+      "Term": "halakhic",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Pertaining to halakha, the body of Jewish religious law derived from the Written and Oral Torah, the 613 commandments, and later rabbinic enactments and custom; it governs ritual practice and much of daily and, historically, civil life. Classically set against aggadah, the non-legal, narrative side of rabbinic tradition.",
+      "Etymology": "English adjective from Hebrew halakha (הֲלָכָה), from the root ה–ל–כ 'to go, walk'; literally 'the way one goes', so 'law' is a loose rendering.",
+      "Original_Script": "הֲלָכָה",
+      "Pronunciation": "halakha: Eng. /hɑːˈlɔːxə/; Sephardic [halaˈχa]; Ashkenazic [haˈlɔχɔ]",
+      "Language": "Hebrew",
+      "Category": 1,
+      "Gravity": 0.03,
+      "Lineages": [
+        "L",
+        173,
+        166
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Rendering halakha as 'law' flattens the sense of a way of walking, and the word covers custom and decrees with no scriptural basis as well as legislation.",
+      "WN_Status": "Partial",
+      "WN_Synset": "oewn-06474840-n  (head: halakah)",
+      "WN_Lexname": "noun.communication",
+      "WN_Gloss": "Talmudic literature that deals with law and with the interpretation of the laws on the Hebrew Scriptures",
+      "WN_Hypernyms": "Talmudic literature"
+    }
+  },
+  {
+    "id": 155,
+    "fields": {
+      "Term": "sugya",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "A self-contained unit of Talmudic discussion, usually built around a mishnah or other tannaitic statement and the amoraic debate over it; by extension the course of an argument, or the topic under discussion. In the Babylonian Talmud sugyot are composite literary constructs shaped by later anonymous editors (the stam, associated with the stammaim or savoraim, c. 500–600 CE).",
+      "Etymology": "Aramaic סוגיא, from the root סגי 'to go'; literally 'a going', i.e. the course of a discussion. Plural sugyot. Passed into Yiddish (sugye) and Jewish English.",
+      "Original_Script": "סוגיא",
+      "Pronunciation": "/ˈsʊɡjə/ or /ˈsuːɡjə/",
+      "Language": "Aramaic",
+      "Category": 1,
+      "Gravity": 0.1,
+      "Lineages": [
+        "L",
+        166,
+        173
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Contested whether sugyot record actual academy debates or are largely the redactors' constructions (Friedman, Halivni). The term itself slides between a unit of text, a line of argument and a lesson.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 156,
+    "fields": {
+      "Term": "rash",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Of a person or act: done with reckless haste, without due thought for risk or consequence; impetuous, imprudent.",
+      "Etymology": "Adj.: Scottish and northern Middle English rasch \"nimble, quick, vigorous\" (late 14c.; as a surname early 14c.), cognate with German rasch and Danish rask, from a Germanic root. The sense \"reckless, impetuous\" dates from c. 1500; the original senses are obsolete. The noun (skin eruption, 1709) is a separate word, probably from French rache \"sore\", ultimately Latin radere \"to scrape\".",
+      "Original_Script": "",
+      "Pronunciation": "/ɹæʃ/",
+      "Language": "",
+      "Category": 9,
+      "Gravity": 0.02,
+      "Lineages": null,
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Homonym, not polysemy: the adjective (haste) and the noun (skin eruption; figuratively 'a rash of', attested by 1820) are unrelated words that converged in spelling. Enriched in the adjective sense.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-01906255-s",
+      "WN_Lexname": "adj.all",
+      "WN_Gloss": "imprudently incurring risk",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 157,
+    "fields": {
+      "Term": "ilinx",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Roger Caillois's term, in Les jeux et les hommes (1958; Man, Play and Games, 1961), for the fourth of his categories of play, beside agon (competition), alea (chance) and mimicry: play that seeks vertigo, a momentary destruction of the stability of perception that Caillois calls a 'voluptuous panic'. Examples run from a child spinning until dizzy to climbing, skiing and bungee jumping.",
+      "Etymology": "From Ancient Greek ἶλιγξ (îlinx, 'whirlpool, eddy; dizziness, vertigo'), perhaps from εἰλέω ('turn, wind'), or Pre-Greek. Taken over via French by Roger Caillois as a technical term of play theory in Les jeux et les hommes (1958).",
+      "Original_Script": "ἶλιγξ",
+      "Pronunciation": "Attic /îː.liŋks/; later Greek /ˈi.liŋks/",
+      "Language": "Ancient Greek (via French)",
+      "Category": 2,
+      "Gravity": 0.15,
+      "Lineages": [
+        "L",
+        174,
+        175
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Caillois stresses that actual games rarely sit in one category; ilinx usually combines with agon, alea or mimicry. Wiktionary records a second English sense: the altered state itself, not the kind of play that produces it.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 158,
+    "fields": {
+      "Term": "ignoble",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Base, dishonourable, of low character or purpose. The older sense, now historical, is 'of low birth, not of the nobility'.",
+      "Etymology": "From French ignoble (14th c.), from Latin ignobilis ('unknown, undistinguished, obscure; of base birth'), from in- (not) + gnobilis, older form of nobilis ('well-known, famous; of superior birth'), from PIE *gnō- ('to know'). In English 'of low birth' from the mid-15th c.; the moral sense 'not honourable' from the 1590s.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 9,
+      "Gravity": 0.02,
+      "Lineages": [
+        "L",
+        137
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "The moral sense grew out of the social one: 'of low birth' (mid-15th c.) preceded 'of low character' (1590s).",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-01593624-a",
+      "WN_Lexname": "adj.all",
+      "WN_Gloss": "completely lacking nobility in character or quality or purpose",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 159,
+    "fields": {
+      "Term": "charivari",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "A folk custom of public shaming in Europe and North America: a mock serenade or parade of deliberately discordant noise (pots, pans, horns), 'rough music', aimed at a community member judged to have broken a norm, classically a remarriage or ill-matched marriage, sometimes with an effigy. By extension, any loud cacophony or hubbub.",
+      "Etymology": "From French charivari, Old French chalivali ('discordant noise of pots and pans', 14th c.), probably from Late Latin caribaria ('severe headache'), from Greek karēbaria ('heaviness in the head'), from karē- ('head') + barys ('heavy'). In English from 1735; American shivaree from it (1843).",
+      "Original_Script": "",
+      "Pronunciation": "/ˌʃɪvəˈriː/",
+      "Language": "French",
+      "Category": 9,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        176,
+        177,
+        178
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Historians disagree on its function: punitive ostracism in European practice versus a reintegrating, half-festive ritual in North America. The Greek-headache etymology is probable, not certain.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-07068162-n",
+      "WN_Lexname": "noun.communication",
+      "WN_Gloss": "a noisy mock serenade (made by banging pans and kettles) to a newly married couple",
+      "WN_Hypernyms": "serenade"
+    }
+  },
+  {
+    "id": 160,
+    "fields": {
+      "Term": "contumelious",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Scornfully and insolently abusive; insulting in a rude, contemptuous way. The adjective of contumely (insolent, abusive speech or treatment).",
+      "Etymology": "From Old French contumelieus and Latin contumeliosus ('reproachful, insolently abusive'), from contumelia ('reproach, insult'), probably related to contumax ('stubborn, insolent', used of one refusing a court summons), from com- (intensive) + tumere ('to swell'). In English from the early 15th c.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 9,
+      "Gravity": 0.02,
+      "Lineages": [
+        "L",
+        137,
+        110
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Not the same as contumacious (stubbornly disobedient, especially to a court), though both descend from the same Latin root via contumax.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-02002600-s",
+      "WN_Lexname": "adj.all",
+      "WN_Gloss": "arrogantly insolent",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 161,
+    "fields": {
+      "Term": "lavengro",
+      "Status": "Auto",
+      "My_Definition": "Romany origin  - word master",
+      "Received_Definition": "The name given to the narrator of George Borrow's Lavengro: The Scholar, the Gypsy, the Priest (1851) by the Romani Jasper Petulengro, glossed in the text as 'Word Master' in recognition of how fast he picks up Romani; it replaces his earlier nickname Sap-engro (snake-catcher). Borrow's glossary renders it 'word-master, philologist'.",
+      "Etymology": "Angloromani, from Romani (a)lav ('word') + -engro, a derivational suffix descended from the Romani genitive plural (-engr-) that forms agent and attribute nouns: roughly 'one of words'. Spelled Lav-engro in the naming scene of Borrow's Lavengro (1851). Same pattern as Petulengro and Sapengro in the same book.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "Angloromani (Romani)",
+      "Category": 0,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        179,
+        180,
+        137
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Borrow presents Lavengro as a Romani word; whether Romani speakers used it before him or he formed it on the productive -engro pattern was not established this run, and the Category waits on that (Coinage vs. Compound). His gloss 'master' is stronger than the suffix, which marks association ('fellow', 'one of'); the Standard Ebooks glossary calls 'master' Borrovian.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 162,
+    "fields": {
+      "Term": "soteriology",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "The doctrine of salvation: in Christian theology, the branch dealing with how humans are saved through Christ's work and God's grace. In comparative religion (e.g. Ninian Smart) it names any tradition's 'way of salvation', what the human predicament is and how release from it is won, so that Hindu mokṣa or Buddhist nirvāṇa count as soteriological goals.",
+      "Etymology": "From German Soteriologie, from Greek sōtēria (σωτηρία, 'preservation, salvation'), from sōizein 'to save, preserve' (sōs 'safe, healthy'; cf. sōtēr 'saviour') + -logy. English 1847 as 'a discourse on health'; theological sense from 1864 (etymonline).",
+      "Original_Script": "",
+      "Pronunciation": "/səʊtɪəɹɪˈɒlədʒi/",
+      "Language": "",
+      "Category": 7,
+      "Gravity": 0.02,
+      "Lineages": [
+        "L",
+        83,
+        181
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Confessional vs comparative scope: WordNet confines it to Christian theology and 'divine agency', while comparative usage extends it to self-help paths (Smart's 'self-help' vs 'other-help') and even secular analogues such as Marxism. Read as the name of a theological discipline rather than off its parts, it would fall under Field.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-06201422-n",
+      "WN_Lexname": "noun.cognition",
+      "WN_Gloss": "the branch of Christian theology that deals with salvation as the effect of a divine agency",
+      "WN_Hypernyms": "Christian theology"
+    }
+  },
+  {
+    "id": 163,
+    "fields": {
+      "Term": "Anamnesis",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "In Plato, the doctrine that learning is recollection: the soul, having known the truth before birth (in the Phaedo, the Forms), recovers that latent knowledge when prompted, by dialectical questioning in the Meno (the slave boy's geometry lesson) or by sense-perception in the Phaedo. It is offered as the answer to Meno's paradox of inquiry and revised in the Phaedrus.",
+      "Etymology": "From Greek anamnēsis (a calling to mind, remembrance), noun of action from anamimnēskein (to remind, remember): ana- (back) + mimnēskesthai (to recall); cf. mnēmē (memory); PIE *men- (to think). In English from the 1650s as 'recollection, reminiscence'; the Platonic sense is recollection of knowledge from a prior existence.",
+      "Original_Script": "ἀνάμνησις",
+      "Pronunciation": "/ˌænæmˈniːsɪs/",
+      "Language": "Ancient Greek",
+      "Category": 1,
+      "Gravity": 0.1,
+      "Lineages": [
+        "L",
+        97
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Plato's word is the ordinary Greek for remembrance; the term stays in Greek because the doctrine (pre-natal knowledge) does not survive in 'recollection'. The medical sense, a patient's own account of their history, which WordNet lists first, would land under Field instead.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-05769915-n",
+      "WN_Lexname": "noun.cognition",
+      "WN_Gloss": "the ability to recall past occurrences",
+      "WN_Hypernyms": "memory"
+    }
+  },
+  {
+    "id": 164,
+    "fields": {
+      "Term": "Martingale trees",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Glenn Shafer's generalization of the probability tree in The Art of Causal Conjecture (1996, ch. 12): an event tree whose probability structure is given not by probabilities on every branch but by a linear space of martingales, which may fix probabilities and expected values for only some events and variables. Probability trees (fully probabilized) and decision trees (probabilities on only some branchings, after Raiffa) are special cases; Shafer uses the structure to ground causal relations in 'Nature's tree' without measure theory.",
+      "Etymology": "Martingale from French martingale (16th c.), origin uncertain: perhaps Provençal martegalo, 'inhabitant of Martigues', via jouga a la martegalo, 'to play absurdly'; English 1580s for a horse-harness strap; by the 18th c. a gamblers' doubling system; brought into probability by Jean Ville, Étude critique de la notion de collectif (1939), adopted in English by Doob (1953). Tree from Old English trēow. The compound 'martingale trees' is Shafer's, The Art of Causal Conjecture (1996).",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 2,
+      "Gravity": 0.35,
+      "Lineages": [
+        "L",
+        182,
+        183,
+        184,
+        185
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Not the same as martingales defined on random trees (e.g. the Galton-Watson limit W = lim Z_n/m^n), where the tree is the object and the martingale a statistic of it; in Shafer the martingales are the tree's probability structure. Also not the gambling 'martingale' (doubling), which survives only in the word's history.",
+      "WN_Status": "Partial",
+      "WN_Synset": "oewn-13935275-n  (head: tree)",
+      "WN_Lexname": "noun.shape",
+      "WN_Gloss": "a figure that branches from a single root",
+      "WN_Hypernyms": "plane figure"
+    }
+  },
+  {
+    "id": 166,
+    "fields": {
+      "Term": "panegyrics",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "A formal public speech or written text in high praise of a person or thing, often with the implication of excessive or undiscriminating eulogy. In antiquity, an oration delivered at a festival assembly: Isocrates' Panegyricus (c. 380 BC) is the classic Greek example; Pliny the Younger's speech of thanks to Trajan (AD 100) set the Latin pattern followed by the late-imperial Panegyrici Latini.",
+      "Etymology": "From French panégyrique, from Latin panegyricus, from Greek panēgyrikos (fit for a general assembly), from panēgyris (general assembly, festival) = pan- (all) + ágyris, Aeolic form of agorá (gathering place). The sense narrowed from 'festival speech' to 'speech of praise'.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 9,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        72,
+        189
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Not simply 'praise': the word keeps a note of the ceremonial and the fulsome (the 1911 Britannica calls the late-imperial collection 'gross flattery'), which separates it from encomium or eulogy in neutral use.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-06706894-n",
+      "WN_Lexname": "noun.communication",
+      "WN_Gloss": "a formal expression of praise",
+      "WN_Hypernyms": "praise"
+    }
+  },
+  {
+    "id": 167,
+    "fields": {
+      "Term": "morphism",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "In category theory, an arrow from a source object to a target object in a category; morphisms compose associatively and every object has an identity morphism. It generalizes structure-preserving maps such as homomorphisms, though a morphism need not be a function. Categories, with their morphisms, were introduced by Samuel Eilenberg and Saunders Mac Lane in 'General Theory of Natural Equivalences' (1945).",
+      "Etymology": "Generalized from homomorphism, isomorphism and related terms; ultimately Greek morphē (form, shape) + -ism.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 8,
+      "Gravity": 0.3,
+      "Lineages": [
+        "L",
+        187,
+        188,
+        162
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Biology uses 'morphism' for polymorphism (distinct variants of a species in one area), so outside mathematics the word is not empty but means something else; the category here holds only for the mathematical sense. Not identical with 'function' or 'map': in many categories arrows are not functions at all.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 168,
+    "fields": {
+      "Term": "monstration",
+      "Status": "Auto",
+      "My_Definition": "imperative of showing something",
+      "Received_Definition": "The act of showing or pointing out; in English an obsolete equivalent of 'demonstration' (proof, exhibition). In film narratology, André Gaudreault's term (Du littéraire au filmique, 1988; Eng. From Plato to Lumière, 2009) for narrative that proceeds by showing events in the present of performance rather than recounting them, the mode of the 'monstrator', opposed to narration and traced back to Plato's mimesis/diegesis distinction.",
+      "Etymology": "From Latin monstratio (a showing, direction, indication; attested only in Terence, Adelphoe, and Vitruvius), from monstrare (to show, point out), itself from monstrum (portent, sign). Latin demonstrare is de- + monstrare, so monstration is the base form, not a back-formation from demonstration.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 9,
+      "Gravity": 0.4,
+      "Lineages": [
+        "L",
+        186,
+        97
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "In Gaudreault's narratological sense the word carries a coiner's stamp and would read as Coinage; in the general Latinate sense taken here it is ordinary (if obsolete) vocabulary. Not 'demonstration' in the sense of proof by argument, and not the Russian flash-mob 'monstrations'.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 169,
+    "fields": {
+      "Term": "quincunx",
+      "Status": "Auto",
+      "My_Definition": "Square with a fifth node in the center - should produce 4 identical triangles.",
+      "Received_Definition": "An arrangement of five things, four at the corners of a square or rectangle and one at its centre, as the five on a die or a playing card. Thomas Browne's The Garden of Cyrus (1658) made it the governing figure of a meditation on pattern in ancient plantations and in nature; in orcharding, trees set out by repeating this unit. Other senses: an astrological aspect of 150° (five signs apart), Galton's board, and a Roman coin worth five-twelfths of an as.",
+      "Etymology": "From Latin quincunx 'five twelfths', from quinque (five) + uncia (a twelfth; source of 'ounce' and 'inch'). In Rome the name for five-twelfths of an as, and of a bronze coin of that value (Second Punic War), sometimes marked with five dots in this pattern. In English from the 1640s (astrological aspect); the five-point arrangement from the 1650s, popularised by Browne's The Garden of Cyrus (1658); the planting sense from the 1660s (John Evelyn).",
+      "Original_Script": "",
+      "Pronunciation": "/ˈkwɪnkʌŋks/",
+      "Language": "",
+      "Category": 5,
+      "Gravity": 0.4,
+      "Lineages": [
+        "L",
+        108,
+        190
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "The word names the five points, not the figure drawn between them: the four triangles appear only once edges join the centre to the corners and the corners to each other (and are congruent only when the outer figure is a square). Category could also be read as Translatio, since the arrangement sense was carried over from Roman metrology; Mark was chosen because the five-dot figure is itself the sign.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 170,
+    "fields": {
+      "Term": "baroque",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "Of the style of European art, architecture and music of roughly 1600–1750, marked by complex forms, bold ornament, strong contrast and a sense of movement and dramatic tension; by extension, extravagantly ornate, convoluted or grotesque (said of prose, argument, taste). Of a pearl or gem: irregularly shaped.",
+      "Etymology": "From French baroque 'irregular' (attested from the 15th c.), said to be from Portuguese barroco 'imperfect pearl' (origin uncertain; Spanish berruca 'wart' and the painter Barocci are also proposed). Britannica gives a second candidate: Italian barocco, the scholastics' name for a snag in syllogistic logic. In English from the 1730s–60s (M-W c. 1734; etymonline 1765). Pejorative ('odd, exaggerated, overdecorated') until Heinrich Wölfflin's Renaissance und Barock (1888) made it a neutral style term.",
+      "Original_Script": "",
+      "Pronunciation": "/bæˈɹɒk/",
+      "Language": "",
+      "Category": 3,
+      "Gravity": 0.1,
+      "Lineages": [
+        "L",
+        191,
+        192
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "The word holds a period/style designation and a pejorative extended sense at once; until Wölfflin (1888) the insult was the main sense, and the jeweller's sense (irregular pearl) still survives. The source of the transfer (pearl trade or scholastic logic) is contested; either way it is a carried-over word.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-02985568-a",
+      "WN_Lexname": "adj.pert",
+      "WN_Gloss": "of or relating to or characteristic of the elaborately ornamented style of architecture, art, and music popular in Europe between 1600 and 1750",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 171,
+    "fields": {
+      "Term": "cyanotypes",
+      "Status": "Auto",
+      "My_Definition": "a photographic process in which paper is treated with a chemical solution before being exposed to sunlight",
+      "Received_Definition": "A camera-less photographic printing process devised by John Herschel in 1842: paper coated with ferric ammonium citrate (or oxalate) and potassium ferricyanide is exposed to sunlight, usually under an object or negative, then washed in water, leaving a Prussian-blue image; also a print made this way. Anna Atkins used it for Photographs of British Algae: Cyanotype Impressions (from 1843), effectively the first photographically illustrated book; marketed from 1872 as 'ferro-prussiate', it became the blueprint.",
+      "Etymology": "Cyan- (Greek kyanos 'dark blue') + -type, on the model of daguerreotype (Greek typos 'impression'). 1842; the process was discovered and named by John Herschel.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 7,
+      "Gravity": 0.35,
+      "Lineages": [
+        "L",
+        193,
+        194
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "The word names both the process (the sense taken here) and the blue print it yields. Herschel named it, but the word vouches for itself through its parts rather than his stamp, hence Compound rather than Coinage.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 172,
+    "fields": {
+      "Term": "illaqueate",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "(Archaic, transitive) To ensnare or entrap, as in a noose or snare; figuratively, to entangle or catch out by trickery (Coleridge: 'illaqueate your good sense').",
+      "Etymology": "From Latin illaqueatus, past participle of illaqueare 'to ensnare, enmesh, trick', from in- 'in' + laqueare 'to snare', from laqueus 'noose, snare'. First attested in English 1548 (Wiktionary); now archaic.",
+      "Original_Script": "",
+      "Pronunciation": "/ɪˈlæk.wi.eɪt/",
+      "Language": "",
+      "Category": 9,
+      "Gravity": 0.02,
+      "Lineages": null,
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 173,
+    "fields": {
+      "Term": "Cosmatesque",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "A style of geometric inlaid stonework of medieval Italy, chiefly Rome and its surroundings, in the 12th and 13th centuries: discs and patterns of porphyry, serpentine and coloured marble (often salvaged from Roman ruins, the large roundels sliced from ancient columns) with ribbons of glass and gold mosaic, set into white marble. Used mainly on church pavements, also on pulpits, bishops' thrones and altars; exported as far as Westminster Abbey. Named after the Cosmati family of Roman marble-workers; a form of opus sectile, often equated with opus alexandrinum.",
+      "Etymology": "From Cosmati, the name of a family of Roman marble-workers and mosaicists active in the 12th–13th centuries, + -esque 'in the manner of' (via French from Italian -esco).",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 4,
+      "Gravity": 0.2,
+      "Lineages": [
+        "L",
+        195,
+        192
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "The name credits one Roman family with a practice that predates them and draws on Byzantine pavements (Monte Cassino, 1066–71); Laurentius of Anagni is sometimes credited instead. Scholars draw the line between Cosmatesque, opus sectile and opus alexandrinum differently.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 174,
+    "fields": {
+      "Term": "crucible",
+      "Status": "Auto",
+      "My_Definition": "original usage: \"vessel or melting pot for chemical purposes, so tempered as to endure extreme heat,\" from Medieval Latin crucibulum \"melting pot for metals,\" originally \"night lamp.\"",
+      "Received_Definition": "A vessel of heat-resistant material (clay, graphite, porcelain, later metal) in which metals or other substances are melted or brought to very high temperatures, in metallurgy, alchemy and chemistry. Figuratively, since the 1640s, a severe test or trial.",
+      "Etymology": "First element might be Middle High German kruse \"earthen pot.\" Or perhaps it is from Latin crux on some fancied resemblance to a cross. Used figuratively of any severe test or trial since 1640s.",
+      "Original_Script": "",
+      "Pronunciation": "/ˈkɹuː.sɪ.bəl/",
+      "Language": "",
+      "Category": 6,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        196
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "On the crux link in your note: Wiktionary takes Medieval Latin crucibulum ('night-lamp', then 'melting-pot') as apparently derived from crux 'cross', perhaps on the model of turibulum 'censer'; etymonline lists crux only as one theory beside Middle High German kruse 'earthen pot'. So the cross is plausible but not settled, and no source consulted ties it to crucifixion as such. In the figurative sense (severe trial) the category would shift from Material toward Translatio.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-03144777-n",
+      "WN_Lexname": "noun.artifact",
+      "WN_Gloss": "a vessel made of material that does not melt easily; used for high temperature chemical reactions",
+      "WN_Hypernyms": "vessel"
+    }
+  },
+  {
+    "id": 175,
+    "fields": {
+      "Term": "syntagmatic",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "In structural linguistics and semiotics: pertaining to the relations a unit has with the units before and after it in a sequence, i.e. the linear chain of combination ('this-and-this-and-this'), as opposed to paradigmatic relations of substitution among units that could fill the same slot. From Saussure's rapports syntagmatiques in the Cours de linguistique générale (1916).",
+      "Etymology": "From French syntagmatique, from Ancient Greek syntagmatikos; cf. syntagma 'orderly arrangement', from syntassō 'arrange together' (syn 'with' + tassō 'arrange'). The linguistic sense is Saussure's.",
+      "Original_Script": "συνταγματικός",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 8,
+      "Gravity": 0.35,
+      "Lineages": [
+        "L",
+        55,
+        56,
+        57,
+        197,
+        198
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Saussure's own pair was syntagmatic / associative; 'paradigmatic' is a later substitution (Hjørland credits the now-standard term to Jakobson), and Hjelmslev gave the fullest account of the two axes. Not the same as 'syntactic': syntagmatic relations hold at every level (phonemes, morphemes, signs in an image), not only among words.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-02819476-a",
+      "WN_Lexname": "adj.pert",
+      "WN_Gloss": "related as members of a syntagma",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 176,
+    "fields": {
+      "Term": "Roman-fleuve",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "A novel sequence: a series of novels, each complete in itself, that follows one central character, a family across generations, or a period of national life, read as one long continuous work. The form flourished in France in the first half of the 20th century (Rolland's Jean-Christophe, Proust's À la recherche du temps perdu, Martin du Gard's Les Thibault, Romains's Les Hommes de bonne volonté), on the model of Balzac's Comédie humaine and Zola's Rougon-Macquart.",
+      "Etymology": "French, literally 'river-novel': roman (novel) + fleuve (river). The image goes back to Romain Rolland, who said he conceived Jean-Christophe (1904–12) as a river; Thibaudet used the river image for long novels in Réflexions sur le roman (1922). The compound itself appears around 1930 (Alain Rey, Dictionnaire historique, cited by Valabrègue); English use from 1935 (Merriam-Webster). Plural romans-fleuves.",
+      "Original_Script": "",
+      "Pronunciation": "/ʁɔ.mɑ̃.flœv/",
+      "Language": "French",
+      "Category": 7,
+      "Gravity": 0.1,
+      "Lineages": [
+        "L",
+        199,
+        200,
+        201
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "The coinage is often credited to Rolland himself (some dictionaries and essays say so), but Valabrègue, citing Rey, finds no use by Rolland, who in the 1909 preface to Dans la maison denied he had ever meant to write a novel; the term is attributed to an unnamed critic around 1930. If Rolland's authorship were established the category would be Coinage.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-06381313-n",
+      "WN_Lexname": "noun.communication",
+      "WN_Gloss": "a French novel in the form of a long chronicle of a family or other social group",
+      "WN_Hypernyms": "novel"
+    }
+  },
+  {
+    "id": 177,
+    "fields": {
+      "Term": "Opusculum",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "A minor or short work, especially a short literary or scholarly piece; usually found in the plural, opuscula, for an author's collected shorter writings. Latin writers also used it with ironic modesty for a large work.",
+      "Etymology": "Latin opusculum, diminutive of opus, oper- (work, labour, literary work) + -culum. In English from 1624 (Merriam-Webster). Its doublet opuscule came through Middle French opuscule.",
+      "Original_Script": "",
+      "Pronunciation": "/oʊˈpʌs.kjuː.ləm/; plural opuscula",
+      "Language": "Latin",
+      "Category": 7,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        73
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "The diminutive can be a modesty topos rather than a measure: an author calling a long work an opusculum is not describing its size. Opuscule in English can tip into 'petty work', a pejorative the Latin need not carry.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 178,
+    "fields": {
+      "Term": "excursus",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "An extended discussion of a particular point, set apart from the main text, typically as an appendix or appended note in a book or commentary; more loosely, a digression within a narrative or argument. In classical rhetoric the planned departure from the main subject (Quintilian, Institutio Oratoria IV.3).",
+      "Etymology": "Latin excursus (a running out, sally, digression), from excurrere 'to run out' (ex- 'out' + currere 'to run'). In English from around 1800 (Merriam-Webster: 1803). Plural excursuses, also excursus.",
+      "Original_Script": "",
+      "Pronunciation": "/ɛkˈskɜː.səs/",
+      "Language": "Latin",
+      "Category": 9,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        72,
+        84
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Two placements compete: the excursus as an appendix outside the text's flow, and the excursus as a digression inside it. WordNet records only the second, merging it with 'digression' and 'aside'.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-06613037-n",
+      "WN_Lexname": "noun.communication",
+      "WN_Gloss": "a message that departs from the main subject",
+      "WN_Hypernyms": "message"
+    }
+  },
+  {
+    "id": 179,
+    "fields": {
+      "Term": "Parergon",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "A by-work: something subordinate or accessory to a main work, especially an ornamental addition, or a side occupation pursued besides one's main one. Kant (Critique of Judgment, 1790, § 14) uses parerga for ornaments that belong to the object only externally, as an addition, such as picture frames, drapery on statues, colonnades around palaces. Derrida, in 'Parergon' (La vérité en peinture, 1978), takes Kant's frame as a limit that is neither simply inside nor outside the work and on which the work depends to set itself apart.",
+      "Etymology": "Greek parergon (by-work, subordinate matter), neuter of parergos (beside the main work, subordinate): para- (beside) + ergon (work). Into English via Latin; plural parerga.",
+      "Original_Script": "πάρεργον",
+      "Pronunciation": "/pəˈrɜːrˌɡɑːn/; plural parerga",
+      "Language": "Ancient Greek",
+      "Category": 7,
+      "Gravity": 0.35,
+      "Lineages": [
+        "L",
+        202,
+        157,
+        5
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "In Greek and Kantian usage the parergon is secondary and detachable; Derrida's reading denies it that status, making the frame constitutive of the work. Applied to the thresholds of a book (titles, prefaces, epigraphs) it overlaps with Genette's paratext.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 180,
+    "fields": {
+      "Term": "the warp",
+      "Status": "Auto",
+      "My_Definition": "the threads used in weaving cloth that go from the top to the bottom of the machine",
+      "Received_Definition": "In weaving, the set of lengthwise yarns stretched and held under tension on the loom before the weft (woof) is passed across them; in finished cloth, the longitudinal threads. Paired with weft, it is also used figuratively for the underlying fabric of something (\"the warp and woof of\").",
+      "Etymology": "From Old English wearp, related to weorpan \"to throw\": the warp is that across which the woof is \"thrown.\" Proto-Germanic *warpo- (cf. Old High German warf \"warp,\" Old Norse varp \"cast of a net\"); PIE *werp- \"to turn, bend.\" The unrelated-seeming sense \"bend, distort\" grows from the verb c. 1400; the science-fiction warp of space-time (by 1936) probably borrows the weaving image.",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "English",
+      "Category": 6,
+      "Gravity": 0.1,
+      "Lineages": [
+        "L",
+        203
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Not warp as distortion (WordNet's first three senses, or the warped space-time of science fiction); in that sense the term would sit under :: rather than Material. The warp is the fixed, tensioned set; the weft is the thread that moves across it.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-04559236-n",
+      "WN_Lexname": "noun.artifact",
+      "WN_Gloss": "yarn arranged lengthways on a loom and crossed by the woof",
+      "WN_Hypernyms": "thread"
+    }
+  },
+  {
+    "id": 181,
+    "fields": {
+      "Term": "Mormaer",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "In medieval Gaelic Scotland, the title of a regional or provincial ruler, second in theory only to the king of Scots, with military, fiscal and judicial duties. Rendered comes in Latin and earl in Scots; by the early 13th century the office had become a hereditary territorial earldom.",
+      "Etymology": "Gaelic mormaer (pl. mormaír; also mormaor), from maer \"steward, officer\" (cf. Latin maior) with a contested first element: mór \"great\" (\"great steward\") or the genitive of muir \"sea\" (\"sea-steward\"); possibly a survival of a Pictish compound. The office is first mentioned in the Annals of Ulster for 918 (Battle of Corbridge); the DSL notes the word first appears in this form in the Book of Deer (12th c.).",
+      "Original_Script": "",
+      "Pronunciation": "[ˈmormər] (anglicised, after DSL)",
+      "Language": "Medieval Gaelic (Scotland)",
+      "Category": 1,
+      "Gravity": 0.02,
+      "Lineages": [
+        "L",
+        204
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Not simply \"earl\": historians keep the Gaelic word for the office before it hardened into a feudal earldom, though c. 1130 documents call the same man mormaer in Gaelic and comes in Latin. The etymology is disputed: Britannica gives only \"great steward,\" the DSL argues for \"sea-steward\"; read either way, the term could also be classed as Compound.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 182,
+    "fields": {
+      "Term": "labrys",
+      "Status": "Auto",
+      "My_Definition": "noun a double-headed ax in Minoan mythology",
+      "Received_Definition": "A double-bitted axe, a sacred symbol in Minoan Cretan religion, where it accompanies goddesses; later the attribute of the Carian storm god Zeus Labraundos and a recurrent emblem in Greek and Thracian cult. In modern use it is also an emblem of lesbian feminism and of some neo-pagan movements.",
+      "Etymology": "From Ancient Greek λάβρυς (lábrys), which Plutarch reports as the Lydian word for the double axe (Lydian lapryš per Wiktionary). The traditional derivation of labyrinth from it ('house of the double axe', argued by Arthur Evans) is regarded as speculative by Beekes, who compares laura 'narrow passage'.",
+      "Original_Script": "λάβρυς",
+      "Pronunciation": "/ˈlæbrɪs/, /ˈleɪbrɪs/",
+      "Language": "Ancient Greek (from Lydian)",
+      "Category": 6,
+      "Gravity": 0.02,
+      "Lineages": [
+        "L",
+        87,
+        163,
+        205
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Material for the object; in its modern sense as a lesbian-feminist or neo-pagan emblem the word names a sign, which would read as Mark. The labyrinth etymology is contested, not settled.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 183,
+    "fields": {
+      "Term": "haruspicy",
+      "Status": "Auto",
+      "My_Definition": "The study and divination by use of animal entrails, usually the victims of sacrifice.",
+      "Received_Definition": "Divination by inspecting the entrails of sacrificed animals, the art of the Roman haruspex, a practice the Romans took over from the Etruscans. Synonymous with extispicy; hepatoscopy (reading the liver) is a subtype.",
+      "Etymology": "From Latin haruspicium, from haruspex 'soothsayer by entrails': first element from PIE *ghere- 'gut, entrail' (cf. Greek khordē, English yarn), second from spic- 'inspecting', PIE *spek- 'to observe' (cf. auspex, inspect). English haruspex from the 1580s.",
+      "Original_Script": "",
+      "Pronunciation": "/həˈrʌspɪsi/",
+      "Language": "",
+      "Category": 9,
+      "Gravity": 0.1,
+      "Lineages": [
+        "L",
+        138,
+        206
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Near-synonym of extispicy (row 185); in the sources consulted, haruspicy is tied to the Etrusco-Roman haruspex, while extispicy's citations are Mesopotamian. To a Latin reader it is a transparent compound (gut + looking); in English the parts no longer show.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 184,
+    "fields": {
+      "Term": "eagre",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "A tidal bore: a single high wave driven up a narrowing estuary by an exceptionally high tide. A regional English name for the bore on the Trent and Ouse (also used of the Severn), still spelled aegir for the Trent bore; George Eliot's 'awful Eagre' in The Mill on the Floss (1860).",
+      "Etymology": "Origin uncertain. Earlier forms hygre, higre, aigre, agar; Merriam-Webster gives an alteration of earlier higre, from an assumed Middle English higre (whence Medieval Latin higra). Richard Coates (2007) argues for Old English ē(a)gor- 'flood', despite the phonological difficulty. The popular link to Ægir, the Norse sea god, is rejected by dictionary makers.",
+      "Original_Script": "",
+      "Pronunciation": "/ˈeɪɡə(ɹ)/, /ˈiːɡə(ɹ)/",
+      "Language": "",
+      "Category": 9,
+      "Gravity": 0.02,
+      "Lineages": [
+        "L",
+        137,
+        208
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Not the adjective eager, of which eagre is also an obsolete spelling; the spelling aegir invites a false eponymous reading (Ægir) that would make it Eponym / Persona.",
+      "WN_Status": "Present",
+      "WN_Synset": "oewn-07418520-n",
+      "WN_Lexname": "noun.event",
+      "WN_Gloss": "a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)",
+      "WN_Hypernyms": "tidal flow"
+    }
+  },
+  {
+    "id": 185,
+    "fields": {
+      "Term": "extispicy",
+      "Status": "Auto",
+      "My_Definition": "divination using entrails",
+      "Received_Definition": "Divination by reading the organs of sacrificed animals, or a single act of such divination; a synonym of haruspicy, used especially in scholarship on Mesopotamian omen practice (e.g. at Mari and in Assyria).",
+      "Etymology": "From Latin extispicium, from extispex 'diviner of entrails', from exta 'entrails' + -spex 'one who looks' (specere 'to look at', PIE *spek-), + -ium forming abstract nouns.",
+      "Original_Script": "",
+      "Pronunciation": "/ɛkˈstɪspɪsi/",
+      "Language": "",
+      "Category": 9,
+      "Gravity": 0.1,
+      "Lineages": [
+        "L",
+        138,
+        207
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Near-synonym of haruspicy (row 183); in the sources consulted, extispicy is the term used for Mesopotamian practice, haruspicy for the Etrusco-Roman one.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 186,
+    "fields": {
+      "Term": "ebberman",
+      "Status": "Auto",
+      "My_Definition": "one who fishes under bridges - hidden as it were, likely anachronistic",
+      "Received_Definition": "One who fishes under bridges. Recorded in the Oxford English Dictionary (as cited by Wiktionary); appears in lists of rare and obsolete words, with no quotations found in open sources.",
+      "Etymology": "",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 0,
+      "Gravity": 0,
+      "Lineages": [
+        "L",
+        80
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Category left open: no etymology could be established in open sources, so it is undecided whether the word reads as a compound or as ordinary vocabulary. The OED entry would settle it.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 187,
+    "fields": {
+      "Term": "Ecbatic",
+      "Status": "Auto",
+      "My_Definition": "grammar - indicating result or consequence without intention",
+      "Received_Definition": "In grammar, denoting mere result or consequence, as opposed to telic, which denotes intention or purpose; used chiefly of New Testament Greek ἵνα clauses, read ecbatically as 'so that' rather than telically as 'in order that' (Webster's 1913). A wider sense, 'drawn from the relation of cause and effect', especially of arguments, is recorded from 1836.",
+      "Etymology": "From ecbasis, Latin ecbasis, Greek ekbasis 'a going out, issue, event', from ek- 'out' + basis 'a step', from bainein 'to go' (PIE *gwa-). English from 1836 (Online Etymology Dictionary).",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 8,
+      "Gravity": 0.05,
+      "Lineages": [
+        "L",
+        81,
+        209
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "In the wider logical sense (arguments from cause and effect) the word is not held by grammar alone; the Field reading belongs to the grammatical sense Johnny takes.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 188,
+    "fields": {
+      "Term": "apophenia",
+      "Status": "Auto",
+      "My_Definition": "the spontaneous perception of connections and\n      meaningfulness of unrelated phenomena.",
+      "Received_Definition": "The tendency to perceive meaningful connections between unrelated things. Coined as Apophänie by the psychiatrist Klaus Conrad in Die beginnende Schizophrenie (1958), where it named an \"unmotivated seeing of connections\" accompanied by a specific feeling of abnormal, self-referential meaningfulness in the onset of delusion; it has since broadened into a name for an ordinary human propensity (seeing patterns in gambling outcomes, or a type I error in statistics).",
+      "Etymology": "From German Apophänie, coined by Klaus Conrad in Die beginnende Schizophrenie: Versuch einer Gestaltanalyse des Wahns (1958), from Greek apophainein (to show, make known, declare), from apo- (from, away) + phainein (to show, make appear). English apophenia attested 1961; an instance is an apophany, formed against epiphany.",
+      "Original_Script": "",
+      "Pronunciation": "/ˌæpəˈfiːniə/",
+      "Language": "",
+      "Category": 3,
+      "Gravity": 0.6,
+      "Lineages": [
+        "L",
+        210,
+        211,
+        119
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "Conrad's Apophänie is a clinical stage of beginning schizophrenia, meaning experienced as revelation about the self; the received sense carries it out of psychopathology into everyday cognition and statistics, which is the drift Johnny's note marks. Read in Conrad's own sense the category would be Coinage, not Translatio. Pareidolia is a subtype (images or sounds in random stimuli), not a synonym.",
+      "WN_Status": "Absent",
+      "WN_Synset": "",
+      "WN_Lexname": "",
+      "WN_Gloss": "",
+      "WN_Hypernyms": ""
+    }
+  },
+  {
+    "id": 189,
+    "fields": {
+      "Term": "Patternicity",
+      "Status": "Auto",
+      "My_Definition": "",
+      "Received_Definition": "\"The tendency to find meaningful patterns in meaningless noise\": Michael Shermer's coinage in his Scientific American column (December 2008). Shermer treats it as an evolved bias of a pattern-seeking brain: a type I error (false positive) that natural selection tolerates because missing a real pattern costs more than believing a false one; its opposite, the type II error, he calls apatternicity.",
+      "Etymology": "English pattern + -icity (abstract-noun suffix, -ic + -ity). Coined by Michael Shermer, \"Patternicity,\" Scientific American (December 2008).",
+      "Original_Script": "",
+      "Pronunciation": "",
+      "Language": "",
+      "Category": 2,
+      "Gravity": 0.5,
+      "Lineages": [
+        "L",
+        212,
+        210
+      ],
+      "Bastardization_Op": "faithful",
+      "Projects": null,
+      "Portable_Axiom": "",
+      "Boundary_Tensions": "A near-synonym of apophenia with Conrad's clinical frame removed: Shermer presents it as adaptive and universal, not as a symptom.",
       "WN_Status": "Absent",
       "WN_Synset": "",
       "WN_Lexname": "",

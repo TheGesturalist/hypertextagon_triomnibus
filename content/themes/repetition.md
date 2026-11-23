@@ -15,3 +15,4 @@ tags:
 - [[books/868-selected-prose-of-heinrich-von-kleist-on-the-theat|Selected Prose of Heinrich von Kleist ('On the Theater of Marionettes')]]
 - [[books/4209-remainder|Remainder]]
 - [[books/8201-an-episode-in-the-life-of-a-landscape-painter|An Episode in the Life of a Landscape Painter]]
+- [[books/13051-the-garden|The Garden]]

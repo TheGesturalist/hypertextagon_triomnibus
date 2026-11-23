@@ -1,0 +1,14 @@
+---
+title: "bracket"
+tags:
+  - theme
+---
+
+## Readings
+
+- [[shadows/2026-11-21-shadow-gerard-genette-day-6-people-off-to-the-side|Shadow — Gérard Genette, day 6: People Off to the Side]] (2026-11-21)
+
+## Books
+
+- [[books/692-paratexts-thresholds-of-interpretation|Paratexts: Thresholds of Interpretation]]
+- [[books/1913-unconsolable-contemporary-observing-gerhard-richte|Unconsolable Contemporary: Observing Gerhard Richter]]

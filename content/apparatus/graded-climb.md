@@ -39,6 +39,24 @@ Readings ordered by difficulty, from the most visible connections to the most ob
 - [[shadows/2026-10-31-shadow-elias-canetti-day-6-the-crowd-is-cheated|Shadow — Elias Canetti, day 6: The Crowd Is Cheated]] (2026-10-31) · *An author and their shadow*
 - [[shadows/2026-11-01-shadow-elias-canetti-day-7-the-map|Shadow — Elias Canetti, day 7: The Map]] (2026-11-01) · *An author and their shadow*
 - [[shadows/2026-11-04-shadow-kathy-acker-day-3-the-dissent-is-absent|Shadow — Kathy Acker, day 3: The Dissent Is Absent]] (2026-11-04) · *An author and their shadow*
+- [[shadows/2026-11-05-shadow-kathy-acker-day-4-the-sentence-was-sartre-s|Shadow — Kathy Acker, day 4: The Sentence Was Sartre's]] (2026-11-05) · *An author and their shadow*
+- [[shadows/2026-11-06-shadow-kathy-acker-day-5-everything-s-closing-in|Shadow — Kathy Acker, day 5: Everything's Closing In]] (2026-11-06) · *An author and their shadow*
+- [[shadows/2026-11-08-shadow-kathy-acker-day-6-slave-trader-first|Shadow — Kathy Acker, day 6: Slave Trader First]] (2026-11-08) · *An author and their shadow*
+- [[shadows/2026-11-08-shadow-kathy-acker-day-7-the-translator-is-the-one|Shadow — Kathy Acker, day 7: The Translator Is the One She Leaves Out]] (2026-11-08) · *An author and their shadow*
+- [[shadows/2026-11-09-shadow-machado-de-assis-day-1-the-complete-and-una|Shadow — Machado de Assis, day 1: The Complete and Unabridged Gap]] (2026-11-09) · *An author and their shadow*
+- [[shadows/2026-11-10-shadow-machado-de-assis-day-2-the-butterfly-on-the|Shadow — Machado de Assis, day 2: The Butterfly on the Desk]] (2026-11-10) · *An author and their shadow*
+- [[shadows/2026-11-11-shadow-machado-de-assis-day-3-retreated-from-brazi|Shadow — Machado de Assis, day 3: Retreated from Brazilian Particularity]] (2026-11-11) · *An author and their shadow*
+- [[shadows/2026-11-12-shadow-machado-de-assis-day-4-psychiatrist-find-an|Shadow — Machado de Assis, day 4: Psychiatrist, Find and Replace]] (2026-11-12) · *An author and their shadow*
+- [[shadows/2026-11-13-shadow-machado-de-assis-day-5-not-in-his-biographi|Shadow — Machado de Assis, day 5: Not in His Biographical Dictionaries]] (2026-11-13) · *An author and their shadow*
+- [[shadows/2026-11-14-shadow-machado-de-assis-day-6-the-thinking-erratum|Shadow — Machado de Assis, day 6: The Thinking Erratum]] (2026-11-14) · *An author and their shadow*
+- [[shadows/2026-11-15-shadow-machado-de-assis-day-7-name-kept-sentence-m|Shadow — Machado de Assis, day 7: Name Kept, Sentence Moved]] (2026-11-15) · *An author and their shadow*
+- [[shadows/2026-11-16-shadow-gerard-genette-day-1-the-most-irritating-pa|Shadow — Gérard Genette, day 1: The Most Irritating Palimpsest]] (2026-11-16) · *An author and their shadow*
+- [[shadows/2026-11-17-shadow-gerard-genette-day-2-according-to-riffaterr|Shadow — Gérard Genette, day 2: According to Riffaterre]] (2026-11-17) · *An author and their shadow*
+- [[shadows/2026-11-18-shadow-gerard-genette-day-3-a-game-of-chance-like|Shadow — Gérard Genette, day 3: A Game of Chance, Like Roulette]] (2026-11-18) · *An author and their shadow*
+- [[shadows/2026-11-19-shadow-gerard-genette-day-4-the-right-to-be-unfait|Shadow — Gérard Genette, day 4: The Right to Be Unfaithful]] (2026-11-19) · *An author and their shadow*
+- [[shadows/2026-11-20-shadow-gerard-genette-day-5-gerard-ginette|Shadow — Gérard Genette, day 5: Gerard Ginette]] (2026-11-20) · *An author and their shadow*
+- [[shadows/2026-11-21-shadow-gerard-genette-day-6-people-off-to-the-side|Shadow — Gérard Genette, day 6: People Off to the Side]] (2026-11-21) · *An author and their shadow*
+- [[shadows/2026-11-22-shadow-gerard-genette-day-7-the-old-analogy|Shadow — Gérard Genette, day 7: The Old Analogy]] (2026-11-22) · *An author and their shadow*
 
 ## Difficulty 4
 

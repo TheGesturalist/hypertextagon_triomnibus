@@ -7,6 +7,7 @@ tags:
 ## Readings
 
 - [[triads/2026-10-25-the-pattern-determines-the-parts|The Pattern Determines the Parts]] (2026-10-25)
+- [[shadows/2026-11-08-shadow-kathy-acker-day-6-slave-trader-first|Shadow — Kathy Acker, day 6: Slave Trader First]] (2026-11-08)
 
 ## Books
 

@@ -718,5 +718,1265 @@
       "Evidence": "Reported argument: the LRB reviewer (unnamed by Zambreno; review not in library) contrasts Acker unfavourably with Kraus; Zambreno objects to setting two women writers against each other, then quotes Acker to Lotringer, 'I act through the novels.' Substring-checked in the EPUB.",
       "Verified": true
     }
+  },
+  {
+    "id": 49,
+    "fields": {
+      "Week": 1,
+      "Set": 43,
+      "Citing_Calibre_ID": 1176,
+      "Citing_Title": "Literal Madness (My Death My Life by Pier Paolo Pasolini)",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Rewrites",
+      "Quote": "One could say that he seeks to merge with unnameable nature, fleeing the weight of nomination in the unnameable texture of things, I want people to treat me as an animal, in the irregular indefinable movements of the foliage, of the waves. To be matter. To be matter to matter.",
+      "Location": "My Death My Life, 'My Death' (just before 'Nominalism'); TARGET Sartre ch. 1 'A Problem', 'Naïveté and Language'",
+      "Evidence": "Day-4 edge, outward: TARGET = Sartre, The Family Idiot vol. 1, tr. Carol Cosman (Chicago 1981), Calibre 14142 (duplicate 14041). Sartre: 'One could say that he seeks to merge with unnamable nature, fleeing the weight of nomination in the unnamed texture of things, in the irregular, indefinable movements of the foliage, of the waves. I see surprising affinities between these first unconscious ventures beyond the self and the final vow of Saint Antoine—“to be matter.”' Six shingle runs of 8–17 words (+ one of 6) in one stretch: 'He would sit for hours, a finger in his mouth, looking almost stupid' (badly→poorly); 'as Lacan would say, “inarticulable”' (Lacan cut); 'resonant materiality'; 'comprehension is arrested before its completion'; 'the speech of the Other ... given' → 'another person ... GIVEN ... like a commandment'; 'the most credulous child'; 'principle of authority'. CORRECTS edge 40: McCarthy (4206) says the passage is 'plagiarizing the magnificent climax of Flaubert’s The Temptation of Saint Anthony'; only Sartre's three quoted words are Flaubert's (Hearn tr., 13655: 'descend to the very bottom of matter,—be matter itself!'; no verbatim overlap between 13655 and any Acker book). FTS '\"weight of nomination\"' = 4 books: 4206, 1176, 14041, 14142. Chronology: Cosman 1981 precedes MDML (Pan 1984). Acker names Sartre only as reading (1177, Childlike Life ch. 3: 'I read Sartre De Sade Laing Esterson and Leduc.'). All substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 50,
+    "fields": {
+      "Week": 1,
+      "Set": 43,
+      "Citing_Calibre_ID": 6336,
+      "Citing_Title": "Against Expression: An Anthology of Conceptual Writing",
+      "Citing_Author": "Craig Dworkin and Kenneth Goldsmith (eds.)",
+      "Relation": "Edits/introduces",
+      "Quote": "In the opening to Great Expectations: A Novel (New York: Grove, 1983), Kathy Acker appropriates, deforms, summarizes, and rewrites passages from Charles Dickens’s Great Expectations and Pierre Guyotat’s Eden, Eden, Eden to solve the equation plagiarism + pornography = autobiography.",
+      "Location": "'Kathy Acker, from Great Expectations', headnote p. 28; excerpt pp. 28–31 (PDF pp. 82–85)",
+      "Evidence": "Headnote credits the equation to Ron Silliman, 'E-mail Interview' (Quarry West 34 [1998]: 13); FTS finds the equation in no other library book. Excerpt = GE opening ('1. Plagiarism', 'I Recall My Childhood') through the Guyotat paragraph ending 'some stones blow up'. Collated vs Penguin 2018 EPUB (1178): 'depends on the Empress' / 'depends on the image of the Empress'; 'There is not time' / 'There is no time'; 'stream' / 'steam'; 'meaning/part of the soldier’s' / 'meaning/part the soldier’s'. Text-layer gaps (1978, 1979, 18th, TERROR, TOTAL HUMAN RESPONSIBILITY, PIG, IT) are old-style figures and small caps, checked on rendered page images pp. 28–29. Witnesses differ in edition (AE cites Grove 1983), so the variants are not assigned to either.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 51,
+    "fields": {
+      "Week": 1,
+      "Set": 43,
+      "Citing_Calibre_ID": 4852,
+      "Citing_Title": "Pathetic Literature",
+      "Citing_Author": "Eileen Myles (ed.)",
+      "Relation": "Edits/introduces",
+      "Quote": "If everything is living there is nothing; this living is the only matter matters.",
+      "Location": "'Excerpt from Great Expectations' (= GE Part Two, 'Day: The First Days', whole); acknowledgments '© 1982 ... Reprinted by permission of Grove Press, Inc.'",
+      "Evidence": "3,096 words, no headnote, contributor note only. Penguin 2018 EPUB (1178): 'If everything is living, it’s not a name but moving. And without this living there is nothing; this living is the only matter matters.' Eye-skip (saut du même au même) on 'living'; omission almost certainly in the reprint or its Grove setting, not checkable against Grove 1982 here. Other variants: evade (the) responsibility; Greenwich Avenue/Village; last/least meaning; them/then (Penguin typo); (has) decided. difflib ratio 0.993. Same section contains Orlando's first sentence (Woolf not in catalogue).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 52,
+    "fields": {
+      "Week": 1,
+      "Set": 44,
+      "Citing_Calibre_ID": 13051,
+      "Citing_Title": "The Garden (Director's Cut)",
+      "Citing_Author": "Louis Armand",
+      "Relation": "Uses without credit (suspected)",
+      "Quote": "all of your faces knotted & drawn already I can tell everything’s closing in on me somewhere you’re repeating my too familiar phrases lying on your back in the dark",
+      "Location": "The Garden, p. 132 (PDF p. 140); TARGET My Death My Life (1176), '1SEX', '4. War', 'Beginning:'",
+      "Evidence": "SUSPICION, not finding. Acker (MDML, 1984; Literal Madness 1987): 'Already I can tell everything's closing in on me.' Armand keeps all nine words and drops the full stop (The Garden is one unpunctuated sentence). The 9-word run is the only non-boilerplate run of 9+ words in a 7-gram comparison of The Garden against Acker's four library books (5-gram runs otherwise stock phrases). Calibre FTS for the phrase finds only 1176 (Armand's PDF missed by tokenisation; found by substring scan). Plausibility: Armand co-edited Pornoterrorism (10597, 2015), whose Vichnar chapter quotes MDML extensively; The Garden's front matter credits Guyotat's Eden Eden Eden (Acker's source too) and never names Acker. Dates: notebooks 1994, first ed. Salt 2001, library copy 11:11 Press 2020. Against: the sentence is plain English and could be independent; no second Acker phrase nearby.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 53,
+    "fields": {
+      "Week": 1,
+      "Set": 44,
+      "Citing_Calibre_ID": 14221,
+      "Citing_Title": "Clair Obscur",
+      "Citing_Author": "Louis Armand",
+      "Relation": "Uses without credit (suspected)",
+      "Quote": "And what if the sole purpose now is to get rid of meaning? To make darkness the general condition?",
+      "Location": "Clair Obscur, p. 69 (PDF p. 71); TARGET My Death My Life (1176), '3VIOLENCE' heading 'Purpose: To Get Rid of Meaning'",
+      "Evidence": "WEAK SUSPICION. Shared words: 'purpose' + 'to get rid of meaning' (5-word phrase; no 7-word run anywhere in Clair Obscur besides stock phrases and a nursery rhyme). Only interest: second Armand novel touching the same Acker book. No name of Acker in the text (substring 'acker' = mackerel, attacker).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 54,
+    "fields": {
+      "Week": 1,
+      "Set": 44,
+      "Citing_Calibre_ID": 1176,
+      "Citing_Title": "Literal Madness (My Death My Life by Pier Paolo Pasolini)",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Rewrites",
+      "Quote": "One might generalize by saying: the technique of reproduction detaches the reproduced object from the domain of tradition. Meaning, for example: a book no longer has anything to do with literary history so the history of literarture you're taught in school is for shit.",
+      "Location": "My Death My Life, '2LANGUAGE', '3. Nominalism'; TARGET Benjamin, 'The Work of Art in the Age of Mechanical Reproduction', tr. Zohn, § II (witness: Aesthetic Theory, ed. Gage, 1200)",
+      "Evidence": "Outward, uncredited. Benjamin (1200): 'One might generalize by saying: the technique of reproduction detaches the reproduced object from the domain of tradition. By making many reproductions it substitutes a plurality of copies for a unique existence.' Acker keeps the first sentence verbatim and replaces the second with her gloss. Later: 'Presumably, without intending it, he issued an invitation to a far-reaching liquidation.' (Benjamin: 'Presumably without intending it'; comma added; Abel Gance, the 'he', cut, as she cut Lacan and Saint Antoine from Sartre, edge 49). Painter/cameraman analogy paraphrased ('Reproducible art breaks up and ruins.'). Armand, Solicitations (10595, PDF p. 38) quotes the same sentence with credit ('As Benjamin writes').",
+      "Verified": true
+    }
+  },
+  {
+    "id": 55,
+    "fields": {
+      "Week": 1,
+      "Set": 45,
+      "Citing_Calibre_ID": 10951,
+      "Citing_Title": "Blood and Guts in High School",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Rewrites",
+      "Quote": "Slave Trader first with his lousy me imprisoned eyes / diseased by no before wants.",
+      "Location": "Outside high school, 'Translating', 'On the desire for love'; TARGET Propertius 1.1.1–16, Loeb Classical Library Reader (5935), pp. 168–169",
+      "Evidence": "Outward, credited by name ('the Latin poet Sextus Propertius'). Word-for-word crib in Latin order: 'Cynthia prima suis miserum me cepit ocellis, / contactum nullis ante cupidinibus,' → Acker's two lines; 'et caput impositis pressit Amor pedibus' → 'and head forced into the dust LOVE’S feet'; 'Milanion nullos fugiendo, Tulle, labores' → 'Psyche, by no fleeing labours hard times'; 'ergo velocem potuit domuisse puellam' → 'In this way fast-changing she controlled the boy'; 'tantum in amore fides et benefacta valent' → 'So much against love prayers and enduring help out.' Cynthia→Slave Trader, Milanion→Psyche, girl→boy; contactum→diseased, castas→undiseased. Word alignment is an inference from order. Day 1 listed Propertius as not checkable; it is, via 5935. All substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 56,
+    "fields": {
+      "Week": 1,
+      "Set": 45,
+      "Citing_Calibre_ID": 10951,
+      "Citing_Title": "Blood and Guts in High School",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Rewrites",
+      "Quote": "A throng of bearded men, in sad-coloured garments, were assembled in front of a gaol.",
+      "Location": "Outside high school, 'A book report'; TARGET Hawthorne, The Scarlet Letter, ch. I 'The Prison-Door' (Harvard Classics 5919)",
+      "Evidence": "Outward, credited (Hawthorne named throughout). Hawthorne: 'ATHRONG of bearded men, in sad-coloured garments and grey steeple-crowned hats, intermixed with women, some wearing hoods, and others bareheaded, was assembled in front of a wooden edifice'. Women cut, was→were, wooden edifice→gaol. 6-word shingles BG vs Scarlet Letter: 3 runs / 19 words (the other two are titles). Dimmesdale's 'I charge thee to speak out the name of thy fellow-sinner and fellow-sufferer!' inverted into abuse; 'His name was announced as Roger Chillingworth.' → 'This husband is now called Roger Chillingworth.' Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 57,
+    "fields": {
+      "Week": 1,
+      "Set": 45,
+      "Citing_Calibre_ID": 10951,
+      "Citing_Title": "Blood and Guts in High School",
+      "Citing_Author": "Kathy Acker",
+      "Relation": "Quotes",
+      "Quote": "Out, out, brief candle. / Life’s but a walking shadow, / A poor player who struts and frets his hour upon the stage, / And then is heard no more … / Shakespeare said that in Hamlet.",
+      "Location": "Outside high school, 'The mysterious Mr Linker'; TARGET Shakespeare, Macbeth, Act V (Harvard Classics 5919)",
+      "Evidence": "Misattributed: Macbeth's lines recited by Mr Linker in his lecture on Culture; the next line (narration, not in quotation marks) says 'Shakespeare said that in Hamlet.' Harvard Classics: 'Life’s but a walking shadow, a poor player / That struts and frets his hour upon the stage' (that→who). Compare McCarthy's Flaubert-for-Sartre (edge 40). Substring-checked line by line.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 58,
+    "fields": {
+      "Week": 3,
+      "Set": 47,
+      "Citing_Calibre_ID": 1035,
+      "Citing_Title": "Dom Casmurro (Peter Owen 'complete and unabridged edition' 2016)",
+      "Citing_Author": "R. L. Scott-Buccleuch (translator)",
+      "Relation": "Translates",
+      "Quote": "Capitu’s mother died, and her father retired, occupying the same position as he had held when he wanted to take his own life.",
+      "Location": "ch. 98 'Five Years', p. 158 (chapter ends here); TARGET Machado, Dom Casmurro, Garnier 1899, ch. XCVIII 'Cinco annos' (Project Gutenberg 55752)",
+      "Evidence": "Omission: the English stops after paragraph 2; the 229 PT words of paragraphs 3–4 are absent (Escobar in coffee; D. Glória's loan and '«D. Gloria é medrosa e não tem ambição.»'; 'Elle foi o terceiro na troca das cartas entre mim e Capitú'; 'Capitú entregou-lhe a primeira carta, que foi mãe e avó das outras'; marriage to Sancha; 'sua cunhadinha'; 'Assim se formam as affeições e os parentescos, as aventuras e os livros.'). EN/PT word ratio 0.42 vs median 1.17. Scar: ch. 106 'which is how he continued to refer to Capitu' refers to the omitted naming. Not among the 1992 cuts listed by Krause (2015), which the 2016 edition restores. Whether the omission dates from 1992 or 2016 is not checkable in the library. EPUB markup at ch. 98 is clean (no conversion loss visible). All quotes substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 59,
+    "fields": {
+      "Week": 3,
+      "Set": 47,
+      "Citing_Calibre_ID": 1035,
+      "Citing_Title": "Dom Casmurro (Peter Owen 'complete and unabridged edition' 2016)",
+      "Citing_Author": "R. L. Scott-Buccleuch (translator)",
+      "Relation": "Translates",
+      "Quote": "It was the custom of the time to conduct one’s love affairs on horseback.",
+      "Location": "ch. 73 'The Stage Manager', p. 125; TARGET Machado, ch. LXXIII 'O contra-regra' (Gutenberg 55752)",
+      "Evidence": "Omission of the 67 PT words that follow at once: 'Relê Alencar: «Porque um estudante (dizia um dos seus personagens de theatro de 1858) não póde estar sem estas duas cousas, um cavallo e uma namorada.» Relê Alvares de Azevedo. Uma das suas poesias é destinada a contar (1851) que residia em Catumby, e, para ver a namorada no Cattete, alugara um cavallo por trez mil reis... Trez mil reis! tudo se perde na noite dos tempos!' Ratio 0.96. Removes the novel's citation of Brazilian literature; cf. Translator's Introduction p. 4: 'easily accessible to the European and North American reader'. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 60,
+    "fields": {
+      "Week": 3,
+      "Set": 47,
+      "Citing_Calibre_ID": 1035,
+      "Citing_Title": "Dom Casmurro",
+      "Citing_Author": "Machado de Assis / R. L. Scott-Buccleuch",
+      "Relation": "Quotes",
+      "Quote": "She lov’d me for the dangers I had pass’d, / And I lov’d her that she did pity them.",
+      "Location": "ch. 72 'A Reform in the Drama', p. 124; TARGET Shakespeare, Othello I.iii (checkable in Bartlett's 10410/13825, Concise Oxford Dictionary of Quotations 11435)",
+      "Evidence": "Machado's text gives the couplet in Portuguese: 'Ella amou o que me affligira, / Eu amei a piedade della.' and Iago's 'Mette dinheiro na bolsa.' The translation substitutes Shakespeare's English ('Put money in thy purse'), with the same lov’d/pass’d spelling as Bartlett's. Machado's Portuguese version (who made it is not established here) is lost in English. Substring-checked in both texts.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 61,
+    "fields": {
+      "Week": 3,
+      "Set": 47,
+      "Citing_Calibre_ID": 1035,
+      "Citing_Title": "Dom Casmurro",
+      "Citing_Author": "Machado de Assis",
+      "Relation": "Rewrites",
+      "Quote": "Othello would kill himself and Desdemona in the first act; the three following would be dedicated to the slow, diminishing progress of his jealousy",
+      "Location": "ch. 72 'A Reform in the Drama', p. 124; TARGET Shakespeare, Othello (named; also ch. 62 'A Touch of Iago', ch. 135 'Othello')",
+      "Evidence": "Outward, credited. The narrator proposes Othello played in reverse, ending on the Act I courtship couplet; the novel's own structure (verdict first, ch. 2 'link together the two ends of my life') follows the reform. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 62,
+    "fields": {
+      "Week": 3,
+      "Set": 48,
+      "Citing_Calibre_ID": 15095,
+      "Citing_Title": "A Million Windows",
+      "Citing_Author": "Gerald Murnane",
+      "Relation": "Quotes",
+      "Quote": "The first-person narrator pauses in his account of his life-story, so to call it, and reports that a butterfly had come into his room through an open window a few minutes before and had alighted on his desk and had seemed to look at him as though he might have been the god of the butterflies.",
+      "Location": "section 19 (of 34); TARGET Brás Cubas ch. XXXI 'A borboleta preta' (Grossman's Epitaph, not in library; checked vs 1881 Gutenberg 54829 and Jull Costa 15092)",
+      "Evidence": "Recollection, not verbatim (no quotation marks). In the novel the butterfly enters 'No dia seguinte' (story time, Tijuca), lands 'na testa', 'na vidraça', 'em cima de um velho retrato de meu pae'; takes him for 'o inventor das borboletas'; killed with a 'toalha'. No desk; no writing time. 'god' may be Grossman's or Murnane's (PT has 'um ar divino'): unverifiable here. Mentions row 760.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 63,
+    "fields": {
+      "Week": 3,
+      "Set": 48,
+      "Citing_Calibre_ID": 3172,
+      "Citing_Title": "Stream System",
+      "Citing_Author": "Gerald Murnane",
+      "Relation": "Mentions",
+      "Quote": "a passage reporting the arrival of a butterfly through a window into the room where the writer of the narrative was writing",
+      "Location": "title story 'Stream System'; TARGET Brás Cubas ch. XXXI (via Grossman)",
+      "Evidence": "Same misplacement as edge 62, with the reason: he was observing 'the writer’s way of interrupting his narrative'. 'twelve years before'; story undated in the library copy. Same story in 3352. Mentions rows 650, 653.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 64,
+    "fields": {
+      "Week": 3,
+      "Set": 48,
+      "Citing_Calibre_ID": 760,
+      "Citing_Title": "A Reading Diary",
+      "Citing_Author": "Alberto Manguel",
+      "Relation": "Quotes",
+      "Quote": "Each season of life is an edition that amends the previous one, and that will in turn be amended, until the definitive edition is reached, which the editor will present to the worms.",
+      "Location": "ch. 12 'May: The Posthumous Memoirs of Brás Cubas'; TARGETS Brás Cubas chs. II, VI, VIII, XI, XXIV, XXVII, LXXI, CLX and others",
+      "Evidence": "≥10 quotations, translator unnamed (not Jull Costa). 1881 ch. XXVII: 'que o editor dá de graça aos vermes' — 'de graça' dropped (Jull Costa: 'donates for free'). ch. VIII Sandice → 'Stupidity' (JC 'Folly'). ch. II 'decifra-me ou devoro-te' → 'Decipher me or I’ll devour you'. ch. CLX 'miseria' → 'misfortune'. Mentions row 616.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 65,
+    "fields": {
+      "Week": 3,
+      "Set": 48,
+      "Citing_Calibre_ID": 1101,
+      "Citing_Title": "A Reader on Reading",
+      "Citing_Author": "Alberto Manguel",
+      "Relation": "Mentions",
+      "Quote": "though it invades our cellars (the metaphor belongs to Machado de Assis) and then softly takes over the dining room, the living room, the whole house",
+      "Location": "essay text (calibre get_passage on 'metaphor belongs to Machado'); TARGET Brás Cubas ch. VIII 'Razão contra Sandice'",
+      "Evidence": "Credited paraphrase that inverts the house: 1881 has Folly in 'um cantinho no sotão' wanting to pass 'do sotão á sala de jantar' (attic → dining room); Manguel: cellars. Sandice now 'madness'. Mentions row 623.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 66,
+    "fields": {
+      "Week": 3,
+      "Set": 48,
+      "Citing_Calibre_ID": 2180,
+      "Citing_Title": "The Rhetoric of Fiction",
+      "Citing_Author": "Wayne C. Booth",
+      "Relation": "Quotes",
+      "Quote": "Perhaps I shall eliminate the preceding chapter. Among other reasons, there is, in the last few lines, something that might be construed as an error on my part. . . . Let us look into the future. Seventy years from now, a thin, sallow, grey-haired fellow, who loves nothing but books, is bent over the preceding page trying to find the error.",
+      "Location": "p. 148 (index), epigraph opening ch. VI 'Types of Narration'; TARGET Brás Cubas ch. LXXII 'O bibliomano' (Grossman, credited in acknowledgments)",
+      "Evidence": "The ellipsis falls where the 1881 text has 'e eu não quero dar pasto á critica do futuro' + paragraph break (JC: 'and I don’t want to give fodder to my future critics'). Booth also stops before the bibliomaniac fails to find the nonsense. Grossman's wording at the cut not checkable in library. Mentions row 633.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 67,
+    "fields": {
+      "Week": 3,
+      "Set": 48,
+      "Citing_Calibre_ID": 10410,
+      "Citing_Title": "Bartlett's Familiar Quotations (18th ed.)",
+      "Citing_Author": "Geoffrey O'Brien (ed.)",
+      "Relation": "Quotes",
+      "Quote": "There is only one genuine misfortune: not to be born.",
+      "Location": "Machado de Assis entry ('Epitaph of a Small Winner [1881]', note 4 'Translated by WILLIAM L. GROSSMAN.'); TARGET Brás Cubas ch. CXVII 'O Humanitismo'",
+      "Evidence": "1881: 'Porquanto, verdadeiramente ha só uma desgraça: é não nascer.' Spoken by Quincas Borba as the conclusion of a syllogism on reproduction; printed as Machado's saying; 'Porquanto' (JC 'Thus') dropped. Novel ends 'I did not have children'. Mentions row 725 (13825 duplicate).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 68,
+    "fields": {
+      "Week": 3,
+      "Set": 48,
+      "Citing_Calibre_ID": 2159,
+      "Citing_Title": "The New Yale Book of Quotations",
+      "Citing_Author": "Fred R. Shapiro (ed.)",
+      "Relation": "Quotes",
+      "Quote": "Marcela loved me during fifteen months and three thousand dollars; nothing more.",
+      "Location": "p. 510, Machado de Assis 1 (ch. 17) and 2 (ch. 119: 'It is better to fall from above the clouds than from the third floor.'); TARGET Brás Cubas chs. XVII, CXIX",
+      "Evidence": "1881 ch. XVII: 'quinze mezes e onze contos de réis; nada menos' (JC 'no less'): currency converted and polarity reversed; no translator named, so Grossman vs Yale not decidable here. ch. CXIX: 1881 frames the maxims as ones Brás 'rasguei logo depois, por não me parecerem dignas do prélo'; Yale drops the first half 'Não te irrites se te pagarem mal um beneficio'. Mentions row 632.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 69,
+    "fields": {
+      "Week": 3,
+      "Set": 49,
+      "Citing_Calibre_ID": 1275,
+      "Citing_Title": "The Novel, Volume 1 (ch. 'Posthumous Memoirs of Brás Cubas')",
+      "Citing_Author": "Roberto Schwarz (tr. Sharon Lubkemann Allen)",
+      "Relation": "Argues with",
+      "Quote": "The idea that Brazilian reality did not pose universal problems, and vice versa, was common to both sides,",
+      "Location": "p. 819 (also pp. 818–820, 839); TARGET Machado's critics and admirers on Brás Cubas",
+      "Evidence": "Argues against both the attack (Romero) and the praise (Veríssimo, n. 5): 'sympathizers and opponents were both of the opinion that Machado retreated from Brazilian particularity'; p. 839 rebukes critics who seek Machado's merit in his 'classical borrowings'. Mentions row 627. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 70,
+    "fields": {
+      "Week": 3,
+      "Set": 49,
+      "Citing_Calibre_ID": 1275,
+      "Citing_Title": "The Novel, Volume 1 (quoting Romero, Machado de Assis, 1897)",
+      "Citing_Author": "Sílvio Romero (via Schwarz)",
+      "Relation": "Argues with",
+      "Quote": "the comedy of the almanac, the pessimism of ephemeral hack writing, which manages to delude those few simpletons who find it marvelous.",
+      "Location": "p. 819, n. 4 (Romero, Machado de Assis (1897), Unicamp 1992, p. 160); TARGET Machado, Brás Cubas and later novels",
+      "Evidence": "Verbatim as printed in Schwarz's English; Romero's Portuguese not in the library (HathiTrust 008955805 for checking). The 'peculiarly English' affectations sentence just before is not footnoted and its 'adversary' is unnamed. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 71,
+    "fields": {
+      "Week": 3,
+      "Set": 49,
+      "Citing_Calibre_ID": 13307,
+      "Citing_Title": "The Devil to Pay in the Backlands (foreword 'The Place of Guimarães Rosa in Brazilian Literature')",
+      "Citing_Author": "Jorge Amado",
+      "Relation": "Argues with",
+      "Quote": "Its fiction has not yet freed itself from the apron strings of Machado de Assis, and goes on recreating the unimaginative, mediocre life of the middle class, eschewing startling innovations, experiments with language, a veritable model of polite phrasing.",
+      "Location": "Foreword (signed Rio de Janeiro, September 1962); TARGET Machado's legacy in Minas Gerais fiction",
+      "Evidence": "Charge of timidity and politeness, the reverse of Romero's charge of affected frivolity; Rosa praised as 'Brazilian and universal at one and the same time'. Mentions row 746. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 72,
+    "fields": {
+      "Week": 3,
+      "Set": 49,
+      "Citing_Calibre_ID": 1261,
+      "Citing_Title": "The Cambridge History of Latin American Literature vol. 3 (file catalogued as vol. 1)",
+      "Citing_Author": "Thomas E. Skidmore; Massaud Moisés",
+      "Relation": "Argues with",
+      "Quote": "His most remembered literary judgment was also his least felicitous: a scathing criticism of Machado de Assis for having failed to create any memorable fictional personages",
+      "Location": "Skidmore, 'The essay: architects of Brazilian national identity', p. 347; Moisés, 'Brazilian poetry from 1878 to 1902', p. 83; TARGET Romero ⇄ Machado",
+      "Evidence": "Skidmore argues with Romero's 1897 verdict. Moisés p. 83: Romero (1870, in Crença) attacked 'the subjectivist lyricism and the pretentious humor of the Falenas of Machado de Assis'; Machado answered in 'A nova geração' (Revista Brasileira, 1 Dec. 1879). OCR has spaced letters; checked with spaces removed. Mentions rows 626 (and 706 for 7019).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 73,
+    "fields": {
+      "Week": 3,
+      "Set": 49,
+      "Citing_Calibre_ID": 15092,
+      "Citing_Title": "Posthumous Memoirs of Brás Cubas (Author's Preface to the Third Edition)",
+      "Citing_Author": "Machado de Assis (tr. Jull Costa & Patterson)",
+      "Relation": "Argues with",
+      "Quote": "It is an engraved goblet, and while it may resemble the work of engravers of the same school, it contains a very different wine.",
+      "Location": "Author's Preface to the Third Edition; TARGET Capistrano de Abreu's review ('Is Posthumous Memoirs of Brás Cubas a novel?') and Macedo Soares's comparison to Garrett",
+      "Evidence": "Outward reply to critics. Collation: 1881 'Ao leitor' (Gutenberg 54829) 'a fórma livre de um Sterne, de um Lamb, ou de um de Maistre'; Jull Costa (3rd ed.) and Schwarz (Aguilar 1959, p. 818) omit Lamb. 3rd-ed. Portuguese not in library; date of change not fixed. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 74,
+    "fields": {
+      "Week": 3,
+      "Set": 49,
+      "Citing_Calibre_ID": 5839,
+      "Citing_Title": "The Crime of Father Amaro (Introduction)",
+      "Citing_Author": "Margaret Jull Costa, reporting Machado's 1878 review",
+      "Relation": "Argues with",
+      "Quote": "However, when the great Brazilian novelist, Machado de Assis, accused Eça of squandering his talents and of pandering to the worst excesses of realism and Zolaesque naturalism in the 1876 version of Father Amaro, and to a salacious public in Cousin Basílio, Eça was stung.",
+      "Location": "Introduction; TARGET Eça, O Crime do Padre Amaro (1876) and O Primo Basílio (1878)",
+      "Evidence": "Outward: Machado as critic charging imitation (Zola, La Faute de l'Abbé Mouret); Eça 'denied that his work was a mere imitation'. Machado's review itself not in library. Mentions row 695. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 75,
+    "fields": {
+      "Week": 3,
+      "Set": 49,
+      "Citing_Calibre_ID": 7664,
+      "Citing_Title": "Lukács After Communism (Interview with Roberto Schwarz, 15 Aug 1994)",
+      "Citing_Author": "Roberto Schwarz / Eva L. Corredor",
+      "Relation": "Mentions",
+      "Quote": "He wrote realist novels, but with antirealist techniques. It is quite paradoxical.",
+      "Location": "Interview with Roberto Schwarz; TARGET Machado's novels (realism, Zola, Sterne, Diderot)",
+      "Evidence": "Schwarz corrects Corredor's 'naturalism'; Zola 'whom he certainly had in mind as a competitor he wanted to outdo'. Mentions row 709. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 76,
+    "fields": {
+      "Week": 3,
+      "Set": 50,
+      "Citing_Calibre_ID": 1138,
+      "Citing_Title": "The Alienist (Melville House 'Art of the Novella' 2012)",
+      "Citing_Author": "Melville House (editor unnamed); translation William L. Grossman, not named in the EPUB",
+      "Relation": "Edits/introduces",
+      "Quote": "doubtless erroneously, for, as everybody knew, the priest liked and admired the alienist",
+      "Location": "whole text, chs. I–XIII (quote ch. XIII); TARGET Grossman, The Psychiatrist (4753, 1963)",
+      "Evidence": "difflib token comparison (19,941 vs 19,994 tokens; ratio 0.991). Substitutions: 'psychiatrist'→'alienist' 98× (+2 in combined edits; counts: psychiatrist 100 in 4753, 0 in 1138; alienist 0 vs 100); 'psychiatric doctrine'→'alienist doctrine'; 'psychiatry'→'treatment' (ch. II, PT 'sómente cuidar do seu officio') and →'psychopathology' (PT 'nova doutrina psychologica'); '…'→'. . .' 22×; OCR fixes hps→lips, hes→lies, fives→lives, hstening→listening, ease→case; line-break hyphens (tem - perate, Por - fírio) suggest a print source. Grossman's notes 1–2 kept as [1] [2]; 'The Psychiatrist' heading and 'Translated by WILLIAM L. GROSSMAN' dropped. Copyright page: 1881 A Estação, 1882 Papéis Avulsos, '© 2012 Melville House Publishing'; no translator. Appendix credits 'Brazilian Tales ... 1921' without Goldberg. Wikipedia (O alienista) lists Melville 2012 as tr. William Grossman; print credit not checkable. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 77,
+    "fields": {
+      "Week": 3,
+      "Set": 50,
+      "Citing_Calibre_ID": 4753,
+      "Citing_Title": "The Psychiatrist and Other Stories ('The Psychiatrist')",
+      "Citing_Author": "William L. Grossman (translator)",
+      "Relation": "Translates",
+      "Quote": "Father Lopes laughed. “What a delightful novelty,” he said, “to find a society in which the spiritual dominates.”",
+      "Location": "section II 'A Torrent of Madmen' + note 1; TARGET O alienista ch. II (Papeis Avulsos 1882, Gutenberg 57001)",
+      "Evidence": "PT: 'A Casa Verde, disse elle ao vigario, é agora uma especie de mundo, em que ha o governo temporal e o governo _espiritual._ E o padre Lopes ria deste pio trocado' ... 'Deixe estar, deixe estar, que hei de mandal-o denunciar ao papa.' Grossman explains the pun in note 1 ('espiritual means both “spiritual” and “pertaining to the mind.”') and replaces Lopes's threat to report him to the Pope with an invented line; 'uma especie de mundo' dropped. Kept verbatim in 1138. Jull Costa & Patterson (2483 ch. 2) keep the Pope. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 78,
+    "fields": {
+      "Week": 3,
+      "Set": 50,
+      "Citing_Calibre_ID": 4753,
+      "Citing_Title": "The Psychiatrist and Other Stories ('The Psychiatrist')",
+      "Citing_Author": "William L. Grossman (translator)",
+      "Relation": "Translates",
+      "Quote": "The chroniclers state, however, that he died seventeen months later as insane as ever.",
+      "Location": "section XIII 'Plus Ultra' (end); TARGET O alienista ch. XIII",
+      "Evidence": "PT: 'Dizem os chronistas que elle morreu dalli a dezesete mezes, no mesmo estado em que entrou, sem ter podido alcançar nada.' Grossman judges ('as insane as ever'), drops 'sem ter podido alcançar nada' and 'trancou os ouvidos á saudade da mulher'; 'nunca houve outro louco, além delle, em ltaguahy' [Gutenberg OCR 'l' for 'I'] → 'the only madman (in the vulgar or non-Bacamartian sense) ever committed to the asylum'; rumour 'duvidoso, pois é attribuido ao padre Lopes, que com tanto fogo realçara as qualidades do grande homem' → 'doubtless erroneously, for, as everybody knew, the priest liked and admired the psychiatrist'. All survive in 1138. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 79,
+    "fields": {
+      "Week": 3,
+      "Set": 50,
+      "Citing_Calibre_ID": 4753,
+      "Citing_Title": "The Psychiatrist and Other Stories (Introduction)",
+      "Citing_Author": "William L. Grossman",
+      "Relation": "Edits/introduces",
+      "Quote": "By a curious coincidence, four-fifths of the people in Itaguai were found by Dr. Bacamarte to be mentally ill, and four-fifths of the persons residing in a certain part of Manhattan were recently found by investigators to be not “free enough of emotional symptoms to be considered well.”",
+      "Location": "Introduction (signed WILLIAM L. GROSSMAN); TARGET O alienista ch. XI ('quatro quintos da' population)",
+      "Evidence": "Prefacer reads the story through Pascal and a 1960s Manhattan survey, parallel to the title's 'Psychiatrist'. Also cites Eugênio Gomes (Swift's Hospital for Incurables), Augusto Meyer, Barreto Filho. Cf. Gómez, Machado de Assis em Linha 7.13 (2014) on the title's assimilation to 20th-c. psychiatry (not in library). Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 80,
+    "fields": {
+      "Week": 3,
+      "Set": 50,
+      "Citing_Calibre_ID": 2483,
+      "Citing_Title": "The Collected Stories of Machado de Assis ('The Alienist')",
+      "Citing_Author": "Margaret Jull Costa & Robin Patterson (translators)",
+      "Relation": "Translates",
+      "Quote": "that pertaining to the psychic, to the examination of cerebral pathology, also known at that time as alienism.",
+      "Location": "The Alienist ch. 1; TARGET O alienista ch. I",
+      "Evidence": "PT: 'o recanto psychico, o exame da pathologia cerebral.' The six words 'also known at that time as alienism' are an added gloss (no 'alienismo' in PT story). Grossman: 'psychopathology'. JC&P keep 'Casa Verde' (62×; Grossman 'Green House' 59×) and use 'alienist' 108× (PT 'alienista' 106× in text). Ending close to PT ('in the same state in which he entered the Casa Verde, having achieved nothing'). Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 81,
+    "fields": {
+      "Week": 3,
+      "Set": 50,
+      "Citing_Calibre_ID": 14888,
+      "Citing_Title": "A Chapter of Hats and Other Stories (Translator's Introduction)",
+      "Citing_Author": "John Gledson",
+      "Relation": "Edits/introduces",
+      "Quote": "the longest, ‘The Alienist’ (also translated rather anachronistically as ‘The Psychiatrist’), is also the most wide-ranging",
+      "Location": "Translator's Introduction; TARGET O alienista and its English titles",
+      "Evidence": "Gledson excludes it: 'I have excluded it partly because it is available in more than one translation, but also because its length would have meant leaving out too many others.' (2008; the 2012 Melville edition is Grossman again). Also: Portuguese paper 'which serialised Epitaph in 1883, dropped it after chapter twenty-six'. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 82,
+    "fields": {
+      "Week": 3,
+      "Set": 50,
+      "Citing_Calibre_ID": 11676,
+      "Citing_Title": "The Oxford Guide to Literature in English Translation",
+      "Citing_Author": "Peter France (ed.), 'Brazilian Literature' section II.k.15",
+      "Relation": "Mentions",
+      "Quote": "is a fine rendering, even if it omits nine chapters from the original, while the more complete translation by Caldwell reveals a perhaps excessive influence of her own views on Machado de Assis.",
+      "Location": "p. 444 (PDF p. 470); bibliography p. 446; TARGET Machado's English translators (Grossman, Scott-Buccleuch, Caldwell)",
+      "Evidence": "Also: Grossman's Epitaph 'retains much of the original’s humour and bite.' No mention of the stories or The Psychiatrist. The 'nine chapters' are the 1992 Scott-Buccleuch cuts (day 1, edge 58). Two-column PDF: checked on left-column extraction with -layout. Mentions row 734.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 83,
+    "fields": {
+      "Week": 3,
+      "Set": 50,
+      "Citing_Calibre_ID": 6515,
+      "Citing_Title": "Sympathy for the Traitor: A Translation Manifesto",
+      "Citing_Author": "Mark Polizzotti (citing Adam Thirlwell, The Delighted States)",
+      "Relation": "Mentions",
+      "Quote": "Thirlwell brings up the Russian Pushkin and the Brazilian Machado de Assis, both taking inspiration from poor French translations of Laurence Sterne’s Tristram Shandy and A Sentimental Journey.",
+      "Location": "ch. 9, p. 150; TARGET Machado as reader of Sterne in French (cf. 'Ao leitor', 'fórma livre de um Sterne', edge 73)",
+      "Evidence": "Outward direction (whom Machado reads in translation). Thirlwell's book not in library; which French Sterne Machado used is not established here. Mentions row 701. Substring-checked (pdftotext).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 84,
+    "fields": {
+      "Week": 3,
+      "Set": 51,
+      "Citing_Calibre_ID": 2975,
+      "Citing_Title": "Narratology: The Form and Functioning of Narrative",
+      "Citing_Author": "Gerald Prince",
+      "Relation": "Uses without credit (suspected)",
+      "Quote": "\"Perhaps I shall eliminate the preceding chapter. Among other reasons, there is, in the last few lines, something that might be construed as an error on my part.\" (Epitaph of a Small Winner)",
+      "Location": "ch. 4 'Reading Narrative', p. 116, example (48); TARGET Brás Cubas ch. LXXII 'O bibliomano' (Grossman), via Booth 2180 p. 148",
+      "Evidence": "SUSPICION, not finding. Author unnamed (0 × 'machado'/'assis' in the book); title only. Same passage as Booth's ch. VI epigraph (which names MACHADO DE ASSIS) and stops exactly where Booth's '. . . .' begins; Prince cites Booth 'pp. 149-165 et passim' (the pages after the epigraph) and acknowledges a debt to Booth. Against: identical wording expected from shared Grossman source; Dumas and Swift examples are his own. PT 1881 (Gutenberg 54829): 'Talvez supprima o capitulo anterior'; next paragraph 'Não conhece o autor'. Plausibility moderate-high. Not in Mentions (never names him). Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 85,
+    "fields": {
+      "Week": 3,
+      "Set": 51,
+      "Citing_Calibre_ID": 2269,
+      "Citing_Title": "The Book of Emotions",
+      "Citing_Author": "João Almino (tr. Elizabeth Jackson)",
+      "Relation": "Uses without credit (suspected)",
+      "Quote": "– Guga came up with the name “Quincas Borba,” Tânia told me.",
+      "Location": "ch. 7 'Quincas Borba and his owner' (also ch. 11 'Quincas’s warning of danger'); TARGET Machado, Quincas Borba (1891), the dog named for the philosopher (cf. 1036 introduction)",
+      "Evidence": "Allusion, certain as reference, uncredited: 8 × 'Quincas', 0 × 'Machado'. Namer 'liked to quote left and right'; the dog watches and barks at the narrator's move on his friend's wife ('Would I be capable of betraying a friend?'). 1036 intro: 'a dog of the same name, who may or may not be the reincarnation of a philosopher named Quincas Borba.' No sentence borrowed. Mentions row 636 promoted. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 86,
+    "fields": {
+      "Week": 3,
+      "Set": 51,
+      "Citing_Calibre_ID": 721,
+      "Citing_Title": "Thru (in Four Novels omnibus)",
+      "Citing_Author": "Christine Brooke-Rose",
+      "Relation": "Uses without credit (suspected)",
+      "Quote": "But if he’s a small winner he’s at least a great loser.",
+      "Location": "Thru (1975), seminar scene (Doreen's essay); also Larissa passage 'keeping them as a small winner'; TARGET Grossman's title Epitaph of a Small Winner (PT 'um pequeno saldo', ch. CLX)",
+      "Evidence": "WEAK suspicion. Translator's coinage, not Machado's words; no title, author or sentence; Grossman/Machado/epitaph absent from omnibus; Booth named 22×. Story 'Medium Losers and Small Winners' (Canepari-Labib 2299: '(1975, 132)'). 'winner/loser' a common pair. Not in Mentions. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 87,
+    "fields": {
+      "Week": 3,
+      "Set": 52,
+      "Citing_Calibre_ID": 15092,
+      "Citing_Title": "Posthumous Memoirs of Brás Cubas",
+      "Citing_Author": "Machado de Assis (tr. Jull Costa & Patterson)",
+      "Relation": "Rewrites",
+      "Quote": "Pascal may say that man is a thinking reed, but he isn’t, he’s a thinking erratum.",
+      "Location": "ch. XXVII 'Virgília?', last paragraph; TARGET Pascal, Pensées frag. 200 (Krailsheimer, 7887): 'Man is only a reed, the weakest in nature, but he is a thinking reed.' (also frag. 113 'Thinking reed.')",
+      "Evidence": "Outward, credited. 1881: 'Deixa lá dizer o Pascal que o homem é um caniço pensante. Não; é uma errata pensante, isso sim.' Followed by the theory of life as corrected editions ('definitive edition, which the editor donates for free to the worms'), resumed ch. XXXVIII ('fourth edition ... still infested with mistakes'). This is the passage Manguel quoted without 'de graça' (edge 64). Substring-checked in index text of 15092, 7887 and Gutenberg 54829.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 88,
+    "fields": {
+      "Week": 3,
+      "Set": 52,
+      "Citing_Calibre_ID": 15092,
+      "Citing_Title": "Posthumous Memoirs of Brás Cubas",
+      "Citing_Author": "Machado de Assis (character Quincas Borba; tr. Jull Costa & Patterson)",
+      "Relation": "Quotes",
+      "Quote": "He says that man has ‘a great advantage over the rest of the world: he knows that he is dying, whereas the universe is entirely unaware of it.’",
+      "Location": "ch. CXLII 'The secret request'; TARGET Pascal, Pensées frag. 200 (7887): 'because he knows that he is dying and the advantage the universe has over him. The universe knows none of this.'",
+      "Evidence": "Misquotation with the book open: 'advantage' moved from the universe to man; then 'Pascal’s formulation is inferior to mine' (hunger). 1881: '«uma grande vantagem sobre o resto do universo: sabe que morre, ao passo que o universo ignora-o absolutamente.»' JC&P 'rest of the world' for 'resto do universo' (translator's drift on top). Krailsheimer is not Machado's French; French Pensées not checked. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 89,
+    "fields": {
+      "Week": 3,
+      "Set": 52,
+      "Citing_Calibre_ID": 15092,
+      "Citing_Title": "Posthumous Memoirs of Brás Cubas",
+      "Citing_Author": "Machado de Assis (character Quincas Borba; tr. Jull Costa & Patterson)",
+      "Relation": "Rewrites",
+      "Quote": "Erasmus, who wrote some fine things in his treatise In Praise of Folly, drew attention to the pleasure with which two donkeys scratch each other.",
+      "Location": "ch. CXLIX 'Theory of good deeds'; TARGET Erasmus, Praise of Folly (Radice, 626), Folly on flattery: 'What shows such willingness to please as the way mules scratch each other?'",
+      "Evidence": "Credited rewrite: mules → donkeys (1881 'dois burros se coçam um ao outro'); flattery → superiority; then 'I will say what he did not'. Erasmus elsewhere: 'A purblind man who takes a donkey for a mule ... certainly won’t be thought insane.' Slip or joke undecidable. Substring-checked (15092, 626, 54829).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 90,
+    "fields": {
+      "Week": 3,
+      "Set": 52,
+      "Citing_Calibre_ID": 15092,
+      "Citing_Title": "Posthumous Memoirs of Brás Cubas",
+      "Citing_Author": "Machado de Assis (tr. Jull Costa & Patterson)",
+      "Relation": "Uses without credit (suspected)",
+      "Quote": "except that the eminent Jansenist did not allow for the simultaneous enjoyment of those two natures",
+      "Location": "ch. XCVIII (end); TARGET de Maistre, Voyage Around My Room (2031) ch. VI 'system of the soul and the beast'; credited source Pascal frag. 678 (7887)",
+      "Evidence": "SUSPICION, low to moderate. Brás attributes 'l’ange et la bête' to Pascal (correct: 'Man is neither angel nor beast...', frag. 678) but enjoys both at once; de Maistre: 'man is made up of a soul and a beast.— These two beings are absolutely distinct, yet so contained within one another, or rather on top of one another,'. Machado names de Maistre as a model in 'To the Reader'. Against: both pairs are commonplaces. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 91,
+    "fields": {
+      "Week": 3,
+      "Set": 52,
+      "Citing_Calibre_ID": 15092,
+      "Citing_Title": "Posthumous Memoirs of Brás Cubas",
+      "Citing_Author": "Machado de Assis (tr. Jull Costa & Patterson)",
+      "Relation": "Quotes",
+      "Quote": "“ ’Tis good to be sad and say nothing.” When I first read those words by Shakespeare",
+      "Location": "ch. XXV; TARGET As You Like It IV.i (Jaques), text verified in Delphi Goethe 3396: 'Rosalind. Why, then, ’tis good to be a post.'",
+      "Evidence": "Cut before the riposte (pointed out in JC&P Introduction: 'he does, it seems, entirely fail to notice Rosalind’s riposte'; intro spells 'Jacques'). Same place as Booth's ellipsis in ch. LXXII (edge 66). Act/scene from general knowledge, not from 3396. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 92,
+    "fields": {
+      "Week": 3,
+      "Set": 52,
+      "Citing_Calibre_ID": 15092,
+      "Citing_Title": "Posthumous Memoirs of Brás Cubas (translators' endnotes)",
+      "Citing_Author": "Margaret Jull Costa & Robin Patterson",
+      "Relation": "Edits/introduces",
+      "Quote": "The order of the two lines has been reversed (perhaps accidentally)",
+      "Location": "endnotes to ch. VI (Le Cid), ch. VIII (Tartuffe), ch. XXXV (Acts); TARGET Machado's own quotations of Corneille, Molière, Acts",
+      "Evidence": "Also: 'A corrupted version of the words spoken by Tartuffe in Molière’s comedy of the same name'; 'The quotation is actually from Acts 9:6.' 1881 has '(_Act._, IX, 7)': the verse slip is Machado's/Brás's, kept in text and corrected in note. Ch. VI title: 1881 'Chimène, qui l'eut dit?--Rodrigue, qui l'eut cru?' vs EPUB 'Chimène, que l’eût dit?' (variant / translator / EPUB slip: unresolved). Le Cid, Tartuffe, Bible not in catalogue: notes' claims unchecked. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 93,
+    "fields": {
+      "Week": 3,
+      "Set": 52,
+      "Citing_Calibre_ID": 2031,
+      "Citing_Title": "Voyage Around My Room (Introduction)",
+      "Citing_Author": "Richard Howard",
+      "Relation": "Mentions",
+      "Quote": "a resonance that would be echoed throughout Europe and even in Latin America (from Goncharov to Machado de Assis); Sainte-Beuve detected even more of the grace souriante et sensible of Charles Lamb in these whimsical chapters",
+      "Location": "Introduction 'Invitation to the Voyages of X...'; TARGET Machado as heir of Sterne via de Maistre",
+      "Evidence": "Inward. Puts Sterne, de Maistre and Lamb together, the three names of Machado's 1881 'Ao leitor' ('um Sterne, de um Lamb, ou de um de Maistre'), from which Lamb later disappears (edge 73). Howard's Lamb is Sainte-Beuve's. Mentions row 631 promoted. Substring-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 94,
+    "fields": {
+      "Week": 3,
+      "Set": 53,
+      "Citing_Calibre_ID": 692,
+      "Citing_Title": "Paratexts: Thresholds of Interpretation",
+      "Citing_Author": "Gérard Genette (tr. Jane E. Lewin; quotation in E. Percy Ellis's translation)",
+      "Relation": "Quotes",
+      "Quote": "it is as the author that Braz Cubas announces a \"diffuse work in which I, Braz Cubas, having adopted the free style of a Sterne or Xavier de Maistre, am not sure that an underlying vein of pessimism does not come to the surface here and there.",
+      "Location": "ch. 10 'Other prefaces, other functions', pp. 290–291 (also ch. 8 p. 190, cell F; Additional references p. 414); TARGET Brás Cubas, 'Ao leitor' / 'To the Reader' (1881, Gutenberg 54829; JC&P 15092)",
+      "Evidence": "Inward, credited by name. The English is Ellis, Posthumous Reminiscences of Braz Cubas (Rio: Instituto Nacional do Livro, 1955), per Additional references ('works ... cited in the text but not referenced in the notes'); Genette's French source not in library. Collation: 1881 'um Sterne, de um Lamb, ou de um de Maistre'; Ellis 'a Sterne or Xavier de Maistre'; JC&P (3rd ed.) 'a Sterne or a Xavier de Maistre' — third witness that Lamb was removed after 1881 (cf. edges 73, 93). Ellis 'pure romance' / 'romantic strain' for 'puro romance' / 'romance usual' (romance = novel). Genette classes the preface as fictive actorial (narrator-hero), p. 190; the 3rd-ed. authorial preface not mentioned. Mentions row 614 promoted. Substring-checked in the index (692, 15092) and Gutenberg 54829.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 95,
+    "fields": {
+      "Week": 4,
+      "Set": 54,
+      "Citing_Calibre_ID": 2356,
+      "Citing_Title": "Palimpsests: Literature in the Second Degree (Foreword)",
+      "Citing_Author": "Gerald Prince",
+      "Relation": "Edits/introduces",
+      "Quote": "Any text is a hypertext, grafting itself onto a hypotext, an earlier text that it imitates or transforms; any writing is rewriting; and literature is always in the second degree.",
+      "Location": "Foreword, p. ix (PDF p. 9); TARGET Genette, Palimpsests / Palimpsestes (1982)",
+      "Evidence": "Inward. Prince's summary sentence, not Genette's; he flags 'palimpsestuous' as Lejeune's coinage ('for once, adjective is not Genette’s'). Leads for day 2: Boldrini & Novak (133) credit 'massive and explicit palimpsestuous' to Genette's Palimpsests (Prince's wording, Lejeune's adjective); Douglas (12448) 'grafting itself palimpsestually onto a hypotext, an earlier text that it imitates or transforms'. Prince's Narratology (2975) is in the library (Machado edge 85). Substring-checked against tesseract OCR of 2356 (no text layer).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 96,
+    "fields": {
+      "Week": 4,
+      "Set": 54,
+      "Citing_Calibre_ID": 2356,
+      "Citing_Title": "Palimpsests: Literature in the Second Degree (Translators' Preface)",
+      "Citing_Author": "Channa Newman & Claude Doubinsky",
+      "Relation": "Translates",
+      "Quote": "In the few instances when Genette’s text has appeared to us to bear on textual operations that could be appraised and appreciated only in French, we have decided (with his permission) to summarize the substance of his argument and to relegate his illustrative quotations to an Appendix.",
+      "Location": "Translators' Preface, p. xiii (PDF p. 13); TARGET Palimpsestes (Seuil 1982, not in library)",
+      "Evidence": "Inward. An authorised excision/displacement (Appendix pp. 401–428) and summary: in Genette's own terms the English edition is an approved hypertext. Also: 'Translations of cited passages are ours unless otherwise indicated' (p. xiii) — see edge on Borges for a probable exception. OCR-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 97,
+    "fields": {
+      "Week": 4,
+      "Set": 54,
+      "Citing_Calibre_ID": 2356,
+      "Citing_Title": "Palimpsests: Literature in the Second Degree",
+      "Citing_Author": "Gérard Genette (tr. Newman & Doubinsky)",
+      "Relation": "Quotes",
+      "Quote": "Sometimes I suspect that good readers are even blacker and rarer swans than good writers... . Reading, obviously, is an activity that comes after that of writing; it is more modest, more unobtrusive, more intellectual.",
+      "Location": "ch. 52, p. 252 (PDF p. 268); TARGET Borges, prologue to A Universal History of Infamy (1935): Collected Fictions, tr. Hurley (7517); cf. Nicol 6623 epigraph (di Giovanni 1972)",
+      "Evidence": "Outward, credited. Genette's gloss: 'Do take note of the preposition “after”: reading comes after writing;'. Collation: Nicol 6623 (di Giovanni) 'an activity which comes after that of writing; it is more modest, more unobtrusive, more intellectual' — identical but 'which'; Hurley 7517 'I sometimes think that good readers are poets as singular, and as awesome, as great authors themselves' / 'Reading, meanwhile, is an activity subsequent to writing—more resigned, more civil, more intellectual.' 'After' survives in all three. Whether the translators used di Giovanni unacknowledged is open (note to p. 252 not checked). Spanish not checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 98,
+    "fields": {
+      "Week": 4,
+      "Set": 54,
+      "Citing_Calibre_ID": 2356,
+      "Citing_Title": "Palimpsests: Literature in the Second Degree",
+      "Citing_Author": "Gérard Genette (tr. Newman & Doubinsky)",
+      "Relation": "Quotes",
+      "Quote": "I have reflected that it is permissible to see in this ‘final’ Quixote a kind of palimpsest, through which the traces—tenuous but not indecipherable—of our friend’s ‘previous’ writing should be translucently visible",
+      "Location": "ch. 80 n. 7, p. 471 (PDF p. 487; text p. 399), citing Labyrinths p. 44 (Yates & Irby); cf. ch. 5 p. 17; TARGET Borges, 'Pierre Menard, Author of the Quixote', Collected Fictions (7517)",
+      "Evidence": "Outward, credited. OCR reads 'Ouixote' (corrected). Hurley 7517: 'I have reflected that it is legitimate to see the \"final\" Quixote as a kind of palimpsest, in which the traces—faint but not undecipherable—of our friend's \"previous\" text must shine through.' The book's governing image (p. 399: 'it has been aptly said… palimpsest') is sourced to Borges's Menard in Yates–Irby. p. 17: Menard shows 'the mere displacement of context turns even the most literal rewriting into a creation.'",
+      "Verified": true
+    }
+  },
+  {
+    "id": 99,
+    "fields": {
+      "Week": 4,
+      "Set": 54,
+      "Citing_Calibre_ID": 2356,
+      "Citing_Title": "Palimpsests: Literature in the Second Degree",
+      "Citing_Author": "Gérard Genette (tr. Newman & Doubinsky)",
+      "Relation": "Mentions",
+      "Quote": "In another less explicit and canonical form, it is the practice of plagiarism (in Lautréamont, for instance), which is an undeclared but still literal borrowing.",
+      "Location": "ch. 1, p. 2 (PDF p. 18); also ch. 75 p. 360 ('This provocative use of plagiarism also comes from Lautréamont, by way of Maldoror'); TARGET Lautréamont, Maldoror and Poems (837)",
+      "Evidence": "Outward, by name only; no quotation of Lautréamont. Places undeclared borrowing inside intertextuality (type 1), outside the book's subject. 837's index text is letter-spaced OCR, so Poésies' 'Plagiarism is necessary' could not be located there (FTS finds it quoted in 20 other books, e.g. 6336, 4913, 6521).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 100,
+    "fields": {
+      "Week": 4,
+      "Set": 55,
+      "Citing_Calibre_ID": 3806,
+      "Citing_Title": "Intertextuality",
+      "Citing_Author": "Graham Allen",
+      "Relation": "Quotes",
+      "Quote": "Taking up an analogy with the pictorial arts, Genette writes: ‘The intertextual “trace” … is therefore more akin (like the allusion) to the limited ﬁgure (to the pictorial detail) than to the work considered as a structural whole’ (ibid.: 2–3).",
+      "Location": "ch. 3, p. 98; TARGET Palimpsests (2356) ch. 1, pp. 2–3",
+      "Evidence": "Inward, credited. Genette p. 2: 'The intertextual “trace” according to Riffaterre is therefore more akin (like the allusion) to the' — the ellipsis removes 'according to Riffaterre', so Genette's account of Riffaterre's restricted object becomes Genette's own analogy. Words otherwise verbatim. Mentions row 950 promoted. Substring-checked against Allen PDF/index and tesseract OCR of 2356 pp. 2–3.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 101,
+    "fields": {
+      "Week": 4,
+      "Set": 55,
+      "Citing_Calibre_ID": 3806,
+      "Citing_Title": "Intertextuality",
+      "Citing_Author": "Graham Allen",
+      "Relation": "Quotes",
+      "Quote": "He gives the example of Flaubert’s novel Leuwen, which may have a hypotext in a manuscript draft of a novel entitled Le Lieutenant sent to the author by Mme Gaulthier in 1833. Genette’s response to this kind of indeterminate case is perhaps revealing: ‘This is the most irritating palimpsest of all, which reduces me to hunches and to questionings’ (ibid.: 383).",
+      "Location": "ch. 3, p. 108; TARGET Palimpsests (2356) ch. 78, pp. 382–383",
+      "Evidence": "Inward, credited; MISATTRIBUTION of the hypertext: Genette p. 382 'the first version of Lucien Leuwen, which was not yet—scrawlings excepted—by Stendhal’s hand'. 'Flaubert' not in Genette; 1833 correct. Quotation of p. 383 exact. Allen then argues the critic should embrace the 'hunches' (day-3 lead). OCR-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 102,
+    "fields": {
+      "Week": 4,
+      "Set": 55,
+      "Citing_Calibre_ID": 3806,
+      "Citing_Title": "Intertextuality",
+      "Citing_Author": "Graham Allen",
+      "Relation": "Quotes",
+      "Quote": "He writes: ‘let us posit the general notion of a text in the second degree … i.e., a text derived from another pre-existent text’ (ibid.: 5).",
+      "Location": "ch. 3, p. 104; TARGET Palimpsests (2356) ch. 1, p. 5",
+      "Evidence": "Inward, credited. Ellipsis removes '(for such a transitory use, I shall forgo the attempt to find a prefix that would simultaneously subsume the hyper- and the meta-):' — Genette's admission that 'second degree' covers metatext as well as hypertext. 'preexistent' → 'pre-existent'. Also p. 108–109: 'can be read for itself and in its relation to its hypotext' drops Genette's 'both' (p. 397). OCR-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 103,
+    "fields": {
+      "Week": 4,
+      "Set": 55,
+      "Citing_Calibre_ID": 133,
+      "Citing_Title": "Experiments in Life-Writing (ch. 11, 'Custom-Breaker: Writing the Life of Elizabeth Cary')",
+      "Citing_Author": "Ursula Hurley (in Boldrini & Novak, eds.)",
+      "Relation": "Quotes",
+      "Quote": "Gérard Genette’s Palimpsests draws attention to the “massive and explicit palimpsestuous” qualities of literary texts.",
+      "Location": "ch. 11, at n. 27 (n. 27: 'Gerald Prince, foreword to Palimpsests … ix'); TARGET Prince's Foreword to Palimpsests (2356) p. ix",
+      "Evidence": "Inward. FUSED quotation: the phrase occurs in neither Genette nor Prince. Prince p. ix: 'more massively and explicitly palimpsestuous. It is that massive and explicit hypertextuality that Genette'; and 'palimpsestuous' is Lejeune's ('for once, adjective is not Genette’s'). Body credits Genette's Palimpsests; note credits Prince (spells 'Dubinsky'). Mentions row 779 promoted. Substring-checked (EPUB/index; OCR of 2356 p. ix).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 104,
+    "fields": {
+      "Week": 4,
+      "Set": 55,
+      "Citing_Calibre_ID": 133,
+      "Citing_Title": "Experiments in Life-Writing (ch. 5, on Jackie Kay)",
+      "Citing_Author": "Pietra Palazzolo (in Boldrini & Novak, eds.)",
+      "Relation": "Quotes",
+      "Quote": "whose use, as Gérard Genette has shown, “is always a mute gesture” that requires the active input of the reader to be interpreted.",
+      "Location": "ch. 5, at n. 8 (Paratexts, 156); TARGET Paratexts (692) ch. 7 'Epigraphs', Functions, p. 156",
+      "Evidence": "Inward, credited, exact. Genette: 'for the use of an epigraph is always a mute gesture whose interpretation is left up to the reader.' Substring-checked in 692 index and pdftotext (PDF p. 182, printed 156).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 105,
+    "fields": {
+      "Week": 4,
+      "Set": 55,
+      "Citing_Calibre_ID": 133,
+      "Citing_Title": "Experiments in Life-Writing (ch. 9, on Marías, Dark Back of Time)",
+      "Citing_Author": "María Alhambra Díaz (in Boldrini & Novak, eds.)",
+      "Relation": "Quotes",
+      "Quote": "“any intrusion by the extradiegetic narrator or narratee into the diegetic universe (or by diegetic characters into a metadiegetic universe, etc.) or the inverse”",
+      "Location": "ch. 9, at n. 34 (Narrative Discourse 234–235); TARGET Narrative Discourse (5343) ch. 5 'Voice', pp. 234–235",
+      "Evidence": "Inward, credited. Exact except one comma: Lewin 'etc.), or the inverse (as in Cortazar), produces an effect of strangeness'. Quotation stops before the verb. Checked with pdftotext of 5343 (index OCR interleaves notes 48–50 inside 'dieget-ic').",
+      "Verified": true
+    }
+  },
+  {
+    "id": 106,
+    "fields": {
+      "Week": 4,
+      "Set": 55,
+      "Citing_Calibre_ID": 12448,
+      "Citing_Title": "Frankétienne and Rewriting: A Work in Progress",
+      "Citing_Author": "Rachel Douglas",
+      "Relation": "Quotes",
+      "Quote": "J’entends par là toute relation unissant un texte B (que j’appellerai hypertexte) à un texte antérieur A (que j’appellerai, bien sûr, hypotexte) sur lequel il se greffe d’une manière qui n’est pas celle du commentaire.",
+      "Location": "Introduction, pp. 4–5, n. 11 (Palimpsestes, Seuil 1982, 11–12); TARGET Palimpsestes (not in library); English equivalent 2356 p. 5",
+      "Evidence": "Inward, credited, in French. Seuil text not in library: French unverified against source. English (tr. Newman & Doubinsky p. 5): 'By hypertextuality I mean any relationship uniting a text B (which I shall call the hypertext) to an earlier text A (I shall, of course, call it the hypotext), upon which it is grafted in a manner that is not that of commentary.' Douglas also argues with Genette's 'special cases' (p. 5; day-3 lead). Mentions row 1394 promoted. Substring-checked in 12448 index/pdftotext.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 107,
+    "fields": {
+      "Week": 4,
+      "Set": 55,
+      "Citing_Calibre_ID": 12448,
+      "Citing_Title": "Frankétienne and Rewriting: A Work in Progress",
+      "Citing_Author": "Rachel Douglas",
+      "Relation": "Uses without credit (suspected)",
+      "Quote": "This image, in the quotation above, of a text as a hypertext, grafting itself palimpsestually onto a hypotext, an earlier text that it imitates or transforms, is one that is especially relevant to Frankétienne’s rewriting",
+      "Location": "Introduction, p. 5; TARGET Prince, Foreword to Palimpsests (2356) p. ix",
+      "Evidence": "SUSPICION, moderate. Prince p. ix: 'Any text is a hypertext, grafting itself onto a hypotext, an earlier text that it imitates or transforms' — nine identical words, 'palimpsestually' added. 'imitates or transforms' is not in the French she quotes. No citation of Prince or the English edition in notes/bibliography ('Nebraska', 'Newman' absent). Against: short, natural gloss; could be second-hand. Cf. p. 4 'see all writing as rewriting' (Prince: 'any writing is rewriting'), too common to count. OCR-checked.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 108,
+    "fields": {
+      "Week": 4,
+      "Set": 56,
+      "Citing_Calibre_ID": 13739,
+      "Citing_Title": "Borges and His Fiction: A Guide to His Mind and Art",
+      "Citing_Author": "Gene H. Bell-Villada",
+      "Relation": "Argues with",
+      "Quote": "(Critics like Gerard Genette, in apparent disregard of Borges’s general spirit of humor and parody, have built entire theories on the fanciful notions played with in ‘‘Pierre Menard.’’)",
+      "Location": "ch. 6 'Ficciones II', p. 134; TARGET Genette on 'Pierre Menard' (Palimpsests 2356 pp. 17, 122, 252–253; possibly the 1960s essays)",
+      "Evidence": "Inward. Charge of humourlessness and of theorising a satire. Holds against p. 17 ('Borges succeeded in demonstrating with the imaginary example of Pierre Menard…'); not against p. 122 (Genette's own Menard joke), p. 253 ('ironic detachment') or pp. 399–400 ('Official humor is a contradiction in terms'). Names no book; may date from the 1981 edition (before Palimpsestes 1982) — 1981 text not in library. Verified by substring test (pdftotext).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 109,
+    "fields": {
+      "Week": 4,
+      "Set": 56,
+      "Citing_Calibre_ID": 13739,
+      "Citing_Title": "Borges and His Fiction: A Guide to His Mind and Art",
+      "Citing_Author": "Gene H. Bell-Villada",
+      "Relation": "Mentions",
+      "Quote": "structuralist theorists and critics such as Gérard Génette have found in Borges not just another exotic genius on whom to lavish high Gallic praise, but a wise master from whose doctrine of literary space they can learn a great deal",
+      "Location": "ch. 1, p. 6, n. 1 ('Genette, ‘‘L’utopie littéraire,’’ pp. 123 –132'); TARGET 'L’utopie littéraire' (Figures I, not in library)",
+      "Evidence": "Inward, praise. Same book praises (p. 6) and mocks (p. 134); accent misplaced ('Génette'). Verified.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 110,
+    "fields": {
+      "Week": 4,
+      "Set": 56,
+      "Citing_Calibre_ID": 777,
+      "Citing_Title": "Many Subtle Channels: In Praise of Potential Literature",
+      "Citing_Author": "Daniel Levin Becker",
+      "Relation": "Argues with",
+      "Quote": "Noël Arnaud used it as a platform to protest literary theorist Gérard Genette’s description of oulipian endeavor as “a game of chance, like roulette.”",
+      "Location": "'publish and perish' and n. 8 (Roubaud via Guy Bennett: 'a particularly mediocre text'); TARGET Palimpsests (2356) ch. 9 'Oulipian games' pp. 39–48, esp. p. 48",
+      "Evidence": "Inward, reported (Arnaud, B.O. no. 63, not held; Roubaud, Poetry Etcetera, not held). Quotation reverses the English word order (p. 48: 'the Oulipism, like roulette, is a game of chance'); French not held. Levin Becker's own definitions deny Genette's premises: 'not invested in wrangling randomness or automatism or chance; … not an offshoot of Surrealism' (vs p. 48 'Chance is at the helm', 'the Surrealist tradition'). 'ten pages' exact. Verified.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 111,
+    "fields": {
+      "Week": 4,
+      "Set": 56,
+      "Citing_Calibre_ID": 10153,
+      "Citing_Title": "How to Do Things With Forms: The Oulipo and Its Inventions",
+      "Citing_Author": "Chris Andrews",
+      "Relation": "Argues with",
+      "Quote": "Nevertheless, Genette’s treatment of the Oulipo is drastically reductive",
+      "Location": "ch. 4 'Manipulation, Translation, and Composition', pp. 98–99, nn. 3–10; TARGET Palimpsests (2356) pp. 7, 40, 42, 44, 397, 400; Palimpsestes p. 449 (not held)",
+      "Evidence": "Inward. Concedes transformation/imitation; contests reduction to exercises ('Genette seems to confuse Oulipian exercises and works', after Arnaud) and the generalised 'mechanical' (Lescure's formula, pp. 42, 44). n. 7: 'In the English translation, Queneau’s name has been left out of the list' — verified on English p. 397 ('Proust, Joyce, Mann, Borges, Nabokov, Calvino'); French unverified. Quotes p. 40 exact but one comma; p. 400 exact. Ends in partial agreement. Verified.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 112,
+    "fields": {
+      "Week": 4,
+      "Set": 56,
+      "Citing_Calibre_ID": 10153,
+      "Citing_Title": "How to Do Things With Forms: The Oulipo and Its Inventions",
+      "Citing_Author": "Chris Andrews",
+      "Relation": "Quotes",
+      "Quote": "Gérard Genette remarked that if play there was, it was “a sad sort of play.”",
+      "Location": "ch. 7 'Games Gone Wrong', p. 192, n. 7 (Thomas, La langue, la poésie, 165); TARGET Genette, oral remark (not in a Genette book)",
+      "Evidence": "Reverse direction: Genette arguing with the Oulipo, reported second-hand. Not checkable in library. Verified as Andrews's text.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 113,
+    "fields": {
+      "Week": 4,
+      "Set": 56,
+      "Citing_Calibre_ID": 6729,
+      "Citing_Title": "Heterocosmica: Fiction and Possible Worlds",
+      "Citing_Author": "Lubomír Doležel",
+      "Relation": "Argues with",
+      "Quote": "Gerard Genette dissents. […] But this conclusion only confirms that narrativity is not a criterion for the fiction/nonfiction distinction. Genette does not mention the existence of a semantic, truth-conditional criterion.",
+      "Location": "Prologue, pp. 25–26; TARGET Fiction et diction (1991, p. 91; not in library)",
+      "Evidence": "Inward. Dispute over level (narrative vs semantic) for the fiction/nonfiction distinction. Genette's words given in Doležel's English; unverifiable here. Verified as Doležel's text.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 114,
+    "fields": {
+      "Week": 4,
+      "Set": 56,
+      "Citing_Calibre_ID": 6729,
+      "Citing_Title": "Heterocosmica: Fiction and Possible Worlds",
+      "Citing_Author": "Lubomír Doležel",
+      "Relation": "Quotes",
+      "Quote": "\"Every object can be transformed, every method imitated; there is no art that, by nature, escapes these two modes ofderivation which, in literature, define hypertextuality'' (1982, 435).",
+      "Location": "Epilogue, p. 224; also n. 29 ('regime ludique', Genette 1982, 452-53); TARGET Palimpsestes p. 435 = Palimpsests (2356) ch. 79, p. 384",
+      "Evidence": "Inward, own translation, enlisted for his thesis (rewrites need not be impossible worlds). vs Newman & Doubinsky p. 384: 'method' for 'manner'; cuts 'and more generally define all second-degree artistic practices, or hyperartistic practices'; Genette's next sentence restricts to literature. n. 29 turns 'régime ludique' against ideological critics of Coetzee's Foe (page match 452–53 ≈ English 399–400 unconfirmed). 'ofderivation' = PDF OCR. Verified.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 115,
+    "fields": {
+      "Week": 4,
+      "Set": 57,
+      "Citing_Calibre_ID": 7052,
+      "Citing_Title": "Translation and Paratexts",
+      "Citing_Author": "Kathryn Batchelor",
+      "Relation": "Rewrites",
+      "Quote": "A paratext is a consciously crafted threshold for a text which has the potential to influence the way(s) in which the text is received.",
+      "Location": "ch. 7, p. 142 (definition); ch. 1, pp. 19–22 ('Translation in Genette's framework'); TARGET Paratexts (692) p. 405 and n. 2, p. 264 n. 22",
+      "Evidence": "Inward. Transformation of the concept: drops authorial intention, keeps threshold and the five variables; reverses p. 405 ('a translated text would be considered a text in its own right and with its own paratexts, as opposed to being viewed as a paratext to an original text, as in Genette’s model', p. 142). Critique p. 20: 'Genette argues himself here into something of a corner' (if only the author may be unfaithful, translations without him are better commentaries but less paratextual). p. 405 and n. 2 verified in 692 pdftotext. Does not apply to Genette's own English editions (692 xxv 'the author added a number of explanatory passages' not cited).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 116,
+    "fields": {
+      "Week": 4,
+      "Set": 57,
+      "Citing_Calibre_ID": 7052,
+      "Citing_Title": "Translation and Paratexts",
+      "Citing_Author": "Kathryn Batchelor",
+      "Relation": "Quotes",
+      "Quote": "Paratextuality . . . is first and foremost a treasure trove of questions without answers.",
+      "Location": "Introduction, epigraph, p. 1; ch. 1, pp. 7–8 (block quotation cited 'Genette 1997b, 33'); TARGET Palimpsests (2356) ch. 1, pp. 3–4",
+      "Evidence": "Inward, credited. Checked against tesseract OCR of 2356 PDF pp. 19–20 (today). Epigraph ellipsis removes ', as one can see,' (pointer to the Giono example). Block quotation: ellipsis removes 'taken within the totality of the literary work'; glosses '[from a third party]', '[from the author]' added inside the quotation (2356: 'whether allographic or autographic.'); page '33' for p. 3. Also p. 7: 'transcendance' credited to Macksey xviii, whose English has 'transcendence' (692).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 117,
+    "fields": {
+      "Week": 4,
+      "Set": 57,
+      "Citing_Calibre_ID": 692,
+      "Citing_Title": "Paratexts: Thresholds of Interpretation (Translator's note)",
+      "Citing_Author": "Jane E. Lewin",
+      "Relation": "Translates",
+      "Quote": "For the English translation, the author added a number of explanatory passages.",
+      "Location": "Translator's note, p. xxv (PDF p. 25); TARGET Seuils (Seuil 1987, not in library)",
+      "Evidence": "Inward. By Genette's own p. 405 an author-revised translation has 'paratextual relevance': the English Paratexts is partly authorial commentary on Seuils; passages not identified. Same note states a translator's convention ('Possessive adjectives and personal pronouns ... are in the masculine'); by p. 264 n. 22 a translator's preface on her own translation 'ceases to be allographic'. Bracketed glosses are hers ('All bracketed material ... is the translator's', e.g. p. 5 n. 8 on 'allography').",
+      "Verified": true
+    }
+  },
+  {
+    "id": 118,
+    "fields": {
+      "Week": 4,
+      "Set": 57,
+      "Citing_Calibre_ID": 692,
+      "Citing_Title": "Paratexts: Thresholds of Interpretation (Foreword)",
+      "Citing_Author": "Richard Macksey",
+      "Relation": "Edits/introduces",
+      "Quote": "this humor and richness are pervasive, a signature of his style (nicely captured here by his translator)",
+      "Location": "Foreword, p. xxi; also p. xiii n. 4 ('a forthcoming translation of Palimpsestes by Channa Newman'), p. xxiii, p. xvii ('a sly wink at his long-time publisher'); TARGET Genette; Lewin; Newman & Doubinsky",
+      "Evidence": "Inward. The translator credited in a parenthesis (also p. xiii 'the admirable translator'). Claude Doubinsky, co-translator of Palimpsests (2356), is named nowhere in 692 (grep of all pdftotext pages). Macksey's 'transcendence' is the word Batchelor quotes as 'transcendance'.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 119,
+    "fields": {
+      "Week": 4,
+      "Set": 57,
+      "Citing_Calibre_ID": 5343,
+      "Citing_Title": "Narrative Discourse: An Essay in Method (Translator's Preface)",
+      "Citing_Author": "Jane E. Lewin",
+      "Relation": "Translates",
+      "Quote": "I have silently modified the French edition of this book by correcting obvious errors, occasionally supplementing the documentation, and giving both French and English versions of quotations from Proust when the French version seemed essential (mainly in Chapter 3).",
+      "Location": "Translator's Preface, pp. 15–17 (PDF pp. 17–19); TARGET Discours du récit (Figures III, Seuil 1972, not in library)",
+      "Evidence": "Inward. The translator corrects the author, unmarked ('silently'). Proust given in Scott Moncrieff/Mayor except 'at those places where Genette’s exposition required a strictly literal rendering'. Preface closes with the Recherche's editorial history (Grasset, posthumous editors, Clarac-Ferré, Mayor's 'liberty'). Compare Paratexts xxv (1997): there the author revises the English.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 120,
+    "fields": {
+      "Week": 4,
+      "Set": 57,
+      "Citing_Calibre_ID": 5343,
+      "Citing_Title": "Narrative Discourse: An Essay in Method (Foreword)",
+      "Citing_Author": "Jonathan Culler",
+      "Relation": "Edits/introduces",
+      "Quote": "Since Genette’s presentation and Jane Lewin’s translation are admirably clear, there is no need to outline the book’s argument",
+      "Location": "Foreword, p. 10; also p. 13 ('Genette’s work is testimony to the power of the marginal, the supplementary, the exception', n. 5 Derrida, Of Grammatology); TARGET Narrative Discourse",
+      "Evidence": "Inward. Translation declared transparent; system read through Derrida's supplement (cf. Batchelor ch. 1 n. 7 on Derrida's parergon, which Genette does not cite). Verified in pdftotext of the PDF.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 121,
+    "fields": {
+      "Week": 4,
+      "Set": 58,
+      "Citing_Calibre_ID": 6773,
+      "Citing_Title": "The Politics of the Book: A Study on the Materiality of Ideas",
+      "Citing_Author": "Filipe Carreira da Silva & Mónica Brito Vieira",
+      "Relation": "Uses without credit (suspected)",
+      "Quote": "Their intervention in what Philippe Lejeune describes as a pivotal “fringe of the printed text which in reality controls one’s whole reading of the text” (1975, 45)",
+      "Location": "Introduction, 'Paratexts', p. 6; TARGET Paratexts (692) p. 2 and n. 5 (Lejeune, Le Pacte autobiographique, Seuil 1975, 45, in Lewin's English)",
+      "Evidence": "SUSPICION, moderate to high. 15 English words identical to Lewin's translation in Paratexts p. 2; bibliography lists only the French Pacte (Seuil 1975); page = Genette's n. 5. Same paragraph cites Hillis Miller 1979, 219 (= Genette's n. 2) and names Genette for his own sentences (1997, 1–2, 407, 408). Against: Leary's English On Autobiography (1989) not checked (not in library); if it matched Lewin, the case weakens. Intermediary (Genette/Lewin) unnamed for Lejeune. Substring-checked in index texts of 6773 and 692; 692 also pdftotext PDF p. 28.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 122,
+    "fields": {
+      "Week": 4,
+      "Set": 58,
+      "Citing_Calibre_ID": 6773,
+      "Citing_Title": "The Politics of the Book: A Study on the Materiality of Ideas",
+      "Citing_Author": "Filipe Carreira da Silva & Mónica Brito Vieira",
+      "Relation": "Quotes",
+      "Quote": "“a text to become a book and to be offered as such to its readers and, more generally, to the public” (McKenzie quoted in Genette 1997, 1)",
+      "Location": "Introduction, 'Paratexts', p. 6; TARGET Paratexts (692) Introduction p. 1",
+      "Evidence": "Inward, MISATTRIBUTED. Genette p. 1: 'For us, accordingly, the paratext is what enables a text to become a book and to be offered as such to its readers and, more generally, to the public.' McKenzie not named on p. 1; McKenzie, Bibliography and the Sociology of Texts (12290, 1986 ed.) contains neither 'become a book' nor 'offered as such'. Credit for Genette's sentence moved to the bibliographer the authors also read (n. 3: McKenzie 1985, 46–47). Verified.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 123,
+    "fields": {
+      "Week": 4,
+      "Set": 58,
+      "Citing_Calibre_ID": 12079,
+      "Citing_Title": "Porn Archives (ch. 6, 'Up from Underground')",
+      "Citing_Author": "Loren Glass",
+      "Relation": "Uses without credit (suspected)",
+      "Quote": "This testimony in turn supplied the basis for the paratextual packaging—academic prefaces, judicial decisions, and sometimes even trial transcripts—that established the initial thresholds of interpretation of these texts for an entire generation of readers.",
+      "Location": "ch. 6, opening section, pp. 127–28; TARGET Paratexts (692): term and subtitle",
+      "Evidence": "SUSPICION, weak. 'paratextual' + Paratexts' subtitle phrase in one sentence; 'genette' 0 and 'paratexts' 0 in the whole volume; 'paratext' 10 (9 in this chapter). Next sentence uses Bourdieu's 'consecration'. Against: by 2014 'paratext' is common vocabulary; chapter reprinted from Counterculture Colophon (2013, not in library), which may cite Genette. Verified as Glass's text.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 124,
+    "fields": {
+      "Week": 4,
+      "Set": 58,
+      "Citing_Calibre_ID": 5996,
+      "Citing_Title": "Weaponising Speculation ('MOUTH')",
+      "Citing_Author": "Edia Connole & Scott Wilson (per index heading; book catalogued under Caoimhe Doyle)",
+      "Relation": "Quotes",
+      "Quote": "in his work Paratext, the literary theorist Gerard Ginette described them as the ‘mediocre attached to the beautiful’ [ii].",
+      "Location": "'MOUTH', opening paragraph and notes ii–iii; TARGET Paratexts (692) ch. 12 'Notes', p. 319 and n. 1",
+      "Evidence": "Inward, credited under a MISSPELT name ('Ginette' 6×; 'genette' 0), so invisible to FTS/substring searches for Genette and absent from the day-1 Mentions capture. Note ii corrects the body: 'Ginette actually says this in a footnote, and is quoting the French author Alain, who is in turn quoted in the Petit Robert dictionary' — Genette says 'Robert dictionary'; 'Petit Robert' is Lewin's bracket on Poujadism. 'dust-like' for Lewin's 'dustlike'. Checked against 692 pdftotext (PDF p. 345).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 125,
+    "fields": {
+      "Week": 4,
+      "Set": 59,
+      "Citing_Calibre_ID": 1913,
+      "Citing_Title": "Unconsolable Contemporary: Observing Gerhard Richter",
+      "Citing_Author": "Paul Rabinow",
+      "Relation": "Quotes",
+      "Quote": "“Whence the uneasiness that Borges so well puts his finger on: ‘Such inversions suggest that if the characters in a story can be readers or spectators, then we, their readers or spectators, can be fictitious.’”17 … “the narrator and his narratees—you and I—perhaps belong to [the same] narrative.”18",
+      "Location": "ch. 3 'Assembling: Abet and Facilitate', section on mood and metalepsis, nn. 14–18 (EPUB, no pages); TARGET Narrative Discourse (5343) p. 31 n. 9, p. 234, p. 236",
+      "Evidence": "Credited, altered. n. 14 Littré definition attributed to 'a long chapter on mood' and p. 182 (it is Intro n. 9, p. 31; chapter version p. 161); 'the' dropped, 'same' added, ellipsis removed; '[sic]' on 'Littre' though Lewin prints 'Littré'. n. 15: Genette's definition of lawful narrating (p. 234) given as the definition of metalepsis ('Any other form of transit'). Metalepsis placed under mood (Genette: voice; p. 186 calls the mood/voice confusion 'regrettable'). 'puts' for 'put'; 'perhaps' dropped in paraphrase ('the extra-textual is always textual'); '[the same]' replaces 'some'. Page refs: nn. 15, 18 right; 14, 16, 17 wrong.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 126,
+    "fields": {
+      "Week": 4,
+      "Set": 59,
+      "Citing_Calibre_ID": 13682,
+      "Citing_Title": "Narrative Perspective in Fiction: A Phenomenological Mediation of Reader, Text, and World",
+      "Citing_Author": "Daniel Frank Chamberlain",
+      "Relation": "Argues with",
+      "Quote": "“Metalepsis is unacceptable to Genette because of the fundamentally visual and spatial nature of his understanding of narrative. He is concerned with closed borders, and the historical experience of time does not receive his attention.”",
+      "Location": "pp. 81–82 (after block quotation of Narrative Discourse pp. 235–36); TARGET Narrative Discourse (5343) pp. 228, 234–237",
+      "Evidence": "Exact block quotation of p. 236 (both hedges, 'some narrative', cited 235-6); then Ricoeur's mediation against Genette's borders. Genette's 'unacceptable' describes the hypothesis's effect, not his verdict (my reading). 'additional detour' (237) is Genette's phrase for the pseudo-diegetic digression, not metalepsis.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 127,
+    "fields": {
+      "Week": 4,
+      "Set": 59,
+      "Citing_Calibre_ID": 5343,
+      "Citing_Title": "Narrative Discourse: An Essay in Method",
+      "Citing_Author": "Gérard Genette (tr. Jane E. Lewin)",
+      "Relation": "Quotes",
+      "Quote": "“Whence the uneasiness Borges so well put his finger on: ‘Such inversions suggest that if the characters in a story can be readers or spectators, then we, their readers or spectators, can be fictitious.’”",
+      "Location": "ch. 5 'Voice', 'Metalepses', p. 236 and n. 55 (Borges, Other Inquisitions, tr. Simms, 1964, p. 46); also p. 262 'Pierre Menard inventing Quixote word for word' with Lewin's n. 107; TARGET Borges, 'Partial Magic in the Quixote' (Otras inquisiciones; Simms's English not in library)",
+      "Evidence": "The English edition cites Simms without a translator's mark; Genette presumably cited a French Borges (unverified, Figures III not held). Menard's source named only in Lewin's note 107. Borges's sentence in the library through Genette: 1913, 13682; independently: 13762, 5857, 130.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 128,
+    "fields": {
+      "Week": 4,
+      "Set": 59,
+      "Citing_Calibre_ID": 5343,
+      "Citing_Title": "Narrative Discourse: An Essay in Method (Translator's notes)",
+      "Citing_Author": "Jane E. Lewin",
+      "Relation": "Translates",
+      "Quote": "“In a note at this point Genette speaks of the acceptability of his terms with respect to current French usage” (p. 27 n. 2); “I have omitted from the text a brief statement on French terminology.” (p. 94 n. 15)",
+      "Location": "Introduction p. 27 n. 2; p. 33 n. 1 (Metz altered); p. 37 n. 8 (Mazon replaced); p. 94 n. 15 (omission); 22 Translator's notes in all; TARGET Discours du récit (Figures III, 1972, not in library)",
+      "Evidence": "Against the Translator's Preface 'I have silently modified' (edge 119): the notes make several interventions visible; p. 27 n. 2 replaces the author's note with a third-person report of it. Unmarked: Borges in Simms (p. 236 n. 55).",
+      "Verified": true
+    }
+  },
+  {
+    "id": 129,
+    "fields": {
+      "Week": 4,
+      "Set": 59,
+      "Citing_Calibre_ID": 692,
+      "Citing_Title": "Paratexts: Thresholds of Interpretation",
+      "Citing_Author": "Gérard Genette (tr. Jane E. Lewin)",
+      "Relation": "Rewrites",
+      "Quote": "“In all of that there is something basically oblique, which Proust called the \"insincere language of (prefaces and) dedications\"” (p. 135); “this is the place to recall Proust's famous line about \"the insincere language of prefaces and dedications\" - but this line does not appear in a preface.” (p. 231)",
+      "Location": "ch. 6 'Dedications', p. 135; ch. 9, p. 231 and n. 36 (Pléiade 3:911; Mayor 3:949); TARGET Narrative Discourse (5343) p. 261 and n. 105 (same Proust passage, quoted whole, Scott Moncrieff RH II 1031–1032)",
+      "Evidence": "Self-rewriting: the 1972 quotation (in praise of the reader's liberty) is bracketed in 1987 to fit dedications and filed under 'hypocrisy' for prefaces. Syntax of ND p. 262 ('but also, and at times even more, he who hears it') recurs at p. 135 ('but also, and sometimes even more, \"I am telling the reader…\"'). No citation of ND found near either passage.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 130,
+    "fields": {
+      "Week": 4,
+      "Set": 60,
+      "Citing_Calibre_ID": 6534,
+      "Citing_Title": "Figures of Literary Discourse ('Proust Palimpsest', 1961)",
+      "Citing_Author": "Gérard Genette (tr. Alan Sheridan)",
+      "Relation": "Quotes",
+      "Quote": "“it is given a particularly high (and very Proustian) value in this page from Baudelaire’s Paradis artificiels, translated from the Suspiria de Profundis: ‘What is the human brain, if not an immense natural palimpsest? My brain is a palimpsest, as yours is too, reader. Innumerable layers of ideas and feelings have fallen one after another on your brain, as gently as light.’”",
+      "Location": "'Proust Palimpsest', n. 59, p. 228 (PDF p. 252); TARGET De Quincey, Suspiria de Profundis (1845), 'The Palimpsest of The Human Brain', in Complete Works (8496), via Baudelaire, Les Paradis artificiels (1860; not in library)",
+      "Evidence": "Outward, credited to Baudelaire by title; De Quincey never named ('quincey' 0 in pdftotext of 6534; FTS 0). Collation vs 8496: 'What else than a natural and mighty palimpsest is the human brain? ... Everlasting layers of ideas, images, feelings, have fallen upon your brain softly as light.' — 'images' absent in 6534 (stage of loss unknown: Baudelaire's French not held). The essay ends on the figure (p. 226). Relay: De Quincey → Baudelaire → Genette → Sheridan. Manguel 1101 later gives the sentence to 'Charles Baudelaire in 1869'.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 131,
+    "fields": {
+      "Week": 4,
+      "Set": 60,
+      "Citing_Calibre_ID": 2356,
+      "Citing_Title": "Palimpsests: Literature in the Second Degree",
+      "Citing_Author": "Gérard Genette (tr. Newman & Doubinsky)",
+      "Relation": "Rewrites",
+      "Quote": "“can be represented by the old analogy of the [palimpsest]: on the same parchment, one text can become superimposed upon another, which it does not quite conceal but allows to show through. It has been aptly said that pastiche and parody ‘designate literature as a palimpsest.’”",
+      "Location": "ch. 80, pp. 398–399 (PDF 414–415), n. 6–7 p. 471 (PDF 487), index p. 480 (PDF 496); TARGET 'Proust Palimpsest' (1961, Figures I 1966) in Figures of Literary Discourse (6534) pp. 203–228; also 'Principles of Pure Criticism' p. 72",
+      "Evidence": "Self-rewriting, unmarked (SUSPICION-level for the omission; the borrowing itself is certain, the figure being his). 1961: palimpsest = Proust's vision, memory, layers 'deciphered together' (p. 226), source Baudelaire/De Quincey (n. 59). 1966: 'personal and therefore in no sense an exemplary one' (p. 72). 1982: 'the old analogy', credited to Amossy & Rosen 1974 (n. 6) and Borges's Menard (n. 7, edge 98); layers = two texts, 'love (at least) two together' (p. 399). English index (OCR): 'Genette, Gérard' lists Figures II, Figures III, Mimologiques, Narrative Discourse, Palimpsests — no Figures I; no De Quincey entry; Baudelaire entry lists poems only. LIMITS: English index and pp. 398–400 only; full text not re-searched (day-3 OCR lost); French Palimpsestes not held. OCR reads 'pakmpsest' on p. 398.",
+      "Verified": true
+    }
+  },
+  {
+    "id": 132,
+    "fields": {
+      "Week": 4,
+      "Set": 60,
+      "Citing_Calibre_ID": 6534,
+      "Citing_Title": "Figures of Literary Discourse (Introduction, '“Ut Figura Poiesis”: The Work of Gérard Genette')",
+      "Citing_Author": "Marie-Rose Logan",
+      "Relation": "Edits/introduces",
+      "Quote": "“A palimpsest: a manuscript which has been scratched or erased in order to write something else on the parchment.” (p. xv); “The notions of transtextuality, architextuality, and more recently hypertextuality reveal Genette’s will” (p. xvi)",
+      "Location": "Introduction pp. xv–xvi (PDF pp. 19–20); editor's notes p. 74 n. 12–13 ('[Proust palimpseste,” Figures I; included in this volume.—M.-R.L.]'); p. 227 n. 21 ('Translation modified'); TARGET Figures of Literary Discourse; Introduction à l'architexte (1979; The Architext 691, no text layer)",
+      "Evidence": "Inward. The introducer defines the palimpsest literally for English readers, quotes Introduction à l'architexte on transtextuality and points to hypertextuality (1982) — the English volume already frames the 1961 essay as a forerunner of Palimpsests. Logan also places Genette beside Derrida (p. xvii: 'like Jacques Derrida, Genette rereads the great philosophical works'), as do Culler (5343) and Macksey (692). Verified in pdftotext of 6534.",
+      "Verified": true
+    }
   }
 ]

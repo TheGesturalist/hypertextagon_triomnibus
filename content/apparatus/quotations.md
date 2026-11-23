@@ -11,6 +11,12 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “My room is the room no one else in the world wants.” (Inside High School, ‘The Scorpions’)
 - “I’m not trying to tell you about the rotgut weird parts of my life. Abortions are the symbol, the outer image, of sexual relations in this world.” (Inside High School, ‘The Scorpions’)
 - “We all live in prison. Most of us don’t know we live in prison.” (Outside High School, ‘A book report’)
+- “Since she had no idea how to write poetry, she copied down all she could remember every pukey bit by the Latin poet Sextus Propertius which she had been forced to translate in high school.” (Outside high school, ‘Translating’)
+- “Slave Trader first with his lousy me imprisoned eyes” (‘Translating’, ‘On the desire for love’)
+- “A throng of bearded men, in sad-coloured garments, were assembled in front of a gaol.” (‘A book report’)
+- “Shakespeare said that in Hamlet. He said we are nothing without our culture.” (‘The mysterious Mr Linker’)
+- “because all books were written by dead people.” (‘The World’)
+- “Shall we find our way out of all expectations?” (‘The World’)
 
 ### [[books/1178-great-expectations|Great Expectations]]
 
@@ -19,6 +25,17 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “I shall die at sixty before having formed any opinion concerning myself.” (Part One, ‘I Journey To Receive My Fortune’)
 - “that’s why one text must subvert (the meaning of) another text until there’s only background music like reggae” (Part One, ‘I Recall My Childhood’)
 - “It’s a common belief that something exists when it’s part of a narrative.” (Part Two, ‘Day’)
+
+### [[books/1176-literal-madness-3-novels-kathy-goes-to-haiti-my-de|Literal Madness: 3 Novels: Kathy Goes to Haiti, My Death My Life by Pier Paolo Pasolini, and Florida]]
+
+- “One could say that he seeks to merge with unnameable nature, fleeing the weight of nomination in the unnameable texture of things, I want people to treat me as an animal, in the irregular indefinable movements of the foliage, of the waves. To be matter. To be matter to matter.” (My Death My Life, ‘My Death’)
+- “He would sit for hours, a finger in his mouth, looking almost stupid. The calm child who reacts poorly when spoken to.” (My Death My Life, ‘My Death’)
+- “Affection remains inarticulable and ineffectual. A secret preference for the inarticulable and inarticulate.” (My Death My Life, ‘My Death’)
+- “I don't produce meaning.” (My Death My Life, ‘My Death’)
+- “Already I can tell everything's closing in on me.” (My Death My Life, ‘1SEX’, ‘4. War’)
+- “Purpose: To Get Rid of Meaning” (My Death My Life, ‘3VIOLENCE’)
+- “One might generalize by saying: the technique of reproduction detaches the reproduced object from the domain of tradition. Meaning, for example: a book no longer has anything to do with literary history so the history of literarture you're taught in school is for shit.” (My Death My Life, ‘2LANGUAGE’, ‘3. Nominalism’)
+- “Presumably, without intending it, he issued an invitation to a far-reaching liquidation. Now I want to give you an analogy.” (My Death My Life, ‘2LANGUAGE’, ‘3. Nominalism’)
 
 ### [[books/13685-means-without-end-notes-on-politics-notes-on-gestu|Means Without End: Notes on Politics ('Notes on Gesture')]]
 
@@ -87,6 +104,28 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "It was not considered that the latter wrote in Greek, so that the linguistic flaws could be blamed on the translator." (Smolak, p. 228 [PDF 243])
 - "literature in the second degree does not effect cultural forgetting by way of replacement but rather gives them a new function, a new lease of life." (Lange, p. 40 [PDF 55])
 
+### [[books/3806-intertextuality|Intertextuality]]
+
+- “Taking up an analogy with the pictorial arts, Genette writes: ‘The intertextual “trace” … is therefore more akin (like the allusion) to the limited figure (to the pictorial detail) than to the work considered as a structural whole’” (ch. 3, p. 98)
+- “He writes: ‘let us posit the general notion of a text in the second degree … i.e., a text derived from another pre-existent text’ (ibid.: 5).” (ch. 3, p. 104)
+- “He gives the example of Flaubert’s novel Leuwen, which may have a hypotext in a manuscript draft of a novel entitled Le Lieutenant sent to the author by Mme Gaulthier in 1833.” (ch. 3, p. 108)
+- “Genette’s response to this kind of indeterminate case is perhaps revealing: ‘This is the most irritating palimpsest of all, which reduces me to hunches and to questionings’ (ibid.: 383).” (ch. 3, p. 108)
+- “that the reader has a choice between reading the text for itself or in terms of its intertextual relations is a kind of bad faith.” (ch. 3, p. 110)
+
+### [[books/13307-the-devil-to-pay-in-the-backlands|The Devil to Pay in the Backlands]]
+
+- “Its fiction has not yet freed itself from the apron strings of Machado de Assis, and goes on recreating the unimaginative, mediocre life of the middle class, eschewing startling innovations, experiments with language, a veritable model of polite phrasing.” (Foreword, ‘The Place of Guimarães Rosa in Brazilian Literature’)
+- “Brazilian and universal at one and the same time” (Foreword)
+- “transforming the vernacular of Brazil into an instrument of artistic creation” (Foreword)
+
+### [[books/10153-how-to-do-things-with-forms-the-oulipo-and-its-inv|How to Do Things With Forms: The Oulipo and Its Inventions]]
+
+- “Nevertheless, Genette’s treatment of the Oulipo is drastically reductive” (ch. 4, p. 98)
+- “As Arnaud remarks, Genette seems to confuse Oulipian exercises and works.” (ch. 4, p. 98)
+- “Although his opinion is not thoroughly informed, as Arnaud demonstrates, it is worth considering as a symptom, and as the index of a risk.” (ch. 4, p. 99)
+- “In the English translation, Queneau’s name has been left out of the list.” (ch. 4, n. 7)
+- “Gérard Genette remarked that if play there was, it was “a sad sort of play.”” (ch. 7, p. 192)
+
 ### [[books/4597-physiologus-a-medieval-book-of-nature-lore|Physiologus: A Medieval Book of Nature Lore]]
 
 - “The monoceras, that is, the unicorn, has this nature: he is a small animal like the kid, is exceedingly shrewd, and has one horn in the middle of his head.” (ch. XXXVI, p. 51)
@@ -96,9 +135,58 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “The elephant has no knee joints enabling him to sleep lying down if he wanted to.” (ch. XX, p. 30)
 - “The legend of the unicorn arises out of reports concerning the rhinoceros.” (Curley, notes to ch. XXXVI, p. 86)
 
+### [[books/14221-clair-obscur|Clair Obscur]]
+
+- “And what if the sole purpose now is to get rid of meaning? To make darkness the general condition?” (p. 69)
+
+### [[books/13051-the-garden|The Garden]]
+
+- “all of your faces knotted & drawn already I can tell everything’s closing in on me somewhere you’re repeating my too familiar phrases lying on your back in the dark” (p. 132)
+- “I’ve tried to write my way out of this impasse to approach a realisation something palpable in the end there are only ghosts” (p. 96)
+
+### [[books/14888-a-chapter-of-hats-and-other-stories|A Chapter of Hats and Other Stories]]
+
+- “the longest, ‘The Alienist’ (also translated rather anachronistically as ‘The Psychiatrist’), is also the most wide-ranging” (Translator’s Introduction)
+- “I have excluded it partly because it is available in more than one translation, but also because its length would have meant leaving out too many others.” (Translator’s Introduction)
+- “which serialised Epitaph in 1883, dropped it after chapter twenty-six” (Translator’s Introduction)
+
+### [[books/1035-dom-casmurro|Dom Casmurro]]
+
+- “This complete and unabridged edition 2016” (copyright page)
+- “The result is a tale of suburban life which, though essentially Brazilian in character, is easily accessible to the European and North American reader.” (Translator’s Introduction, p. 4)
+- “Casmurro means gloomy, withdrawn, irritable, stubborn, with an overlying air of sadness, which is not completely rendered by ‘taciturn’.” (Translator’s Introduction, p. 5)
+- “Next day he began calling me names and finished up nicknaming me ‘Lord Taciturn’.” (ch. 1, p. 7)
+- “Perhaps this discreet silence concerning the eaten texts was just another way of devouring again what had already been eaten.” (ch. 17 ‘The Maggots’, p. 34)
+- “There is no way of emending a confused book, but everything may be supplied in the case of books with omissions.” (ch. 59 ‘Companions with Good Memories’, p. 103)
+- “The fact is, everything is to be found outside a book that has gaps, gentle reader.” (ch. 59 ‘Companions with Good Memories’, p. 103)
+- “In this respect there are perhaps certain reforms that might be introduced, and as a start I would propose that plays should begin at the end.” (ch. 72 ‘A Reform in the Drama’, p. 124)
+- “It was the custom of the time to conduct one’s love affairs on horseback.” (ch. 73 ‘The Stage Manager’, p. 125)
+- “Capitu’s mother died, and her father retired, occupying the same position as he had held when he wanted to take his own life.” (ch. 98 ‘Five Years’, p. 158)
+- “His sister-in-law (which is how he continued to refer to Capitu) had spoken about it during our last visit to Andaraí, mentioning the reason for keeping it secret.” (ch. 106, p. 168)
+- “If you remember Capitu the girl, you must admit that the one was inside the other as the fruit is inside the husk.” (ch. 148 ‘Well, What About the Rest?’, p. 220)
+
 ### [[books/1138-the-alienist|The Alienist]]
 
 - "“Science,” he told His Majesty, “is my only office; Itaguai, my universe.”" (ch. I) | "The building had a courtyard in the center and two hundred cubicles, each with one window." (ch. I) | "At the end of four months the Green House was a little community in itself. A gallery with thirty-seven more cubicles had to be added." (ch. II) | "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." (ch. IV) | "In one gallery lived only those whose outstanding moral quality was modesty." (ch. XII) | "He entered the Green House, shut the door behind him, and set about the business of curing himself." (ch. XIII)
+- “© 2012 Melville House Publishing” (Copyright page)
+- “from Brazilian Tales, by Machado de Assis, 1921” (Illuminations, The Fortune Teller)
+- “doubtless erroneously, for, as everybody knew, the priest liked and admired the alienist” (ch. XIII)
+
+### [[books/2483-the-collected-stories-of-machado-de-assis|The Collected Stories of Machado de Assis]]
+
+- “It was at this point that one of its lesser nooks and crannies caught his particular attention: that pertaining to the psychic, to the examination of cerebral pathology, also known at that time as alienism.” (The Alienist, ch. 1)
+- “Father Lopes laughed at this godly quip and added, with the sole aim of making his own little joke: “Any more of that and I’ll have you reported to the Pope himself.”” (The Alienist, ch. 2)
+- “The chroniclers say that he died seventeen months later, in the same state in which he entered the Casa Verde, having achieved nothing.” (The Alienist, ch. 13)
+- “The translator must also resist normalizing oddity, for Machado does sometimes say some very odd things.” (Introduction, Jull Costa & Patterson)
+- “Machado has generally been well served by translators” (Foreword, Michael Wood)
+
+### [[books/4753-the-psychiatrist-other-stories|The Psychiatrist & Other Stories]]
+
+- “Father Lopes laughed. “What a delightful novelty,” he said, “to find a society in which the spiritual dominates.”” (The Psychiatrist, section II)
+- “The chroniclers state, however, that he died seventeen months later as insane as ever.” (The Psychiatrist, section XIII ‘Plus Ultra’)
+- “Some even venture the opinion that he was the only madman (in the vulgar or non-Bacamartian sense) ever committed to the asylum.” (section XIII)
+- “doubtless erroneously, for, as everybody knew, the priest liked and admired the psychiatrist” (section XIII)
+- “By a curious coincidence, four-fifths of the people in Itaguai were found by Dr. Bacamarte to be mentally ill, and four-fifths of the persons residing in a certain part of Manhattan were recently found by investigators to be not “free enough of emotional symptoms to be considered well.”” (Introduction, William L. Grossman)
 
 ### [[books/9197-narratology-introduction-to-the-theory-of-narrativ|Narratology: Introduction to the Theory of Narrative]]
 
@@ -127,12 +215,27 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “A similar project to leave the supposed skull of Louis XVI at the same spot was likewise never carried out.” (Chronology, 1936, p. 113)
 - “Bataille suggested an annual celebration of the guillotining of Louis XVI at the Place de la Concorde. This was never put into practice” (Introduction, p. 83)
 
+### [[books/7052-translation-and-paratexts|Translation and Paratexts]]
+
+- “Genette argues himself here into something of a corner.” (ch. 1, p. 20)
+- “If the author has the right to be unfaithful to his own text, but the translator pure and servile by implication does not, then in this sense translations produced without the author would be more reliable commentaries on the text.” (ch. 1, p. 20)
+- “A paratext is a consciously crafted threshold for a text which has the potential to influence the way(s) in which the text is received.” (ch. 7, p. 142)
+- “in this model a translated text would be considered a text in its own right and with its own paratexts, as opposed to being viewed as a paratext to an original text, as in Genette’s model.” (ch. 7, p. 142)
+- “Paratextuality . . . is first and foremost a treasure trove of questions without answers.” (Introduction, epigraph, p. 1)
+
 ### [[books/13883-the-travels-of-ibn-battuta-in-the-near-east-asia-a|The Travels of Ibn Battuta: In the Near East, Asia and Africa, 1325-1354]]
 
 - “which is at the distance of ten days” (ch. XVI)
 - “only one of his legs was brought to the place intended” (ch. XVI)
 - “When I entered Dehli it was almost a desert.” (ch. XVI)
 - “the greatest city in the world had the fewest inhabitants.” (ch. XVI)
+
+### [[books/777-many-subtle-channels-in-praise-of-potential-litera|Many Subtle Channels: In Praise of Potential Literature]]
+
+- “Noël Arnaud used it as a platform to protest literary theorist Gérard Genette’s description of oulipian endeavor as “a game of chance, like roulette.”” (‘publish and perish’)
+- “Genette spends ten pages of his 1982 book Palimpsests: Literature in the Second Degree on a characteristically shrewd analysis” (‘publish and perish’, n. 8)
+- “it is not invested in wrangling randomness or automatism or chance; it is most definitely not an offshoot of Surrealism.” (‘a library burning’)
+- “As far as the Oulipo is concerned, the clinamen is a voluntary breaking of a self-imposed rule.” (‘get it in writing’)
 
 ### [[books/13286-speakable-and-unspeakable-in-quantum-mechanics-col|Speakable and Unspeakable in Quantum Mechanics: Collected Papers on Quantum Philosophy]]
 
@@ -143,6 +246,13 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “the hands of the clock will have moved, and the moons of Jupiter.” (paper 12)
 - “How does the second sock know what the first has done?” (paper 16)
 - “Disgrace indeed, to be caught in a metaphysical position!” (paper 12)
+
+### [[books/13739-borges-and-his-fiction-a-guide-to-his-mind-and-art|Borges and His Fiction: A Guide to His Mind and Art]]
+
+- “Borges’s story is an extended satire of the intellectual patterns, formal subtypes, and sophistries of the genre of literary criticism.” (ch. 6, p. 133)
+- “(Critics like Gerard Genette, in apparent disregard of Borges’s general spirit of humor and parody, have built entire theories on the fanciful notions played with in ‘‘Pierre Menard.’’)” (ch. 6, p. 134)
+- “structuralist theorists and critics such as Gérard Génette have found in Borges not just another exotic genius on whom to lavish high Gallic praise, but a wise master from whose doctrine of literary space they can learn a great deal” (ch. 1, p. 6)
+- “allowing the literary mandarinate to distance itself still further from its audiences—in some cases, from literature itself.” (Preface to the 1981 Edition, p. xv)
 
 ### [[books/12603-on-hashish|On Hashish]]
 
@@ -174,6 +284,18 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “I believe we are losing our memory, he said. And just as well too.” (≈89%)
 - “For a moment their gazes locked, as if, for each of them, the presence of the other were a gash in the ambient reality.” (≈96%)
 
+### [[books/133-experiments-in-life-writing-intersections-of-auto|Experiments in Life-Writing: Intersections of Auto/Biography and Fiction]]
+
+- “Gérard Genette’s Palimpsests draws attention to the “massive and explicit palimpsestuous” qualities of literary texts.” (ch. 11, Ursula Hurley, at n. 27)
+- “Refutation, however, does not fully account for the liminality of epigraphs, whose use, as Gérard Genette has shown, “is always a mute gesture” that requires the active input of the reader to be interpreted.” (ch. 5, Pietra Palazzolo, at n. 8)
+- “that rhetorical figure that Gérard Genette defined as “any intrusion by the extradiegetic narrator or narratee into the diegetic universe (or by diegetic characters into a metadiegetic universe, etc.) or the inverse”” (ch. 9, María Alhambra Díaz, at n. 34)
+
+### [[books/2180-the-rhetoric-of-fiction|The Rhetoric of Fiction]]
+
+- “Perhaps I shall eliminate the preceding chapter. Among other reasons, there is, in the last few lines, something that might be construed as an error on my part. . . . Let us look into the future. Seventy years from now, a thin, sallow, grey-haired fellow, who loves nothing but books, is bent over the preceding page trying to find the error.” (p. 148, epigraph to ch. VI 'Types of Narration')
+- “From Epitaph of a Small Winner by Machado de Assis, trans. William L. Grossman. Copyright © 1952 by William L. Grossman.” (acknowledgments)
+- “Perhaps I shall eliminate the preceding chapter. Among other reasons, there is, in the last few lines, something that might be construed as an error on my part. . . . Let us look into the future.” (p. 148, epigraph to ch. VI, '—MACHADO DE ASSIS, Epitaph of a Small Winner')
+
 ### [[books/7517-collected-fictions-the-south|Collected Fictions ('The South')]]
 
 - “Something in the dimness brushed his forehead—a bat? a bird?” (≈12% through the story)
@@ -182,6 +304,7 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “his direct knowledge of the country was considerably inferior to his nostalgic, literary knowledge.” (≈52%)
 - “There was something in its sorry architecture that reminded Dahlmann of a steel engraving, perhaps from an old edition of Paulet Virginie.” (≈65%)
 - “It was as though the South itself had decided that Dahlmann should accept the challenge.” (≈92%)
+- “De Quincey says that man's brain is a palimpsest. Every new text covers the previous one, and is in turn covered by the text that follows” ('Shakespeare's Memory')
 
 ### [[books/708-the-routledge-companion-to-experimental-literature|The Routledge Companion to Experimental Literature]]
 
@@ -199,6 +322,11 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “Daemonic personifications, in contrast, are much less authoritative and can even be faintly ridiculous.” (p. 23)
 - “In later texts, it also illuminates the phenomenon of persons turning themselves into personifications.” (p. 25)
 - Excerpt pp. 5–6 (Gregory's machina)
+
+### [[books/721-four-novels-out-64-such-66-between-68-thru-75-the|Four Novels: Out ('64), Such ('66), Between ('68) & Thru ('75): The Christine Brooke-Rose Omnibus]]
+
+- “But if he’s a small winner he’s at least a great loser.” (Thru, seminar scene, Doreen's essay)
+- “he will miss his victory and his it in me, keeping them as a small winner.” (Thru, Larissa on Stavro Laretino)
 
 ### [[books/149-religio-medici-and-urne-buriall|Religio Medici and Urne-Buriall]]
 
@@ -300,6 +428,10 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 
 - "Exactly three years ago, I was interned in Dr. Morales’s sanatorium in Santander, Spain, Dr. Pardo, of Madrid, and the British Consul having pronounced me incurably insane." (23 Aug 1943) | "(By looking at the map, you will see the respective positions of Villa Pilar, Radiografia, Covadonga, Amachu, and Abajo (Down Below); that will enable you to get your bearings.)" (24 Aug 1943) | "The pavilion with this name was for me the Earth, the Real World, Paradise, Eden, Jerusalem." (26 Aug 1943) | "I realized that I had to find my place in the circle, and sat at 45 degrees to the left of the door" (27 Aug 1943) | "that Covadonga and Amachu and Down Below were not Egypt, China, and Jerusalem, but pavilions for the insane and that I should get out as quickly as possible." (27 Aug 1943) | Excerpt: “Is Down Below nice?” “Delightful. Everyone is happy there.” “Take me with you.” “I can’t.” “Why not?” “Because you’re not well enough to go there.” (25 Aug 1943)
 
+### [[books/9756-cryptomimesis-the-gothic-and-jacques-derrida-s-gho|Cryptomimesis: The Gothic and Jacques Derrida's Ghost Writing]]
+
+- “Rashkin, in Family Secrets and the Psychoanalysis of Narrative, calls “transtextuality,” a term she proposes for “the specific kind of intertextual relationship at work in narratives organized by phantoms” (45).” (‘The First Partition’, p. 17)
+
 ### [[books/349-observations-upon-experimental-philosophy-extract|Observations upon Experimental Philosophy (extract: 'sky' sections)]]
 
 - “how these actions are performed inwardly, no Microscope is able to give us a true information thereof.” (Of the Celestial Parts, p. 6)
@@ -308,6 +440,12 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “whether it be onely a delusion of the glasses, I will not dispute” (Of Telescopes, p. 8)
 - “I chose rather to follow the guidance of regular Reason, then of deluding Art.” (Of Telescopes, p. 8)
 - Excerpt: 'Of Telescopes', opening, p. 8
+
+### [[books/13682-narrative-perspective-in-fiction-a-phenomenologica|Narrative Perspective in Fiction: A Phenomenological Mediation of Reader, Text, and World]]
+
+- “the narrator and his narratees - you and I - perhaps belong to some narrative. (235-6)” (p. 82)
+- “Metalepsis is unacceptable to Genette because of the fundamentally visual and spatial nature of his understanding of narrative.” (p. 82)
+- “Metalepsis, is not a level but an ‘additional detour’ to the narrative levels (237).” (p. 81)
 
 ### [[books/7214-some-ways-of-making-nothing-apophatic-apparatuses|Some Ways of Making Nothing: Apophatic Apparatuses in Contemporary Art]]
 
@@ -333,6 +471,29 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “what Elias Canetti calls Kafka’s “compulsive sacralization” of places and states of mind—which amounts to a “sacralization of man. Every place, every moment, every aspect, every step of the way is serious and important and unique.”” (Introduction, n. 8)
 - “an unshakeable judgment [unerschütterliches Urteil]” (ch. 2, citing DI 269)
 - “There is something deeply exciting about this stubborn attempt of someone who was helpless, to exclude himself from power in any form” (ch. 6, n. 22)
+
+### [[books/7664-lukacs-after-communism-interviews-with-contemporar|Lukács After Communism: Interviews With Contemporary Intellectuals]]
+
+- “He wrote realist novels, but with antirealist techniques. It is quite paradoxical.” (Interview with Roberto Schwarz)
+- “This rather absurd combination, which was at the bottom of the artistic failure of his fellow novelists, became the source of Machado’s strength.” (Interview with Roberto Schwarz)
+- “Well, it is actually terrible once you understand it better.” (Interview with Roberto Schwarz)
+
+### [[books/15092-posthumous-memoirs-of-bras-cubas-a-novel|Posthumous Memoirs of Brás Cubas: A Novel]]
+
+- “When reviewing the book, Capistrano de Abreu asked, ‘Is Posthumous Memoirs of Brás Cubas a novel?’” (Author’s Preface to the Third Edition)
+- “It is an engraved goblet, and while it may resemble the work of engravers of the same school, it contains a very different wine.” (Author’s Preface to the Third Edition)
+- “may well have adopted the free form of a Sterne or a Xavier de Maistre” (To the Reader)
+- “Pascal may say that man is a thinking reed, but he isn’t, he’s a thinking erratum.” (ch. XXVII ‘Virgília?’)
+- “Each season in life is a new edition that corrects the preceding one, which will in turn be corrected again, until we reach the definitive edition, which the editor donates for free to the worms.” (ch. XXVII)
+- “He says that man has ‘a great advantage over the rest of the world: he knows that he is dying, whereas the universe is entirely unaware of it.’” (ch. CXLII ‘The secret request’)
+- “Erasmus, who wrote some fine things in his treatise In Praise of Folly, drew attention to the pleasure with which two donkeys scratch each other.” (ch. CXLIX ‘Theory of good deeds’)
+- “except that the eminent Jansenist did not allow for the simultaneous enjoyment of those two natures” (ch. XCVIII)
+- “Do you remember my theory about human editions? Well, by then I was in my fourth edition, revised and amended, but still infested with mistakes and barbarisms” (ch. XXXVIII ‘The fourth edition’)
+- “The quotation is actually from Acts 9:6.” (translators’ endnote to ch. XXXV)
+- “The order of the two lines has been reversed (perhaps accidentally)” (translators’ endnote to ch. VI)
+- “True, it is a somewhat rambling book, and although I, Brás Cubas, may well have adopted the free form of a Sterne or a Xavier de Maistre,* I have added a little petulant pessimism of my own.” (‘To the Reader’)
+- “I wrote it with the pen of mirthful mockery and the ink of melancholy, and it is not hard to foresee what would result from such a marriage.” (‘To the Reader’)
+- “The literary models Machado mentions in his preface are Laurence Sterne, Xavier de Maistre, and Almeida Garrett,” (translators’ Introduction)
 
 ### [[books/10998-a-childhood-the-biography-of-a-place|A Childhood: The Biography of a Place]]
 
@@ -368,6 +529,31 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "This is editing at its extreme: writing without composing." (Author's Note)
 - "Stop carrying out your intentions." (Signals at Sea, poem 16)
 
+### [[books/6729-heterocosmica-fiction-and-possible-worlds|Heterocosmica: Fiction and Possible Worlds]]
+
+- “Gerard Genette dissents.” (Prologue, p. 25)
+- “But this conclusion only confirms that narrativity is not a criterion for the fiction/nonfiction distinction. Genette does not mention the existence of a semantic, truth-conditional criterion.” (Prologue, p. 26)
+- “Every object can be transformed, every method imitated; there is no art that, by nature, escapes these two modes ofderivation which, in literature, define hypertextuality” (Epilogue, p. 224; OCR 'ofderivation')
+- “The ideological critic is insensitive to the “regime ludique” (Genette 1982, 452-53) of the rewrite transduction.” (Epilogue, n. 29)
+
+### [[books/12448-franketienne-and-rewriting-a-work-in-progress|Frankétienne and Rewriting: A Work in Progress]]
+
+- “Genette is the principal theorist on whom my ideas on rewriting are based.” (Introduction, p. 4)
+- “This image, in the quotation above, of a text as a hypertext, grafting itself palimpsestually onto a hypotext, an earlier text that it imitates or transforms, is one that is especially relevant to Frankétienne’s rewriting” (Introduction, p. 5)
+- “What is frustrating about Genette’s definitions of these particular terms is that many of these words are quickly designated “special cases,” about which he has almost nothing to say” (Introduction, p. 5)
+
+### [[books/5996-weaponising-speculation|Weaponising Speculation]]
+
+- “in his work Paratext, the literary theorist Gerard Ginette described them as the ‘mediocre attached to the beautiful’ [ii].” (‘MOUTH’, opening paragraph)
+- “Ginette actually says this in a footnote, and is quoting the French author Alain, who is in turn quoted in the Petit Robert dictionary” (‘MOUTH’, note ii)
+- “crumbly, not to say dust-like” (‘MOUTH’, opening paragraph)
+
+### [[books/6336-against-expression-an-anthology-of-conceptual-writ|Against Expression: An Anthology of Conceptual Writing]]
+
+- “In the opening to Great Expectations: A Novel (New York: Grove, 1983), Kathy Acker appropriates, deforms, summarizes, and rewrites passages from Charles Dickens’s Great Expectations and Pierre Guyotat’s Eden, Eden, Eden to solve the equation plagiarism + pornography = autobiography.” (headnote, p. 28)
+- “There is not time; there is.” (p. 29)
+- “This powerful image depends on the Empress, the image I have of my mother.” (p. 29)
+
 ### [[books/4416-no-medium|No Medium]]
 
 - "the difference between the sophistication of getting the joke and the greater sophistication of refusing to get the joke depends on how closely one reads a work that seems to ask only that it not be read." (ch. 1)
@@ -376,6 +562,11 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "there are no real absences, only replacements" (ch. 2, Cenography)
 - "Those blank pages linked with the cosmos: space before creation." (Little Review reader, quoted ch. 1)
 - "The other five tracks are inconsequential, and the title track performance of 4'33" reveals the conductor doesn't take the tempi as marked; it clocks in a full 18 seconds too slow" (ch. 8, Further Listening)
+
+### [[books/1261-the-cambridge-history-of-latin-american-literature|The Cambridge History of Latin American Literature, Volume 1: Discovery to Modernism]]
+
+- “His most remembered literary judgment was also his least felicitous: a scathing criticism of Machado de Assis for having failed to create any memorable fictional personages” (Skidmore, p. 347)
+- “the subjectivist lyricism and the pretentious humor of the Falenas of Machado de Assis” (Moisés, p. 83, quoting Romero 1870)
 
 ### [[books/3929-kant-and-the-platypus-essays-on-language-and-cogni|Kant and the Platypus: Essays on Language and Cognition]]
 
@@ -395,6 +586,8 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “But I’ve long been forgetting who I am, and I’ve ‘overshot the mark’.” (p. 134)
 - “When I wanted to play the fool, I assumed the character of Folly, and just as in Plato Socrates masks his face in order to sing the praises of love, I too have played my comedy in character.” (Letter to Dorp, p. 143)
 - Excerpt pp. 12–13 (refusal of definition)
+- “What shows such willingness to please as the way mules scratch each other?” (Folly's speech on flattery, before n. 87)
+- “A purblind man who takes a donkey for a mule or one who praises an ill-written poem as an excellent one certainly won’t be thought insane.” (Folly's speech on insanity)
 
 ### [[books/9808-the-midnight-disease-the-drive-to-write-writer-s-b|The Midnight Disease: The Drive to Write, Writer's Block, and the Creative Brain]]
 
@@ -414,6 +607,11 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “MELANCHOLY: Sign of a distinguished heart and an elevated mind.” (Dictionary of Accepted Ideas)
 - “DICTIONARY: Scoff at it—is only for ignoramuses.” (Dictionary)
 - “BOOK: No matter which one, always too long.” (Dictionary)
+
+### [[books/11676-the-oxford-guide-to-literature-in-english-translat|The Oxford Guide to Literature in English Translation]]
+
+- “retains much of the original’s humour and bite.” (p. 444, Brazilian Literature)
+- “is a fine rendering, even if it omits nine chapters from the original, while the more complete translation by Caldwell reveals a perhaps excessive influence of her own views on Machado de Assis.” (p. 444)
 
 ### [[books/4593-vampyres-genesis-and-resurrection-from-count-dracu|Vampyres: Genesis and Resurrection, from Count Dracula to Vampirella]]
 
@@ -441,6 +639,11 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “For my own part, I would not compare his work with that of Hannah Arendt, but with Kafka’s.” (ibid.)
 - “Under Canetti’s gaze, the crowd becomes an organism, a beast that crouches under the phenomena of world history. The result is a sort of mystical primitivism.” (Rothstein, quoted ibid., n. 9)
 
+### [[books/1200-aesthetic-theory-essential-texts-for-architecture|Aesthetic Theory: Essential Texts for Architecture and Design]]
+
+- “One might generalize by saying: the technique of reproduction detaches the reproduced object from the domain of tradition. By making many reproductions it substitutes a plurality of copies for a unique existence.” (Benjamin, ‘The Work of Art in the Age of Mechanical Reproduction’, § II)
+- “Presumably without intending it, he issued an invitation to a far-reaching liquidation.” (Benjamin, § II)
+
 ### [[books/926-a-temple-of-texts|A Temple of Texts]]
 
 - “Then the word I—that moist reedlike letter that makes the winds sing, that wonderful word for me—takes ten typical bows in our specimen paragraph” (The Road to the True Book)
@@ -449,6 +652,51 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “A deceased Nobel laureate, Elias Canetti has now achieved such fame as to be unknown all over the world.” (ibid.)
 - “Moreover, after at first naming the character Kant, he called him Kien, meaning ‘kindling,’ so what was possible for that person but ignition?” (Influence)
 - “and in the shooting and its subsequent panic, ninety people were killed and many more injured.” (Influence)
+
+### [[books/6534-figures-of-literary-discourse|Figures of Literary Discourse]]
+
+- “Like Proust's writing, Proust’s work is a palimpsest in which several figures and several meanings are merged and entangled together, all present together at all times, and which can only be deciphered together, in their inextricable totality.” ('Proust Palimpsest', p. 226)
+- “but in a very modest way. On the other hand, it is given a particularly high (and very Proustian) value in this page from Baudelaire’s Paradis artificiels, translated from the Suspiria de Profundis:” (n. 59, p. 228)
+- “What is the human brain, if not an immense natural palimpsest? My brain is a palimpsest, as yours is too, reader. Innumerable layers of ideas and feelings have fallen one after another on your brain, as gently as light.” (n. 59, p. 228)
+- “The form of the palimpsest, or superimpression, struck me as being a common characteristic of Proust’s writing” ('Principles of Pure Criticism', p. 72)
+- “A palimpsest: a manuscript which has been scratched or erased in order to write something else on the parchment.” (Logan, Introduction, p. xv)
+
+### [[books/5343-narrative-discourse-an-essay-in-method|Narrative Discourse: An Essay in Method]]
+
+- “I have silently modified the French edition of this book by correcting obvious errors, occasionally supplementing the documentation, and giving both French and English versions of quotations from Proust when the French version seemed essential (mainly in Chapter 3).” (Translator's Preface, p. 16)
+- “All quotations from the Recherche are from the Scott Moncrieff and Mayor translation, except for a very few (indicated in the notes) which are my translation, at those places where Genette’s exposition required a strictly literal rendering.” (Translator's Preface, pp. 15–16)
+- “Since Genette’s presentation and Jane Lewin’s translation are admirably clear, there is no need to outline the book’s argument” (Foreword, p. 10)
+- “But it might also be the case that Genette’s work is testimony to the power of the marginal, the supplementary, the exception.” (Foreword, p. 13)
+- “What separates them is less a distance than a sort of threshold represented by the narrating itself, a difference of level.” (ch. 5 ‘Voice’, ‘Narrative Levels’, p. 228)
+- “Any other form of transit is, if not always impossible, at any rate always transgressive.” (ch. 5, ‘Metalepses’, p. 234)
+- “a shifting but sacred frontier between two worlds, the world in which one tells, the world of which one tells.” (ch. 5, p. 236)
+- “these forms we will call reduced metadiegetic (implying: reduced to the diegetic), or pseudo-diegetic.” (ch. 5, p. 237)
+- “the real author of the narrative is not only he who tells it, but also, and at times even more, he who hears it.” (ch. 5, p. 262)
+- “In a note at this point Genette speaks of the acceptability of his terms with respect to current French usage” (Introduction, p. 27 n. 2, Translator’s note)
+- “Even—or especially?—when he is silent, the critic says too much.” (Afterword, p. 268)
+
+### [[books/2356-palimpsests-literature-in-the-second-degree|Palimpsests: Literature in the Second Degree]]
+
+- “In another less explicit and canonical form, it is the practice of plagiarism (in Lautréamont, for instance), which is an undeclared but still literal borrowing.” (ch. 1, p. 2)
+- “With some exceptions, I will therefore deal here with the sunnier side of hypertextuality: that in which the shift from hypotext to hypertext is both massive (an entire work B deriving from an entire work A) and more or less officially stated.” (ch. 2, p. 9)
+- “Jorge Luis Borges succeeded in demonstrating with the imaginary example of Pierre Menard that the mere displacement of context turns even the most literal rewriting into a creation.” (ch. 5, p. 17)
+- “Do take note of the preposition “after”: reading comes after writing;” (ch. 52, p. 252)
+- “This is the most irritating palimpsest of all, which reduces me to hunches and to questionings.” (ch. 78, p. 383)
+- “every successive state of a written text functions like a hypertext in relation to the state that precedes it and like a hypotext in relation to the one that follows.” (ch. 80, p. 395)
+- “one who really loves texts must wish from time to time to love (at least) two together.” (ch. 80, p. 399)
+- “Any text is a hypertext, grafting itself onto a hypotext, an earlier text that it imitates or transforms; any writing is rewriting; and literature is always in the second degree.” (Foreword by Gerald Prince, p. ix)
+- “Parody is a game of skill; the Oulipism, like roulette, is a game of chance.” (ch. 9, p. 48)
+- “Chance is at the helm; no semantic intention is at work, nothing “tendentious” or premeditated.” (ch. 9, p. 48)
+- “I shall therefore consider only one aspect of this Oulipic activity: namely, its transformational aspect.” (ch. 9, p. 40)
+- “I can imagine a noble exercise for some idle and reverential Pierre Menard” (p. 122)
+- “Every object can be transformed, every manner imitated, and no art can by nature escape those two modes of derivation that define hypertextuality in literature and more generally define all second-degree artistic practices, or hyperartistic practices.” (ch. 79, p. 384)
+- “Official humor is a contradiction in terms.” (ch. 80, p. 400)
+- “Paratextuality, as one can see, is first and foremost a treasure trove of questions without answers.” (ch. 1, p. 4)
+- “The second type is the generally less explicit and more distant relationship that binds the text properly speaking, taken within the totality of the literary work, to what can be called its paratext” (ch. 1, p. 3)
+- “can be represented by the old analogy of the” (ch. 80, p. 398; OCR continues 'pakmpsest')
+- “one text can become superimposed upon another, which it does not quite conceal but allows to show through. It has been aptly said that pastiche and parody ‘designate literature as a palimpsest.’” (p. 399)
+- “one who really loves texts must wish from time to time to love (at least) two together.” (p. 399)
+- “Ruth Amossy and Elisheva Rosen, ‘La dame aux catleyas,’ Littérature 14 (May 1974).” (n. 6, p. 471)
 
 ### [[books/8067-ethics|Ethics]]
 
@@ -471,6 +719,17 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “The best treatment of the crowd's role in abolishing differences is Elias Canetti's Crowds and Power, trans. Carol Stewart (New York, 1966).” (p. 131 n. 3)
 - “The crowd finally hurled itself on one individual; even though he had no particular qualifications for this role, he served to polarize all the fears, anxieties, and hostilities of the crowd.” (p. 131)
 
+### [[books/12079-porn-archives-ch-6-up-from-underground|Porn Archives (ch. 6, 'Up from Underground')]]
+
+- “This testimony in turn supplied the basis for the paratextual packaging—academic prefaces, judicial decisions, and sometimes even trial transcripts—that established the initial thresholds of interpretation of these texts for an entire generation of readers.” (ch. 6, pp. 127–28)
+- “to convince the censors (or judge) that we are serious about this business, that we have spent a long time preparing this work, which is a work of considerable scholarship.” (ch. 6, Sade section; Seaver to Wainhouse, 1965)
+- “This chapter derives from my book, Counterculture Colophon: Grove Press, the Evergreen Review, and the Incorporation of the Avant-Garde (Stanford, CA: Stanford University Press, 2013).” (ch. 6, notes)
+
+### [[books/3396-delphi-complete-works-of-johann-wolfgang-von-goeth|Delphi Complete Works of Johann Wolfgang Von Goethe (Illustrated)]]
+
+- “Why, ’tis good to be sad and say nothing.” (As You Like It, Jaques, as printed in 3396)
+- “Rosalind. Why, then, ’tis good to be a post.” (As You Like It, as printed in 3396)
+
 ### [[books/408-the-essential-gombrich-truth-and-the-stereotype|The Essential Gombrich ('Truth and the Stereotype')]]
 
 - “is a skill so deeply hidden in the human soul that we shall hardly guess the secret trick that Nature here employs” (Kant epigraph, p. 88)
@@ -479,6 +738,10 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “The familiar will always remain the likely starting point for the rendering of the unfamiliar; an existing representation will always exert its spell over the artist even while he strives to record the truth.” (p. 103)
 - “you cannot create a faithful image out of nothing. You must have learned the trick if only from other pictures you have seen.” (p. 104)
 - “It reminds us that the starting point of a visual record is not knowledge but a guess conditioned by habit and tradition.” (p. 107)
+
+### [[books/4688-conrad-language-and-narrative|Conrad, Language, and Narrative]]
+
+- “Schomberg is one of Conrad’s stock of ‘transtextual’” (chapter on ‘Falk’ and Victory)
 
 ### [[books/80-russian-cosmism|Russian Cosmism]]
 
@@ -513,6 +776,11 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “Bruno Latour is the first secular occasionalist” (ch. 5, p. 115)
 - “Custom is to Hume what God is to the occasionalists: the only genuine link between separate realities” (ch. 5, p. 115)
 
+### [[books/2031-voyage-around-my-room|Voyage Around My Room]]
+
+- “a resonance that would be echoed throughout Europe and even in Latin America (from Goncharov to Machado de Assis); Sainte-Beuve detected even more of the grace souriante et sensible of Charles Lamb in these whimsical chapters” (Introduction, Richard Howard)
+- “I have noticed, through many and sundry observations, that man is made up of a soul and a beast.— These two beings are absolutely distinct, yet so contained within one another, or rather on top of one another,” (ch. VI)
+
 ### [[books/13363-agnes-martin-night-sea|Agnes Martin: Night Sea]]
 
 - "scored and sometimes gilded, they generate pattern in and as surface." (p. 13) | "the six-foot span – Martin’s standard canvas size as of 1960 – measures the reach of her own arms." (p. 16) | "Near the top right corner, the main lines veer off track to the right, and the horizontal bands dip ever so slightly. The slopes show how her implementation of markings was keyed to her movement." (p. 16) | "Accident betrays her." (p. 17) | "these marks positively evidence what Annette Michelson once characterised as a distinctively human ‘visual tremolo’, which is to say, that they are aleatory and minutely flawed." (p. 17) | "she could not conceal the journey of her hand across the page, or the systems she put in place to attempt regulation." (p. 18) | "in addition to a T-square and ruler, Martin used threads to track vertical and horizontal coordinates, a trick assimilated from watching Tawney dress her loom" (Sachs, quoted p. 36) | "Well, when I first made a grid I happened to be thinking of the innocence of trees" (Martin, quoted p. 45)
@@ -520,6 +788,14 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 ### [[books/10557-lines-a-brief-history|Lines: A Brief History]]
 
 - "Fully linearized, the line is no longer the trace of a gesture but a chain of point-to-point connections. In these connections there is neither life nor movement. Linearization, in short, marks not the birth but the death of the line." (ch. 5, p. 151) | "For Semper the prototypical line was a thread; for Riegl it was a trace" (ch. 2, p. 42) | "more like a series of appointments than a walk" (Klee, quoted ch. 3, p. 73) | "the straight lines of the ruled manuscript, which guided the writer’s hand in weaving the letter-line, can be traced back to the parallel warp-threads of the loom. The threads were straight because they were taut." (ch. 6, p. 157) | "A ruler is a sovereign who controls and governs a territory. It is also an instrument for drawing straight lines." (p. 160) | "Only when the architect ceased to be a master-builder and retreated to the drawingboard were templates replaced by the ruler, and taut threads by the ruled traces of the diagram." (p. 161) | "so no line that is ever drawn – even with a ruler – can ever be perfectly straight. An element of risk is always involved." (p. 162)
+
+### [[books/2269-the-book-of-emotions|The Book of Emotions]]
+
+- “7. Quincas Borba and his owner” (ch. 7, title)
+- “I took a picture of Quincas Borba, the couple’s Weimaraner.” (ch. 7)
+- “– Guga came up with the name “Quincas Borba,” Tânia told me.” (ch. 7)
+- “When he heard the click of my camera, Guga, who liked to quote left and right,” (ch. 7)
+- “Would I be capable of betraying a friend?” (ch. 11 'Quincas’s warning of danger')
 
 ### [[books/6355-the-book-of-beginnings|The Book of Beginnings]]
 
@@ -580,6 +856,10 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "To leave a thing unfinished gives interest, and makes for lengthened life. They say that even in building the palace an unfinished place is always left." (§82)
 - "Are we only to look at flowers in full bloom, at the moon when clear?" (§137)
 
+### [[books/3535-existential-thought-and-fictional-technique-kierke|Existential Thought and Fictional Technique: Kierkegaard Sartre Beckett]]
+
+- “with reference to Marcel become a writer” (Beckett chapter, on Molloy)
+
 ### [[books/11256-in-the-dark-places-of-wisdom|In the Dark Places of Wisdom]]
 
 - "What's important is that you would do absolutely nothing. The point came when you wouldn't struggle or make an effort. You'd just have to surrender to your condition." (p. 80)
@@ -600,6 +880,12 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “they seem to suggest with embarrassed gestures that they themselves don’t rightly know what they wished to say.” (On the Gradual Formulation of Thoughts While Speaking)
 - Excerpt: the youth at the mirror
 - Other: a misreading worth attempting (C… as film director)
+
+### [[books/7887-pensees|Pensees]]
+
+- “Man is only a reed, the weakest in nature, but he is a thinking reed.” (frag. 200)
+- “because he knows that he is dying and the advantage the universe has over him. The universe knows none of this.” (frag. 200)
+- “Man is neither angel nor beast, and it is unfortunately the case that anyone trying to act the angel acts the beast.” (frag. 678)
 
 ### [[books/8480-paper-machines-about-cards-catalogs-1548-1929|Paper Machines: About Cards & Catalogs, 1548-1929]]
 
@@ -683,6 +969,27 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 
 - 'Auto-da-Fé. Translated by C. V. Wedgwood. New York: Stein and Day, 1946; also as: The Tower of Babel. New York: Knopf, 1947).' (front matter) | 'who translated Die Blendung' (Reiss, p. 83)
 
+### [[books/692-paratexts-thresholds-of-interpretation|Paratexts: Thresholds of Interpretation]]
+
+- “most often the character promoted to the role of preface-writer is the narrator-hero of a first-person narrative, which - via the preface itself - he claims to have written.” (ch. 8, p. 190)
+- “for Tristram Shandy, on account of its internal preface; for Poe's Gordon Pym; for the Braz Cubas of Machado de Assis;” (ch. 8, p. 190)
+- “it is as the author that Braz Cubas announces a "diffuse work in which I, Braz Cubas, having adopted the free style of a Sterne or Xavier de Maistre, am not sure that an underlying vein of pessimism does not come to the surface here and there.” (ch. 10, pp. 290–291)
+- “Machado de Assis, Joaquim Maria. Posthumous Reminiscences of Braz Cubas. Translated by E. Percy Ellis. Rio de Janeiro: Instituto Nacional do Livro, 1955.” (Additional references, p. 414)
+- “Unless one "reconstitutes" it, as V. del Litto does, that is, puts together as a journal the notes and marginalia scattered after that date throughout Stendhal's whole library.” (ch. 14, p. 390, n. 23)
+- “The first of the three practices is translation, particularly when it is more or less revised or checked by the author, as Groethuysen's German version of Les Nourritures terrestres was by Gide; and all the more so when the entire task is undertaken by the author alone, in keeping with the established practice of a bilingual writer such as Beckett, each of whose translations must, in one way or another, serve as commentary on the original text.” (Conclusion, p. 405)
+- “But a commentary to be used with care, for the right to be unfaithful is an authorial privilege.” (Conclusion, p. 405 n. 2)
+- “The translator-preface-writer may possibly comment on, among other things, his own translation; on this point and in this sense, his preface then ceases to be allographic.” (ch. 10, p. 264 n. 22)
+- “For the English translation, the author added a number of explanatory passages.” (Translator's note, p. xxv)
+- “this humor and richness are pervasive, a signature of his style (nicely captured here by his translator)” (Foreword, p. xxi)
+- “For us, accordingly, the paratext is what enables a text to become a book and to be offered as such to its readers and, more generally, to the public.” (Introduction, p. 1)
+- “or, as Philippe Lejeune put it, "a fringe of the printed text which in reality controls one's whole reading of the text."” (Introduction, p. 2)
+- “Philippe Lejeune, Le Pacte autobiographique (Seuil, 1975), 45.” (Introduction, p. 2 n. 5)
+- “A cliche we will not mention again: "A note is the mediocre attached to the beautiful" (Alain, quoted in the Robert dictionary).” (ch. 12 ‘Notes’, p. 319 n. 1)
+- “That had to be said in a note.” (ch. 12 ‘Notes’, p. 319 n. 1)
+- “In all of that there is something basically oblique, which Proust called the ‘insincere language of (prefaces and) dedications’” (ch. 6 ‘Dedications’, p. 135)
+- “About hypocrisy: this is the place to recall Proust’s famous line about ‘the insincere language of prefaces and dedications’ - but this line does not appear in a preface.” (ch. 9, p. 231)
+- “having been unable to find the source of the quotation, I don’t know whether it appears in a preface.” (ch. 9, p. 231 n. 33)
+
 ### [[books/10207-and-their-children-after-them|And Their Children After Them]]
 
 - “He was holding a copy of Let Us Now Praise Famous Men, the first he had ever seen, it is said. He fumed that it made them look like slaves.” (Part III, ‘Gudger’, 1960–1986)
@@ -700,6 +1007,19 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - “I am aware, here, that I am making Canetti’s book talk and perhaps making it say more than it would on its own.” (p. 118)
 - “Democracy is the mass’s tact.” (p. 118)
 - “The goal is the most intense darkness where the most people are gathered.” (p. 115, as quoted; Stewart: ‘This goal is the blackest spot where most people are gathered.’)
+
+### [[books/1101-a-reader-on-reading|A Reader on Reading]]
+
+- “though it invades our cellars (the metaphor belongs to Machado de Assis) and then softly takes over the dining room, the living room, the whole house” (essay passage located by calibre get_passage)
+- “‘What is the human brain,’ asked Charles Baudelaire in 1869, ‘but an immense and natural palimpsest?’” (essay on libraries; EPUB, no page)
+- “Like Baudelaire’s almost infinite palimpsest, the library of the mind has no discernable limits.” (same paragraph)
+
+### [[books/760-a-reading-diary|A Reading Diary]]
+
+- “Each season of life is an edition that amends the previous one, and that will in turn be amended, until the definitive edition is reached, which the editor will present to the worms.” (ch. 12 'May', Tuesday)
+- “It is an old trick of Stupidity to become enamoured with other people’s houses, so that, when she takes one over, it is very difficult to throw her out.” (ch. 12 'May')
+- “For Machado de Assis, stupidity is the essence of the human condition.” (ch. 12 'May')
+- “I count on my shelves five editions of Brás Cubas (three in translation) and several biographical studies.” (ch. 12 'May', Thursday)
 
 ### [[books/997-art-in-its-time-theories-and-practices-of-modern-a|Art in Its Time: Theories and Practices of Modern Aesthetics]]
 
@@ -770,6 +1090,25 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "Prayer is properly not petition, but simply an attention to God which is a form of love." (ch. 2)
 - "There is nothing now but kestrel." (ch. 3, 'The Sovereignty of Good over Other Concepts')
 
+### [[books/15095-a-million-windows|A Million Windows]]
+
+- “The first-person narrator pauses in his account of his life-story, so to call it, and reports that a butterfly had come into his room through an open window a few minutes before and had alighted on his desk and had seemed to look at him as though he might have been the god of the butterflies.” (section 19)
+- “is the only detail that I can recall from my having read the work” (section 19)
+- “whether the butterfly or the seeming-butterfly was actual or fictional and, if it was fictional, whether or not the narrator reporting its existence was seemingly reliable and to be trusted” (section 19)
+
+### [[books/3172-stream-system|Stream System]]
+
+- “a passage reporting the arrival of a butterfly through a window into the room where the writer of the narrative was writing” (title story)
+- “in order to observe the writer’s way of interrupting his narrative from time to time in order to report one or another detail from the time when he was writing or the place where he was writing” (title story)
+- “I learned the term implied author from the book The Rhetoric of Fiction, by Wayne C. Booth” (title story)
+
+### [[books/4852-pathetic-literature|Pathetic Literature]]
+
+- “If everything is living there is nothing; this living is the only matter matters.” (Excerpt from Great Expectations)
+- “All these pieces of the rock (meaning Literature) long and short are just what I like.” (Introduction)
+- “In general poems are pathetic and diaries are pathetic. Really Literature is pathetic.” (Introduction)
+- “It’s a common belief that something exists when it’s part of a narrative.” (Excerpt from Great Expectations)
+
 ### [[books/2515-insomniac-dreams-experiments-with-time-by-vladimir|Insomniac Dreams: Experiments With Time by Vladimir Nabokov]]
 
 - "One hundred and eighteen handwritten Oxford cards, now held in the Berg Collection of the New York Public Library, bear sixty-four such records, many with relevant daytime episodes." (Part 1, Chronic Condition)
@@ -791,6 +1130,11 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 ### [[books/7415-the-coming|The Coming]]
 
 - "The non-occurrence of the catastrophe was a catastrophe which ultimately made the world impossible to live in." (ch. 9) | "Truth always appears as a fiction and takes the form of a story. I am a storyteller." (ch. 1) | "The third was now dug out of its tomb: the Messiah could come again." (ch. 6) | "He died in Ulcinj on 30 September 1676. That was Yom Kippur." (ch. 6) | "When a good sleuth and God are finished, no further interpretation is possible, there’s only applause" (ch. 8) | "The Apocalypse had been a kind of solution, after all." (ch. 9) | "The Messiah will come only when he is no longer necessary; he will come only on the day after his arrival" (Kafka, epigraph)
+
+### [[books/10410-bartlett-s-familiar-quotations|Bartlett's Familiar Quotations]]
+
+- “There is only one genuine misfortune: not to be born.” (Machado de Assis entry; Epitaph of a Small Winner [1881])
+- “Translated by WILLIAM L. GROSSMAN.” (note 4 on the same page)
 
 ### [[books/8381-cannibal-talk-the-man-eating-myth-and-human-sacrif|Cannibal Talk: The Man-Eating Myth and Human Sacrifice in the South Seas]]
 
@@ -841,6 +1185,10 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "Our body is the ultimate instrument of all our external knowledge, whether intellectual or practical." (ch. 1)
 - "Thought can live only on grounds which we adopt in the service of a reality to which we submit." (Introduction)
 
+### [[books/6515-sympathy-for-the-traitor-a-translation-manifesto|Sympathy for the Traitor: A Translation Manifesto]]
+
+- “Thirlwell brings up the Russian Pushkin and the Brazilian Machado de Assis, both taking inspiration from poor French translations of Laurence Sterne’s Tristram Shandy and A Sentimental Journey.” (ch. 9, p. 150)
+
 ### [[books/2627-they-say-in-harlan-county-an-oral-history|They Say in Harlan County: An Oral History]]
 
 - "There is no such thing as a neutral transcript: each comma is an act of interpretation" (PDF 19 / p. 10)
@@ -849,6 +1197,23 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "the most important things I had to offer were my ignorance and my desire to learn." (PDF 16 / p. 7)
 - "Much of the meaning is in the gaps and in the silences, to be extracted or filled in by the readers’ cooperation and imagination." (PDF 20 / p. 11)
 - Annie Napier: "They say sometimes something favorite of somebody’s, their spirit will attach to it, but, now, I don’t know if that’s true or not." (PDF 35 / p. 26)
+
+### [[books/2975-narratology-the-form-and-functioning-of-narrative|Narratology: The Form and Functioning of Narrative]]
+
+- “Perhaps I shall eliminate the preceding chapter. Among other reasons, there is, in the last few lines, something that might be construed as an error on my part.” (ch. 4 'Reading Narrative', p. 116, ex. 48, credited '(Epitaph of a Small Winner)')
+- “see Wayne C. Booth, The Rhetoric of Fiction (Chicago, 1961). pp. 149-165 et passim” (Notes)
+
+### [[books/8496-complete-works-of-thomas-de-quincey-with-illustrat|Complete Works of Thomas De Quincey (With Illustrations)]]
+
+- “What else than a natural and mighty palimpsest is the human brain? Such a palimpsest is my brain; such a palimpsest, oh reader! is yours. Everlasting layers of ideas, images, feelings, have fallen upon your brain softly as light.” (Suspiria de Profundis, 'The Palimpsest of The Human Brain')
+- “the vellum palimpsest, lying amongst the other diplomata of human archives or libraries” (same section)
+
+### [[books/1913-unconsolable-contemporary-observing-gerhard-richte|Unconsolable Contemporary: Observing Gerhard Richter]]
+
+- “The French scholar Gérard Genette, in a long chapter on ‘mood’ in Narrative Discourse: An Essay in Method, quotes the definition of ‘mood’ from the authoritative French dictionary Littré” (ch. 3 ‘Assembling’, before n. 14)
+- “Name given to different forms of the verb that are used to affirm more or less the same thing in question and to express the different points of view from which the life or the action is looked at.” (ch. 3, n. 14)
+- “Genette tells us that technically metalepsis is achieved through ‘the act that consists precisely of introducing into one situation, by means of a discourse, the knowledge of another situation.’” (ch. 3, n. 15)
+- “the narrator and his narratees—you and I—perhaps belong to [the same] narrative.” (ch. 3, n. 18)
 
 ### [[books/6002-vampires-a-reasonable-dictionary|Vampires & a Reasonable Dictionary]]
 
@@ -913,13 +1278,41 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - 'Captain Cook fell victim to the play of Hawaiian categories, or more precisely to their interplay with his own' (Intro, p. xiii)
 - 'Every actual use of cultural ideas is some reproduction of them, but every such reference is also a difference.' (ch. 5, p. 153)
 
+### [[books/14142-the-family-idiot-gustave-flaubert-1821-1857-volume|The Family Idiot: Gustave Flaubert, 1821-1857, Volume 1]]
+
+- “One could say that he seeks to merge with unnamable nature, fleeing the weight of nomination in the unnamed texture of things, in the irregular, indefinable movements of the foliage, of the waves.” (ch. 1, ‘Naïveté and Language’)
+- “I see surprising affinities between these first unconscious ventures beyond the self and the final vow of Saint Antoine—“to be matter.”” (ch. 1, ‘Naïveté and Language’)
+- “He would sit for hours, a finger in his mouth, looking almost stupid; this calm child who reacts badly when spoken to” (ch. 1, ‘Naïveté and Language’)
+- “the speech of the Other seems to him a word that has been given, in every sense of the term.” (ch. 1, ‘Naïveté and Language’)
+- “The word is never his; the trance soon absorbs the word, and by and by the word, fallen from the sky, oppresses him.” (ch. 1, ‘Naïveté and Language’)
+
 ### [[books/7651-sabbatai-sevi-the-mystical-messiah-1626-1676|Sabbatai Ṣevi: The Mystical Messiah, 1626-1676]]
 
 - "To believe in an apostate messiah was to build one’s hope on foundations of paradox and absurdity, which could only lead to more paradoxes." (p. 690) | "The Sabbatian paradox, however, was not that of a saint who suffers and whose suffering is a mystery hidden with God, but of a saint who sins." (p. 691) | "adopt the dress of the people through whose land he passes, and to behave as they do, lest they notice that he is a spy" (p. 802) | "Readers of Paul’s letters can learn a great deal from these later Jewish writings, composed in a very similar psychological situation." (p. 803) | "And finally he [that is, the messiah] will restore [to holiness] his qelippah which is Jesus Christ." (p. 285) | "Neither Our Lord nor anything else was in the cave, but it was full of light." (p. 920) | "Return every man to his house. How long will you hold fast to me?" (p. 917) | "Enthusiasm and love know of no hopeless situations. They play with the impossible, and rather than despair, they violate reality." (Renan, quoted p. 689)
 
+### [[books/1275-the-novel-volume-1-history-geography-and-culture|The Novel, Volume 1: History, Geography, and Culture]]
+
+- “According to one adversary, Machado took refuge in philosophical and formalist affectations, and peculiarly English ones, in order to avert the battles of the Brazilian writer.” (p. 819)
+- “Thus, sympathizers and opponents were both of the opinion that Machado retreated from Brazilian particularity, whether to interrogate the human condition or to devote himself to ‘the comedy of the almanac, the pessimism of ephemeral hack writing, which manages to delude those few simpletons who find it marvelous.’” (p. 819, n. 4: Romero 1897, p. 160)
+- “The idea that Brazilian reality did not pose universal problems, and vice versa, was common to both sides,” (p. 819)
+- “Machado comprehended the comic impasse inherent in this tonal disparity and, instead of avoiding it, made of it a central element in his literary art.” (p. 820)
+- “Machado’s classical borrowings are endless and have led critics to seek his merit in that domain, to our loss in comprehending the contemporary and advanced character of his experimentation.” (p. 839)
+
 ### [[books/2643-the-quest-of-the-historical-jesus|The Quest of the Historical Jesus]]
 
 - "The whole history of “ Christianity ” down to the present day, that is to say, the real inner history of it, is based on the delay of the Parousia, the non-occurrence of the Parousia" (ch. XIX) | "lays hold of the wheel of the world to set it moving on that last revolution which is to bring all ordinary history to a close" (ch. XIX) | "So they stole the body of Jesus and hid it, and proclaimed to all the world that He would soon return." (ch. II) | "Accordingly, the main problem of primitive dogmatics was the delay of the Parousia." (ch. II) | "There is no historical task which so reveals a man’s true self as the writing of a Life of Jesus." (ch. I) | "He planned the work at Gaza" (ch. XIII, on Renan)
+
+### [[books/2159-the-new-yale-book-of-quotations|The New Yale Book of Quotations]]
+
+- “Marcela loved me during fifteen months and three thousand dollars; nothing more.” (p. 510, Machado de Assis 1; ch. 17)
+- “It is better to fall from above the clouds than from the third floor.” (p. 510, Machado de Assis 2; ch. 119)
+
+### [[books/6773-the-politics-of-the-book-a-study-on-the-materialit|The Politics of the Book: A Study on the Materiality of Ideas]]
+
+- “Their intervention in what Philippe Lejeune describes as a pivotal “fringe of the printed text which in reality controls one’s whole reading of the text” (1975, 45)” (Introduction, ‘Paratexts’, p. 6)
+- ““a text to become a book and to be offered as such to its readers and, more generally, to the public” (McKenzie quoted in Genette 1997, 1)” (Introduction, ‘Paratexts’, p. 6)
+- “signifying simultaneously proximity and distance, similarity and difference, interiority and exteriority, a boundary, or both sides of the boundary line at once divided and connected by it (J. Miller 1979, 219)” (Introduction, ‘Paratexts’, p. 5)
+- “Lejeune, Philippe. 1975. Le pacte autobiographique. Paris: Seuil.” (Bibliography)
 
 ### [[books/2372-after-babel-aspects-of-language-and-translation|After Babel: Aspects of Language and Translation]]
 
@@ -981,6 +1374,23 @@ Every quotation recorded for a book, grouped by book. Each was checked against t
 - "Walter Skeat noticed that the Anglo-Saxon words in these arms, thoughtfully glossed for Walpole, were all taken from the A entries in an Anglo-Saxon dictionary." (p. 67 [PDF 78])
 - "I believe both Macpherson & Chatterton, that what they say is ancient is so," (Blake, quoted p. 5 [PDF 16])
 - "Chatterton had studied the tastes of this potential patron to very good effect." (p. 67 [PDF 78])
+
+### [[books/5839-the-crime-of-father-amaro|The Crime of Father Amaro]]
+
+- “However, when the great Brazilian novelist, Machado de Assis, accused Eça of squandering his talents and of pandering to the worst excesses of realism and Zolaesque naturalism in the 1876 version of Father Amaro, and to a salacious public in Cousin Basílio, Eça was stung.” (Introduction)
+- “He acknowledged the influence of Balzac and Zola, but denied that his work was a mere imitation of such novels as La Faute de l’Abbé Mouret.” (Introduction)
+
+### [[books/5935-a-loeb-classical-library-reader|A Loeb Classical Library Reader]]
+
+- “Cynthia prima suis miserum me cepit ocellis,” (Propertius 1.1.1, p. 168)
+- “et caput impositis pressit Amor pedibus,” (Propertius 1.1.4, p. 168)
+- “Cynthia first with her eyes ensnared me, poor wretch, that had previously been untouched by desire.” (Goold tr., p. 169)
+
+### [[books/5919-the-harvard-classics-fiction-collection-180-books|The Harvard Classics & Fiction Collection (180 Books)]]
+
+- “ATHRONG of bearded men, in sad-coloured garments and grey steeple-crowned hats, intermixed with women, some wearing hoods, and others bareheaded, was assembled in front of a wooden edifice” (Hawthorne, The Scarlet Letter, ch. I ‘The Prison-Door’)
+- “I charge thee to speak out the name of thy fellow-sinner and fellow-sufferer!” (Hawthorne, ch. III)
+- “That struts and frets his hour upon the stage” (Shakespeare, Macbeth, Act V)
 
 ### [[books/864-bartleby-co|Bartleby & Co.]]
 

@@ -225,7 +225,7 @@ book, not Marriot’s, the candidate for an apophatic apparatus, because it affi
 
 **Your sense:** The paradigmatic figure of productive absence: the ontological gesture by which something withdraws so that something else may be. The absent father-God who makes creation possible by not-being-there.
 
-**Received:** In Lurianic Kabbalah, the primordial act by which the Ein Sof (the Infinite) con-tracts or withdraws itself from a central point in order to create a vacated space (chalal panuy) within which finite creation can come into being.
+**Received:** In Lurianic Kabbalah, the primordial act by which the Ein Sof (the Infinite) contracts or withdraws itself from a central point in order to create a vacated space (chalal panuy) within which finite creation can come into being.
 
 **Etymology.** Hebrew root *ts-m-ts*, in the intensive Pi’el stem (sustained self-limitation). The cosmological sense is a sixteenth-century Lurianic coinage with no biblical antecedent.
 

@@ -5,7 +5,7 @@ tags:
   - shadow
 ---
 
-*Volume 2: An Author and Their Shadow · Week 1 · Status: Complete · Started 2026-10-26 · 343 Scribrarium volumes mention Elias Canetti.*
+*Volume 2: An Author and Their Shadow · Week 9 · Status: Complete · Started 2026-10-26 · 343 Scribrarium volumes mention Elias Canetti.*
 
 Subject page: [[people/elias-canetti|Elias Canetti]].
 

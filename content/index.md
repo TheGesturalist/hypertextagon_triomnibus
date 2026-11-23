@@ -4,7 +4,7 @@ title: "The Hypertext Triomnibus"
 
 *Scribrarium — Daily Resurfacings from a Thirteen-Thousand-Volume Library.*
 
-42 days and 127 distinct books resurfaced from one private library and read from their own files for what passes between them. Volume 1 (*Triads*) reads three books at a time across shared forms, motifs, genealogies, and conflicts; Volume 2 (*An Author and Their Shadow*) tracks a single writer per week across the library's full-text index.
+60 days and 182 distinct books resurfaced from one private library and read from their own files for what passes between them. Volume 1 (*Triads*) reads three books at a time across shared forms, motifs, genealogies, and conflicts; Volume 2 (*An Author and Their Shadow*) tracks a single writer per week across the library's full-text index.
 
 ## Ways in
 
@@ -17,8 +17,18 @@ title: "The Hypertext Triomnibus"
 
 ## Volume 2: An Author and Their Shadow
 
-- **Week 1:** [[shadows/weeks/elias-canetti|Shadow — Elias Canetti]] (*Complete* · 343 library mentions)
-- **Week 2:** [[shadows/weeks/kathy-acker|Shadow — Kathy Acker]] (*In progress* · 263 library mentions)
+- **Week 1:** [[shadows/weeks/mathias-enard|Shadow — Mathias Énard]] (*Idea* · 0 library mentions)
+- **Week 2:** [[shadows/weeks/susan-sontag|Shadow — Susan Sontag]] (*Idea* · 0 library mentions)
+- **Week 3:** [[shadows/weeks/pier-paolo-pasolini|Shadow — Pier Paolo Pasolini]] (*Idea* · 0 library mentions)
+- **Week 4:** [[shadows/weeks/peter-carey|Shadow — Peter Carey]] (*Idea* · 0 library mentions)
+- **Week 5:** [[shadows/weeks/jacques-derrida|Shadow — Jacques Derrida]] (*Idea* · 0 library mentions)
+- **Week 6:** [[shadows/weeks/stefan-zweig|Shadow — Stefan Zweig]] (*Idea* · 0 library mentions)
+- **Week 7:** [[shadows/weeks/black-mountain-poets|Shadow — Black Mountain Poets]] (*Idea* · 0 library mentions)
+- **Week 8:** [[shadows/weeks/new-york-school-poets|Shadow — New York School Poets]] (*Idea* · 0 library mentions)
+- **Week 9:** [[shadows/weeks/elias-canetti|Shadow — Elias Canetti]] (*Complete* · 343 library mentions)
+- **Week 10:** [[shadows/weeks/kathy-acker|Shadow — Kathy Acker]] (*Complete* · 265 library mentions)
+- **Week 11:** [[shadows/weeks/machado-de-assis|Shadow — Machado de Assis]] (*Complete* · 152 library mentions)
+- **Week 12:** [[shadows/weeks/gerard-genette|Shadow — Gérard Genette]] (*Complete* · 753 library mentions)
 
 1. 2026-10-26 — [[shadows/2026-10-26-shadow-elias-canetti-day-1-the-only-man|Shadow — Elias Canetti, day 1: The Only Man]]
 2. 2026-10-27 — [[shadows/2026-10-27-shadow-elias-canetti-day-2-the-quotation-survives|Shadow — Elias Canetti, day 2: The Quotation Survives]]
@@ -30,6 +40,24 @@ title: "The Hypertext Triomnibus"
 8. 2026-11-02 — [[shadows/2026-11-02-shadow-kathy-acker-day-1-the-card-says-alexandria|Shadow — Kathy Acker, day 1: The Card Says Alexandria]]
 9. 2026-11-03 — [[shadows/2026-11-03-shadow-kathy-acker-day-2-the-room-no-one-else-want|Shadow — Kathy Acker, day 2: The Room No One Else Wants]]
 10. 2026-11-04 — [[shadows/2026-11-04-shadow-kathy-acker-day-3-the-dissent-is-absent|Shadow — Kathy Acker, day 3: The Dissent Is Absent]]
+11. 2026-11-05 — [[shadows/2026-11-05-shadow-kathy-acker-day-4-the-sentence-was-sartre-s|Shadow — Kathy Acker, day 4: The Sentence Was Sartre's]]
+12. 2026-11-06 — [[shadows/2026-11-06-shadow-kathy-acker-day-5-everything-s-closing-in|Shadow — Kathy Acker, day 5: Everything's Closing In]]
+13. 2026-11-08 — [[shadows/2026-11-08-shadow-kathy-acker-day-6-slave-trader-first|Shadow — Kathy Acker, day 6: Slave Trader First]]
+14. 2026-11-08 — [[shadows/2026-11-08-shadow-kathy-acker-day-7-the-translator-is-the-one|Shadow — Kathy Acker, day 7: The Translator Is the One She Leaves Out]]
+15. 2026-11-09 — [[shadows/2026-11-09-shadow-machado-de-assis-day-1-the-complete-and-una|Shadow — Machado de Assis, day 1: The Complete and Unabridged Gap]]
+16. 2026-11-10 — [[shadows/2026-11-10-shadow-machado-de-assis-day-2-the-butterfly-on-the|Shadow — Machado de Assis, day 2: The Butterfly on the Desk]]
+17. 2026-11-11 — [[shadows/2026-11-11-shadow-machado-de-assis-day-3-retreated-from-brazi|Shadow — Machado de Assis, day 3: Retreated from Brazilian Particularity]]
+18. 2026-11-12 — [[shadows/2026-11-12-shadow-machado-de-assis-day-4-psychiatrist-find-an|Shadow — Machado de Assis, day 4: Psychiatrist, Find and Replace]]
+19. 2026-11-13 — [[shadows/2026-11-13-shadow-machado-de-assis-day-5-not-in-his-biographi|Shadow — Machado de Assis, day 5: Not in His Biographical Dictionaries]]
+20. 2026-11-14 — [[shadows/2026-11-14-shadow-machado-de-assis-day-6-the-thinking-erratum|Shadow — Machado de Assis, day 6: The Thinking Erratum]]
+21. 2026-11-15 — [[shadows/2026-11-15-shadow-machado-de-assis-day-7-name-kept-sentence-m|Shadow — Machado de Assis, day 7: Name Kept, Sentence Moved]]
+22. 2026-11-16 — [[shadows/2026-11-16-shadow-gerard-genette-day-1-the-most-irritating-pa|Shadow — Gérard Genette, day 1: The Most Irritating Palimpsest]]
+23. 2026-11-17 — [[shadows/2026-11-17-shadow-gerard-genette-day-2-according-to-riffaterr|Shadow — Gérard Genette, day 2: According to Riffaterre]]
+24. 2026-11-18 — [[shadows/2026-11-18-shadow-gerard-genette-day-3-a-game-of-chance-like|Shadow — Gérard Genette, day 3: A Game of Chance, Like Roulette]]
+25. 2026-11-19 — [[shadows/2026-11-19-shadow-gerard-genette-day-4-the-right-to-be-unfait|Shadow — Gérard Genette, day 4: The Right to Be Unfaithful]]
+26. 2026-11-20 — [[shadows/2026-11-20-shadow-gerard-genette-day-5-gerard-ginette|Shadow — Gérard Genette, day 5: Gerard Ginette]]
+27. 2026-11-21 — [[shadows/2026-11-21-shadow-gerard-genette-day-6-people-off-to-the-side|Shadow — Gérard Genette, day 6: People Off to the Side]]
+28. 2026-11-22 — [[shadows/2026-11-22-shadow-gerard-genette-day-7-the-old-analogy|Shadow — Gérard Genette, day 7: The Old Analogy]]
 
 ## Volume 1: The Triads
 

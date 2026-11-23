@@ -1,0 +1,13 @@
+---
+title: "allographic"
+tags:
+  - theme
+---
+
+## Readings
+
+- [[shadows/2026-11-19-shadow-gerard-genette-day-4-the-right-to-be-unfait|Shadow — Gérard Genette, day 4: The Right to Be Unfaithful]] (2026-11-19)
+
+## Books
+
+- [[books/2356-palimpsests-literature-in-the-second-degree|Palimpsests: Literature in the Second Degree]]

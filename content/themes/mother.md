@@ -11,3 +11,4 @@ tags:
 ## Books
 
 - [[books/1178-great-expectations|Great Expectations]]
+- [[books/4852-pathetic-literature|Pathetic Literature]]

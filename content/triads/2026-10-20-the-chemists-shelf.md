@@ -213,7 +213,7 @@ famous Nations of the dead” (V).
 
 - **Anagnōsis**: reading, especially reading aloud; an older Greek sense is “recognition, knowing again.”
 
-- **Eklogē**: selection, the act of picking out or the thing picked, and so the title of antholo-gies of excerpts.
+- **Eklogē**: selection, the act of picking out or the thing picked, and so the title of anthologies of excerpts.
 
 - **Hypomnēmatismos**: the making of a written record, and the record made: memorandum, day-book, note-taking, commentary.
 

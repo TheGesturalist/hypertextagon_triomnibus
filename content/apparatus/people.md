@@ -13,50 +13,69 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/cesar-aira|César Aira]] — author
 - [[people/miguel-molina-alarcon|Miguel Molina Alarcón]] — editor
 - [[people/philip-s-alexander|Philip S. Alexander]] — editor
-- [[people/chris-andrews|Chris Andrews]] — translator
+- [[people/sharon-lubkemann-allen|Sharon Lubkemann Allen]] — translator
+- [[people/graham-allen|Graham Allen]] — author
+- [[people/joao-guimaraes-rosa-foreword-by-jorge-amado|João Guimarães Rosa; foreword by Jorge Amado]] — author
+- [[people/chris-andrews|Chris Andrews]] — author, translator
 - [[people/anonymous|Anonymous]] — author
 - [[people/hannah-arendt|Hannah Arendt]] — translator
+- [[people/louis-armand|Louis Armand]] — author
 - [[people/joaquim-maria-machado-de-assis|Joaquim Maria Machado de Assis]] — author
+- [[people/machado-de-assis|Machado de Assis]] — author
 - [[people/arseny-avraamov|Arseny Avraamov]] — author
 - [[people/mieke-bal|Mieke Bal]] — author
 - [[people/gennady-barabtarlo|Gennady Barabtarlo]] — editor
 - [[people/meyer-barash|Meyer Barash]] — translator
 - [[people/roland-barthes|Roland Barthes]] — author
 - [[people/georges-bataille|Georges Bataille]] — author
+- [[people/kathryn-batchelor|Kathryn Batchelor]] — author
 - [[people/ibn-battuta|Ibn Battuta]] — author
 - [[people/j-c-beaglehole|J. C. Beaglehole]] — editor
+- [[people/daniel-levin-becker|Daniel Levin Becker]] — author
 - [[people/samuel-beckett|Samuel Beckett]] — contributor
 - [[people/john-stewart-bell|John Stewart Bell]] — author
 - [[people/anthea-bell|Anthea Bell]] — translator
+- [[people/gene-h-bell-villada|Gene H. Bell-Villada]] — author
 - [[people/david-bellos|David Bellos]] — translator
 - [[people/walter-benjamin|Walter Benjamin]] — author
 - [[people/anna-bostock-berger|Anna Bostock Berger]] — translator
 - [[people/vincenzo-binetti|Vincenzo Binetti]] — translator
 - [[people/maurice-blanchot|Maurice Blanchot]] — author
 - [[people/roberto-bolano|Roberto Bolaño]] — author, contributor
+- [[people/lucia-boldrini|Lucia Boldrini]] — editor
 - [[people/marcus-boon|Marcus Boon]] — contributor
+- [[people/wayne-c-booth|Wayne C. Booth]] — author
 - [[people/jorge-luis-borges|Jorge Luis Borges]] — author
 - [[people/robert-boyers|Robert Boyers]] — editor
 - [[people/joe-bray|Joe Bray]] — editor
 - [[people/katharine-breen|Katharine Breen]] — author
 - [[people/fred-bridgham|Fred Bridgham]] — translator
 - [[people/max-brod|Max Brod]] — editor
+- [[people/christine-brooke-rose|Christine Brooke-Rose]] — author
 - [[people/alastair-brotchie|Alastair Brotchie]] — editor
 - [[people/sir-thomas-browne|Sir Thomas Browne]] — author
 - [[people/robert-burton|Robert Burton]] — author
 - [[people/heimrad-backer|Heimrad Bäcker]] — author
+- [[people/helen-caldwell|Helen Caldwell]] — translator
 - [[people/italo-calvino|Italo Calvino]] — author
 - [[people/marion-may-campbell|Marion May Campbell]] — author
 - [[people/elias-canetti|Elias Canetti]] — author
 - [[people/john-carey|John Carey]] — author
 - [[people/leonora-carrington|Leonora Carrington]] — author
 - [[people/cesare-casarino|Cesare Casarino]] — translator
+- [[people/jodey-castricano|Jodey Castricano]] — author
 - [[people/margaret-cavendish|Margaret Cavendish]] — author
+- [[people/daniel-frank-chamberlain|Daniel Frank Chamberlain]] — author
 - [[people/eileen-j-cheng|Eileen J. Cheng]] — editor
 - [[people/curt-cloninger|Curt Cloninger]] — author
 - [[people/james-cook|James Cook]] — author
 - [[people/steven-corcoran|Steven Corcoran]] — translator
 - [[people/stanley-corngold|Stanley Corngold]] — author
+- [[people/eva-l-corredor|Eva L. Corredor]] — author
+- [[people/machado-de-assis-tr-margaret-jull-costa|Machado de Assis; tr. Margaret Jull Costa]] — author
+- [[people/intro-margaret-jull-costa|intro. Margaret Jull Costa]] — author
+- [[people/margaret-jull-costa|Margaret Jull Costa]] — translator
+- [[people/joaquim-maria-machado-de-assis-tr-margaret-jull-costa|Joaquim Maria Machado de Assis; tr. Margaret Jull Costa]] — author
 - [[people/emma-crawford|Emma Crawford]] — translator
 - [[people/harry-crews|Harry Crews]] — author
 - [[people/michael-j-curley|Michael J. Curley]] — translator
@@ -64,8 +83,13 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/kirk-a-denton|Kirk A. Denton]] — editor
 - [[people/charles-dickens|Charles Dickens]] — author
 - [[people/annie-dillard|Annie Dillard]] — author
+- [[people/lubomir-dolezel|Lubomír Doležel]] — author
+- [[people/claude-doubinsky|Claude Doubinsky]] — translator
+- [[people/rachel-douglas|Rachel Douglas]] — author
+- [[people/caoimhe-doyle|Caoimhe Doyle]] — author
 - [[people/jonathan-dunne|Jonathan Dunne]] — translator
-- [[people/craig-dworkin|Craig Dworkin]] — author
+- [[people/craig-dworkin|Craig Dworkin]] — author, editor
+- [[people/roberto-gonzalez-echevarria|Roberto González Echevarría]] — author
 - [[people/umberto-eco|Umberto Eco]] — author
 - [[people/william-edgerton|William Edgerton]] — translator
 - [[people/philip-edwards|Philip Edwards]] — editor
@@ -75,20 +99,28 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/will-firth|Will Firth]] — translator
 - [[people/alice-w-flaherty|Alice W. Flaherty]] — author
 - [[people/gustave-flaubert|Gustave Flaubert]] — author
+- [[people/peter-france|Peter France]] — editor
 - [[people/jonathan-franzen|Jonathan Franzen]] — translator
 - [[people/christopher-frayling|Christopher Frayling]] — editor
 - [[people/yvonne-freccero|Yvonne Freccero]] — translator
 - [[people/brian-friel|Brian Friel]] — author
 - [[people/laszlo-f-foldenyi|László F. Földényi]] — author
+- [[people/mark-foster-gage|Mark Foster Gage]] — editor
 - [[people/marina-galletti|Marina Galletti]] — editor
 - [[people/william-h-gass|William H. Gass]] — author
+- [[people/gerard-genette|Gérard Genette]] — author
 - [[people/arnold-geulincx|Arnold Geulincx]] — author
 - [[people/alison-gibbons|Alison Gibbons]] — editor
 - [[people/rene-girard|René Girard]] — author
 - [[people/jody-gladding|Jody Gladding]] — translator
+- [[people/loren-glass|Loren Glass]] — author
+- [[people/john-gledson|John Gledson]] — translator
 - [[people/klara-glowczewska|Klara Glowczewska]] — translator
+- [[people/johann-wolfgang-von-goethe|Johann Wolfgang von Goethe]] — author
+- [[people/kenneth-goldsmith|Kenneth Goldsmith]] — editor
 - [[people/e-h-gombrich|E. H. Gombrich]] — author
 - [[people/patrick-greaney|Patrick Greaney]] — translator
+- [[people/michael-greaney|Michael Greaney]] — author
 - [[people/martin-greenberg|Martin Greenberg]] — translator
 - [[people/patrick-gregory|Patrick Gregory]] — translator
 - [[people/william-l-grossman|William L. Grossman]] — translator
@@ -102,9 +134,11 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/ian-higgins|Ian Higgins]] — contributor
 - [[people/john-hodgson|John Hodgson]] — translator
 - [[people/richard-howard|Richard Howard]] — translator
+- [[people/xavier-de-maistre-intro-richard-howard|Xavier de Maistre; intro. Richard Howard]] — author
 - [[people/suzanne-p-hudson|Suzanne P. Hudson]] — author
 - [[people/andrew-hurley|Andrew Hurley]] — translator
 - [[people/tim-ingold|Tim Ingold]] — author
+- [[people/joao-almino-elizabeth-jackson|João Almino; Elizabeth Jackson]] — author
 - [[people/kent-johnson|Kent Johnson]] — contributor
 - [[people/francois-jullien|François Jullien]] — author
 - [[people/ismail-kadare|Ismail Kadare]] — author
@@ -113,10 +147,12 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/ryszard-kapuscinski|Ryszard Kapuściński]] — author
 - [[people/daniel-kehlmann|Daniel Kehlmann]] — contributor
 - [[people/yoshida-kenko|Yoshida Kenkō]] — author
+- [[people/edith-kern|Edith Kern]] — author
 - [[people/peter-kingsley|Peter Kingsley]] — author
 - [[people/heinrich-von-kleist|Heinrich von Kleist]] — author
 - [[people/vincent-kling|Vincent Kling]] — translator
 - [[people/adam-kotsko|Adam Kotsko]] — translator
+- [[people/blaise-pascal-tr-a-j-krailsheimer|Blaise Pascal; tr. A. J. Krailsheimer]] — author
 - [[people/markus-krajewski|Markus Krajewski]] — author
 - [[people/peter-krapp|Peter Krapp]] — translator
 - [[people/karl-kraus|Karl Kraus]] — author
@@ -131,11 +167,14 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/andre-leroi-gourhan|André Leroi-Gourhan]] — author
 - [[people/nikolai-leskov|Nikolai Leskov]] — author
 - [[people/edouard-leve|Édouard Levé]] — author
+- [[people/jane-e-lewin|Jane E. Lewin]] — translator
 - [[people/dagmar-c-g-lorenz|Dagmar C. G. Lorenz]] — editor
 - [[people/nathalie-leger|Nathalie Léger]] — editor
+- [[people/gerard-genette-tr-jane-e-lewin-foreword-richard-macksey|Gérard Genette; tr. Jane E. Lewin; foreword Richard Macksey]] — author
 - [[people/dale-maharidge|Dale Maharidge]] — author
 - [[people/catherine-malabou|Catherine Malabou]] — author
 - [[people/charlotte-mandell|Charlotte Mandell]] — translator
+- [[people/alberto-manguel|Alberto Manguel]] — author
 - [[people/ralph-manheim|Ralph Manheim]] — translator
 - [[people/paul-mattick|Paul Mattick]] — author
 - [[people/tom-mccarthy|Tom McCarthy]] — author
@@ -144,27 +183,38 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/henri-michaux|Henri Michaux]] — author
 - [[people/christopher-middleton|Christopher Middleton]] — translator
 - [[people/joseph-mitchell|Joseph Mitchell]] — author
+- [[people/massaud-moises|Massaud Moisés]] — author
 - [[people/w-montgomery|W. Montgomery]] — translator
 - [[people/franco-moretti|Franco Moretti]] — author
 - [[people/tosa-motokiyu|Tosa Motokiyu]] — translator
 - [[people/harryette-mullen|Harryette Mullen]] — author
 - [[people/ottilie-mulzet|Ottilie Mulzet]] — translator
 - [[people/iris-murdoch|Iris Murdoch]] — author
+- [[people/gerald-murnane|Gerald Murnane]] — author
+- [[people/eileen-myles|Eileen Myles]] — editor
 - [[people/vladimir-nabokov|Vladimir Nabokov]] — author
 - [[people/joachim-neugroschel|Joachim Neugroschel]] — translator
+- [[people/channa-newman|Channa Newman]] — translator
 - [[people/bran-nicol|Bran Nicol]] — author
 - [[people/andrej-nikolaidis|Andrej Nikolaidis]] — author
 - [[people/ojiu-norinaga|Ojiu Norinaga]] — translator
+- [[people/julia-novak|Julia Novak]] — editor
+- [[people/geoffrey-o-brien|Geoffrey O'Brien]] — editor
 - [[people/gananath-obeyesekere|Gananath Obeyesekere]] — author
 - [[people/m-b-parkes|M. B. Parkes]] — author
+- [[people/robin-patterson|Robin Patterson]] — author, translator
 - [[people/georges-perec|Georges Perec]] — author
 - [[people/renate-j-pillinger|Renate J. Pillinger]] — editor
 - [[people/jan-plug|Jan Plug]] — translator
 - [[people/michael-polanyi|Michael Polanyi]] — author
-- [[people/mark-polizzotti|Mark Polizzotti]] — translator
+- [[people/mark-polizzotti|Mark Polizzotti]] — author, translator
 - [[people/alessandro-portelli|Alessandro Portelli]] — author
+- [[people/gerald-prince|Gerald Prince]] — author
+- [[people/thomas-de-quincey|Thomas De Quincey]] — author
+- [[people/paul-rabinow|Paul Rabinow]] — author
 - [[people/scott-abbott-zarko-radakovic|Scott Abbott; Žarko Radaković]] — author
 - [[people/betty-radice|Betty Radice]] — translator
+- [[people/desiderius-erasmus-tr-betty-radice|Desiderius Erasmus; tr. Betty Radice]] — author
 - [[people/jacques-ranciere|Jacques Rancière]] — author
 - [[people/paul-reitter|Paul Reitter]] — contributor
 - [[people/edward-s-robinson|Edward S. Robinson]] — author
@@ -176,10 +226,17 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/john-ruskin|John Ruskin]] — author
 - [[people/marshall-sahlins|Marshall Sahlins]] — author
 - [[people/g-b-sansom|G. B. Sansom]] — translator
+- [[people/jean-paul-sartre|Jean-Paul Sartre]] — author
 - [[people/gershom-scholem|Gershom Scholem]] — author
+- [[people/franco-moretti-ed-chapter-by-roberto-schwarz|Franco Moretti (ed.); chapter by Roberto Schwarz]] — author
 - [[people/albert-schweitzer|Albert Schweitzer]] — author
+- [[people/r-l-scott-buccleuch|R. L. Scott-Buccleuch]] — translator
 - [[people/amartya-sen|Amartya Sen]] — contributor
+- [[people/fred-r-shapiro|Fred R. Shapiro]] — editor
+- [[people/alan-sheridan|Alan Sheridan]] — translator
 - [[people/richard-sieburth|Richard Sieburth]] — translator
+- [[people/filipe-carreira-da-silva|Filipe Carreira da Silva]] — author
+- [[people/enrique-pupo-walker-eds-chapters-by-thomas-e-skidmore|Enrique Pupo-Walker (eds.); chapters by Thomas E. Skidmore]] — author
 - [[people/gregory-starr|Gregory Starr]] — translator
 - [[people/george-steiner|George Steiner]] — author
 - [[people/carol-stewart|Carol Stewart]] — translator
@@ -190,6 +247,9 @@ Authors, editors, translators and contributors credited across the Triomnibus.
 - [[people/donald-s-taylor|Donald S. Taylor]] — author
 - [[people/gustave-thibon|Gustave Thibon]] — editor
 - [[people/edward-timms|Edward Timms]] — translator
+- [[people/eca-de-queiros-tr|Eça de Queirós; tr.]] — author
+- [[people/various|Various]] — author
+- [[people/monica-brito-vieira|Mónica Brito Vieira]] — author
 - [[people/enrique-vila-matas|Enrique Vila-Matas]] — author
 - [[people/graham-wallas|Graham Wallas]] — author
 - [[people/marina-warner|Marina Warner]] — contributor

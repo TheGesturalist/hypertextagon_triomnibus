@@ -171,7 +171,7 @@ His answer, a few lines later: “Fully linearized, the line is no longer the tr
 
 - **John Ruskin, *The Elements of Drawing*** (Project Gutenberg): the source of “draw every line but a straight one,” which Ingold quotes on p. 161. https://www.gutenberg.org/ebooks/30325
 
-- **Rosalind Krauss, “Grids” (1979)**, the “anti-developmental” grid Hudson leans on; ex-cerpted and discussed by Thomas Brett. https://brettworks.com/2017/11/20/theory-as-poetry-rosalind-krausss-grids-1979/
+- **Rosalind Krauss, “Grids” (1979)**, the “anti-developmental” grid Hudson leans on; excerpted and discussed by Thomas Brett. https://brettworks.com/2017/11/20/theory-as-poetry-rosalind-krausss-grids-1979/
 
 - **Monoskop on *Gesture and Speech***: editions in French, Spanish, Italian and English, with publication history. https://monoskop.org/log/?p=5540
 

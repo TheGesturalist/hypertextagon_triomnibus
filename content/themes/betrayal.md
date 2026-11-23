@@ -10,4 +10,5 @@ tags:
 
 ## Books
 
+- [[books/2269-the-book-of-emotions|The Book of Emotions]]
 - [[books/3587-lessons-of-the-masters|Lessons of the Masters]]

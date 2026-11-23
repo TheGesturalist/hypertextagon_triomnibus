@@ -20,7 +20,7 @@
       "Status": "Active",
       "Summary": "One author per week. Day 1: the author's own work. Days 2-6, through the library's full-text index: who quotes them, who argues with them, who translates or rewrites them, who uses them without credit (recorded as suspicion), and a second own work read in the light of the week. Day 7: the map of who cites whom on Johnny's own shelves.",
       "Procedure": "Full text in the Triomnibus repository at method/shadow_prompt_v0.3.md; identical to the daily scheduled task's instructions as switched on 2026-10-25 (night). v0.2 changed author selection to the queue; v0.3 added STEP 1c, the complete capture of every book mentioning the author into the Mentions table. Records: Sets (Method, Author_Week, Week_Day), Books, Shadow_Edges, Mentions, Author_Weeks.",
-      "Version": "0.3 (live from the run of 2026-10-26)",
+      "Version": "0.6 (live from the run of 2026-11-21). v0.6: selection rules written into the scheduled task — Author_Weeks 'Idea' = Johnny's wish list, never started by a run; day 7 proposes the next author from the Idea rows (note + draft Day_Plan) but only Johnny promotes it to Planned; Methods 'Active' = method in force, switched only by Johnny and only between weeks; a method runs only once it has a written Procedure; Candidates rows without a Calibre_ID are left alone.",
       "Started": 1792972800,
       "Ended": null,
       "Sources": "Calibre full-text index (12,819 formats indexed, 2026-10-25). Moretti, Network Theory, Plot Analysis (Calibre 5420) and Hage & Harary, Structural Models in Anthropology (9870) for the network idea.",
@@ -81,6 +81,146 @@
       "Ended": null,
       "Sources": "Warburg, Bilderatlas Mnemosyne: The Original (6173); Warburg Institute virtual exhibition (https://archive.warburg.sas.ac.uk/aby-warburg-bilderatlas-mnemosyne-virtual-exhibition); Ramsay, Reading Machines.",
       "Notes": ""
+    }
+  },
+  {
+    "id": 7,
+    "fields": {
+      "Name": "Pairs/Doubles/Doppelgangers",
+      "Status": "",
+      "Summary": "A 2 Week reading method that starts with an evaluation of the literature on the topic - framed from the perspective of a writer, not pure literary criticism.  Then a thorough investigation of the topic as it prepsents itself throughout the scribrarium.  Framed against the Triads readings to tie it to existing readings.",
+      "Procedure": "",
+      "Version": "",
+      "Started": null,
+      "Ended": null,
+      "Sources": "",
+      "Notes": "Perhaps among the best of these, and the triads, we can begin a numerology perspective."
+    }
+  },
+  {
+    "id": 8,
+    "fields": {
+      "Name": "The Bildungsroman",
+      "Status": "",
+      "Summary": "Bildungsroman from multiple angles.  Particularly interested in looking outside of the standard Western Canon",
+      "Procedure": "",
+      "Version": "",
+      "Started": null,
+      "Ended": null,
+      "Sources": "",
+      "Notes": ""
+    }
+  },
+  {
+    "id": 9,
+    "fields": {
+      "Name": "Reading by Country/Region",
+      "Status": "",
+      "Summary": "",
+      "Procedure": "Each week dedicated to a new country or region of the world.  To plan for this I would like to have a preliminary discussion about the big picture approach to the topic.",
+      "Version": "",
+      "Started": null,
+      "Ended": null,
+      "Sources": "",
+      "Notes": ""
+    }
+  },
+  {
+    "id": 10,
+    "fields": {
+      "Name": "Applying Freud",
+      "Status": "",
+      "Summary": "",
+      "Procedure": "",
+      "Version": "",
+      "Started": null,
+      "Ended": null,
+      "Sources": "",
+      "Notes": ""
+    }
+  },
+  {
+    "id": 11,
+    "fields": {
+      "Name": "Applying Marx",
+      "Status": "",
+      "Summary": "",
+      "Procedure": "",
+      "Version": "",
+      "Started": null,
+      "Ended": null,
+      "Sources": "",
+      "Notes": ""
+    }
+  },
+  {
+    "id": 12,
+    "fields": {
+      "Name": "Literary Cartographies",
+      "Status": "",
+      "Summary": "",
+      "Procedure": "",
+      "Version": "",
+      "Started": null,
+      "Ended": null,
+      "Sources": "",
+      "Notes": ""
+    }
+  },
+  {
+    "id": 13,
+    "fields": {
+      "Name": "Library of America: Crime Novels",
+      "Status": "",
+      "Summary": "",
+      "Procedure": "",
+      "Version": "",
+      "Started": null,
+      "Ended": null,
+      "Sources": "",
+      "Notes": ""
+    }
+  },
+  {
+    "id": 14,
+    "fields": {
+      "Name": "Black Mountain Poets",
+      "Status": "",
+      "Summary": "Organising principle (a school, not a single author). Moved from Candidates 2026-11-21 at Johnny's request. Procedure not yet designed.",
+      "Procedure": "",
+      "Version": "",
+      "Started": null,
+      "Ended": null,
+      "Sources": "In library: 4649 Understanding the Black Mountain Poets; 6361 Starting at Zero: Black Mountain College 1933–57.",
+      "Notes": "Added from Johnny's list; method to be discussed before use. 2026-11-21: now scheduled as a subject in Author_Weeks row 11 (Kind School, Method row 16). This row is kept as the record of the idea."
+    }
+  },
+  {
+    "id": 15,
+    "fields": {
+      "Name": "New York School Poets",
+      "Status": "",
+      "Summary": "Organising principle (a school, not a single author). Moved from Candidates 2026-11-21 at Johnny's request. Procedure not yet designed.",
+      "Procedure": "",
+      "Version": "",
+      "Started": null,
+      "Ended": null,
+      "Sources": "In library: 12890 Encyclopedia of the New York School Poets; 12847 The New York School Poets and the Neo-Avant-Garde; 8914 Women, the New York School, and Other True Abstractions; 11673 The New York Schools of Music and the Visual Arts.",
+      "Notes": "Added from Johnny's list; method to be discussed before use. 2026-11-21: now scheduled as a subject in Author_Weeks row 12 (Kind School, Method row 16). This row is kept as the record of the idea."
+    }
+  },
+  {
+    "id": 16,
+    "fields": {
+      "Name": "A school: precursors to afterlives",
+      "Status": "",
+      "Summary": "One school, movement or group per cycle, read in time order from its precursors to those it influenced. Each day adds one facet to a working definition of what makes this a movement rather than a list of names. The last day draws the lineage and states the definition, facet by facet, with the places where it doesn't hold.",
+      "Procedure": "One school per 7-day cycle, in time order from precursors to those it influenced. Subjects are Author_Weeks rows with Kind 'School' and Method = this row (currently 11 Black Mountain Poets, 12 New York School Poets); they share the Idea → Planned queue with the authors. Each day ends with one sentence, the day's FACET (Sets.Facet); day 7 assembles them.\nDay 1 — Precursors. Two lineages kept distinct: CLAIMED (ancestors the members themselves name, from their own texts) and ASSIGNED (ancestors the library's other books attach to the school, by full-text search). Read one precursor text the school cites. Facet: lineage claimed vs. lineage assigned, and the gap. Day 1 also runs the Mentions capture for the school's name and its core members, and records day-7 search terms.\nDay 2 — The founding statement: manifesto, essay, letter or anthology preface (e.g. Olson, 'Projective Verse'; O'Hara, 'Personism'). Facet: the programme in its own words.\nDay 3 — Place and apparatus: the college, city, magazine, press, gallery or anthology that held it together. Facet: the infrastructure the movement needed.\nDay 4 — Membership: who cites, dedicates to, collaborates with or reviews whom inside the group; who sits at the margins (associates, students, women often written out). Facet: where the boundary is drawn, and by whom.\nDay 5 — Opponents and neighbours: rival schools, hostile critics, the anthology wars. Facet: definition by opposition.\nDay 6 — Naming and canon: who coined the label, when, and how handbooks, encyclopedias and syllabi fixed it. Facet: the name as a later act.\nDay 7 — Afterlives and the map. Heirs, again two lists kept distinct: DECLARED (later writers who name the school as theirs) and SUSPECTED (books that use its terms or procedures without naming it, recorded as suspicion with evidence). Then the lineage graph (precursors → members → heirs, with rivals and the margins) and a closing essay: what constitutes this movement, facet by facet, and where each facet fails.\nRecords: Sets (with Facet), Books, Mentions, Shadow_Edges (relations: Precursor of (claimed/assigned), Founding statement, Published by / gathered in, Member of, At the margin of, Opposes, Names/canonises, Heir of (declared/suspected), plus the shadow relations). Same reading rules, reading notes, write-up and delivery as the shadow method.",
+      "Version": "0.2 (2026-11-21): decisions taken with Johnny; run instructions written into the daily scheduled task (v0.7). Not live until Johnny sets Status 'Active'.",
+      "Started": null,
+      "Ended": null,
+      "Sources": "Johnny's concept, 2026-11-21: 'read from the precursors through to the post-influenced — each day should contribute toward a nuanced and multifaceted idea of what constitutes a movement/school'. Library: 4649, 6361 (Black Mountain); 12890, 12847, 8914, 11673 (New York School).",
+      "Notes": "Draft only. The routine will not run it until it has a final Procedure, run instructions, and Johnny sets it Active."
     }
   }
 ]

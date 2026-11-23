@@ -227,4 +227,4 @@ own” is true of the bruises and the thigh; it is not true of “A construct.�
 ---
 
 Previous: [[shadows/2026-11-03-shadow-kathy-acker-day-2-the-room-no-one-else-want|Shadow — Kathy Acker, day 2: The Room No One Else Wants]]  
-Next: —
+Next: [[shadows/2026-11-05-shadow-kathy-acker-day-4-the-sentence-was-sartre-s|Shadow — Kathy Acker, day 4: The Sentence Was Sartre's]]

@@ -1,0 +1,10 @@
+---
+title: "Rachel Douglas"
+tags:
+  - person
+  - role/author
+---
+
+## As author
+
+- [[books/12448-franketienne-and-rewriting-a-work-in-progress|Frankétienne and Rewriting: A Work in Progress]] — in [[shadows/2026-11-17-shadow-gerard-genette-day-2-according-to-riffaterr|Shadow — Gérard Genette, day 2: According to Riffaterre]]

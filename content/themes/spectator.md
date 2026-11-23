@@ -12,5 +12,6 @@ tags:
 
 ## Books
 
+- [[books/1913-unconsolable-contemporary-observing-gerhard-richte|Unconsolable Contemporary: Observing Gerhard Richter]]
 - [[books/4214-jottings-under-lamplight|Jottings Under Lamplight]]
 - [[books/8067-ethics|Ethics]]

@@ -4,8 +4,8 @@
     "fields": {
       "Author": "Kathy Acker",
       "Start": 1793577600,
-      "Status": "In progress",
-      "Closing_Summary": ""
+      "Status": "Complete",
+      "Closing_Summary": "Week complete 2026-11-08 (days 6 and 7 run together as a weekend edition; 7 Nov missed). 7 sets (40–46; day 6 = 45, day 7 = 46). Shadow_Edges 29–57 (29): Quotes 11, Rewrites 10, Argues with 4, Edits/introduces 2, Uses without credit (suspected) 2; 12 outward, 17 inward. Hub Great Expectations (1178): 12 edges (7 out, 5 in); Blood and Guts (10951) 9 (3 out, 6 in); My Death My Life (1176) 5; Portrait (1177) 1. Mentions 265 rows (261 non-own); 9 became edges (3.4%); 2 edges from books that never name her (Armand 13051, 14221).\n\nFindings: (1) Translation: of 12 outward sources, 5 reach her through English translators (Cosman's Sartre 14142, Zohn's Benjamin 1200, Steegmuller's Flaubert 5751, an English Colette 3267, a non-Fox Guyotat 4776) and 1 through her own crib (Propertius, Loeb Reader 5935); no translator is named in any of her four library books. On these shelves plagiarism becomes a question of translation. (2) Smallest unit at every remove: her changes (eighty→sixty, Pip→Peter, badly→poorly, was→were), her quoters' drift, her editors' eye-skip, Armand's dropped full stop, her defenders' errors (Jenny, right wrist). Her method can't be told apart from what copying does anyway. (3) Names and sentences come apart: GE/MDML cut names and keep sentences; BG keeps names (Hawthorne, Genet, Propertius, Shakespeare) and loses sentences; misattributions (McCarthy's Flaubert, Mr Linker's Hamlet) sit where they meet. (4) No dissent in its own voice; objections survive only inside her defenders. Limits: Empire, Don Quixote, Pussy not in catalogue; Thief's Journal (1791) has no file; BG coda's nested-box tale unchecked; FTS timeouts. Graph and essay: resurfacing-2026-11-08.pdf. Next: Machado de Assis (row 3, Queue 6, added at Johnny's request)."
     }
   },
   {
@@ -15,6 +15,96 @@
       "Start": 1792972800,
       "Status": "Complete",
       "Closing_Summary": "Week complete 2026-11-01 (7 days, 7 sets: Sets 33–39). Shadow_Edges 1–27 from 15 citing books (4 Canetti's own): Quotes 12, Argues with 5, Edits/introduces 4, Uses without credit (suspected) 2, Mentions 2, Translates 1, Rewrites 1. Hub: Crowds and Power (14938), 9 arrows in; Torch (421) and Auto-da-Fé (14962) 4 each; Conscience of Words (413) 3. Mentions: 343 rows (330 non-own); 9 of the 330 became edges (2.7%); 13 rows Promoted; 2 edges (Girard 8264, Abbott 6002) from books that never name Canetti; Kafka's Other Trial (3246) has no text layer and is invisible to the index.\n\nFindings: (1) The sentence travels, the concept does not: quotations mostly verbatim (drift by cuts in Carey, through French in Malabou); of 15 day-1 coinages only 'double crowd' appears without his name (Girard, Job), and Girard changes it from two crowds in space to one crowd in time; CP's Epilogue ('double crowds ... East and West') confirms Canetti's sense stays spatial. (2) The arguments (Carey: incoherent ambivalence; Malabou: the most organised mass) are about coherence, and Auto-da-Fé already splits the ambivalence between brothers and shows a crowd cheated of its victim, nearer Girard than the 1960 theory. No critic in the library argues with the novel. (3) Translation is where meaning moves: Urteil as opinion (Kresh) / verdict (Middleton) / judgment (Corngold); Malabou via French; Auto-da-Fé's EPUB omits Wedgwood. (4) Canetti is his own most frequent commentator: 8 of 27 edges begin in his books ('his own tribunal'). Limits: 321 of 330 non-own mentioning books produced no edge; FTS timeouts on days 1, 2, 5 make the uncredited-use search incomplete. Graph and essay: resurfacing-2026-11-01.pdf. Next by the queue: Kathy Acker (row 1, Queue 5, the only Planned row); nothing added."
+    }
+  },
+  {
+    "id": 3,
+    "fields": {
+      "Author": "Machado de Assis",
+      "Start": 1794182400,
+      "Status": "Complete",
+      "Closing_Summary": "Week complete 2026-11-15 (7 days, 7 sets: 47–53). Shadow_Edges 58–94 (37): Quotes 9, Argues with 6, Mentions 6, Translates 5, Edits/introduces 4, Uses without credit (suspected) 4, Rewrites 3; 9 outward from Machado's books, 23 inward, 5 between intermediaries. Hub Brás Cubas 17 (11 in, 6 out); O alienista 5; Machado as author/critic 5; Dom Casmurro 4; Grossman's Psychiatrist (4753) 4. Mentions 152 rows (143 non-own); 19 rows promoted = 17 distinct titles (13.3%; Canetti 2.7%, Acker 3.4%; high because the footprint is small); 3 edges from books that never name him (Prince 2975, Almino 2269, Brooke-Rose 721).\n\nFindings: (1) A translator's Machado: ≥10 of 37 edges pass through Grossman (Epitaph, not held; The Psychiatrist, held twice as 4753 and 1138); the only complete English Brás Cubas held (JC&P 2020) is quoted by no one; day 7's Genette (692) quotes through Ellis 1955. (2) The cut falls at the turn where a text answers itself: Booth's ellipsis, Prince, Jaques without Rosalind, Scott-Buccleuch ch. 98 and ch. 73, Grossman's ending. (3) Name kept, sentence moved — by his quoters and by Machado himself (Pascal, Erasmus, Shakespeare); cf. Canetti (sentence travels, concept does not) and Acker (names and sentences come apart). Uncredited use: only a dog's name, a translator's title, a relayed epigraph. (4) The Brazil-or-world quarrel is settled by the English editions against Brazil (Alencar cut, Othello in English, Manhattan, dollars). (5) The narratologists (Booth, Prince, Genette) take him at the threshold. Variant: 'Lamb' in 1881 'Ao leitor', absent in Ellis 1955 and JC&P 2020 (3rd ed.); date of change not fixable in library. Limits: Epitaph, Rabassa, Thomson-DeVeaux, Caldwell and the 3rd-ed. Portuguese not held; substring scans excluded books containing 'machado'; Memorial de Ayres, Esau and Jacob unread. Graph and essay: resurfacing-2026-11-15.pdf (graph also resurfacing-2026-11-15-graph.png). Next proposed: Gérard Genette (row added, Queue 7)."
+    }
+  },
+  {
+    "id": 4,
+    "fields": {
+      "Author": "Gérard Genette",
+      "Start": 1794787200,
+      "Status": "Complete",
+      "Closing_Summary": "Week complete 2026-11-22 (days 1–7 run on consecutive days, 16–22 Nov). 7 sets (54–60; day 7 = 60). Shadow_Edges 95–132 (38): Quotes 17, Argues with 5, Translates 4, Edits/introduces 4, Uses without credit (suspected) 3, Rewrites 3, Mentions 2; 31 inward, 5 outward (Borges ×3, Lautréamont, De Quincey), 2 between his own books (129, 131). By node: Palimpsests (incl. Prince Foreword) in 13 / out 4; Paratexts 8/1; Narrative Discourse 7/1; Figures I / 'Proust Palimpsest' 3/1; Fiction et diction + oral remark 2/0. Mentions 753 (750 day 1 + 3 day 5), 6 own, 12 promoted = 1.6% of 747 non-own (Machado 13.3%, Acker 3.4%, Canetti 2.7%); Glass 12079 an edge without any 'genette'. FINDINGS by day: (1) Palimpsests theorises only declared derivation, files undeclared borrowing under intertextuality; (2) quoters keep his words and move the speaker (Allen cuts 'according to Riffaterre'); (3) the arguments are about play (Bell-Villada; the Oulipo via Levin Becker, Andrews; Doležel); (4) three English Genettes, three translators' contracts (Lewin 'silently'; author-added passages in Paratexts; Appendix with approval); (5) null for sentences, the apparatus travels, credit misspelt past search ('Gerard Ginette'); (6) Narrative Discourse already names the dropped relay (pseudo-diegetic) and gives infidelity to the reader; (7) the palimpsest has a source he stopped naming: 1961 'Proust Palimpsest' (6534) credits Baudelaire's De Quincey (De Quincey unnamed, n. 59), 1966 calls it personal, 1982 'the old analogy' credited to Amossy & Rosen and Borges, Figures I and De Quincey absent from the English index (edge 131; index-based). ESSAY: the shelves' Genette is the second-degree Genette, not the narratologist; his readers practise what his theory sets aside; he did it first to himself; the English Genette is translated, introduced and partly co-written (three introducers set him beside Derrida); a footprint is a claim about spelling. Graph: resurfacing-2026-11-22-shadow.png. NEXT: proposed Derrida (row 9, Idea; runner-up Sontag); waits for Johnny to promote."
+    }
+  },
+  {
+    "id": 5,
+    "fields": {
+      "Author": "Mathias Énard",
+      "Start": null,
+      "Status": "Idea",
+      "Closing_Summary": ""
+    }
+  },
+  {
+    "id": 6,
+    "fields": {
+      "Author": "Susan Sontag",
+      "Start": null,
+      "Status": "Idea",
+      "Closing_Summary": ""
+    }
+  },
+  {
+    "id": 7,
+    "fields": {
+      "Author": "Pier Paolo Pasolini",
+      "Start": null,
+      "Status": "Idea",
+      "Closing_Summary": ""
+    }
+  },
+  {
+    "id": 8,
+    "fields": {
+      "Author": "Peter Carey",
+      "Start": null,
+      "Status": "Idea",
+      "Closing_Summary": ""
+    }
+  },
+  {
+    "id": 9,
+    "fields": {
+      "Author": "Jacques Derrida",
+      "Start": null,
+      "Status": "Idea",
+      "Closing_Summary": ""
+    }
+  },
+  {
+    "id": 10,
+    "fields": {
+      "Author": "Stefan Zweig",
+      "Start": null,
+      "Status": "Idea",
+      "Closing_Summary": ""
+    }
+  },
+  {
+    "id": 11,
+    "fields": {
+      "Author": "Black Mountain Poets",
+      "Start": null,
+      "Status": "Idea",
+      "Closing_Summary": ""
+    }
+  },
+  {
+    "id": 12,
+    "fields": {
+      "Author": "New York School Poets",
+      "Start": null,
+      "Status": "Idea",
+      "Closing_Summary": ""
     }
   }
 ]
